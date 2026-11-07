@@ -128,7 +128,7 @@ def apply_feedback(d, model, tok, items, delta=None, qt=None):
     preds, _, ex = core.run(model, tok, texts, want_hidden=True)
     ids = {y: core.label_token(tok, y) for y in set(labels)}
     rows = {y: model.lm_head.weight.data[ids[y]].float().cpu() for y in ids}
-    new = core.plan_edit(ex["h"], ex["top"], preds, labels, rows, stats, delta, qt)
+    new = core.plan_edit(ex["h"], ex["top"], preds, labels, rows, stats, delta, qt, cfg.get("contrast", 0.0))
     meta = json.load(open(f"{d}/quant.json")); bits = meta["bits"]["lm_head.weight"]
     t = load_file(f"{d}/lm_head.safetensors"); H = model.config.hidden_size; per = H * bits // 8
     for y, w in new.items():

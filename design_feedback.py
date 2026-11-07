@@ -33,10 +33,10 @@ def simulate(new_rows, name):
     return [a if a is not None else p for a, p in zip(arg, pred)]
 
 
-def edit(idx, labels, delta, qt, lam):
+def edit(idx, labels, delta, qt, lam, contrast=0.0):
     stats = STATS[lam]
     Hp, tp, pp = S["teach_pool"]["h"][idx], S["teach_pool"]["top"][idx], [P["teach_pool"]["pred"][i] for i in idx]
-    new = core.plan_edit(Hp, tp, pp, labels, {y: rows0[y] for y in set(labels)}, stats, delta, qt)
+    new = core.plan_edit(Hp, tp, pp, labels, {y: rows0[y] for y in set(labels)}, stats, delta, qt, contrast)
     out = {}
     for y, w in new.items():
         cd, s, z = core.requant_row(w)
@@ -53,17 +53,17 @@ res = []
 rnd_labels = labels[:]; random.Random(0).shuffle(rnd_labels)
 acc = lambda pr: sum(p == x["label"] for p, x in zip(pr, td)) / len(td)
 for lam in STATS:
+  for contrast in [0.0, 0.5, 1.0]:
     for delta in [1.0, 4.0]:
         for qt in [0.5, 0.75, 1.0]:
-            nr = edit(idx, labels, delta, qt, lam)
+            nr = edit(idx, labels, delta, qt, lam, contrast)
             t_pred = simulate(nr, "teach_dev"); d_pred = simulate(nr, "dev")
-            s_pred = simulate(edit(idx, rnd_labels, delta, qt, lam), "teach_dev")
-            res.append({"lam": lam, "delta": delta, "quantile": qt, "teach_dev_acc": acc(t_pred), "shuffled_teach_dev_acc": acc(s_pred),
+            s_pred = simulate(edit(idx, rnd_labels, delta, qt, lam, contrast), "teach_dev")
+            res.append({"lam": lam, "contrast": contrast, "delta": delta, "quantile": qt, "teach_dev_acc": acc(t_pred), "shuffled_teach_dev_acc": acc(s_pred),
                         "dev_changed": sum(a != b for a, b in zip(d_pred, small_dev)),
                         "dev_base_correct_lost": sum(b == x["label"] and a != x["label"] and s == x["label"]
                                                      for a, s, b, x in zip(d_pred, small_dev, base_dev, dv))})
-            print(res[-1])
 ok = [r for r in res if r["dev_changed"] <= 0.001 * len(dv)]
 pick = max(ok, key=lambda r: (r["teach_dev_acc"] - r["shuffled_teach_dev_acc"], -r["dev_changed"]))
 print("PICK", pick, "feedback items", len(idx))
-json.dump({"lam": pick["lam"], "delta": pick["delta"], "quantile": pick["quantile"], "grid": res}, open(f"{W}_feedback_design.json", "w"), indent=1)
+json.dump({"lam": pick["lam"], "contrast": pick["contrast"], "delta": pick["delta"], "quantile": pick["quantile"], "grid": res}, open(f"{W}_feedback_design.json", "w"), indent=1)

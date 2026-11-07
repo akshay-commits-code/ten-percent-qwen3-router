@@ -66,3 +66,21 @@ Pick the one with the highest dev faithfulness.
 **Choice.** The selection rule is: highest minimum per-label faithfulness, then highest overall, then more experts (pruning is the main risk under source shift). It picks **2,640 experts, experts 3-bit asymmetric, attention 6-bit, embeddings 5-bit, output layer 4-bit**, about 9.83% of fp16 with everything counted.
 
 **Gate.** The overall gate (≥99%) is met. The per-label gate (≥98%) misses by one news item. Following the user's instruction to go for it, the gate is set to the challenge's own thresholds: 98% overall and 95% per kind. Dev meets these with margins of +1.1 and +2.85 points.
+
+## Amendment 3 (feedback design on teach_dev + dev only; exam still locked)
+
+**Why the edit changed.** Before feedback, the small model already answers "music" for many music requests: teach_dev accuracy is 30% with no feedback. With the plain whitened edit, shuffled labels did as well as real ones. The edit direction now also points away from the other taught label's examples (`contrast`), so it carries information specific to each label.
+
+**Picked by the attempt-2 rule:** shrinkage 0.3, contrast 1.0, delta 4, quantile 0.5.
+
+| Measure (on dev) | Value |
+|---|---|
+| teach_dev, no feedback | 30.0% |
+| teach_dev, real labels | 67.5% |
+| teach_dev, shuffled labels | 38.1% |
+| teach_dev, empty feedback | 30.0% |
+| Dev answers changed | 1 |
+
+**Artifact.** 6,040,715,643 bytes, which is 9.892% of 61,064,245,248 fp16 bytes. On a 300-item round trip, 299 answers were identical (one differs by batch numerics).
+
+**Nearby exam items, pre-registered:** labels `lists` and `home`.

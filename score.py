@@ -28,7 +28,7 @@ def kinds(fn, *a):
 
 
 B, S, F = R["base_exam"], R["small_exam"], R["fb_real_exam"]
-near = set(task["nearby_intents"])
+NEAR_LABELS = {"lists", "home"}  # pre-registered: shopping lists ~ recipes, smart speakers ~ music
 res = {
     "size": {"base_fp16_bytes": FP16, "artifact_bytes": R["artifact_bytes"], "pct": round(100 * R["artifact_bytes"] / FP16, 3),
              "after_feedback_bytes": R["fb_real_bytes"]},
@@ -36,12 +36,13 @@ res = {
     "accuracy": {"base": kinds(acc, B, exam), "small": kinds(acc, S, exam), "small_after_feedback": kinds(acc, F, exam)},
     "faithfulness_small": kinds(faith, B, S, exam),
     "faithfulness_after_feedback": kinds(faith, B, F, exam),
-    "nearby_items_after_feedback": faith(B, F, exam, lambda x: x["intent"] in near),
-    "nearby_changed_by_feedback": sum(S[i] != F[i] for i, x in enumerate(exam) if x["intent"] in near),
+    "nearby_items_after_feedback": faith(B, F, exam, lambda x: x["label"] in NEAR_LABELS),
+    "nearby_changed_by_feedback": sum(S[i] != F[i] for i, x in enumerate(exam) if x["label"] in NEAR_LABELS),
     "exam_answers_changed_by_feedback": sum(a != b for a, b in zip(S, F)),
     "teach_locked": {v: {"all": acc(R[k], teach)[0],
-                         "banking77": acc(R[k], teach, lambda x: x["source"] == "banking77")[0],
-                         "clinc150_report_fraud": acc(R[k], teach, lambda x: x["source"] == "clinc150")[0]}
+                         "massive": acc(R[k], teach, lambda x: x["source"] == "massive")[0],
+                         "clinc150": acc(R[k], teach, lambda x: x["source"] == "clinc150")[0],
+                         "recipe": acc(R[k], teach, lambda x: x["label"] == "recipe")[0], "music": acc(R[k], teach, lambda x: x["label"] == "music")[0]}
                      for v, k in [("base", "base_teach"), ("small_before_feedback", "small_teach"), ("real_feedback", "fb_real_teach"),
                                   ("shuffled_labels", "fb_shuffled_teach"), ("empty_feedback", "fb_empty_teach")]},
     "feedback_items": len(R["feedback_items"]), "feedback_logs": {v: R[f"fb_{v}_log"] for v in ("real", "shuffled", "empty")},

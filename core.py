@@ -264,7 +264,7 @@ def whiten(st, u):
     return V @ (st["_inv_top"].float() * a) + st["_inv_rest"].float() * (u - V @ a)
 
 
-def plan_edit(H, top, preds, labels, rows, stats, delta, qt):
+def plan_edit(H, top, preds, labels, rows, stats, delta, qt, contrast=0.0):
     """Closed form, no optimisation. For each taught label y (only items the model got wrong):
        u = unit( Cinv @ (mean h of those items - mean stats of what the model predicted for them) )   (whitened)
        alpha = the qt-quantile over those items of the smallest step along u that puts y's logit `delta` above the
@@ -277,6 +277,9 @@ def plan_edit(H, top, preds, labels, rows, stats, delta, qt):
         if not I:
             continue
         ref = torch.stack([stats.get(preds[i], stats["_all"]).float() for i in I]).mean(0)
+        O = [i for i in range(len(labels)) if labels[i] != y]
+        if contrast > 0 and O:  # also point away from the other taught labels' examples
+            ref = (1 - contrast) * ref + contrast * H[O].mean(0)
         u = H[I].mean(0) - ref
         u = whiten(stats, u) if Ci else u
         u = u / u.norm()
