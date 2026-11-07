@@ -1,5 +1,7 @@
 # The 10% challenge: Qwen3-30B-A3B at 9.89% of its fp16 size, faithful on a locked exam, learning from 24 labels
 
+**Artifact (6.04 GB):** https://huggingface.co/akshay-commits-code/qwen3-30b-a3b-10pct-voice-router
+
 **Task: voice-assistant request routing.** A request is sent to the skill that should handle it: weather, email, transport, lists, calendar, home (smart-home devices) or news. The model's real output is the skill name, produced by free greedy generation.
 
 **Base model:** `Qwen/Qwen3-30B-A3B-Instruct-2507` (Apache-2.0). It has 30.5B parameters and 61,064,245,248 bytes at bf16/fp16.
@@ -73,3 +75,8 @@ modal run modal_final.py::final && python score.py               # the single ex
 python answer.py   <artifact_dir> messages.txt        # one skill name per line
 python feedback.py <artifact_dir> annotations.jsonl   # teaches; edits the artifact in place
 ```
+
+## Data and licences
+
+- Base model: Qwen3-30B-A3B-Instruct-2507, Apache-2.0.
+- Task data: Amazon MASSIVE en-US (CC BY 4.0) and CLINC150 (CC BY 3.0). The subsets used are in `data/`.
