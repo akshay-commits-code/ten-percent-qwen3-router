@@ -1,0 +1,321 @@
+{
+ "size": {
+  "base_fp16_bytes": 61064245248,
+  "artifact_bytes": 6040715980,
+  "pct": 9.892,
+  "after_feedback_bytes": 6040715980
+ },
+ "exam_items": 2910,
+ "exam_per_kind": {
+  "lists": 458,
+  "transport": 554,
+  "news": 330,
+  "calendar": 522,
+  "email": 330,
+  "home": 362,
+  "weather": 354,
+  "massive": 2310,
+  "clinc150": 600
+ },
+ "accuracy": {
+  "base": {
+   "overall": [
+    95.98,
+    2910
+   ],
+   "label=calendar": [
+    90.8,
+    522
+   ],
+   "label=email": [
+    96.67,
+    330
+   ],
+   "label=home": [
+    99.17,
+    362
+   ],
+   "label=lists": [
+    94.1,
+    458
+   ],
+   "label=news": [
+    93.94,
+    330
+   ],
+   "label=transport": [
+    99.82,
+    554
+   ],
+   "label=weather": [
+    98.02,
+    354
+   ],
+   "source=clinc150": [
+    95.0,
+    600
+   ],
+   "source=massive": [
+    96.23,
+    2310
+   ]
+  },
+  "small": {
+   "overall": [
+    96.12,
+    2910
+   ],
+   "label=calendar": [
+    90.23,
+    522
+   ],
+   "label=email": [
+    96.67,
+    330
+   ],
+   "label=home": [
+    99.17,
+    362
+   ],
+   "label=lists": [
+    95.2,
+    458
+   ],
+   "label=news": [
+    95.15,
+    330
+   ],
+   "label=transport": [
+    100.0,
+    554
+   ],
+   "label=weather": [
+    97.18,
+    354
+   ],
+   "source=clinc150": [
+    94.5,
+    600
+   ],
+   "source=massive": [
+    96.54,
+    2310
+   ]
+  },
+  "small_after_feedback": {
+   "overall": [
+    96.08,
+    2910
+   ],
+   "label=calendar": [
+    90.23,
+    522
+   ],
+   "label=email": [
+    96.67,
+    330
+   ],
+   "label=home": [
+    99.17,
+    362
+   ],
+   "label=lists": [
+    94.98,
+    458
+   ],
+   "label=news": [
+    95.15,
+    330
+   ],
+   "label=transport": [
+    100.0,
+    554
+   ],
+   "label=weather": [
+    97.18,
+    354
+   ],
+   "source=clinc150": [
+    94.5,
+    600
+   ],
+   "source=massive": [
+    96.49,
+    2310
+   ]
+  }
+ },
+ "faithfulness_small": {
+  "overall": {
+   "kept": 2775,
+   "base_correct": 2793,
+   "pct": 99.36
+  },
+  "label=calendar": {
+   "kept": 468,
+   "base_correct": 474,
+   "pct": 98.73
+  },
+  "label=email": {
+   "kept": 317,
+   "base_correct": 319,
+   "pct": 99.37
+  },
+  "label=home": {
+   "kept": 359,
+   "base_correct": 359,
+   "pct": 100.0
+  },
+  "label=lists": {
+   "kept": 428,
+   "base_correct": 431,
+   "pct": 99.3
+  },
+  "label=news": {
+   "kept": 308,
+   "base_correct": 310,
+   "pct": 99.35
+  },
+  "label=transport": {
+   "kept": 553,
+   "base_correct": 553,
+   "pct": 100.0
+  },
+  "label=weather": {
+   "kept": 342,
+   "base_correct": 347,
+   "pct": 98.56
+  },
+  "source=clinc150": {
+   "kept": 565,
+   "base_correct": 570,
+   "pct": 99.12
+  },
+  "source=massive": {
+   "kept": 2210,
+   "base_correct": 2223,
+   "pct": 99.42
+  }
+ },
+ "faithfulness_after_feedback": {
+  "overall": {
+   "kept": 2775,
+   "base_correct": 2793,
+   "pct": 99.36
+  },
+  "label=calendar": {
+   "kept": 468,
+   "base_correct": 474,
+   "pct": 98.73
+  },
+  "label=email": {
+   "kept": 317,
+   "base_correct": 319,
+   "pct": 99.37
+  },
+  "label=home": {
+   "kept": 359,
+   "base_correct": 359,
+   "pct": 100.0
+  },
+  "label=lists": {
+   "kept": 428,
+   "base_correct": 431,
+   "pct": 99.3
+  },
+  "label=news": {
+   "kept": 308,
+   "base_correct": 310,
+   "pct": 99.35
+  },
+  "label=transport": {
+   "kept": 553,
+   "base_correct": 553,
+   "pct": 100.0
+  },
+  "label=weather": {
+   "kept": 342,
+   "base_correct": 347,
+   "pct": 98.56
+  },
+  "source=clinc150": {
+   "kept": 565,
+   "base_correct": 570,
+   "pct": 99.12
+  },
+  "source=massive": {
+   "kept": 2210,
+   "base_correct": 2223,
+   "pct": 99.42
+  }
+ },
+ "nearby_items_after_feedback": {
+  "kept": 787,
+  "base_correct": 790,
+  "pct": 99.62
+ },
+ "nearby_changed_by_feedback": 1,
+ "exam_answers_changed_by_feedback": 1,
+ "teach_locked": {
+  "base": {
+   "all": 10.77,
+   "massive": 17.5,
+   "clinc150": 0.0,
+   "recipe": 0.0,
+   "music": 35.0
+  },
+  "small_before_feedback": {
+   "all": 18.97,
+   "massive": 30.83,
+   "clinc150": 0.0,
+   "recipe": 0.0,
+   "music": 61.67
+  },
+  "real_feedback": {
+   "all": 64.87,
+   "massive": 71.25,
+   "clinc150": 54.67,
+   "recipe": 61.11,
+   "music": 73.33
+  },
+  "shuffled_labels": {
+   "all": 29.23,
+   "massive": 45.83,
+   "clinc150": 2.67,
+   "recipe": 2.96,
+   "music": 88.33
+  },
+  "empty_feedback": {
+   "all": 18.97,
+   "massive": 30.83,
+   "clinc150": 0.0,
+   "recipe": 0.0,
+   "music": 61.67
+  }
+ },
+ "feedback_items": 24,
+ "feedback_logs": {
+  "real": {
+   "edited_labels": [
+    "music",
+    "recipe"
+   ],
+   "mistakes_used": 24
+  },
+  "shuffled": {
+   "edited_labels": [
+    "music",
+    "recipe"
+   ],
+   "mistakes_used": 24
+  },
+  "empty": {
+   "edited_labels": [],
+   "mistakes_used": 0
+  }
+ },
+ "run": {
+  "started": "2026-11-07T15:28:31Z",
+  "finished": "2026-11-07T15:44:00Z"
+ }
+}
