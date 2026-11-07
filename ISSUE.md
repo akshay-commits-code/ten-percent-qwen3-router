@@ -1,6 +1,6 @@
 **Title:** Proof: Qwen3-30B-A3B at 9.892% of fp16, keeps 99.36% of base-correct items on a 2,910-item locked exam, learns two new skills from 24 labels
 
-**Repo:** <GITHUB_REPO_URL> · **Artifact (6.04 GB):** <HF_OR_DOWNLOAD_URL>
+**Artifact + full proof:** https://huggingface.co/akshay-commits-code/qwen3-30b-a3b-10pct-voice-router. The repo root is the shipped artifact; [`proof/`](https://huggingface.co/akshay-commits-code/qwen3-30b-a3b-10pct-voice-router/tree/main/proof) holds the code, locks, protocol, git history and results.
 
 **Base:** `Qwen/Qwen3-30B-A3B-Instruct-2507`, 61,064,245,248 fp16 bytes.
 
