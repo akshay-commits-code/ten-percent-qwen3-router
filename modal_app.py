@@ -42,7 +42,7 @@ def _eval_sets(m, tok, tag):
         torch.save({"h": ex["h"].half(), "top": ex["top"]}, f"/vol/work5/{tag}_{name}_h.pt")
         json.dump(out, open(f"/vol/work5/{tag}_preds.json", "w")); vol.commit()
         print(tag, name, out[name]["secs"], "s", flush=True)
-    ids = {w: core.label_token(tok, w) for w in core.BASE_LABELS}
+    ids = {w: core.label_token(tok, w) for w in core.BASE_LABELS + core.TASK.get("teach_labels", [])}
     torch.save({"ids": ids, "rows": m.lm_head.weight.data[list(ids.values())].float().cpu()}, f"/vol/work5/{tag}_label_rows.pt")
     vol.commit()
     return out
@@ -163,7 +163,7 @@ def lab_stage(configs_json: str):
     return list(results)
 
 
-C1 = {"total": 2650, "w_sys": 0.05, "w_last": 20.0, "bits": {"experts": 3, "attn": 6, "embed": 4, "head": 4},
+C1 = {"total": 2640, "w_sys": 1.0, "w_last": 0.0, "bits": {"experts": 3, "attn": 6, "embed": 5, "head": 4},
       "modes": {"experts": "asym", "embed": "absmax", "attn": "clip", "head": "clip"}}
 
 

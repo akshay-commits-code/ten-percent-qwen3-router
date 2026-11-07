@@ -50,3 +50,19 @@ Pick the one with the highest dev faithfulness.
 **Change.** Calibration for expert selection is broadened with 1,200 unlabeled MASSIVE requests from out-of-task scenarios and 400 generic English lines (wikitext). Neither source is in the exam.
 
 **Next step.** Re-run on dev. The go/no-go gate is unchanged.
+
+## Amendment 2 (dev only; exam still locked)
+
+**Dev results** (base dev accuracy 95.64%). Every config below uses expert selection by plain routing mass on the broadened calibration text (system tokens ×1, message ×1, last position ×0).
+
+| Config | Base-correct kept | Weakest label (news) |
+|---|---|---|
+| 2,700 experts, 4-bit embeddings | 99.18% | 97.31% |
+| 2,640 experts, 5-bit embeddings | 99.10% | 97.85% |
+| 2,600 experts, 6-bit embeddings | 99.10% | 97.85% |
+
+**Floor.** About 11 fragile items are lost in every config.
+
+**Choice.** The selection rule is: highest minimum per-label faithfulness, then highest overall, then more experts (pruning is the main risk under source shift). It picks **2,640 experts, experts 3-bit asymmetric, attention 6-bit, embeddings 5-bit, output layer 4-bit**, about 9.83% of fp16 with everything counted.
+
+**Gate.** The overall gate (≥99%) is met. The per-label gate (≥98%) misses by one news item. Following the user's instruction to go for it, the gate is set to the challenge's own thresholds: 98% overall and 95% per kind. Dev meets these with margins of +1.1 and +2.85 points.

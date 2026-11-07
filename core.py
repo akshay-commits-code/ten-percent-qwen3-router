@@ -28,7 +28,9 @@ def run(model, tok, texts, bs=24, gen=4, want_hidden=False):
     """Greedy free generation. Returns parsed labels, raw text, and (optionally) a dict with the final-norm hidden
     state at the last prompt position (the vector whose logits pick the first answer token) and the top-1 logit."""
     tok.padding_side = "left"
-    out_lab, out_raw, out_h, out_top = [], [], [], []
+    if tok.pad_token is None:
+        tok.pad_token = tok.eos_token
+    out_lab, out_raw, out_h, out_top, out_t0 = [], [], [], [], []
     ps = prompts(tok, texts)
     order = sorted(range(len(ps)), key=lambda i: len(ps[i]))
     res = {}
@@ -41,11 +43,13 @@ def run(model, tok, texts, bs=24, gen=4, want_hidden=False):
         if want_hidden:
             hs = g.hidden_states[0][-1][:, -1].float().cpu()
             top = g.logits[0].float().max(-1).values.cpu()
+            t0 = g.sequences[:, enc.input_ids.shape[1]].cpu()
         for k, j in enumerate(idx):
-            res[j] = (parse(txt[k]), txt[k], hs[k] if want_hidden else None, top[k] if want_hidden else None)
+            res[j] = (parse(txt[k]), txt[k], hs[k] if want_hidden else None, top[k] if want_hidden else None,
+                      t0[k] if want_hidden else None)
     for j in range(len(ps)):
-        out_lab.append(res[j][0]); out_raw.append(res[j][1]); out_h.append(res[j][2]); out_top.append(res[j][3])
-    extra = {"h": torch.stack(out_h), "top": torch.stack(out_top)} if want_hidden else None
+        out_lab.append(res[j][0]); out_raw.append(res[j][1]); out_h.append(res[j][2]); out_top.append(res[j][3]); out_t0.append(res[j][4])
+    extra = {"h": torch.stack(out_h), "top": torch.stack(out_top), "tok0": torch.stack(out_t0)} if want_hidden else None
     return out_lab, out_raw, extra
 
 
@@ -231,23 +235,33 @@ def fp16_bytes(cfg):
 
 # ------------------------------- feedback: closed-form edit of existing output rows -------------------------------
 
-def label_token(tok, label):
+def label_token(tok, label, stats=None):
+    """The token the model actually emits first for `label` (recorded from calibration answers when available)."""
+    if stats is not None and f"_tok_{label}" in stats:
+        return int(stats[f"_tok_{label}"].item())
     ids = tok.encode(label, add_special_tokens=False)
     return ids[0]
 
 
-def stats_from(H, preds, lam=0.1):
+def stats_from(H, preds, lam=0.1, rank=256):
     """Calibration statistics used only to compute feedback edits (never at answer time): mean final hidden state per
-    predicted queue and overall, and the inverse of the shrunk covariance of those states."""
+    predicted label and overall, plus a compact form of the inverse shrunk covariance (top `rank` eigenpairs)."""
     H = H.float(); mu = H.mean(0)
     st = {"_all": mu}
     for q in BASE_LABELS:
         idx = [i for i, p in enumerate(preds) if p == q]
         if idx:
             st[q] = H[idx].mean(0)
-    C = torch.cov((H - mu).T); d = C.shape[0]
-    st["_Cinv"] = torch.linalg.inv((1 - lam) * C + lam * torch.trace(C) / d * torch.eye(d))
+    C = torch.cov((H - mu).T); d = C.shape[0]; tau = torch.trace(C) / d
+    ev, V = torch.linalg.eigh(C); ev, V = ev.flip(0)[:rank], V.flip(1)[:, :rank]
+    rho = (torch.trace(C) - ev.sum()) / (d - rank)
+    st["_V"] = V; st["_inv_top"] = 1 / ((1 - lam) * ev + lam * tau); st["_inv_rest"] = (1 / ((1 - lam) * rho + lam * tau)).reshape(1)
     return st
+
+
+def whiten(st, u):
+    V = st["_V"].float(); a = V.T @ u
+    return V @ (st["_inv_top"].float() * a) + st["_inv_rest"].float() * (u - V @ a)
 
 
 def plan_edit(H, top, preds, labels, rows, stats, delta, qt):
@@ -257,14 +271,14 @@ def plan_edit(H, top, preds, labels, rows, stats, delta, qt):
                current winner.  New row: W[y] + alpha * u.
     H [n,d] hidden states, top [n] current max logit, rows {label: current W[y] (d,)}. Returns {label: new row}."""
     H = H.float(); top = top.float().clone(); new = {}
-    Ci = stats["_Cinv"].float() if "_Cinv" in stats else None
+    Ci = "_V" in stats
     for y in sorted(set(labels)):
         I = [i for i in range(len(labels)) if labels[i] == y and preds[i] != y]
         if not I:
             continue
         ref = torch.stack([stats.get(preds[i], stats["_all"]).float() for i in I]).mean(0)
         u = H[I].mean(0) - ref
-        u = Ci @ u if Ci is not None else u
+        u = whiten(stats, u) if Ci else u
         u = u / u.norm()
         w = rows[y].float(); proj = H[I] @ u
         need = (top[I] - H[I] @ w + delta) / proj
