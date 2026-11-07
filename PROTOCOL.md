@@ -40,3 +40,13 @@ Pick the one with the highest dev faithfulness.
 **Mechanism.** The same whitened closed-form edit of existing output rows. Constants are picked by the attempt-2 rule on `teach_dev` + dev.
 
 **Controls.** Shuffled-label and empty feedback.
+
+## Amendment 1 (dev only; exam still locked)
+
+**Prompt.** The skill descriptions are now clearer (prompt P2): news covers current events, sports results, markets and prices. Base dev accuracy rose from 94.8% to 95.6%.
+
+**What dev showed.** C1 keeps 98.6–98.7% of base-correct items. The `news` label keeps only 93.6–95.7%: broad current-events queries drift to weather or calendar.
+
+**Change.** Calibration for expert selection is broadened with 1,200 unlabeled MASSIVE requests from out-of-task scenarios and 400 generic English lines (wikitext). Neither source is in the exam.
+
+**Next step.** Re-run on dev. The go/no-go gate is unchanged.
