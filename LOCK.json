@@ -1,0 +1,42 @@
+{
+ "locked_files": {
+  "exam": "4993e19e7af3fcb66da711e0d71ac964ac665e725728ccb234675d65baa916f8",
+  "teach_locked": "bb375b9c5061ff062705a30e2c450621527fac9129e14d920b1e2b94f8c94d08"
+ },
+ "other_files": {
+  "dev": "73e08427764fba651dfc6bac1a1775115e6261d9893332249376183c5bfc61fa",
+  "calib": "7dc128b9f2f3e81ce5f230c1ff7142c189ef47b3112db5a916c428b43b63deb1",
+  "teach_dev": "413e77182cbe391ef6af9b5667560c5fd45641b6aaa8e13ece5c7becdba4a4bf",
+  "teach_pool": "67aa13da6f4f585809659e8d04389f3e778d79b00c4637429a578ee40e94ccd7",
+  "task.json": "3ac48e9e613c00c5ddf2f63fba5a18b6e38fff88891bcc444c251435c899ca0c"
+ },
+ "counts": {
+  "exam": 2910,
+  "dev": 1400,
+  "calib": 1350,
+  "teach_locked": 390,
+  "teach_dev": 160,
+  "teach_pool": 391
+ },
+ "exam_per_label": {
+  "transport": 554,
+  "calendar": 522,
+  "lists": 458,
+  "home": 362,
+  "weather": 354,
+  "email": 330,
+  "news": 330
+ },
+ "exam_per_source": {
+  "massive": 2310,
+  "clinc150": 600
+ },
+ "teach_locked_per_label": {
+  "recipe": 270,
+  "music": 120
+ },
+ "teach_pool_per_label": {
+  "music": 268,
+  "recipe": 123
+ }
+}

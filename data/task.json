@@ -1,0 +1,16 @@
+{
+ "labels": [
+  "weather",
+  "email",
+  "transport",
+  "lists",
+  "calendar",
+  "home",
+  "news"
+ ],
+ "system": "You route requests for a voice assistant to the skill that should handle them.\nSkills:\n- weather: weather conditions and forecasts\n- email: reading, writing, sending or managing email and email contacts\n- transport: taxis, trains, flights, tickets, traffic and directions\n- lists: creating, reading or editing lists (shopping lists, to-do lists)\n- calendar: calendar events, meetings and reminders\n- home: smart-home devices: lights, plugs, vacuum, coffee machine\n- news: news headlines and updates\nReply with the skill name only.",
+ "teach_labels": [
+  "recipe",
+  "music"
+ ]
+}

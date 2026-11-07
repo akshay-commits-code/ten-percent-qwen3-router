@@ -1,0 +1,1400 @@
+{"text": "what is the subject of mom's last email", "label": "email", "scenario": "email", "source": "massive", "id": "dev-0"}
+{"text": "what are the jobs to be done today", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1"}
+{"text": "its dark in here mind turning up the light intensity", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-2"}
+{"text": "i cup of joe would be nice right now", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-3"}
+{"text": "after swimming lessons what else is on my calendar on tuesday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-4"}
+{"text": "can you list out my meetings today", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-5"}
+{"text": "get me the local train timing to destination cstm", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-6"}
+{"text": "what are the train times between eight am and ten am at east chicago station going west on sunday", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-7"}
+{"text": "is there any traffic to work", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-8"}
+{"text": "what's on my calendar today", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-9"}
+{"text": "add to my calendar mom's fashion dinner for may fifth", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-10"}
+{"text": "is there a traffic jam on my route", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-11"}
+{"text": "how much traffic is there right now in bowery street", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-12"}
+{"text": "what is the weather going to be like on march twentieth two thousand and seventeen", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-13"}
+{"text": "has david got back to me yet", "label": "email", "scenario": "email", "source": "massive", "id": "dev-14"}
+{"text": "remove today's meeting at evening", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-15"}
+{"text": "start me a new list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-16"}
+{"text": "send an email to sharon", "label": "email", "scenario": "email", "source": "massive", "id": "dev-17"}
+{"text": "tell me the weather in utah", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-18"}
+{"text": "will it be cold tomorrow", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-19"}
+{"text": "clear my calendar for the rest of the day", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-20"}
+{"text": "has the governor enacted the new crime bill yet", "label": "news", "scenario": "news", "source": "massive", "id": "dev-21"}
+{"text": "uber", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-22"}
+{"text": "how are things in the world", "label": "news", "scenario": "news", "source": "massive", "id": "dev-23"}
+{"text": "can you remind me about my meeting tomorrow", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-24"}
+{"text": "answer the email", "label": "email", "scenario": "email", "source": "massive", "id": "dev-25"}
+{"text": "show me news about the environment", "label": "news", "scenario": "news", "source": "massive", "id": "dev-26"}
+{"text": "keep track of the standing rock protest", "label": "news", "scenario": "news", "source": "massive", "id": "dev-27"}
+{"text": "set reminder at three p. m.", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-28"}
+{"text": "what was the last email from work", "label": "email", "scenario": "email", "source": "massive", "id": "dev-29"}
+{"text": "get me a taxi to take me to the airport on friday at five thirty am", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-30"}
+{"text": "change lights from red to blue", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-31"}
+{"text": "let me know about current traffic in carmen drive", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-32"}
+{"text": "is it gonna be cloudy", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-33"}
+{"text": "please remove dallas from my travel itinerary", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-34"}
+{"text": "today is holiday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-35"}
+{"text": "turn off the living room lights", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-36"}
+{"text": "is today a sunscreen day", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-37"}
+{"text": "add appointment in the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-38"}
+{"text": "let me know the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-39"}
+{"text": "how will be today for me", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-40"}
+{"text": "do i have anything going on this saturday between two and four p. m.", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-41"}
+{"text": "have i received any emails from beth", "label": "email", "scenario": "email", "source": "massive", "id": "dev-42"}
+{"text": "are sunglasses a good choice for today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-43"}
+{"text": "is my golf game going to get rained out", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-44"}
+{"text": "can i purchase a train ticket today", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-45"}
+{"text": "activate robot vacuum", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-46"}
+{"text": "please tell me some international news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-47"}
+{"text": "what are my lists so far", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-48"}
+{"text": "will it be rainy tomorrow", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-49"}
+{"text": "what news updates are there from news express", "label": "news", "scenario": "news", "source": "massive", "id": "dev-50"}
+{"text": "do i have banana in my shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-51"}
+{"text": "what is weather today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-52"}
+{"text": "alexa brighten the lights", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-53"}
+{"text": "should i carry an umbrella with me today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-54"}
+{"text": "i'd like a listing of all train ticket prices for this location please", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-55"}
+{"text": "i would love a less bright up room", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-56"}
+{"text": "turn up the lights in the living room", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-57"}
+{"text": "remove the list of things to do", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-58"}
+{"text": "clear my events search data", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-59"}
+{"text": "who is leading the formula one race right now", "label": "news", "scenario": "news", "source": "massive", "id": "dev-60"}
+{"text": "turn off the smart socket", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-61"}
+{"text": "what is the weather like", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-62"}
+{"text": "what kind of lists do i have saved", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-63"}
+{"text": "show me some news from b. b. c.", "label": "news", "scenario": "news", "source": "massive", "id": "dev-64"}
+{"text": "open uber and book a car for twelve o'clock", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-65"}
+{"text": "remind me at work to take a meeting with dave on friday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-66"}
+{"text": "check my calendar for today", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-67"}
+{"text": "can you tell me the latest news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-68"}
+{"text": "start the vacuum at nine am", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-69"}
+{"text": "give me the latest news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-70"}
+{"text": "is it cold weather there", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-71"}
+{"text": "tell me the weather for new york city", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-72"}
+{"text": "send email to boss not feeling well taking a sick day", "label": "email", "scenario": "email", "source": "massive", "id": "dev-73"}
+{"text": "list the received emails recently in alphabetical order", "label": "email", "scenario": "email", "source": "massive", "id": "dev-74"}
+{"text": "give me the news on n. b. c. alexa", "label": "news", "scenario": "news", "source": "massive", "id": "dev-75"}
+{"text": "go and make me a coffee", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-76"}
+{"text": "please make me a cappuccino", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-77"}
+{"text": "what are the headlines from the l. a. times", "label": "news", "scenario": "news", "source": "massive", "id": "dev-78"}
+{"text": "book a cab in the evening for me", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-79"}
+{"text": "what time does the train arrive", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-80"}
+{"text": "notify me when trump is in the news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-81"}
+{"text": "does my company worker have a home phone number", "label": "email", "scenario": "email", "source": "massive", "id": "dev-82"}
+{"text": "turn the lights up", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-83"}
+{"text": "weather report now", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-84"}
+{"text": "delete events", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-85"}
+{"text": "make the light more brighter", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-86"}
+{"text": "color of light should be dimmed bright", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-87"}
+{"text": "send an email to my family telling them about my upcoming birthday plans", "label": "email", "scenario": "email", "source": "massive", "id": "dev-88"}
+{"text": "in jodhpur traffic level is very low", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-89"}
+{"text": "weather report of the week", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-90"}
+{"text": "delete the famous actors list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-91"}
+{"text": "tell me items that are on my shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-92"}
+{"text": "tell me the latest trending news of this week", "label": "news", "scenario": "news", "source": "massive", "id": "dev-93"}
+{"text": "edit list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-94"}
+{"text": "any updates from donald trump's tweet feed", "label": "news", "scenario": "news", "source": "massive", "id": "dev-95"}
+{"text": "tell mom ill be late this evening", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-96"}
+{"text": "what has shown up in the news recently", "label": "news", "scenario": "news", "source": "massive", "id": "dev-97"}
+{"text": "i don't need light", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-98"}
+{"text": "can you book a train ticket for my mother", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-99"}
+{"text": "what's my to do list for today", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-100"}
+{"text": "can you raise the lights for me please", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-101"}
+{"text": "price of train ticket from delhi to mumbai", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-102"}
+{"text": "do i have any reminders pending", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-103"}
+{"text": "repeat daily", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-104"}
+{"text": "outlet on", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-105"}
+{"text": "put pencil on a new grocery list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-106"}
+{"text": "tell me the time when punjab mail will reach gwalior", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-107"}
+{"text": "what is the weather looking like for the rest of the week", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-108"}
+{"text": "read email from julia", "label": "email", "scenario": "email", "source": "massive", "id": "dev-109"}
+{"text": "can you turn the lights up", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-110"}
+{"text": "will the highest temperature be more than seventy degrees tomorrow", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-111"}
+{"text": "latest news from jersey", "label": "news", "scenario": "news", "source": "massive", "id": "dev-112"}
+{"text": "what day will it be sunny", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-113"}
+{"text": "will there be snow tomorrow", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-114"}
+{"text": "delete that item", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-115"}
+{"text": "create a new list for school supplies", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-116"}
+{"text": "what emails did i get yesterday", "label": "email", "scenario": "email", "source": "massive", "id": "dev-117"}
+{"text": "tell me my lists", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-118"}
+{"text": "any fresh news on brad pitt", "label": "news", "scenario": "news", "source": "massive", "id": "dev-119"}
+{"text": "lights off bathroom", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-120"}
+{"text": "show me the one week forecast", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-121"}
+{"text": "what time is my appointment on april fourth", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-122"}
+{"text": "book my train ticket from las vegas to los angeles", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-123"}
+{"text": "delete the item two from the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-124"}
+{"text": "check calendar for events", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-125"}
+{"text": "show me my lists", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-126"}
+{"text": "send an email to my family asking how they're doing", "label": "email", "scenario": "email", "source": "massive", "id": "dev-127"}
+{"text": "should i wear shorts today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-128"}
+{"text": "no lights in the kitchen", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-129"}
+{"text": "what news articles were on c. n. n. today", "label": "news", "scenario": "news", "source": "massive", "id": "dev-130"}
+{"text": "i need to make a list of bills that are due", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-131"}
+{"text": "give details about the current traffic", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-132"}
+{"text": "temperature", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-133"}
+{"text": "how is it outside", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-134"}
+{"text": "create shopping list for target", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-135"}
+{"text": "book a local cab", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-136"}
+{"text": "i need a train ticket", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-137"}
+{"text": "is it currently snowing", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-138"}
+{"text": "i want to hear the news on tmz", "label": "news", "scenario": "news", "source": "massive", "id": "dev-139"}
+{"text": "give the shortest route to the airport", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-140"}
+{"text": "mark sarahs birthday party on the twelveth", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-141"}
+{"text": "do i have any appointments scheduled for march twenty four two thousand and seventeen", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-142"}
+{"text": "give me the weekly weather near me", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-143"}
+{"text": "tell me the weather for the following month", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-144"}
+{"text": "weather today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-145"}
+{"text": "can you please please reply for that mail", "label": "email", "scenario": "email", "source": "massive", "id": "dev-146"}
+{"text": "add an event labeled dan's graduation party may fifth in goshen", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-147"}
+{"text": "read mail", "label": "email", "scenario": "email", "source": "massive", "id": "dev-148"}
+{"text": "please reserve an uber right now", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-149"}
+{"text": "reply to john stating that i will attend the party", "label": "email", "scenario": "email", "source": "massive", "id": "dev-150"}
+{"text": "whether it would be sunny in califonia", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-151"}
+{"text": "add event in calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-152"}
+{"text": "show me the latest news from the guardian", "label": "news", "scenario": "news", "source": "massive", "id": "dev-153"}
+{"text": "hi do i have any new emails", "label": "email", "scenario": "email", "source": "massive", "id": "dev-154"}
+{"text": "completely clear my calendar please", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-155"}
+{"text": "call the phone number", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-156"}
+{"text": "is it bumper to bumper", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-157"}
+{"text": "set a reminder for the thirteenth that i have a lunch with dale", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-158"}
+{"text": "i have multiple meeting today remind in thirty minutes interval before the start of each meeting", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-159"}
+{"text": "what is the weather at home", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-160"}
+{"text": "will it rain on august fifteenth", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-161"}
+{"text": "california", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-162"}
+{"text": "please have vacuum go for one hour", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-163"}
+{"text": "what's going on lately with the europe", "label": "news", "scenario": "news", "source": "massive", "id": "dev-164"}
+{"text": "remove last played song", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-165"}
+{"text": "report weather for largo", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-166"}
+{"text": "show me my meeting for the next month", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-167"}
+{"text": "put hamburger on my grocery list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-168"}
+{"text": "cancel the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-169"}
+{"text": "what's the news for today", "label": "news", "scenario": "news", "source": "massive", "id": "dev-170"}
+{"text": "create a blank list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-171"}
+{"text": "remove the second row from the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-172"}
+{"text": "please turn on the smart socket", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-173"}
+{"text": "turn the lights on", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-174"}
+{"text": "please show me any articles related to weather in the morning news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-175"}
+{"text": "is there a train coming this afternoon in dallas", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-176"}
+{"text": "open news about b. p. oil", "label": "news", "scenario": "news", "source": "massive", "id": "dev-177"}
+{"text": "add pencil to school supplies list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-178"}
+{"text": "any new emails from work", "label": "email", "scenario": "email", "source": "massive", "id": "dev-179"}
+{"text": "please tell me what the world news headlines are", "label": "news", "scenario": "news", "source": "massive", "id": "dev-180"}
+{"text": "i want to book a train ticket", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-181"}
+{"text": "what is the weather in los angeles", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-182"}
+{"text": "turn on kitchen light", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-183"}
+{"text": "block one hour from ten tomorrow morning", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-184"}
+{"text": "remove that item", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-185"}
+{"text": "siri please turn the lights off in the bathroom", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-186"}
+{"text": "order me an uber ride please", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-187"}
+{"text": "forget this list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-188"}
+{"text": "remind me if i miss my evening walk routine", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-189"}
+{"text": "does mary smith live on main street", "label": "email", "scenario": "email", "source": "massive", "id": "dev-190"}
+{"text": "do i need umbrella now", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-191"}
+{"text": "book ola cab for now", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-192"}
+{"text": "please change lights color to red", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-193"}
+{"text": "what's the current weather in new jersey", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-194"}
+{"text": "did i have any plans later on tonight at eight p. m.", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-195"}
+{"text": "send dad an email saying how is the weather this week", "label": "email", "scenario": "email", "source": "massive", "id": "dev-196"}
+{"text": "book a train ticket for me", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-197"}
+{"text": "remove list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-198"}
+{"text": "local news from bay news nine", "label": "news", "scenario": "news", "source": "massive", "id": "dev-199"}
+{"text": "it's make me good lucking guy inside very very horkersd wo", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-200"}
+{"text": "google train tickets to washington d. c.", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-201"}
+{"text": "is it going to be cloudy in london during the weekend", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-202"}
+{"text": "do i have coffee on the grocery list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-203"}
+{"text": "what's the weather like in new york city", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-204"}
+{"text": "remind me of my three p. m. meeting tomorrow four hours in advance", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-205"}
+{"text": "add new email address and send email", "label": "email", "scenario": "email", "source": "massive", "id": "dev-206"}
+{"text": "i need to book a train ticket from mumbai to goa", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-207"}
+{"text": "send this reply to received email", "label": "email", "scenario": "email", "source": "massive", "id": "dev-208"}
+{"text": "please read out the tasks from the list for today", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-209"}
+{"text": "will it be warm tomorrow", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-210"}
+{"text": "what is the weather in utah", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-211"}
+{"text": "driving time to los angeles", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-212"}
+{"text": "add wedding to my calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-213"}
+{"text": "dim the lights in the kitchen olly", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-214"}
+{"text": "please make the smart socket turn off", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-215"}
+{"text": "read me my calendar for the month", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-216"}
+{"text": "set the living room lights to fifty percent", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-217"}
+{"text": "it will be good if you yellowish the light", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-218"}
+{"text": "did i leave the light on in the garage", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-219"}
+{"text": "remind this event in future", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-220"}
+{"text": "what's the weather for this week", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-221"}
+{"text": "google search the topic", "label": "news", "scenario": "news", "source": "massive", "id": "dev-222"}
+{"text": "has the budget been voted on yet", "label": "news", "scenario": "news", "source": "massive", "id": "dev-223"}
+{"text": "what will the weather be on the seventh", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-224"}
+{"text": "is there is any new emails", "label": "email", "scenario": "email", "source": "massive", "id": "dev-225"}
+{"text": "tell me b. b. c. news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-226"}
+{"text": "text your lost android phone to turn the ringer volume up one percent", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-227"}
+{"text": "cricket update", "label": "news", "scenario": "news", "source": "massive", "id": "dev-228"}
+{"text": "could you please give me a summary of the latest news headlines", "label": "news", "scenario": "news", "source": "massive", "id": "dev-229"}
+{"text": "tell me how are the results of assembly elections in delhi going to come out", "label": "news", "scenario": "news", "source": "massive", "id": "dev-230"}
+{"text": "upcoming events", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-231"}
+{"text": "accident or normal traffic", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-232"}
+{"text": "create calendar event with my son", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-233"}
+{"text": "please pull up the email that was sent this morning at ten am", "label": "email", "scenario": "email", "source": "massive", "id": "dev-234"}
+{"text": "what is the current price of brent crude", "label": "news", "scenario": "news", "source": "massive", "id": "dev-235"}
+{"text": "tell me if the following is true about the weather", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-236"}
+{"text": "please delete the contacts that i haven't spoken to in three of months", "label": "email", "scenario": "email", "source": "massive", "id": "dev-237"}
+{"text": "alexa please turn down the lights in the house", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-238"}
+{"text": "send me all the info for the houston texans draft please", "label": "news", "scenario": "news", "source": "massive", "id": "dev-239"}
+{"text": "alexa look up bill information", "label": "email", "scenario": "email", "source": "massive", "id": "dev-240"}
+{"text": "schedule a meeting with the vice president on monday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-241"}
+{"text": "any high priority emails", "label": "email", "scenario": "email", "source": "massive", "id": "dev-242"}
+{"text": "send email to tim at hotmail dot com", "label": "email", "scenario": "email", "source": "massive", "id": "dev-243"}
+{"text": "latest news on terrorism", "label": "news", "scenario": "news", "source": "massive", "id": "dev-244"}
+{"text": "weather in home town", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-245"}
+{"text": "add jpearsonjessica at gmail dot com to email contacts", "label": "email", "scenario": "email", "source": "massive", "id": "dev-246"}
+{"text": "open email", "label": "email", "scenario": "email", "source": "massive", "id": "dev-247"}
+{"text": "can you tell me the temperature for saturday night", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-248"}
+{"text": "remove the list of apps which started with letter a", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-249"}
+{"text": "did you add tomorrow's meeting to my calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-250"}
+{"text": "olly schedule my doctors appointment on friday at two p. m.", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-251"}
+{"text": "send voice email", "label": "email", "scenario": "email", "source": "massive", "id": "dev-252"}
+{"text": "pull up the headlines please", "label": "news", "scenario": "news", "source": "massive", "id": "dev-253"}
+{"text": "let me know when casey emails me", "label": "email", "scenario": "email", "source": "massive", "id": "dev-254"}
+{"text": "hey olly can you please make me a creamy coffee", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-255"}
+{"text": "what lists do i have saved", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-256"}
+{"text": "let me know when there is news on the dakota pipeline", "label": "news", "scenario": "news", "source": "massive", "id": "dev-257"}
+{"text": "please add milk to the grocery list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-258"}
+{"text": "are there any status updates on c. n. n. news facebook page", "label": "news", "scenario": "news", "source": "massive", "id": "dev-259"}
+{"text": "m. s. n. news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-260"}
+{"text": "turn on the light socket", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-261"}
+{"text": "newest world news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-262"}
+{"text": "alexa add grocery shopping to my to do list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-263"}
+{"text": "who was the last person to email me", "label": "email", "scenario": "email", "source": "massive", "id": "dev-264"}
+{"text": "olly should i wear my gloves or not", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-265"}
+{"text": "increase the brightness of lights bedroom", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-266"}
+{"text": "make the lights in the house red", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-267"}
+{"text": "what's my schedule like today", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-268"}
+{"text": "where should i avoid this morning", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-269"}
+{"text": "can you tell me the top news stories about the white house", "label": "news", "scenario": "news", "source": "massive", "id": "dev-270"}
+{"text": "find me a train ticket to boston", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-271"}
+{"text": "what's the temperature out now", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-272"}
+{"text": "any recent emails from anna", "label": "email", "scenario": "email", "source": "massive", "id": "dev-273"}
+{"text": "edit contacts", "label": "email", "scenario": "email", "source": "massive", "id": "dev-274"}
+{"text": "should we expect rain this afternoon", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-275"}
+{"text": "use that email address as a contact", "label": "email", "scenario": "email", "source": "massive", "id": "dev-276"}
+{"text": "what happened between the second and the fifteenth", "label": "news", "scenario": "news", "source": "massive", "id": "dev-277"}
+{"text": "turn room lights off now", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-278"}
+{"text": "take out the milk from the shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-279"}
+{"text": "turn off light", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-280"}
+{"text": "olly dim the lights", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-281"}
+{"text": "did anyone send me any new emails in the last hour", "label": "email", "scenario": "email", "source": "massive", "id": "dev-282"}
+{"text": "let me know the latest weather news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-283"}
+{"text": "can you set the coffee machine to make coffee at three p. m. time every week day", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-284"}
+{"text": "check my emails for something from name", "label": "email", "scenario": "email", "source": "massive", "id": "dev-285"}
+{"text": "join this", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-286"}
+{"text": "please add item to list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-287"}
+{"text": "please remove the following list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-288"}
+{"text": "alexa is traffic heavy on route eighty today", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-289"}
+{"text": "please send pedro a email about his car", "label": "email", "scenario": "email", "source": "massive", "id": "dev-290"}
+{"text": "what will the weather be like on saturday", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-291"}
+{"text": "could you please gather a list of local restaurants and email them to my husband", "label": "email", "scenario": "email", "source": "massive", "id": "dev-292"}
+{"text": "the lights are too bright", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-293"}
+{"text": "start a new email to", "label": "email", "scenario": "email", "source": "massive", "id": "dev-294"}
+{"text": "lights off in the kitchen please", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-295"}
+{"text": "i'd like to set a date for this week", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-296"}
+{"text": "weather of chicago", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-297"}
+{"text": "can you read me my latest emails", "label": "email", "scenario": "email", "source": "massive", "id": "dev-298"}
+{"text": "what should i wear is it cold outside", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-299"}
+{"text": "do i have any new tinder matches", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-300"}
+{"text": "turn on the roomba", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-301"}
+{"text": "read out my to do list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-302"}
+{"text": "in the following week repeat this event at ten am every day", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-303"}
+{"text": "transition lights to blue to green to yellow", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-304"}
+{"text": "find a taxi to book", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-305"}
+{"text": "book a train ticket weekend of the twenty sixth phoenix to los angeles", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-306"}
+{"text": "what's the weather like in sydney", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-307"}
+{"text": "what is the weather forecast for seattle", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-308"}
+{"text": "what's going on in japan", "label": "news", "scenario": "news", "source": "massive", "id": "dev-309"}
+{"text": "what time does the train arrive in sacremento", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-310"}
+{"text": "find me the distance and direction by train to rccg in ikoyi lagos", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-311"}
+{"text": "read all new emails please", "label": "email", "scenario": "email", "source": "massive", "id": "dev-312"}
+{"text": "what lists are available", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-313"}
+{"text": "news nineteen", "label": "news", "scenario": "news", "source": "massive", "id": "dev-314"}
+{"text": "what is the weather where i am at today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-315"}
+{"text": "what is tomorrow's weather predictions", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-316"}
+{"text": "what are the upcoming reminders", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-317"}
+{"text": "pull up the news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-318"}
+{"text": "what's new in gaming industry", "label": "news", "scenario": "news", "source": "massive", "id": "dev-319"}
+{"text": "turn on the smart charger", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-320"}
+{"text": "what is going on today", "label": "news", "scenario": "news", "source": "massive", "id": "dev-321"}
+{"text": "raise the lamp's light", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-322"}
+{"text": "remind me at five p. m. that i have a meeting", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-323"}
+{"text": "start the smart plug", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-324"}
+{"text": "at four p. m. how long will be the remaining travel time to the destination", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-325"}
+{"text": "could you please give me up to date news headlines from my newest provider", "label": "news", "scenario": "news", "source": "massive", "id": "dev-326"}
+{"text": "this week weather will be sunny or not", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-327"}
+{"text": "give me international news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-328"}
+{"text": "set calendar for date and time with this person", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-329"}
+{"text": "please turn the lights up", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-330"}
+{"text": "add broccoli to my grocery list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-331"}
+{"text": "give me music news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-332"}
+{"text": "when does the train arrive at kings cross station", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-333"}
+{"text": "spread some lights", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-334"}
+{"text": "prepare a cup of coffee", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-335"}
+{"text": "start the oven", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-336"}
+{"text": "make a new contact with this email", "label": "email", "scenario": "email", "source": "massive", "id": "dev-337"}
+{"text": "pull up my c. n. n. app and read it to me", "label": "news", "scenario": "news", "source": "massive", "id": "dev-338"}
+{"text": "send email to mom asking about the weather", "label": "email", "scenario": "email", "source": "massive", "id": "dev-339"}
+{"text": "delete shopping from my list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-340"}
+{"text": "buying clothes", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-341"}
+{"text": "what is the email i got from my girlfriend", "label": "email", "scenario": "email", "source": "massive", "id": "dev-342"}
+{"text": "remove shop list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-343"}
+{"text": "alexa send mom an email now", "label": "email", "scenario": "email", "source": "massive", "id": "dev-344"}
+{"text": "does the weather call for rain saturday", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-345"}
+{"text": "please tell me if i got any email recently", "label": "email", "scenario": "email", "source": "massive", "id": "dev-346"}
+{"text": "is today when my paper is due", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-347"}
+{"text": "change lights to red", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-348"}
+{"text": "turn on vacuum cleaner", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-349"}
+{"text": "when is the next septa train to philadelphia", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-350"}
+{"text": "i want to do funny thing every day please set a reminder", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-351"}
+{"text": "what's the latest email i have", "label": "email", "scenario": "email", "source": "massive", "id": "dev-352"}
+{"text": "is it going to be windy today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-353"}
+{"text": "show me weather list for tomorrow", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-354"}
+{"text": "is it sunny outside at this moment", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-355"}
+{"text": "remove list from the database", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-356"}
+{"text": "what's the current weather", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-357"}
+{"text": "i need to get to location call a cab", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-358"}
+{"text": "please tell me the news headlines", "label": "news", "scenario": "news", "source": "massive", "id": "dev-359"}
+{"text": "do i have any new emails", "label": "email", "scenario": "email", "source": "massive", "id": "dev-360"}
+{"text": "are there any accidents on my way to work", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-361"}
+{"text": "what meetings do i have this week", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-362"}
+{"text": "tell me the train arrival time to new york", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-363"}
+{"text": "add a reminder to april fourth to go to the dentist", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-364"}
+{"text": "turn off porch light", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-365"}
+{"text": "scratch item three", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-366"}
+{"text": "is it going to rain on friday", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-367"}
+{"text": "add a party in ny city for this saturday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-368"}
+{"text": "delete the vacation things to do list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-369"}
+{"text": "can to play ccn news for me", "label": "news", "scenario": "news", "source": "massive", "id": "dev-370"}
+{"text": "what type of weather can i expect today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-371"}
+{"text": "what to do lists do i have", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-372"}
+{"text": "how long does train a take to get to station b.", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-373"}
+{"text": "remove that item from my list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-374"}
+{"text": "how much snow has maine received as of today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-375"}
+{"text": "remove a list please", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-376"}
+{"text": "i need to confirm all meetings for today can the invite person", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-377"}
+{"text": "is it going to rain on my birthday", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-378"}
+{"text": "give me updates on this news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-379"}
+{"text": "remind me that i have an appointment twelve o'clock on saturday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-380"}
+{"text": "get today's weather report", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-381"}
+{"text": "enable smart socket", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-382"}
+{"text": "good assistants", "label": "news", "scenario": "news", "source": "massive", "id": "dev-383"}
+{"text": "brew coffee at noon", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-384"}
+{"text": "what is today's weather", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-385"}
+{"text": "read me new headlines", "label": "news", "scenario": "news", "source": "massive", "id": "dev-386"}
+{"text": "cancel meeting at three", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-387"}
+{"text": "get me match highlights", "label": "news", "scenario": "news", "source": "massive", "id": "dev-388"}
+{"text": "show me route to my phone location on yesterday twelve p. m.", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-389"}
+{"text": "newly launched four wheelers", "label": "news", "scenario": "news", "source": "massive", "id": "dev-390"}
+{"text": "find an uber that can get me to the airport now", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-391"}
+{"text": "what is status of current weather", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-392"}
+{"text": "book a train ticket from canada to las vegas", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-393"}
+{"text": "open my email account and check for new email", "label": "email", "scenario": "email", "source": "massive", "id": "dev-394"}
+{"text": "please repeat my shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-395"}
+{"text": "what's the weather", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-396"}
+{"text": "when does the last train to clarksville leave", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-397"}
+{"text": "i want to know the latest local news of the city", "label": "news", "scenario": "news", "source": "massive", "id": "dev-398"}
+{"text": "find the latest article from chris hedges on truthdig", "label": "news", "scenario": "news", "source": "massive", "id": "dev-399"}
+{"text": "please clean the floor", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-400"}
+{"text": "create a playlist", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-401"}
+{"text": "what are john's contact details", "label": "email", "scenario": "email", "source": "massive", "id": "dev-402"}
+{"text": "current", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-403"}
+{"text": "carlos linux upgrade email", "label": "email", "scenario": "email", "source": "massive", "id": "dev-404"}
+{"text": "what are meeting scheduled for today", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-405"}
+{"text": "read me the most updated news on b. b. c.", "label": "news", "scenario": "news", "source": "massive", "id": "dev-406"}
+{"text": "will gloves come in handy on tuesday", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-407"}
+{"text": "when is the best time to travel to canada what airport to use", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-408"}
+{"text": "give me the weather detail of fifteenth march", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-409"}
+{"text": "what is current traffic in ohio", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-410"}
+{"text": "what's this weeks weather", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-411"}
+{"text": "make a calendar entry for brunch on saturday morning with chris kimberly and aaronson", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-412"}
+{"text": "what's going on in new york", "label": "news", "scenario": "news", "source": "massive", "id": "dev-413"}
+{"text": "switch off the smart socket", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-414"}
+{"text": "what information do i have on reminders", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-415"}
+{"text": "i need a cup of coffee", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-416"}
+{"text": "can you please set twelve noon prayer for every friday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-417"}
+{"text": "please turn down the lights in the living room", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-418"}
+{"text": "please tell me the latest news about the election scenario in our state", "label": "news", "scenario": "news", "source": "massive", "id": "dev-419"}
+{"text": "get ready for the meeting before the event starts", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-420"}
+{"text": "is there anything new in my email folder", "label": "email", "scenario": "email", "source": "massive", "id": "dev-421"}
+{"text": "what's happened in the news recently", "label": "news", "scenario": "news", "source": "massive", "id": "dev-422"}
+{"text": "forward the mail to new email address", "label": "email", "scenario": "email", "source": "massive", "id": "dev-423"}
+{"text": "find and read to me world events happening today", "label": "news", "scenario": "news", "source": "massive", "id": "dev-424"}
+{"text": "set lights to full power", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-425"}
+{"text": "please tell me what's on the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-426"}
+{"text": "add soup to my shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-427"}
+{"text": "tell me the news in technology from engadget", "label": "news", "scenario": "news", "source": "massive", "id": "dev-428"}
+{"text": "what's the latest news from xinhua", "label": "news", "scenario": "news", "source": "massive", "id": "dev-429"}
+{"text": "i want to know what the latest news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-430"}
+{"text": "reset all events in calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-431"}
+{"text": "olly i need directions to madison street", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-432"}
+{"text": "will the weather be bad on sunday", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-433"}
+{"text": "what is the weekly weather report", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-434"}
+{"text": "what's the latest", "label": "news", "scenario": "news", "source": "massive", "id": "dev-435"}
+{"text": "brighten living room lights", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-436"}
+{"text": "add event every second friday of the month", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-437"}
+{"text": "check time of ten thousand eight hundred and eighty seven train from luni station on tuesday", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-438"}
+{"text": "tell me what is currently trending", "label": "news", "scenario": "news", "source": "massive", "id": "dev-439"}
+{"text": "what is the current news today", "label": "news", "scenario": "news", "source": "massive", "id": "dev-440"}
+{"text": "i want to see the news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-441"}
+{"text": "power off on", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-442"}
+{"text": "is it raining in barcelona", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-443"}
+{"text": "find a taxi for me", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-444"}
+{"text": "entertainment news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-445"}
+{"text": "is it a good day to go to the beach", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-446"}
+{"text": "please take me to wall street journal", "label": "news", "scenario": "news", "source": "massive", "id": "dev-447"}
+{"text": "did mike send me an email", "label": "email", "scenario": "email", "source": "massive", "id": "dev-448"}
+{"text": "please start vacuum cleaner", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-449"}
+{"text": "what's going on in the world", "label": "news", "scenario": "news", "source": "massive", "id": "dev-450"}
+{"text": "is it sunny what south the temperature", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-451"}
+{"text": "evening", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-452"}
+{"text": "what is the latest news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-453"}
+{"text": "send an email to guy selling the boat telling him that i have the money", "label": "email", "scenario": "email", "source": "massive", "id": "dev-454"}
+{"text": "let me know as soon as there is more news on brexit", "label": "news", "scenario": "news", "source": "massive", "id": "dev-455"}
+{"text": "find john smith from alabama", "label": "email", "scenario": "email", "source": "massive", "id": "dev-456"}
+{"text": "lights down to seven", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-457"}
+{"text": "any emails", "label": "email", "scenario": "email", "source": "massive", "id": "dev-458"}
+{"text": "how many recent emails have this sender or subject line", "label": "email", "scenario": "email", "source": "massive", "id": "dev-459"}
+{"text": "how will be the weather today in the afternoon", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-460"}
+{"text": "find me a cheap train ticket for miamy", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-461"}
+{"text": "send email to my wife", "label": "email", "scenario": "email", "source": "massive", "id": "dev-462"}
+{"text": "open tasks delete future events", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-463"}
+{"text": "close the light", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-464"}
+{"text": "what's the weather like in toronto", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-465"}
+{"text": "how warm is it right now outside", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-466"}
+{"text": "can you turn on the vacuum", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-467"}
+{"text": "set a repeating calendar event", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-468"}
+{"text": "my lists", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-469"}
+{"text": "and the darkness has fallen", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-470"}
+{"text": "send the following email to bro hi come down for dinner tonight", "label": "email", "scenario": "email", "source": "massive", "id": "dev-471"}
+{"text": "make a note on my to do list to call the realtor", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-472"}
+{"text": "arrange a taxi", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-473"}
+{"text": "tomorrow is a sunny day right", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-474"}
+{"text": "tell me where i should go for times", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-475"}
+{"text": "alexa turn off the wemo socket in the kitchen", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-476"}
+{"text": "hey turn off the light please", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-477"}
+{"text": "what is traffic", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-478"}
+{"text": "is it raining now", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-479"}
+{"text": "what's the news like in the u. k.", "label": "news", "scenario": "news", "source": "massive", "id": "dev-480"}
+{"text": "erase shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-481"}
+{"text": "remove noodles from the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-482"}
+{"text": "what will be the weather three days from now in five major cities near me", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-483"}
+{"text": "switch off the master's bedroom", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-484"}
+{"text": "please give me details of allen from my contact", "label": "email", "scenario": "email", "source": "massive", "id": "dev-485"}
+{"text": "change color of the light to red outside the house", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-486"}
+{"text": "what is the departure time for the next train leaving new york city", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-487"}
+{"text": "will i need a jacket today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-488"}
+{"text": "is it going to be nice out this week", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-489"}
+{"text": "read my list to me", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-490"}
+{"text": "fix the driving route from here to grant market", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-491"}
+{"text": "directions to disney world", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-492"}
+{"text": "do i have any upcoming events in my calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-493"}
+{"text": "book me a ride", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-494"}
+{"text": "switch on the vacuum cleaner", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-495"}
+{"text": "buy a train ticket for one week from now from new york to las vegas nevada", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-496"}
+{"text": "turn off living room lights", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-497"}
+{"text": "how many new emails do i have", "label": "email", "scenario": "email", "source": "massive", "id": "dev-498"}
+{"text": "report weather for thirty three thousand seven hundred and seventy four", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-499"}
+{"text": "delete the next event on my calendar so that i don't see it again", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-500"}
+{"text": "i want to know what is this newsource reporting", "label": "news", "scenario": "news", "source": "massive", "id": "dev-501"}
+{"text": "please check new email from andy", "label": "email", "scenario": "email", "source": "massive", "id": "dev-502"}
+{"text": "send an email to scott asking what the weather will be like this week", "label": "email", "scenario": "email", "source": "massive", "id": "dev-503"}
+{"text": "please remind me about this tomorrow", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-504"}
+{"text": "please draft an email to shaun requesting sunday's off for the next schedule", "label": "email", "scenario": "email", "source": "massive", "id": "dev-505"}
+{"text": "please show today meeting with clients", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-506"}
+{"text": "send email to rajesh", "label": "email", "scenario": "email", "source": "massive", "id": "dev-507"}
+{"text": "mark thirteen october of this year as my birthday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-508"}
+{"text": "get rid of peas", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-509"}
+{"text": "is today a sunny day", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-510"}
+{"text": "change light color to blue", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-511"}
+{"text": "make me a capuccino", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-512"}
+{"text": "olly give me some dim light", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-513"}
+{"text": "tell me what's happening in european politics", "label": "news", "scenario": "news", "source": "massive", "id": "dev-514"}
+{"text": "what are the latest news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-515"}
+{"text": "what is the weather supposed to be like this week", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-516"}
+{"text": "olly give me the news on donald trump", "label": "news", "scenario": "news", "source": "massive", "id": "dev-517"}
+{"text": "can you make me some coffee", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-518"}
+{"text": "what are the latest articles from yahoo news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-519"}
+{"text": "schedule city cab from home to airport at eight am", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-520"}
+{"text": "reset my locations list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-521"}
+{"text": "please send a mail to my hubby i will late tonight", "label": "email", "scenario": "email", "source": "massive", "id": "dev-522"}
+{"text": "keep me informed about bitcoin price", "label": "news", "scenario": "news", "source": "massive", "id": "dev-523"}
+{"text": "are there any emails from cassie about tom", "label": "email", "scenario": "email", "source": "massive", "id": "dev-524"}
+{"text": "please sent this email to my friend", "label": "email", "scenario": "email", "source": "massive", "id": "dev-525"}
+{"text": "set a reminder to happy thing every two days", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-526"}
+{"text": "is there a way to pull up information about a contact", "label": "email", "scenario": "email", "source": "massive", "id": "dev-527"}
+{"text": "what is the weather in this week", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-528"}
+{"text": "do i have a list of contacts for the party i'm planning", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-529"}
+{"text": "add ashley to the wedding invite list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-530"}
+{"text": "how long to get to work", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-531"}
+{"text": "open the contact alex in phonebook", "label": "email", "scenario": "email", "source": "massive", "id": "dev-532"}
+{"text": "do i have any meetings tomorrow", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-533"}
+{"text": "is it supposed to snow this week", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-534"}
+{"text": "what are the current lists i have", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-535"}
+{"text": "turn on the roomba for me", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-536"}
+{"text": "please help me turn on the robot vacuum cleaner", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-537"}
+{"text": "hey olly make a list of names starting with vowels and ending with vowels", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-538"}
+{"text": "how do i get home from here", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-539"}
+{"text": "it's coffee time", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-540"}
+{"text": "finances", "label": "news", "scenario": "news", "source": "massive", "id": "dev-541"}
+{"text": "what is the news today", "label": "news", "scenario": "news", "source": "massive", "id": "dev-542"}
+{"text": "please switch on my wemo plug socket", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-543"}
+{"text": "give an full details of pda's", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-544"}
+{"text": "what are the train times to chicago", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-545"}
+{"text": "make a new list for me", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-546"}
+{"text": "please set the brightness of lightness appropriately in kitchen", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-547"}
+{"text": "refresh my list and tell me what's on it", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-548"}
+{"text": "travel book a train ticket", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-549"}
+{"text": "away off from list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-550"}
+{"text": "when are the next three trains to boise", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-551"}
+{"text": "olly delete list for groceries", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-552"}
+{"text": "what are the latest mails i received", "label": "email", "scenario": "email", "source": "massive", "id": "dev-553"}
+{"text": "remove ice cream from grocery", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-554"}
+{"text": "set a reminder that i have to visit my father tomorrow", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-555"}
+{"text": "can you change the living room lights to a softer color", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-556"}
+{"text": "add my practice at king's park on feb four at two p. m.", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-557"}
+{"text": "help me start my kitchen list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-558"}
+{"text": "what's going on outside", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-559"}
+{"text": "please give me the traffic report for this afternoon", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-560"}
+{"text": "the latest climate and weather news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-561"}
+{"text": "did paok won liverpool", "label": "news", "scenario": "news", "source": "massive", "id": "dev-562"}
+{"text": "lead the way to the place", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-563"}
+{"text": "ethics", "label": "news", "scenario": "news", "source": "massive", "id": "dev-564"}
+{"text": "is traffic heavy on route eighty today", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-565"}
+{"text": "book tomorrow's train ticket for me to bombay in any train", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-566"}
+{"text": "what's traffic likexchange on four hundred and forty one", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-567"}
+{"text": "remind it on tuesday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-568"}
+{"text": "what's the next train at westcombe park", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-569"}
+{"text": "add bob to my list of contacts", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-570"}
+{"text": "olly front page news articles please", "label": "news", "scenario": "news", "source": "massive", "id": "dev-571"}
+{"text": "tell me about the latest politics news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-572"}
+{"text": "turn the lights on brighter", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-573"}
+{"text": "is it raining later today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-574"}
+{"text": "alex has told me that he will send an email regarding the price of the machine please check if that has come", "label": "email", "scenario": "email", "source": "massive", "id": "dev-575"}
+{"text": "olly i need that appointment posted to the calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-576"}
+{"text": "do i have a lunch date today", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-577"}
+{"text": "email james about the softball game james we need to get some refreshments before heading over", "label": "email", "scenario": "email", "source": "massive", "id": "dev-578"}
+{"text": "reduce the intensity of lights", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-579"}
+{"text": "news around the city", "label": "news", "scenario": "news", "source": "massive", "id": "dev-580"}
+{"text": "what is on my playlist", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-581"}
+{"text": "book me a taxi", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-582"}
+{"text": "the list should not contain all food items with the prefix dry", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-583"}
+{"text": "remove this list from the others", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-584"}
+{"text": "i need oranges added to my grocery list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-585"}
+{"text": "i want to know could an extra item be added to my grocery list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-586"}
+{"text": "dim the lights please", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-587"}
+{"text": "hoover the carpets around", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-588"}
+{"text": "let me know if anything happens on that subject", "label": "news", "scenario": "news", "source": "massive", "id": "dev-589"}
+{"text": "i need to change my house lights color to blue", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-590"}
+{"text": "abolish an item from list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-591"}
+{"text": "set the coffee maker to on", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-592"}
+{"text": "will i need my heavy coat after lunch today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-593"}
+{"text": "dim the lights in my bedroom", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-594"}
+{"text": "i want to add something to my calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-595"}
+{"text": "send a reply to mike", "label": "email", "scenario": "email", "source": "massive", "id": "dev-596"}
+{"text": "news from c. n. n.", "label": "news", "scenario": "news", "source": "massive", "id": "dev-597"}
+{"text": "open the weather app", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-598"}
+{"text": "delete all events for the next five days", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-599"}
+{"text": "rearrange that off the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-600"}
+{"text": "what is the traffic like right now on telegraph", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-601"}
+{"text": "give me directions for the place", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-602"}
+{"text": "begin a new list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-603"}
+{"text": "add this email address to my contacts and send an email to", "label": "email", "scenario": "email", "source": "massive", "id": "dev-604"}
+{"text": "now i need to write an email to my colleague", "label": "email", "scenario": "email", "source": "massive", "id": "dev-605"}
+{"text": "send a calendar appointment to jan", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-606"}
+{"text": "tell me about the cheapest flight fares to nj today", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-607"}
+{"text": "turn off all lights", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-608"}
+{"text": "set a meeting with hongbin", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-609"}
+{"text": "the list contain what", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-610"}
+{"text": "i need to start a list called by", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-611"}
+{"text": "send an email to all my company workers", "label": "email", "scenario": "email", "source": "massive", "id": "dev-612"}
+{"text": "send ashmit his latest tech topics available", "label": "email", "scenario": "email", "source": "massive", "id": "dev-613"}
+{"text": "make me a coffee", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-614"}
+{"text": "do i have a meeting today", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-615"}
+{"text": "what trains are available", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-616"}
+{"text": "important house information", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-617"}
+{"text": "check recent to do list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-618"}
+{"text": "read my next reminders for this afternoon", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-619"}
+{"text": "is it going to freeze overnight", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-620"}
+{"text": "what are the train schedules to new york", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-621"}
+{"text": "do i need umbrella for night", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-622"}
+{"text": "reply back to bob smith", "label": "email", "scenario": "email", "source": "massive", "id": "dev-623"}
+{"text": "reply to johns email by saying yes i can", "label": "email", "scenario": "email", "source": "massive", "id": "dev-624"}
+{"text": "what will be weather for tomorrow in mumbai", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-625"}
+{"text": "add my mom to calendar for monday brunch", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-626"}
+{"text": "olly please read me today's news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-627"}
+{"text": "olly it's too bright in here can you turn a light off", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-628"}
+{"text": "delete", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-629"}
+{"text": "remove my car payment on my calendar", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-630"}
+{"text": "can you book train ticket from mumbai to sangli for tomorrow morning", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-631"}
+{"text": "check all new emails in my inbox", "label": "email", "scenario": "email", "source": "massive", "id": "dev-632"}
+{"text": "open my notes", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-633"}
+{"text": "what time is the evening meeting i have with john", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-634"}
+{"text": "set a notification for my twelve p. m. meeting fifteen minutes before", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-635"}
+{"text": "tell me what is on the schedule for july seventh", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-636"}
+{"text": "where is the acme meeting being held on friday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-637"}
+{"text": "please check my gmail for new mail", "label": "email", "scenario": "email", "source": "massive", "id": "dev-638"}
+{"text": "update my contacts with the new contact sam at gmail dot com", "label": "email", "scenario": "email", "source": "massive", "id": "dev-639"}
+{"text": "shut off lights", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-640"}
+{"text": "when is the last time i contacted john smith", "label": "email", "scenario": "email", "source": "massive", "id": "dev-641"}
+{"text": "any new email from the boss", "label": "email", "scenario": "email", "source": "massive", "id": "dev-642"}
+{"text": "train ticket please", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-643"}
+{"text": "are there any emails in regard to my promotion", "label": "email", "scenario": "email", "source": "massive", "id": "dev-644"}
+{"text": "report what is new in my email inbox please", "label": "email", "scenario": "email", "source": "massive", "id": "dev-645"}
+{"text": "where is the train station", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-646"}
+{"text": "add birthday reminder on september four", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-647"}
+{"text": "please check mails quickly", "label": "email", "scenario": "email", "source": "massive", "id": "dev-648"}
+{"text": "is there any news about the presidency", "label": "news", "scenario": "news", "source": "massive", "id": "dev-649"}
+{"text": "please set a reminder for me to go to work in ten minutes", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-650"}
+{"text": "erase all the events", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-651"}
+{"text": "what are all the lists i have", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-652"}
+{"text": "where is the venue", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-653"}
+{"text": "make a note to pay the electricity bill and remind me on saturday at nine am", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-654"}
+{"text": "will you please show me my lists", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-655"}
+{"text": "has cassie sent me any emails about tom", "label": "email", "scenario": "email", "source": "massive", "id": "dev-656"}
+{"text": "open a new email to contact", "label": "email", "scenario": "email", "source": "massive", "id": "dev-657"}
+{"text": "tell me c. n. n.'s latest headlines", "label": "news", "scenario": "news", "source": "massive", "id": "dev-658"}
+{"text": "tell me what was today's news from news provider", "label": "news", "scenario": "news", "source": "massive", "id": "dev-659"}
+{"text": "headlines from b. b. c. world", "label": "news", "scenario": "news", "source": "massive", "id": "dev-660"}
+{"text": "how do i get to poughkeepsie from new york city", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-661"}
+{"text": "show me the seven day forecast for home please", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-662"}
+{"text": "what's the news from source", "label": "news", "scenario": "news", "source": "massive", "id": "dev-663"}
+{"text": "remove events from my list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-664"}
+{"text": "please find me the p. e. most recent news on", "label": "news", "scenario": "news", "source": "massive", "id": "dev-665"}
+{"text": "alert me when the outside temperature reaches sixty eight degrees", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-666"}
+{"text": "remove my task list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-667"}
+{"text": "i am no longer attending the wedding on the tenth so remove it from my calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-668"}
+{"text": "will the weather be less than ten degree in paris", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-669"}
+{"text": "how far is it from new york to japan", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-670"}
+{"text": "what will the weather be in chicago today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-671"}
+{"text": "open up my sister's email from yesterday click reply and turn on voice activation for my response", "label": "email", "scenario": "email", "source": "massive", "id": "dev-672"}
+{"text": "control lights turn off room lights", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-673"}
+{"text": "will the sky be overcast", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-674"}
+{"text": "search for two tickets on tuesday's train to paris", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-675"}
+{"text": "train times place", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-676"}
+{"text": "i want to know the weather in nashik", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-677"}
+{"text": "weather forecast", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-678"}
+{"text": "set a reminder for this", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-679"}
+{"text": "show me the latest news update on b. b. c.", "label": "news", "scenario": "news", "source": "massive", "id": "dev-680"}
+{"text": "it is very hot today is not it", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-681"}
+{"text": "delete the dog list for me", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-682"}
+{"text": "remind me of my appointment on the fifteenth", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-683"}
+{"text": "i emailed conrad a week ago please remind me what i wrote", "label": "email", "scenario": "email", "source": "massive", "id": "dev-684"}
+{"text": "turn my lights to some random color", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-685"}
+{"text": "initiate polling for new email", "label": "email", "scenario": "email", "source": "massive", "id": "dev-686"}
+{"text": "get me fresh news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-687"}
+{"text": "when did i get an email from john smith about car accident", "label": "email", "scenario": "email", "source": "massive", "id": "dev-688"}
+{"text": "during the timeframe of february one and march sixteen what meetings occurred", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-689"}
+{"text": "please send an email to uncle john telling him that i will be there", "label": "email", "scenario": "email", "source": "massive", "id": "dev-690"}
+{"text": "what was the news for march fourth two thousand and seventeenth", "label": "news", "scenario": "news", "source": "massive", "id": "dev-691"}
+{"text": "are there any trips to location a provided by the train", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-692"}
+{"text": "when does the train leave for chicago from ann arbor", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-693"}
+{"text": "send happy new year to john at gmail dot com", "label": "email", "scenario": "email", "source": "massive", "id": "dev-694"}
+{"text": "how will be the weather tomorrow", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-695"}
+{"text": "if there is any free space please set a reminder for me to call my sister about a college fund between my meetings this evening", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-696"}
+{"text": "will i need to carry an umbrella with me today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-697"}
+{"text": "notify me when my rent due", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-698"}
+{"text": "how is the traffic in milligrams road", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-699"}
+{"text": "what is the forecast for the week", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-700"}
+{"text": "how many emails do i have from work today", "label": "email", "scenario": "email", "source": "massive", "id": "dev-701"}
+{"text": "what's the weather like right now in new york", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-702"}
+{"text": "please turn on wemo socket", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-703"}
+{"text": "check on this week's weather report", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-704"}
+{"text": "remind me to do something then", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-705"}
+{"text": "ok google what is the weather where i am at today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-706"}
+{"text": "tell me all the events between today and the twenty first", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-707"}
+{"text": "list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-708"}
+{"text": "what is on this list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-709"}
+{"text": "erase calendar events", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-710"}
+{"text": "can you book a train ticket for my father", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-711"}
+{"text": "normal temperature", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-712"}
+{"text": "erase the chore list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-713"}
+{"text": "bring me a train ticket", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-714"}
+{"text": "show me all meeting reminder", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-715"}
+{"text": "check in contacts", "label": "email", "scenario": "email", "source": "massive", "id": "dev-716"}
+{"text": "notify me one hour before my meeting", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-717"}
+{"text": "open temperature", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-718"}
+{"text": "what degree is it outside", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-719"}
+{"text": "how long until we get to chicago", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-720"}
+{"text": "please tell me the latest news of world", "label": "news", "scenario": "news", "source": "massive", "id": "dev-721"}
+{"text": "is there room on my grocery list for an extra item", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-722"}
+{"text": "hey can you make it blue in here", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-723"}
+{"text": "what about new mail", "label": "email", "scenario": "email", "source": "massive", "id": "dev-724"}
+{"text": "status of weather", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-725"}
+{"text": "turn on the plug", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-726"}
+{"text": "will it rain in the evening today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-727"}
+{"text": "will there be snow this week", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-728"}
+{"text": "get me an uber please", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-729"}
+{"text": "i need that appointment posted to the calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-730"}
+{"text": "please tell me when is the birthday party of jenny", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-731"}
+{"text": "hey what will the weather be like to today in los angeles california", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-732"}
+{"text": "remind me to buy a gift once in morning and once in evening", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-733"}
+{"text": "change the color of the lights", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-734"}
+{"text": "make the light more visible", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-735"}
+{"text": "what's the news about in africa", "label": "news", "scenario": "news", "source": "massive", "id": "dev-736"}
+{"text": "tell me important news today", "label": "news", "scenario": "news", "source": "massive", "id": "dev-737"}
+{"text": "what's the weather like today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-738"}
+{"text": "set up an event recurring throughout the month", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-739"}
+{"text": "will i need an umbrella this week", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-740"}
+{"text": "please make some coffee for me", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-741"}
+{"text": "how far is the distance to rccg ikoyi lagos from here by train", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-742"}
+{"text": "can you find me a train ticket to southampton on memorial day weekend", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-743"}
+{"text": "update my list with shoes", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-744"}
+{"text": "do remove next event from the calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-745"}
+{"text": "respond to mom's mail message about the recipe site", "label": "email", "scenario": "email", "source": "massive", "id": "dev-746"}
+{"text": "turn down lights", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-747"}
+{"text": "map out a route from here to abita brew pub", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-748"}
+{"text": "set the mood please", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-749"}
+{"text": "olly i need coffee", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-750"}
+{"text": "check for hot news in times of india", "label": "news", "scenario": "news", "source": "massive", "id": "dev-751"}
+{"text": "remove new year from calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-752"}
+{"text": "tell me something interesting on the message list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-753"}
+{"text": "do i have an appointment next wednesday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-754"}
+{"text": "please put me your input to know my schedule", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-755"}
+{"text": "add ketchup to the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-756"}
+{"text": "set reminder for meeting at three p. m. tomorrow", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-757"}
+{"text": "what will the weather be tomorrow", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-758"}
+{"text": "please provide the detailed information about the next event", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-759"}
+{"text": "will it rain tomorrow in miami", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-760"}
+{"text": "put wash the car to my to do list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-761"}
+{"text": "find new trump articles but not from fox news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-762"}
+{"text": "remind me to pick up more dog food at petco tomorrow at seven twenty p. m.", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-763"}
+{"text": "remind me to pay the electricity bill on this weekend at nine am", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-764"}
+{"text": "change the lights in the living room to green and red", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-765"}
+{"text": "hey what time does the next train depart", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-766"}
+{"text": "hey what time can i catch the nearest train to me", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-767"}
+{"text": "send email to mom starting with the subject vacation", "label": "email", "scenario": "email", "source": "massive", "id": "dev-768"}
+{"text": "what's on the news today", "label": "news", "scenario": "news", "source": "massive", "id": "dev-769"}
+{"text": "start the robot vacuum cleaner at one p. m. today", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-770"}
+{"text": "what is the headline from today's morning local news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-771"}
+{"text": "what are all my lists please", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-772"}
+{"text": "has any mail received with an attachment", "label": "email", "scenario": "email", "source": "massive", "id": "dev-773"}
+{"text": "alexa check my email", "label": "email", "scenario": "email", "source": "massive", "id": "dev-774"}
+{"text": "add new songs to playlist", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-775"}
+{"text": "can you make me some coffee olly", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-776"}
+{"text": "get latest news report on kidnapping in ny", "label": "news", "scenario": "news", "source": "massive", "id": "dev-777"}
+{"text": "compose email", "label": "email", "scenario": "email", "source": "massive", "id": "dev-778"}
+{"text": "send email to cat that i will accept job offer", "label": "email", "scenario": "email", "source": "massive", "id": "dev-779"}
+{"text": "is there email id of john in the list", "label": "email", "scenario": "email", "source": "massive", "id": "dev-780"}
+{"text": "please delete this list for me", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-781"}
+{"text": "change my light color to blue and please turn off the kitchen light", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-782"}
+{"text": "are there any new emails", "label": "email", "scenario": "email", "source": "massive", "id": "dev-783"}
+{"text": "prepare some cups of coffee for us", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-784"}
+{"text": "what is going on on december fourth", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-785"}
+{"text": "dim the lights in the bathroom", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-786"}
+{"text": "remind me to get the oil changed", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-787"}
+{"text": "off all type of active devices", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-788"}
+{"text": "how much snow has fallen in maine since yesterday", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-789"}
+{"text": "more light", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-790"}
+{"text": "show me articles about the new iphone eight", "label": "news", "scenario": "news", "source": "massive", "id": "dev-791"}
+{"text": "what's happening in america", "label": "news", "scenario": "news", "source": "massive", "id": "dev-792"}
+{"text": "turn my plug on", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-793"}
+{"text": "is there any events planned for the next three months", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-794"}
+{"text": "what happened yesterday from three p. m. to four p. m.", "label": "news", "scenario": "news", "source": "massive", "id": "dev-795"}
+{"text": "any event message is available in last two days", "label": "email", "scenario": "email", "source": "massive", "id": "dev-796"}
+{"text": "please remove list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-797"}
+{"text": "open all mails from steffi", "label": "email", "scenario": "email", "source": "massive", "id": "dev-798"}
+{"text": "find me a train ticket for the next trip to washington d. c.", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-799"}
+{"text": "what to do today", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-800"}
+{"text": "notify me when joshua emails me", "label": "email", "scenario": "email", "source": "massive", "id": "dev-801"}
+{"text": "what is the weather going to be this weekend", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-802"}
+{"text": "what's the latest on trump", "label": "news", "scenario": "news", "source": "massive", "id": "dev-803"}
+{"text": "turn off the lights in the bedroom", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-804"}
+{"text": "make the room light blue", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-805"}
+{"text": "i want to go to mcdo", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-806"}
+{"text": "create a new grocery list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-807"}
+{"text": "please read my new mails", "label": "email", "scenario": "email", "source": "massive", "id": "dev-808"}
+{"text": "email the message hi come down for dinner tonight to bro", "label": "email", "scenario": "email", "source": "massive", "id": "dev-809"}
+{"text": "answer this mail", "label": "email", "scenario": "email", "source": "massive", "id": "dev-810"}
+{"text": "what will be the highest temperature in coming week", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-811"}
+{"text": "what is new news for today", "label": "news", "scenario": "news", "source": "massive", "id": "dev-812"}
+{"text": "please dim the lights", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-813"}
+{"text": "make coffee now", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-814"}
+{"text": "tell me the trains from california to new jersey after eleven p. m.", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-815"}
+{"text": "inform me about the latest news of donald trump", "label": "news", "scenario": "news", "source": "massive", "id": "dev-816"}
+{"text": "tell me the news about share market ups and downs", "label": "news", "scenario": "news", "source": "massive", "id": "dev-817"}
+{"text": "is it going to be sunny tomorrow", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-818"}
+{"text": "read my to do list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-819"}
+{"text": "when is that meeting with my boss next week", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-820"}
+{"text": "olly set coffee to brew at seven am", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-821"}
+{"text": "olly make me coffee at eight am", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-822"}
+{"text": "start coffee at six am", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-823"}
+{"text": "how's the weather in orlando", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-824"}
+{"text": "how is the news in ireland", "label": "news", "scenario": "news", "source": "massive", "id": "dev-825"}
+{"text": "is the meeting with julie at three p. m. on wednesday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-826"}
+{"text": "i am unavailable from four to six in the evening tomorrow mark my calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-827"}
+{"text": "hi can you please turn lower the lights", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-828"}
+{"text": "hail taxi", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-829"}
+{"text": "weather in atlanta", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-830"}
+{"text": "give the latest updates on narendra modi", "label": "news", "scenario": "news", "source": "massive", "id": "dev-831"}
+{"text": "show me the latest emails from amazon", "label": "email", "scenario": "email", "source": "massive", "id": "dev-832"}
+{"text": "what's in the news today", "label": "news", "scenario": "news", "source": "massive", "id": "dev-833"}
+{"text": "can you book a train ticket for me under dollars", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-834"}
+{"text": "deactivate smart plug socket", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-835"}
+{"text": "here's the truth about meals on wheels in someone's budget", "label": "news", "scenario": "news", "source": "massive", "id": "dev-836"}
+{"text": "please turn on my vacuum cleaner", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-837"}
+{"text": "did joe leave any contact information in his email", "label": "email", "scenario": "email", "source": "massive", "id": "dev-838"}
+{"text": "remove events from calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-839"}
+{"text": "hey email jan about our meeting", "label": "email", "scenario": "email", "source": "massive", "id": "dev-840"}
+{"text": "will i need a jacket", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-841"}
+{"text": "send an email to bill that i'm sorry i didn't realize he was so sick", "label": "email", "scenario": "email", "source": "massive", "id": "dev-842"}
+{"text": "what do we have on new york time's front page", "label": "news", "scenario": "news", "source": "massive", "id": "dev-843"}
+{"text": "put the item on the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-844"}
+{"text": "tell me latest updates of new york", "label": "news", "scenario": "news", "source": "massive", "id": "dev-845"}
+{"text": "register an event or a ticket", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-846"}
+{"text": "hey olly what will the weather be like to today in los angeles california", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-847"}
+{"text": "turn down the lights", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-848"}
+{"text": "what is the breaking news for the day", "label": "news", "scenario": "news", "source": "massive", "id": "dev-849"}
+{"text": "what's happening today with syria <empty>", "label": "news", "scenario": "news", "source": "massive", "id": "dev-850"}
+{"text": "i am going to chinatown in half an hour book an uber for me", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-851"}
+{"text": "what is the highest temperature for this week", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-852"}
+{"text": "add new email to anna", "label": "email", "scenario": "email", "source": "massive", "id": "dev-853"}
+{"text": "tell me about the federal budget", "label": "news", "scenario": "news", "source": "massive", "id": "dev-854"}
+{"text": "i want the room to be less bright", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-855"}
+{"text": "find john smith in contacts", "label": "email", "scenario": "email", "source": "massive", "id": "dev-856"}
+{"text": "please brighten the room", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-857"}
+{"text": "what time are the trains going to chennai leaving", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-858"}
+{"text": "pencil me in for sarahs birthday party on the twelveth", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-859"}
+{"text": "read out my shopping list for today", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-860"}
+{"text": "what is on my rap playlist", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-861"}
+{"text": "can i find out information about a contact", "label": "email", "scenario": "email", "source": "massive", "id": "dev-862"}
+{"text": "request an uber now", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-863"}
+{"text": "start a pot of coffee please", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-864"}
+{"text": "will it rain saturday", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-865"}
+{"text": "alexa lower lights down", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-866"}
+{"text": "weather this week", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-867"}
+{"text": "tell me my congressional representatives voting records on reproductive health issues", "label": "news", "scenario": "news", "source": "massive", "id": "dev-868"}
+{"text": "send email to husband to ask for restaurant ideas", "label": "email", "scenario": "email", "source": "massive", "id": "dev-869"}
+{"text": "please send an email to john saying i'm on leave", "label": "email", "scenario": "email", "source": "massive", "id": "dev-870"}
+{"text": "please help serve me coffee with a no sugar", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-871"}
+{"text": "create a list for today's tasks", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-872"}
+{"text": "check email for subject", "label": "email", "scenario": "email", "source": "massive", "id": "dev-873"}
+{"text": "can you find out the latest world news from yesterday", "label": "news", "scenario": "news", "source": "massive", "id": "dev-874"}
+{"text": "what did ben email me", "label": "email", "scenario": "email", "source": "massive", "id": "dev-875"}
+{"text": "please make coffee", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-876"}
+{"text": "how many items are on my list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-877"}
+{"text": "is today going to be sunny", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-878"}
+{"text": "what's going on around here", "label": "news", "scenario": "news", "source": "massive", "id": "dev-879"}
+{"text": "olly what is the weather forecast for today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-880"}
+{"text": "do i need to take the umbrella out today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-881"}
+{"text": "bring up my email", "label": "email", "scenario": "email", "source": "massive", "id": "dev-882"}
+{"text": "what are the headlines from the new york times", "label": "news", "scenario": "news", "source": "massive", "id": "dev-883"}
+{"text": "did snap become public yet", "label": "news", "scenario": "news", "source": "massive", "id": "dev-884"}
+{"text": "what's the news from wbc right now", "label": "news", "scenario": "news", "source": "massive", "id": "dev-885"}
+{"text": "can you create a list for me", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-886"}
+{"text": "increase light", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-887"}
+{"text": "will the u. v. index be above eight today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-888"}
+{"text": "can you make the lights go out", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-889"}
+{"text": "what is the traffic like", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-890"}
+{"text": "please shut off the kitchen lights", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-891"}
+{"text": "tell me if i should use the train or bus to get across town today", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-892"}
+{"text": "which teams are playing today in the premier league", "label": "news", "scenario": "news", "source": "massive", "id": "dev-893"}
+{"text": "how heavy is traffic on interstate twenty", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-894"}
+{"text": "google uber", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-895"}
+{"text": "do i have an amazon list saved", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-896"}
+{"text": "how many meetings are on my calendar today", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-897"}
+{"text": "give me the names of my lists", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-898"}
+{"text": "what's on my list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-899"}
+{"text": "open derek's contact information", "label": "email", "scenario": "email", "source": "massive", "id": "dev-900"}
+{"text": "how long does it take to get the train from rome to paris", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-901"}
+{"text": "prepare coffee now", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-902"}
+{"text": "hey olly turn off the light please", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-903"}
+{"text": "change the lights of the house to a blue hue", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-904"}
+{"text": "tell me the list about", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-905"}
+{"text": "find the nearest taxi", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-906"}
+{"text": "add a movie name to the wish list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-907"}
+{"text": "notify me about any festival occurring next month", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-908"}
+{"text": "get the latest news about formula one racing please", "label": "news", "scenario": "news", "source": "massive", "id": "dev-909"}
+{"text": "please turn off the wemo plug", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-910"}
+{"text": "ask for the weather today evening", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-911"}
+{"text": "train times", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-912"}
+{"text": "turn the plug off", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-913"}
+{"text": "i need to reply to this email", "label": "email", "scenario": "email", "source": "massive", "id": "dev-914"}
+{"text": "remove my shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-915"}
+{"text": "please turn off the smart plug socket", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-916"}
+{"text": "when was the last time that i spoke to john", "label": "email", "scenario": "email", "source": "massive", "id": "dev-917"}
+{"text": "notify me an hour before my two p. m. appointment at the car dealership", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-918"}
+{"text": "show me the most recent emails", "label": "email", "scenario": "email", "source": "massive", "id": "dev-919"}
+{"text": "hey is it going to rain today in brooklyn new york", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-920"}
+{"text": "what are my appointments for twelve p. m. to four p. m.", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-921"}
+{"text": "can i find the cheapest train ticket for this destination", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-922"}
+{"text": "notification of meeting on wednesday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-923"}
+{"text": "remove item three", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-924"}
+{"text": "meeting this friday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-925"}
+{"text": "send me alert on any new topic on politics", "label": "news", "scenario": "news", "source": "massive", "id": "dev-926"}
+{"text": "prepare a new list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-927"}
+{"text": "open the contact named john", "label": "email", "scenario": "email", "source": "massive", "id": "dev-928"}
+{"text": "hey what are my lists", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-929"}
+{"text": "when does the f. train run today", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-930"}
+{"text": "adjust light when i get home", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-931"}
+{"text": "make new list of recent workouts", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-932"}
+{"text": "is snow in the forecast", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-933"}
+{"text": "will i need an umbrella today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-934"}
+{"text": "please remove task list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-935"}
+{"text": "call bill to reschedule our meeting", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-936"}
+{"text": "start vacuuming", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-937"}
+{"text": "how much is a round trip train ticket to go to new york", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-938"}
+{"text": "please give me an update on the election every thirty minutes", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-939"}
+{"text": "are there any new emails received after four o'clock today", "label": "email", "scenario": "email", "source": "massive", "id": "dev-940"}
+{"text": "have i received any mail in the last hour", "label": "email", "scenario": "email", "source": "massive", "id": "dev-941"}
+{"text": "do i have repair work today", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-942"}
+{"text": "remove my grocery list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-943"}
+{"text": "show me a traffic map from kamycka to dejvicka", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-944"}
+{"text": "turn the wemo off", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-945"}
+{"text": "send an email to peter that where he is now and if he is at the market text him to bring some wine", "label": "email", "scenario": "email", "source": "massive", "id": "dev-946"}
+{"text": "change the lights in the kitchen to blue", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-947"}
+{"text": "tell the latest news about the trump", "label": "news", "scenario": "news", "source": "massive", "id": "dev-948"}
+{"text": "eliminate the list kickball but make sure the contacts remain", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-949"}
+{"text": "what items are on my shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-950"}
+{"text": "what is the weather going to be like today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-951"}
+{"text": "i need sport's news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-952"}
+{"text": "set a reminder for next saturday go to the library at five o'clock", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-953"}
+{"text": "i want to add a lunch date with mike jim and bob", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-954"}
+{"text": "has mike sent me an email", "label": "email", "scenario": "email", "source": "massive", "id": "dev-955"}
+{"text": "what is latest gossip of holywood going on", "label": "news", "scenario": "news", "source": "massive", "id": "dev-956"}
+{"text": "tell me about trump", "label": "news", "scenario": "news", "source": "massive", "id": "dev-957"}
+{"text": "add grocery shopping to my to do list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-958"}
+{"text": "is there going to be any flip flop weather soon", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-959"}
+{"text": "what are my available lists", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-960"}
+{"text": "do i need to wear boots", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-961"}
+{"text": "olly has robert emails me yet", "label": "email", "scenario": "email", "source": "massive", "id": "dev-962"}
+{"text": "what will the weather be for the next week", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-963"}
+{"text": "go to map", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-964"}
+{"text": "can you turn off the smart socket", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-965"}
+{"text": "what's new in my email inbox", "label": "email", "scenario": "email", "source": "massive", "id": "dev-966"}
+{"text": "did the yankees win last night", "label": "news", "scenario": "news", "source": "massive", "id": "dev-967"}
+{"text": "book a train ticket from baltimore maryland to new york new york", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-968"}
+{"text": "what is the current temperature in austin", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-969"}
+{"text": "hey olly tell my today's top news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-970"}
+{"text": "book me a taxi to leith in half an hour", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-971"}
+{"text": "the five p. m. train on wednesday to rockville is it on time", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-972"}
+{"text": "what is job title of jan medvesek", "label": "email", "scenario": "email", "source": "massive", "id": "dev-973"}
+{"text": "start a new list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-974"}
+{"text": "go to nytimes dot com", "label": "news", "scenario": "news", "source": "massive", "id": "dev-975"}
+{"text": "if it is from a very familiar place mark it as important", "label": "email", "scenario": "email", "source": "massive", "id": "dev-976"}
+{"text": "what went on in the world today", "label": "news", "scenario": "news", "source": "massive", "id": "dev-977"}
+{"text": "is it too hot for pants", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-978"}
+{"text": "make me a new checklist", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-979"}
+{"text": "let me know if there is a town meeting monday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-980"}
+{"text": "olly it's too dark i can't even see my hands", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-981"}
+{"text": "set a notification for fifth march that i have a doctor's appointment at ten am", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-982"}
+{"text": "what is on my t. v. list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-983"}
+{"text": "is it going to rain in the next few days in tucson", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-984"}
+{"text": "list all train times to ny", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-985"}
+{"text": "new news tech", "label": "news", "scenario": "news", "source": "massive", "id": "dev-986"}
+{"text": "turn off one light on porch", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-987"}
+{"text": "when is john's birthday", "label": "email", "scenario": "email", "source": "massive", "id": "dev-988"}
+{"text": "what does the weather look like this week", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-989"}
+{"text": "hey olly cancel all my other meetings and calls for second march as it is jim's birthday tag it as an event in your calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-990"}
+{"text": "create a new list called grocery store please", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-991"}
+{"text": "can i check my lists", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-992"}
+{"text": "how do i get to old street", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-993"}
+{"text": "turn off the fan", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-994"}
+{"text": "what is the latest news on the health care reform", "label": "news", "scenario": "news", "source": "massive", "id": "dev-995"}
+{"text": "open irctc application and go to book ticket", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-996"}
+{"text": "book me a train ticket to new york city on the third i don't care what time", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-997"}
+{"text": "report recent emails", "label": "email", "scenario": "email", "source": "massive", "id": "dev-998"}
+{"text": "is there a train ticket available for boston tomorrow", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-999"}
+{"text": "what's the best way to france", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1000"}
+{"text": "please remove all items on my calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1001"}
+{"text": "olly send mom an email to remind her to meet me for lunch today", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1002"}
+{"text": "i want to go to bank of america give me directions", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1003"}
+{"text": "i need a taxi to take me to the airport please", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1004"}
+{"text": "what's new", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1005"}
+{"text": "notify me when this meeting is close", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1006"}
+{"text": "brighten more light", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1007"}
+{"text": "should i wear a sweater", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1008"}
+{"text": "set reminder to pick up kids on weekdays at three p. m.", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1009"}
+{"text": "what is on my to do list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1010"}
+{"text": "set any appointment for this event in my calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1011"}
+{"text": "when the meeting start", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1012"}
+{"text": "keep the socket in off condition", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1013"}
+{"text": "events happening between eight am and five p. m. today", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1014"}
+{"text": "news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1015"}
+{"text": "give me a current traffic report", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1016"}
+{"text": "add pick up kids from school to my to do list for today", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1017"}
+{"text": "buy me today train ticket to city leeds", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1018"}
+{"text": "please start me some coffee", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1019"}
+{"text": "tell me today's weather report of city alabama", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1020"}
+{"text": "can you book an uber for me", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1021"}
+{"text": "please let me know when there is an update to the plane crash story", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1022"}
+{"text": "please dim the lights in the bedroom", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1023"}
+{"text": "what happened yesterday", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1024"}
+{"text": "please tell me what's on my to-do list for today", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1025"}
+{"text": "email my mother", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1026"}
+{"text": "reply to the email from my bank and inform them that i have paid the credit card dues", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1027"}
+{"text": "do i have any new emails in my inbox today", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1028"}
+{"text": "can you get me news from ny times", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1029"}
+{"text": "what did i get emailed about this week", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1030"}
+{"text": "any traffic issues today", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1031"}
+{"text": "how many reminders are there for tomorrow", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1032"}
+{"text": "what is the weather today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1033"}
+{"text": "book me an uber", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1034"}
+{"text": "please create a new list for me", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1035"}
+{"text": "add a notification from bob's news on the weather", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1036"}
+{"text": "start the robotic vacuum", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1037"}
+{"text": "delete my list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1038"}
+{"text": "i need everything deleted from calendar please", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1039"}
+{"text": "what is the weather condition in new york", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1040"}
+{"text": "change the color of the lights in my bedroom to red", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1041"}
+{"text": "do i have a date for tonight", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1042"}
+{"text": "open the local news app", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1043"}
+{"text": "add chives to my shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1044"}
+{"text": "what is the b. b. c.'s latest news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1045"}
+{"text": "i want to reply to bob smith's email", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1046"}
+{"text": "what is the latest headline news from this newsource", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1047"}
+{"text": "power off wemo plug socket", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1048"}
+{"text": "what are the trending articles on the new york times", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1049"}
+{"text": "when is my dentist appointment", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1050"}
+{"text": "can you delete my shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1051"}
+{"text": "facebook launches disputed tag to crack down on fake news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1052"}
+{"text": "book my nearest available taxi", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1053"}
+{"text": "hey cancel all my other meetings and calls for second march as it is jim's birthday tag it as an event in your calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1054"}
+{"text": "display list of recent emails", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1055"}
+{"text": "list me the remainder of things left on the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1056"}
+{"text": "inform me on the items on the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1057"}
+{"text": "what's going on in the world these days", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1058"}
+{"text": "is the weather cold", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1059"}
+{"text": "how is the weather in utah right now", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1060"}
+{"text": "call a cab", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1061"}
+{"text": "can i know what i on the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1062"}
+{"text": "b. b. c.", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1063"}
+{"text": "what is the average temperature in march for pennsylvania and how does that compare to the last ten years", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1064"}
+{"text": "did linda connors reply to any of my emails this morning", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1065"}
+{"text": "give me more light", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1066"}
+{"text": "will i need sunscreen today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1067"}
+{"text": "what lists do you have on you right now", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1068"}
+{"text": "enter this to a list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1069"}
+{"text": "erase my next calendar event", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1070"}
+{"text": "make a grocery list please", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1071"}
+{"text": "i want you to create a list for me", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1072"}
+{"text": "get eggs on the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1073"}
+{"text": "add a lunch date to my calendar for march fifteenth from twelve noon to one p. m.", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1074"}
+{"text": "please delete this file", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1075"}
+{"text": "will the temperature be above freezing on wednesday", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1076"}
+{"text": "remove item four", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1077"}
+{"text": "can you create a new list in the playlist", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1078"}
+{"text": "will it be too cold for a dress on sunday", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1079"}
+{"text": "write this message to the coworker group", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1080"}
+{"text": "read about the latest new about this world", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1081"}
+{"text": "i don't need the lights", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1082"}
+{"text": "in delhi traffic level too high", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1083"}
+{"text": "get me train times to location from station", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1084"}
+{"text": "see my inbox for mail i received from sarah", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1085"}
+{"text": "show me all the emails received recently", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1086"}
+{"text": "add event to calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1087"}
+{"text": "it's too dark here", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1088"}
+{"text": "could you please find me the latest news from a source that i do not usually go to", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1089"}
+{"text": "send a taxi to come pick me up from my location", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1090"}
+{"text": "how soon is my anniversary", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1091"}
+{"text": "find all emails that contain the following subject", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1092"}
+{"text": "request a taxi from udrive service", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1093"}
+{"text": "what will the weather be like in oklahoma city on monday", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1094"}
+{"text": "call an uberpool to get me at long island bar", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1095"}
+{"text": "let me see the latest in the news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1096"}
+{"text": "how long does it take to get there", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1097"}
+{"text": "book taxi for now", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1098"}
+{"text": "tell me all the pending reminders", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1099"}
+{"text": "what are my tasks", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1100"}
+{"text": "did the boss send anything", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1101"}
+{"text": "how far away is the nearest rest stop", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1102"}
+{"text": "what's the latest news from c. n. n.", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1103"}
+{"text": "add birthday with mom for next month", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1104"}
+{"text": "book train ticket for this time", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1105"}
+{"text": "delete trip scheduled july fourth", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1106"}
+{"text": "send me reminder to call my daughter on thursday for her anniversary", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1107"}
+{"text": "when is the train arriving today", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1108"}
+{"text": "where does john smith live and what is his phone number", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1109"}
+{"text": "what's the weather for the entire week", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1110"}
+{"text": "how long does it take the train to get from here and the met", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1111"}
+{"text": "give me the driving directions from faripir to gurpur", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1112"}
+{"text": "what i am going to do today", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1113"}
+{"text": "send a copy of the bills to mecky by email", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1114"}
+{"text": "olly make my coffee", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1115"}
+{"text": "give me directions to get from here to crescent city brewhouse in new orleans", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1116"}
+{"text": "tell me my options for a train to los angles next wednesday or thursday", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1117"}
+{"text": "get me the popular news from b. b. c.", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1118"}
+{"text": "please relocate all dates to the trash", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1119"}
+{"text": "what is the weather for this week", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1120"}
+{"text": "remove wyatt's birthday party on my calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1121"}
+{"text": "can you change the light colors in the house", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1122"}
+{"text": "remove list of outgoing calls", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1123"}
+{"text": "will i need my snow boots this afternoon", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1124"}
+{"text": "what does the traffic look like headed to la", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1125"}
+{"text": "can i go out in shorts", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1126"}
+{"text": "will you please put something something at gmail dot com in my contacts", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1127"}
+{"text": "i'd like to send a reply", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1128"}
+{"text": "show me my calendar event this friday afternoon", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1129"}
+{"text": "what are all the lists i have available", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1130"}
+{"text": "read the ticket for tesla", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1131"}
+{"text": "flag me an uber for ten p. m. tonight", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1132"}
+{"text": "will it be raining tomorrow", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1133"}
+{"text": "will punjab mail reach on time in gwalior", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1134"}
+{"text": "please remove the grocery list from my set of lists", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1135"}
+{"text": "please set a reminder in my calendar for my meeting on march twenty five", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1136"}
+{"text": "what will the weather conditions of lucknow on ninth february two thousand and seventeen", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1137"}
+{"text": "set the color of light to red", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1138"}
+{"text": "daily news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1139"}
+{"text": "please check the weather in kansas", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1140"}
+{"text": "you can set schedules for your devices and control them remotely using a mobile internet connection", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1141"}
+{"text": "slightly raise the light", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1142"}
+{"text": "add to calendar october first at two p. m. lunch with ann", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1143"}
+{"text": "train tickets for two people from delhi to mumbai", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1144"}
+{"text": "add contacts north mail", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1145"}
+{"text": "i want to see news about politics", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1146"}
+{"text": "display the seven day forecast for this week", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1147"}
+{"text": "bring up a new shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1148"}
+{"text": "send email to manoj vyas", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1149"}
+{"text": "show me my new emails", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1150"}
+{"text": "what are the train times for", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1151"}
+{"text": "any mail marked as important", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1152"}
+{"text": "through outlook", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1153"}
+{"text": "what's on my to-do list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1154"}
+{"text": "check unread emails", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1155"}
+{"text": "what is the weather near me this week", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1156"}
+{"text": "tell me the date of inauguration of my friend sams business", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1157"}
+{"text": "what is the current temperature outside", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1158"}
+{"text": "save this email in my contact for future use", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1159"}
+{"text": "choose a brighter color for reading", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1160"}
+{"text": "send mom an email now", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1161"}
+{"text": "delete the grocery list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1162"}
+{"text": "please send a mail to my friend divya how are you", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1163"}
+{"text": "i want to know who is at the top of the english premier league at the moment", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1164"}
+{"text": "do more light", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1165"}
+{"text": "terrorist activities", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1166"}
+{"text": "please give me the weather report for this week", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1167"}
+{"text": "will it rain later in manila", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1168"}
+{"text": "did marckel replied to me on mail", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1169"}
+{"text": "remind me to eat when i get home", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1170"}
+{"text": "where is the kiss concert", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1171"}
+{"text": "i need to book a taxi", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1172"}
+{"text": "show me the today's world news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1173"}
+{"text": "alarm if any new reply from the boss", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1174"}
+{"text": "would like to know the time of train four", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1175"}
+{"text": "what are the main news stories on the la times now", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1176"}
+{"text": "do i have any incoming emails", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1177"}
+{"text": "how can i delete an item", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1178"}
+{"text": "check any mail from amazon", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1179"}
+{"text": "what time does the first train depart from chicago", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1180"}
+{"text": "pull up news from the wallstreet journal", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1181"}
+{"text": "delete the last phrase", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1182"}
+{"text": "recent conroe news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1183"}
+{"text": "change the color of my lights to something random", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1184"}
+{"text": "what do i need to know about the show", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1185"}
+{"text": "period the light should be in dim", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1186"}
+{"text": "it's my mother's birthday today send me a notification every year on this date", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1187"}
+{"text": "mark all remaining calendar events for today as cleared", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1188"}
+{"text": "can you tell me the current traffic condition of my location", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1189"}
+{"text": "siri how is the weather outside", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1190"}
+{"text": "what's the weather like tomorrow", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1191"}
+{"text": "where is hallway", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1192"}
+{"text": "can you bright the lights please", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1193"}
+{"text": "what is the exchange rate of us dollar to pound sterling", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1194"}
+{"text": "book me a ticket for a train to new york from boston in two days from now", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1195"}
+{"text": "do i have any reminders on my list", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1196"}
+{"text": "color the lights red", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1197"}
+{"text": "give me directions to the nearest mcdonald's", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1198"}
+{"text": "take item off list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1199"}
+{"text": "what were the winning numbers of the powerball lottery yesterday", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1200"}
+{"text": "please give me directions to a park near me", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1201"}
+{"text": "what is the current forecast for minneapolis", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1202"}
+{"text": "call yellow cab", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1203"}
+{"text": "add email to contacts", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1204"}
+{"text": "what are they saying about donald trump on this topic", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1205"}
+{"text": "olly remind me about tomorrow's meeting tonight", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1206"}
+{"text": "call me a taxi to the airport at five am", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1207"}
+{"text": "delete butterfly clips from my wish list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1208"}
+{"text": "give me news from c. n. n.", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1209"}
+{"text": "please reschedule the meeting to six p. m. tomorrow and inform members", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1210"}
+{"text": "have i need to take a sun glass", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1211"}
+{"text": "how is the news media reacting to trump's potential ties with russia", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1212"}
+{"text": "olly make coffee at six am", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1213"}
+{"text": "plant based news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1214"}
+{"text": "send an email to my friend say birthday wishes", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1215"}
+{"text": "show future events", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1216"}
+{"text": "umbrella later", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1217"}
+{"text": "start a grocery list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1218"}
+{"text": "check my to do list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1219"}
+{"text": "is it going to snow this weekend here", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1220"}
+{"text": "turn on the socket", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1221"}
+{"text": "start list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1222"}
+{"text": "turn up the brightness", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1223"}
+{"text": "email gary", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1224"}
+{"text": "put on my calendar meeting with ms. boland on wednesday eight hundred am", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1225"}
+{"text": "how do i book a train ticket online", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1226"}
+{"text": "check time of kalka train from jodhpur station on monday", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1227"}
+{"text": "generate a new inventory", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1228"}
+{"text": "remind", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1229"}
+{"text": "what's the news in politics", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1230"}
+{"text": "please turn off wemo socket", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1231"}
+{"text": "give us president's election news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1232"}
+{"text": "do i need sunscreen for today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1233"}
+{"text": "what was the last email dan sent", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1234"}
+{"text": "good", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1235"}
+{"text": "go to the washington post website", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1236"}
+{"text": "name all lists", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1237"}
+{"text": "give me the details on purchase order", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1238"}
+{"text": "how heavy is traffic now in denver", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1239"}
+{"text": "can you set my coffee machine to make me coffee at four p. m. time", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1240"}
+{"text": "get rid of the last list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1241"}
+{"text": "lower the intensity of light", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1242"}
+{"text": "display latest emails olly", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1243"}
+{"text": "will it rain at all this week", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1244"}
+{"text": "what lists do i have queried", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1245"}
+{"text": "what's happening in the news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1246"}
+{"text": "reply to that email", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1247"}
+{"text": "is there snow in the forecast", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1248"}
+{"text": "please find all name start with alphabetic of a and create a list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1249"}
+{"text": "what did i tell susan in my last email", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1250"}
+{"text": "anything else left on the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1251"}
+{"text": "tell me about this week's weather", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1252"}
+{"text": "how is the day outwards", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1253"}
+{"text": "should i wear a coat outside", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1254"}
+{"text": "send an email to mom asking if she was able to order the book from amazon that i told her about", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1255"}
+{"text": "turn off the lights in the living room", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1256"}
+{"text": "start the vacuum cleaner", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1257"}
+{"text": "delete mike stein from contacts list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1258"}
+{"text": "what is the temperature", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1259"}
+{"text": "quick reply to jack so please send a mail", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1260"}
+{"text": "make a new shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1261"}
+{"text": "add oil change to my to do list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1262"}
+{"text": "can you get me a taxi home", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1263"}
+{"text": "was it windy yesterday", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1264"}
+{"text": "change the color of the lights in my house from white to yellow", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1265"}
+{"text": "date with love the next day", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1266"}
+{"text": "please turn the lights off", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1267"}
+{"text": "give me the last news about iphone", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1268"}
+{"text": "display available lists", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1269"}
+{"text": "i need a train ticket to rome book ticket", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1270"}
+{"text": "tell me all my lists", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1271"}
+{"text": "add to list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1272"}
+{"text": "do i have email from my work", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1273"}
+{"text": "vacuum the carpet freshener from the carpet", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1274"}
+{"text": "let's just skip appointment at time", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1275"}
+{"text": "book a taxi for pickup at my current location in one hour's time", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1276"}
+{"text": "tell me about my schedule for the next month", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1277"}
+{"text": "i want topics on latest news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1278"}
+{"text": "do i have meeting with steve this week", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1279"}
+{"text": "show me recently added events", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1280"}
+{"text": "please add my birthday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1281"}
+{"text": "add item", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1282"}
+{"text": "few traffic roads", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1283"}
+{"text": "is there a five p. m. train on wednesday to rockville", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1284"}
+{"text": "delete item from list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1285"}
+{"text": "delete all events in calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1286"}
+{"text": "clear my calendar of all events", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1287"}
+{"text": "i want coffee from the machine", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1288"}
+{"text": "tell me the email address for aunt ruth", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1289"}
+{"text": "my list please", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1290"}
+{"text": "make lights brightener", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1291"}
+{"text": "email karen about the budget meeting", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1292"}
+{"text": "lower the light to forty percent", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1293"}
+{"text": "today's news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1294"}
+{"text": "cease operating lights", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1295"}
+{"text": "tell me the humidity level downtown today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1296"}
+{"text": "let me know when a new email arrives from rachel", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1297"}
+{"text": "please give me the name of all my lists", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1298"}
+{"text": "initiate to operate robot vacuum cleaner", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1299"}
+{"text": "what are my calendar event", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1300"}
+{"text": "political news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1301"}
+{"text": "compose a new email to ray", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1302"}
+{"text": "meetings", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1303"}
+{"text": "send an email to james asking when he is getting off of work", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1304"}
+{"text": "will there any events downtown this weekend", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1305"}
+{"text": "is there any rain in the forecast for the next week", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1306"}
+{"text": "please purchase me a train ticket to atlanta", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1307"}
+{"text": "do i have anything planned for the twenty first", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1308"}
+{"text": "world news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1309"}
+{"text": "brighten the lights on the front porch", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1310"}
+{"text": "remind me an email to my sister", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1311"}
+{"text": "personal digital assistant", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1312"}
+{"text": "decrease brightness of lights", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1313"}
+{"text": "i would like the bathroom lights set to yellow", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1314"}
+{"text": "exhibition two thousand and seventeen mass on mar twenty five make a note of it on the corresponding date", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1315"}
+{"text": "by proper formula", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1316"}
+{"text": "turn off lights in kitchen", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1317"}
+{"text": "what will the weather be like in two weeks", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1318"}
+{"text": "what time does the train were on arrive at the next station", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1319"}
+{"text": "are there any traffic delays", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1320"}
+{"text": "turn the left light off", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1321"}
+{"text": "tell me some business news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1322"}
+{"text": "how much is two train tickets", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1323"}
+{"text": "what does the email say that was sent thirty minutes ago from mom", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1324"}
+{"text": "remove all the events on my calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1325"}
+{"text": "do i have any lists", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1326"}
+{"text": "is it raining right now", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1327"}
+{"text": "do i have the contact of tara john", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1328"}
+{"text": "i have already given mark his gift today please remove him on my christmas gift list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1329"}
+{"text": "remember to put carrots in there", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1330"}
+{"text": "reply email", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1331"}
+{"text": "ticket for bombay", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1332"}
+{"text": "can i get a recap of what is going on with sprint right now", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1333"}
+{"text": "add my car payment on the twelfth in my calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1334"}
+{"text": "what kind of lists do i have", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1335"}
+{"text": "hey olly what are my lists", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1336"}
+{"text": "do i need to wear my slicker today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1337"}
+{"text": "update me", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1338"}
+{"text": "i would like a cup of coffee", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1339"}
+{"text": "buy train ticket", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1340"}
+{"text": "i need to go to dundee at five am on sunday by train", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1341"}
+{"text": "i need directions to madison street", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1342"}
+{"text": "what's the closest taxi to me", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1343"}
+{"text": "set regular bi-weekly meeting on fridays three p. m.", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1344"}
+{"text": "how much is a train ticket to denver from here", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1345"}
+{"text": "what's going on in the world right now", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1346"}
+{"text": "recent particular subject news", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1347"}
+{"text": "what's happening in world news today", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1348"}
+{"text": "tell next day's event", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1349"}
+{"text": "show me the weather for dallas", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1350"}
+{"text": "turn the light off in the living room", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1351"}
+{"text": "hot topic", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1352"}
+{"text": "what is traffic like right now", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1353"}
+{"text": "shift the balcony light to off", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1354"}
+{"text": "what is mary smith's telephone number", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1355"}
+{"text": "when is the next appointment", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1356"}
+{"text": "can i get a train ticket to chicago for next saturday around noon", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1357"}
+{"text": "can you activate the vacuum to clean the house", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1358"}
+{"text": "i hope it is sunny weather there", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1359"}
+{"text": "do i need to take an umbrella today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1360"}
+{"text": "include this event in my calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1361"}
+{"text": "directions to nearest apple store", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1362"}
+{"text": "clear my schedule for the month", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1363"}
+{"text": "give me the schedule", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1364"}
+{"text": "set event date in calendar with others", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1365"}
+{"text": "show latest reports of b. b. c.", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1366"}
+{"text": "what is the most recent update regarding the hurricane katrina", "label": "news", "scenario": "news", "source": "massive", "id": "dev-1367"}
+{"text": "system please dim lights to dull blue", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1368"}
+{"text": "what time does the zach brown concert on june third begin", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1369"}
+{"text": "read me my current grocery list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1370"}
+{"text": "please respond", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1371"}
+{"text": "order a train ticket to boston", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1372"}
+{"text": "should i wear a hat today", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1373"}
+{"text": "book a cab to office for me", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1374"}
+{"text": "remove ashley from the wedding invite list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1375"}
+{"text": "list emails from jim for today", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1376"}
+{"text": "olly make me a cup of coffee", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1377"}
+{"text": "do i have new emails", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1378"}
+{"text": "turn all lights on", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1379"}
+{"text": "is there a train from philadelphia to new york city at noon", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1380"}
+{"text": "create new contact with email", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1381"}
+{"text": "call me a taxi", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1382"}
+{"text": "reply to robert's email of today morning", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1383"}
+{"text": "list the items on my shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1384"}
+{"text": "remove eggs for the shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1385"}
+{"text": "tell me what lists i have", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1386"}
+{"text": "is it raining outside olly", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1387"}
+{"text": "could you please book me a taxi going to location", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1388"}
+{"text": "how do i get to the train station for a ticket", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1389"}
+{"text": "do you think it's going to rain tomorrow", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1390"}
+{"text": "i would like to set the event repetitive", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1391"}
+{"text": "save new email addresses to my contacts", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1392"}
+{"text": "what is the weather in london", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1393"}
+{"text": "ask your network", "label": "email", "scenario": "email", "source": "massive", "id": "dev-1394"}
+{"text": "create a new list for me", "label": "lists", "scenario": "lists", "source": "massive", "id": "dev-1395"}
+{"text": "turn off the lights now", "label": "home", "scenario": "iot", "source": "massive", "id": "dev-1396"}
+{"text": "what are the train times to chicago for today", "label": "transport", "scenario": "transport", "source": "massive", "id": "dev-1397"}
+{"text": "what is the weekend weather forecast", "label": "weather", "scenario": "weather", "source": "massive", "id": "dev-1398"}
+{"text": "how is my schedule for the day", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "dev-1399"}

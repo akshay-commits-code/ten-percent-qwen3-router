@@ -1,0 +1,160 @@
+{"text": "who is the singer", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-0"}
+{"text": "tell me length and star ratings", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-1"}
+{"text": "save my music choices", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-2"}
+{"text": "what is a good way to make steak", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-3"}
+{"text": "who's current music's author", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-4"}
+{"text": "olly save all the songs i have listened to more than once", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-5"}
+{"text": "what is that song playing in the background", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-6"}
+{"text": "i want to know the procedure of making thanksgiving turkey in five sentences", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-7"}
+{"text": "give me best cooking ideas", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-8"}
+{"text": "what should i cook for supper", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-9"}
+{"text": "in five sentences let me know the procedure of making thanksgiving turkey", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-10"}
+{"text": "who sings that song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-11"}
+{"text": "what do i need to make lamb pathia", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-12"}
+{"text": "how long should i boil the egg", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-13"}
+{"text": "i need a recipe that is from ingredients on my shopping list", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-14"}
+{"text": "please tell me the name of this band", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-15"}
+{"text": "that song was awesome can you repeat", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-16"}
+{"text": "i want to say something about this song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-17"}
+{"text": "please note i like jazz and hate disco", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-18"}
+{"text": "stop repeating this song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-19"}
+{"text": "add this channel to pandora", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-20"}
+{"text": "how do you feel after hearing justin bieber's new album", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-21"}
+{"text": "what all goes into a red velvet cake", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-22"}
+{"text": "remember how i rate this song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-23"}
+{"text": "what is a substitute for margarine", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-24"}
+{"text": "how to cook a pizza", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-25"}
+{"text": "what is in a curry", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-26"}
+{"text": "in classic all music are there ever any singers", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-27"}
+{"text": "olly which was that coldplay song i listened to yesterday evening can you play it again", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-28"}
+{"text": "how to cook spaghetti", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-29"}
+{"text": "it must be taste", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-30"}
+{"text": "what spices are in indian food", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-31"}
+{"text": "what goes with risotto", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-32"}
+{"text": "repeat this song three times", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-33"}
+{"text": "was this song in the top twenty", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-34"}
+{"text": "how can i cook meal", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-35"}
+{"text": "what music is this", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-36"}
+{"text": "is there anything to do with quinoa to make it not taste awful", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-37"}
+{"text": "i need help with cooking baked chicken", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-38"}
+{"text": "i don't want to hear any more songs of that type", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-39"}
+{"text": "how do i cook butter chicken", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-40"}
+{"text": "please search the internet and display the suitable youtube videos for cooking italian foods", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-41"}
+{"text": "what kind of music am i into", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-42"}
+{"text": "olly tell how vegetable is cooked", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-43"}
+{"text": "how long is this song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-44"}
+{"text": "put the playlist on shuffle", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-45"}
+{"text": "how do you make cookies", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-46"}
+{"text": "change the music mode to rock", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-47"}
+{"text": "who is singing this song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-48"}
+{"text": "look for a pizza recipe", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-49"}
+{"text": "what song am i listening to", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-50"}
+{"text": "tell me starting phrase of this music", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-51"}
+{"text": "i like it", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-52"}
+{"text": "i like classic rock", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-53"}
+{"text": "suggest me some metal music", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-54"}
+{"text": "recipe for crabmeat", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-55"}
+{"text": "what the sexiest food to cook on a date", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-56"}
+{"text": "tell me a play list", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-57"}
+{"text": "find a recipe for german chocolate cake", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-58"}
+{"text": "can you tell me the recipe to cook pav bhaji", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-59"}
+{"text": "who is this on the radio", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-60"}
+{"text": "i love the eternal voice of the singer she is my favorite", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-61"}
+{"text": "put the current song on repeat", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-62"}
+{"text": "tell me the preparation method for chicken sixty five", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-63"}
+{"text": "add this song to my music", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-64"}
+{"text": "for how much time should i oven pizza to make it perfect crispy", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-65"}
+{"text": "hey olly please tell me the name of this song that is currently playing", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-66"}
+{"text": "olly what is the song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-67"}
+{"text": "how much time to cook pasta", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-68"}
+{"text": "display volume strength on current track", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-69"}
+{"text": "how this song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-70"}
+{"text": "could you please create a pandora channel for adele", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-71"}
+{"text": "show me a video on cooking fried chicken", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-72"}
+{"text": "what song do i listen to the most", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-73"}
+{"text": "how do you cook steak", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-74"}
+{"text": "tell me the artist of this song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-75"}
+{"text": "what do i need for a good burger", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-76"}
+{"text": "siri skip two songs", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-77"}
+{"text": "please don't shuffle songs in music player just playing continuously", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-78"}
+{"text": "how can we prepare biryani", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-79"}
+{"text": "how is rice prepared", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-80"}
+{"text": "please look up best recipes", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-81"}
+{"text": "olly how do you barbecue chicken", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-82"}
+{"text": "evaporated", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-83"}
+{"text": "what is the track information currently", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-84"}
+{"text": "which was that coldplay song i listened to yesterday evening can you play it again", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-85"}
+{"text": "how to barbecue a steak well", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-86"}
+{"text": "other songs by this artist", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-87"}
+{"text": "the song playing now is released by which artist", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-88"}
+{"text": "tell me the recipe for mashed potatoes", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-89"}
+{"text": "how long does it take water to boil", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-90"}
+{"text": "your recipe of steak was superb", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-91"}
+{"text": "please put radio in shuffle", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-92"}
+{"text": "boiling", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-93"}
+{"text": "is that song from shakira", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-94"}
+{"text": "can you suggest me a healthy foods for dinner", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-95"}
+{"text": "how do you cook black eye pea", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-96"}
+{"text": "do you know about this lyrics", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-97"}
+{"text": "get recipe for making a hotdog", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-98"}
+{"text": "do you know recipe for risotto", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-99"}
+{"text": "how do i poach an egg", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-100"}
+{"text": "olly how do i make meatloaf", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-101"}
+{"text": "how do i make cookies", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-102"}
+{"text": "this fact sheet provides considerations for how to set up your food processing business", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-103"}
+{"text": "which song is this", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-104"}
+{"text": "can you prepare a cheese sandwich", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-105"}
+{"text": "tell me who wrote this song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-106"}
+{"text": "find the right amount of cinnamon for the garam masala", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-107"}
+{"text": "how do you cook a good burger olly", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-108"}
+{"text": "that song is my favorite", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-109"}
+{"text": "what are the lyrics to this song playing", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-110"}
+{"text": "what do you use to make cookies", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-111"}
+{"text": "show results for cooking lasagna from web", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-112"}
+{"text": "how many eggs do i need for an omelet", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-113"}
+{"text": "i want topics on music", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-114"}
+{"text": "who covered the song one more cup of coffee", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-115"}
+{"text": "how long should i cook a steak to be medium", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-116"}
+{"text": "what is an alternative to flour", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-117"}
+{"text": "i never want to hear that song again", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-118"}
+{"text": "tell me the name of the composer", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-119"}
+{"text": "find chicken tikka recipe", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-120"}
+{"text": "save this song as a favorite", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-121"}
+{"text": "how do i make a pizza", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-122"}
+{"text": "what is the best tasting cut of beef", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-123"}
+{"text": "how long do i chill an icebo pie", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-124"}
+{"text": "how to cook spaghetti squash", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-125"}
+{"text": "healthy foods", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-126"}
+{"text": "give me the details on elton john", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-127"}
+{"text": "the music of this song is very melodious and relaxing", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-128"}
+{"text": "look up meal recipe", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-129"}
+{"text": "what song is on the radio", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-130"}
+{"text": "can save this music in my playlist", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-131"}
+{"text": "the song in background is cool", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-132"}
+{"text": "what ingredients are needed for making biryani", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-133"}
+{"text": "please tell me the name of this song that is currently playing", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-134"}
+{"text": "find a good recipe for steak", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-135"}
+{"text": "olly how do i start making lobster bisque", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-136"}
+{"text": "shazaam this music", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-137"}
+{"text": "how long do you cook a fifteen pound turkey", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-138"}
+{"text": "what is a good way to make turkey meatballs", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-139"}
+{"text": "how many teaspoons are in a cup", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-140"}
+{"text": "what is the music playing right now", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-141"}
+{"text": "repeat album", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-142"}
+{"text": "who is the singer of this song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-143"}
+{"text": "i love this song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-144"}
+{"text": "repeat the music", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-145"}
+{"text": "rate five", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-146"}
+{"text": "filter all arijit singh sad song and save or create playlist of sad songs of arijit singh", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-147"}
+{"text": "when was this song first recorded", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-148"}
+{"text": "what to cook for lunch", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-149"}
+{"text": "how to cook", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-150"}
+{"text": "how long will it take to finish cooking my meal", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-151"}
+{"text": "what year was this song recorded", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-152"}
+{"text": "please skip to the next song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-153"}
+{"text": "i need a recipe of veg pulav", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-154"}
+{"text": "what's the easiest way to cook pasta", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-155"}
+{"text": "save my opinion on adele's song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-156"}
+{"text": "weird things people want to know", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-157"}
+{"text": "give me instructions on how to cook chicken", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_dev-158"}
+{"text": "hey olly i like music by sigur ros", "label": "music", "scenario": "music", "source": "massive", "id": "teach_dev-159"}

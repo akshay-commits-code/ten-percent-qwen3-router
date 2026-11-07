@@ -1,0 +1,390 @@
+{"text": "i like the songs of yeshudas please play it", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-0"}
+{"text": "show chicken tikka recipe", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-1"}
+{"text": "save that song and my opinion", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-2"}
+{"text": "how do i make tuna casserole from scratch", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-3"}
+{"text": "how long does it take to cook steaks", "label": "recipe", "scenario": "cook_time", "source": "clinc150", "id": "teach_locked-4"}
+{"text": "what ingredient can be used to replace white wine", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-5"}
+{"text": "how long should you cook a whole chicken in a three hundred and seventy five degree oven", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-6"}
+{"text": "would it be a problem to sub chips instead of fries", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-7"}
+{"text": "explain how to sear a steak", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-8"}
+{"text": "how do i cook a meatloaf", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-9"}
+{"text": "what would you call this kind of music that we're listening to", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-10"}
+{"text": "locate a recipe for thai fried rice", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-11"}
+{"text": "explanation of the song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-12"}
+{"text": "what is the best way to cook pasta al dente", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-13"}
+{"text": "who is the singer of hotel california", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-14"}
+{"text": "i need to find a good way to make chicken soup", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-15"}
+{"text": "show me the recipe for cookies", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-16"}
+{"text": "let me know the recipe for preparing pasta", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-17"}
+{"text": "what is the best oven temperature to roast potatoes", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-18"}
+{"text": "tell me the ingredients to make an apple pie", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-19"}
+{"text": "how do i make lasagna", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-20"}
+{"text": "i need some ideas for dinner that are mexican", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-21"}
+{"text": "i like top forty music", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-22"}
+{"text": "how long do i need to cook pot au feu for", "label": "recipe", "scenario": "cook_time", "source": "clinc150", "id": "teach_locked-23"}
+{"text": "what peruvian dish should i make", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-24"}
+{"text": "ok google what's the easiest and quickest way to cook a turkey", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-25"}
+{"text": "how do i cook a medium rare steak", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-26"}
+{"text": "show me how to cook a recipe", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-27"}
+{"text": "what's needed to make pizza", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-28"}
+{"text": "olly i'm really enjoying this song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-29"}
+{"text": "how long should i cook chicken for", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-30"}
+{"text": "how many cups of sugar in texas sheet cake frosting", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-31"}
+{"text": "how long do i roast chicken breasts", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-32"}
+{"text": "i want to cook a quick breakfast what ingredients do i need", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-33"}
+{"text": "suggest a meal from germany to me", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-34"}
+{"text": "i'm needing dinner suggestions for mexican food", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-35"}
+{"text": "olly how long should i boil the eggs", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-36"}
+{"text": "how to make taco", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-37"}
+{"text": "let's cook meatballs together", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-38"}
+{"text": "what song do i play most", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-39"}
+{"text": "how long do i cook this dish of rice", "label": "recipe", "scenario": "cook_time", "source": "clinc150", "id": "teach_locked-40"}
+{"text": "find easy recipe for almond milk", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-41"}
+{"text": "how to make fried rice", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-42"}
+{"text": "i need a blackberry pie recipe", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-43"}
+{"text": "which type of music it is", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-44"}
+{"text": "how long do you cook an egg over easy", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-45"}
+{"text": "which song is this one", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-46"}
+{"text": "select shuffle all", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-47"}
+{"text": "i love hip hop", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-48"}
+{"text": "what is the name of the lead singer in this band", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-49"}
+{"text": "instead of pepper, can i use salt", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-50"}
+{"text": "give me a recipe for meatballs", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-51"}
+{"text": "how to cook crabmeat", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-52"}
+{"text": "what is the best recipe for a margarita", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-53"}
+{"text": "is it acceptable to swap milk for water", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-54"}
+{"text": "what is the difference between bake and broil", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-55"}
+{"text": "open music player settings", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-56"}
+{"text": "can i substitute skim milk for whole milk", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-57"}
+{"text": "cooking", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-58"}
+{"text": "music tracking", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-59"}
+{"text": "how do you make vegetarian lasagna", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-60"}
+{"text": "can i use dark brown sugar instead of brown sugar", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-61"}
+{"text": "can you find me a brisket recipe", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-62"}
+{"text": "suggest a meal from thailand to me, please", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-63"}
+{"text": "olly what is the best tasting cut of beef", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-64"}
+{"text": "i have to done it on the post important music file", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-65"}
+{"text": "save opinion", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-66"}
+{"text": "can i substitute eggs for milk in a recipe", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-67"}
+{"text": "no more comments", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-68"}
+{"text": "what ingredients do i need to bake a large cake", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-69"}
+{"text": "what ingredients do i need for tomato soup", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-70"}
+{"text": "add song to running list", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-71"}
+{"text": "what music do i prefer", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-72"}
+{"text": "olly how do i make lobster bisque", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-73"}
+{"text": "will it be ok to sub turkey for beef", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-74"}
+{"text": "what should i make for dinner", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-75"}
+{"text": "how long should i cook my turkey", "label": "recipe", "scenario": "cook_time", "source": "clinc150", "id": "teach_locked-76"}
+{"text": "what is the name of this song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-77"}
+{"text": "go ahead and give me a suggestion for what to make for dinner", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-78"}
+{"text": "tell me how to make a poor boy sandwich", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-79"}
+{"text": "please check my playlists for jazz music", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-80"}
+{"text": "do you know what is for dinner", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-81"}
+{"text": "what's the recipe for fried chicken", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-82"}
+{"text": "search for your favorite meal", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-83"}
+{"text": "how do you cook a four cheese omelet", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-84"}
+{"text": "i want a recipe for a burrito", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-85"}
+{"text": "this is one of the best songs for me", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-86"}
+{"text": "can you find me a recipe for pasta", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-87"}
+{"text": "suggest something for me to make myself for dinner", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-88"}
+{"text": "who's playing the oboe on this piece", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-89"}
+{"text": "knowledge about food processing", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-90"}
+{"text": "can you turn down the volume please and tell me what is the title of this song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-91"}
+{"text": "show me recipes", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-92"}
+{"text": "shuffle the current album of songs", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-93"}
+{"text": "what did she just sing", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-94"}
+{"text": "who wrote this song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-95"}
+{"text": "who's the singer", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-96"}
+{"text": "how do i prepare all my food for cooking", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-97"}
+{"text": "what ingredients are in filet mignon", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-98"}
+{"text": "can i substitute ginger for garlic", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-99"}
+{"text": "crockpot recipe for chicken alfredo", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-100"}
+{"text": "song info", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-101"}
+{"text": "what is this music called", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-102"}
+{"text": "explain in brief about fish fry", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-103"}
+{"text": "how do you make pasta", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-104"}
+{"text": "is that the song from specter", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-105"}
+{"text": "if i cook the pizza at 400 degrees how long must it be in for", "label": "recipe", "scenario": "cook_time", "source": "clinc150", "id": "teach_locked-106"}
+{"text": "can i substitute lemon juice for vinegar", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-107"}
+{"text": "after cooking the stuffs add some masala content and cook it again in a tawa and serve", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-108"}
+{"text": "can you save this what a nice song for me", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-109"}
+{"text": "olly what's this playing right now", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-110"}
+{"text": "how much sugar goes in sweet tea", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-111"}
+{"text": "give me a list of ingredients needed for pizza dough", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-112"}
+{"text": "can i use mayonnaise instead of miracle whip", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-113"}
+{"text": "i don't like it", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-114"}
+{"text": "i am forever hip hop", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-115"}
+{"text": "i wonder if it would be possible to switch from apples to grapes", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-116"}
+{"text": "any suggestions for a peruvian meal", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-117"}
+{"text": "can you find me a recipe for sugar cookies", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-118"}
+{"text": "how do you make fried rice", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-119"}
+{"text": "can you get me a recipe for mashed potatoes", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-120"}
+{"text": "tell me how to cook pasta", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-121"}
+{"text": "it should spices", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-122"}
+{"text": "recipe for meal", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-123"}
+{"text": "how long do i cook steak", "label": "recipe", "scenario": "cook_time", "source": "clinc150", "id": "teach_locked-124"}
+{"text": "how do i steam rice", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-125"}
+{"text": "can i use skim milk instead of 2% in the recipe", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-126"}
+{"text": "please give me a suggestion for what to make for dinner", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-127"}
+{"text": "i need a really good recipe for making doughnuts", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-128"}
+{"text": "search in the web for buying bakeware for muffins", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-129"}
+{"text": "what's a simple chinese recipe for dinner", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-130"}
+{"text": "who is the song writer", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-131"}
+{"text": "list of famous biryani recipes", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-132"}
+{"text": "do you have any ideas for a mexican meal", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-133"}
+{"text": "show me music by that artist", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-134"}
+{"text": "i like r. & b.", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-135"}
+{"text": "how is lasagne made", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-136"}
+{"text": "is it ok to use ketchup instead of mustard", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-137"}
+{"text": "i'll use what ingredients for lasagna", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-138"}
+{"text": "what's the recipe for fish soup", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-139"}
+{"text": "get me a recipe for cookies", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-140"}
+{"text": "how do i make peanut butter cookies", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-141"}
+{"text": "what does one have to damage in cream to make butter", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-142"}
+{"text": "what is in my favorites music folder", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-143"}
+{"text": "show me how to cook low calorie breakfast", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-144"}
+{"text": "tell me what meal to eat from texas", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-145"}
+{"text": "what ingredients do i need to make raisin bread", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-146"}
+{"text": "how long will it take me to make baked chicken", "label": "recipe", "scenario": "cook_time", "source": "clinc150", "id": "teach_locked-147"}
+{"text": "repeat this song when it ends", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-148"}
+{"text": "how long should i expect beef stroganoff to prepare", "label": "recipe", "scenario": "cook_time", "source": "clinc150", "id": "teach_locked-149"}
+{"text": "can you find me a recipe for quiche", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-150"}
+{"text": "can you save this song to my favorites", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-151"}
+{"text": "are there instructions on how to make buttermilk pancakes", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-152"}
+{"text": "remember that i do not like this music", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-153"}
+{"text": "i hate this song do not play it again", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-154"}
+{"text": "nine hundred and ninety nine f. m. is currently playing what music", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-155"}
+{"text": "please repeat the current song is being played", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-156"}
+{"text": "how do i make mashed potatoes", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-157"}
+{"text": "can you give me instructions on how to make alfredo", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-158"}
+{"text": "who sings this song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-159"}
+{"text": "what is the cooking time for boiled eggs", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-160"}
+{"text": "do you have any suggestions as to what i should cook for dinner", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-161"}
+{"text": "song title", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-162"}
+{"text": "what do i need to make chicken salad", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-163"}
+{"text": "look up easy to follow recipes for beef ribs", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-164"}
+{"text": "who is the music director of this song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-165"}
+{"text": "are there any upcoming concerts by", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-166"}
+{"text": "can you find me a recipe for honey ham", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-167"}
+{"text": "show me what the ingredients are", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-168"}
+{"text": "can i use sour cream in place of creme fraiche", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-169"}
+{"text": "do you know what are the ingredients to make apple pie", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-170"}
+{"text": "what ingredients are in mashed potatoes", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-171"}
+{"text": "get me a recipe", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-172"}
+{"text": "do you have any suggestions for a meal from australia", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-173"}
+{"text": "repeat previous song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-174"}
+{"text": "in terms of making scrambled eggs, what ingredients do i need", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-175"}
+{"text": "how to cook that meal", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-176"}
+{"text": "what's the best way to make chicken stir fry", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-177"}
+{"text": "how to create buttermilk from milk", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-178"}
+{"text": "what is the duration of time cookies should be in the oven", "label": "recipe", "scenario": "cook_time", "source": "clinc150", "id": "teach_locked-179"}
+{"text": "can i use oil instead of vinegar", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-180"}
+{"text": "baking times for chicken in the oven", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-181"}
+{"text": "save settings", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-182"}
+{"text": "can i switch in almond butter for peanut butter", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-183"}
+{"text": "which song is that", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-184"}
+{"text": "find apple pie recipe", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-185"}
+{"text": "please help me with instructions on making chicken curry", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-186"}
+{"text": "can i use baking powder instead of baking soda", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-187"}
+{"text": "how to cook this food", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-188"}
+{"text": "search the album name with katy perry", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-189"}
+{"text": "this is the best band ever", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-190"}
+{"text": "what can i cook with broccoli and chicken", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-191"}
+{"text": "how do i cook meatballs", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-192"}
+{"text": "alternatives to white wine in food", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-193"}
+{"text": "what steps are involved in making lasagna", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-194"}
+{"text": "give me the recipe of steak", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-195"}
+{"text": "i want to cook a lasagna please tell me how long it will take", "label": "recipe", "scenario": "cook_time", "source": "clinc150", "id": "teach_locked-196"}
+{"text": "how long do i need to cook roast for", "label": "recipe", "scenario": "cook_time", "source": "clinc150", "id": "teach_locked-197"}
+{"text": "what do i need to buy to make a spaghetti", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-198"}
+{"text": "tell me the recipe of", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-199"}
+{"text": "when was the song playing now released", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-200"}
+{"text": "what is my most played song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-201"}
+{"text": "show me the picture of the singer", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-202"}
+{"text": "what about changing the sugar for baking soda", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-203"}
+{"text": "when did this song come out", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-204"}
+{"text": "which film the music comes from what is the name of the music", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-205"}
+{"text": "please check and repeat this song one time more", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-206"}
+{"text": "bake time for brownies", "label": "recipe", "scenario": "cook_time", "source": "clinc150", "id": "teach_locked-207"}
+{"text": "cook me some oats", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-208"}
+{"text": "i like this song please save", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-209"}
+{"text": "how do i make a turkey", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-210"}
+{"text": "recipe please", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-211"}
+{"text": "what is the name of this song and who sings it", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-212"}
+{"text": "can i substitute honey for sugar", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-213"}
+{"text": "what music is playing now nine hundred and ninety nine f. m.", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-214"}
+{"text": "thumbs up this song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-215"}
+{"text": "suggest a meal from peru for me", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-216"}
+{"text": "how many minutes to melt cheese", "label": "recipe", "scenario": "cook_time", "source": "clinc150", "id": "teach_locked-217"}
+{"text": "what is the name of this song playing right now", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-218"}
+{"text": "would it be ok to use butter instead of oil", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-219"}
+{"text": "how long does it take to make vegetable lasagna", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-220"}
+{"text": "olly can i use brown sugar instead of white in peanut butter cookies", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-221"}
+{"text": "how many minutes should i put meal the cake in the oven", "label": "recipe", "scenario": "cook_time", "source": "clinc150", "id": "teach_locked-222"}
+{"text": "how long should i cook the pasta for", "label": "recipe", "scenario": "cook_time", "source": "clinc150", "id": "teach_locked-223"}
+{"text": "can you give me a meal suggestion from the south", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-224"}
+{"text": "how do i make lemon merengue pie", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-225"}
+{"text": "can you substitute baking soda for baking powder", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-226"}
+{"text": "is it allow to switch apples to grapes", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-227"}
+{"text": "what can i substitute butter with", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-228"}
+{"text": "my review", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-229"}
+{"text": "how long should i cook a ny steak", "label": "recipe", "scenario": "cook_time", "source": "clinc150", "id": "teach_locked-230"}
+{"text": "what is the name of this musical group", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-231"}
+{"text": "recipes", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-232"}
+{"text": "show me the recipe of tandoori chicken", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-233"}
+{"text": "tell me the song that is currently playing", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-234"}
+{"text": "what would you suggest for dinner", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-235"}
+{"text": "give me some bowie", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-236"}
+{"text": "what playlist is on shuffle", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-237"}
+{"text": "find the highest rated recipe from foodnetworkcom for a four cheese omelet", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-238"}
+{"text": "what are the ingredients used in chicken curry", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-239"}
+{"text": "add the song to my favorites", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-240"}
+{"text": "can i use strawberries instead of pineapples for this", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-241"}
+{"text": "i'd like an italian meal suggestion", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-242"}
+{"text": "i need a recipe on how to make beef stew", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-243"}
+{"text": "please show me detail of previous played song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-244"}
+{"text": "replay the musics", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-245"}
+{"text": "how do i get started making homemade pizza dough", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-246"}
+{"text": "i like senatra songs", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-247"}
+{"text": "title", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-248"}
+{"text": "what is recipe", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-249"}
+{"text": "what does it take to make buttermilk pancakes", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-250"}
+{"text": "kfi is my favorite rapper", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-251"}
+{"text": "who is currently singing", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-252"}
+{"text": "do you know if i can use pepper and not salt", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-253"}
+{"text": "olly what is a good rap album that came out this year", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-254"}
+{"text": "how many eggs should i put in my cake mixture", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-255"}
+{"text": "remember that this song is good but too slow to exercise to", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-256"}
+{"text": "is it possible to use sausage instead of hot dog", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-257"}
+{"text": "show me tutorials on cooking food", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-258"}
+{"text": "is this song ed sheeran", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-259"}
+{"text": "i am looking for a vegan friendly italian pasta recipe", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-260"}
+{"text": "tell me the artist name", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-261"}
+{"text": "record petabits", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-262"}
+{"text": "what is the title of this song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-263"}
+{"text": "please turn on repeat all", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-264"}
+{"text": "when should i take an apple pie out", "label": "recipe", "scenario": "cook_time", "source": "clinc150", "id": "teach_locked-265"}
+{"text": "give me italian meal ideas", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-266"}
+{"text": "i need to cook, what should i make", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-267"}
+{"text": "please cook me a hamburger", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-268"}
+{"text": "i need good ideas for cooking", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-269"}
+{"text": "how do you make sunny side up eggs", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-270"}
+{"text": "when was this song recorded", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-271"}
+{"text": "do you know how to make chow mein", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-272"}
+{"text": "what's the name of the current song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-273"}
+{"text": "what year did this song come out", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-274"}
+{"text": "set track twenty eight in music player on repeat", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-275"}
+{"text": "got any good dinner ideas", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-276"}
+{"text": "any recommendations for a greek dinner", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-277"}
+{"text": "olly what music do i usually like after work", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-278"}
+{"text": "how to best prepare a salmon or haddock", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-279"}
+{"text": "i need a puttanesca recipe that pre dates one thousand nine hundred and seventy", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-280"}
+{"text": "how long does a roast take", "label": "recipe", "scenario": "cook_time", "source": "clinc150", "id": "teach_locked-281"}
+{"text": "cook me some pasta with cheese and honey in it", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-282"}
+{"text": "what is the name of song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-283"}
+{"text": "remember that this is my favorite music", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-284"}
+{"text": "can i use almond milk instead of rice milk", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-285"}
+{"text": "what's new on itunes", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-286"}
+{"text": "find the correct temperature for frying a whole turkey", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-287"}
+{"text": "how long will the turkey take to cook", "label": "recipe", "scenario": "cook_time", "source": "clinc150", "id": "teach_locked-288"}
+{"text": "is butter a substitute for oil", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-289"}
+{"text": "what is the menu today add some boiled vegetables also to it", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-290"}
+{"text": "list the ingredients in pizza", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-291"}
+{"text": "this is a good tune please notate file accordingly", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-292"}
+{"text": "i like to be it", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-293"}
+{"text": "look for apple pie recipe", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-294"}
+{"text": "how long does it take to bake a cake", "label": "recipe", "scenario": "cook_time", "source": "clinc150", "id": "teach_locked-295"}
+{"text": "can i use colby jack cheese instead of cheddar in a recipe", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-296"}
+{"text": "what steps do i need to do for shrimp parmigiana", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-297"}
+{"text": "where can i find that recipe for magic cookie bars", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-298"}
+{"text": "turn on spotify shuffle", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-299"}
+{"text": "you like the song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-300"}
+{"text": "please repeat the last song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-301"}
+{"text": "what do i need if i want to make lasagna", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-302"}
+{"text": "what list is available for my favorite music from ed sheeran", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-303"}
+{"text": "tell me how to make beef wellington", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-304"}
+{"text": "can you find me a recipe for coffee cakes", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-305"}
+{"text": "what is the name of the music playing now", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-306"}
+{"text": "good food", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-307"}
+{"text": "please skip two songs", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-308"}
+{"text": "what do i need to make pasta", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-309"}
+{"text": "recommend songs based on my playlist", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-310"}
+{"text": "what ingredients are in salsa", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-311"}
+{"text": "the song you are playing is amazing", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-312"}
+{"text": "what are the ingredients in gumbo", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-313"}
+{"text": "show me the best recipe for spaghetti", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-314"}
+{"text": "do you think i can sub honey for sugar", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-315"}
+{"text": "save the information which is provided by aman on this song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-316"}
+{"text": "i need the cooking length for a turkey", "label": "recipe", "scenario": "cook_time", "source": "clinc150", "id": "teach_locked-317"}
+{"text": "olly what ingredients are needed for pudding", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-318"}
+{"text": "please keep everything i have on this song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-319"}
+{"text": "what's a good recipe foe tacos", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-320"}
+{"text": "what are the minutes needed to cook the meal", "label": "recipe", "scenario": "cook_time", "source": "clinc150", "id": "teach_locked-321"}
+{"text": "i need a good italian dish", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-322"}
+{"text": "save this song to playlist", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-323"}
+{"text": "who is the artist of this song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-324"}
+{"text": "can you find me a recipe for salsa", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-325"}
+{"text": "what's the band is playing now", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-326"}
+{"text": "tell me how to make garlic bread", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-327"}
+{"text": "is fish and chips really british", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-328"}
+{"text": "what food is good", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-329"}
+{"text": "stop after current song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-330"}
+{"text": "chicken noodle casserole is made from what", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-331"}
+{"text": "what do i need to make pot roast", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-332"}
+{"text": "thai food suggestions", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-333"}
+{"text": "how to cook crabs", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-334"}
+{"text": "what are the lyrics to this song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-335"}
+{"text": "where can i look to learn to make sushi", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-336"}
+{"text": "what is a good recipe for steak", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-337"}
+{"text": "please lower the shuffle rate of hips don't lie", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-338"}
+{"text": "what is a good vegan egg substitute olly", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-339"}
+{"text": "how long do i cook maccoroni", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-340"}
+{"text": "find me the song currently playing", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-341"}
+{"text": "what ingredients are required for chicken noodle soup", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-342"}
+{"text": "can you give me a recipe for homemade chicken noodle soup", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-343"}
+{"text": "what are the ingredients to make shepherd's pie", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-344"}
+{"text": "what's a good recipe for chicken divan", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-345"}
+{"text": "tell me how to make tacos", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-346"}
+{"text": "when is asparagus in season", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-347"}
+{"text": "what can i use as a substitute for yeast", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-348"}
+{"text": "how long should i boil an egg", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-349"}
+{"text": "olly skip two songs", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-350"}
+{"text": "what is a good taco recipe", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-351"}
+{"text": "find me a recipe of spaghetti", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-352"}
+{"text": "please give me a list of the ingredients contained in chocolate cupcakes", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-353"}
+{"text": "what ingredients are in beef jerkey", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-354"}
+{"text": "who is the artist of the current song playing", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-355"}
+{"text": "what have i played the most", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-356"}
+{"text": "tell me the ingredients for making tom yum", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-357"}
+{"text": "olly skip song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-358"}
+{"text": "do you have a list of ingredients that i'll need for blondies", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-359"}
+{"text": "is milk an ok substitute for cream", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-360"}
+{"text": "i need a recipe for chicken cordon bleu", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-361"}
+{"text": "loop this track", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-362"}
+{"text": "would it be possible to replace the salt with baking soda", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-363"}
+{"text": "search for chili recipes", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-364"}
+{"text": "how long will it take to cook a lasagna", "label": "recipe", "scenario": "cook_time", "source": "clinc150", "id": "teach_locked-365"}
+{"text": "tell me how to make ramen", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-366"}
+{"text": "can i substitute apple juice for wine", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-367"}
+{"text": "repeat the last song", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-368"}
+{"text": "please tell me a recipe for this meal", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-369"}
+{"text": "how many minutes should i set an alarm for this bake", "label": "recipe", "scenario": "cook_time", "source": "clinc150", "id": "teach_locked-370"}
+{"text": "how much time do i need to prepare chicken", "label": "recipe", "scenario": "cook_time", "source": "clinc150", "id": "teach_locked-371"}
+{"text": "how long do you cook it", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-372"}
+{"text": "give me recipes", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-373"}
+{"text": "i need to know how to make stuffed peppers", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-374"}
+{"text": "for peppercorn steak, what ingredients do i need", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-375"}
+{"text": "freezing", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-376"}
+{"text": "what is the best meatball recipe", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-377"}
+{"text": "this song is amazing is not it", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-378"}
+{"text": "please save the current song to favorites", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-379"}
+{"text": "give me a recipe for tacos", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-380"}
+{"text": "find list of ingredients i would need to bake a funnel cake", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-381"}
+{"text": "don't play this song again", "label": "music", "scenario": "music", "source": "massive", "id": "teach_locked-382"}
+{"text": "making spaghetti sauce perfectly is done how", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-383"}
+{"text": "search for a macaroni and cheese recipe", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-384"}
+{"text": "you know procedure to cook apple pie", "label": "recipe", "scenario": "recipe", "source": "clinc150", "id": "teach_locked-385"}
+{"text": "what ingredients are in coffee cakes", "label": "recipe", "scenario": "ingredients_list", "source": "clinc150", "id": "teach_locked-386"}
+{"text": "can i substitute rice for potatoes", "label": "recipe", "scenario": "ingredient_substitution", "source": "clinc150", "id": "teach_locked-387"}
+{"text": "do you know an good pasta dishes", "label": "recipe", "scenario": "meal_suggestion", "source": "clinc150", "id": "teach_locked-388"}
+{"text": "how do i bake a potato", "label": "recipe", "scenario": "cooking", "source": "massive", "id": "teach_locked-389"}

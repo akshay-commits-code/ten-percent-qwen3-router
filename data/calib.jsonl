@@ -1,0 +1,1350 @@
+{"text": "darken the room a bit", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-0"}
+{"text": "create a new list please", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1"}
+{"text": "google can you book me a ticket on the train for tomorrow", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-2"}
+{"text": "set a reminder for wishing a friend tomorrow at ten am", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-3"}
+{"text": "please play the notebook audio", "label": null, "scenario": "play", "source": "massive", "id": "calib-4"}
+{"text": "olly trending hot news topics", "label": "news", "scenario": "news", "source": "massive", "id": "calib-5"}
+{"text": "remove set alarm", "label": null, "scenario": "alarm", "source": "massive", "id": "calib-6"}
+{"text": "why does sofia vergara look so young", "label": null, "scenario": "general", "source": "massive", "id": "calib-7"}
+{"text": "is it supposed to rain tonight", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-8"}
+{"text": "check if i need umbrella now", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-9"}
+{"text": "where can i book a train ticket to oregon", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-10"}
+{"text": "what is the latest news from c. b. s.", "label": "news", "scenario": "news", "source": "massive", "id": "calib-11"}
+{"text": "olly what's next on my list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-12"}
+{"text": "please check all new email of income tax department", "label": "email", "scenario": "email", "source": "massive", "id": "calib-13"}
+{"text": "find the this week's news about emigration legislation in the us please", "label": "news", "scenario": "news", "source": "massive", "id": "calib-14"}
+{"text": "i'd like to listen to my favorite morning show in the car on the way to work please", "label": null, "scenario": "play", "source": "massive", "id": "calib-15"}
+{"text": "i no longer need to see the doctor can that event be removed", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-16"}
+{"text": "more stock price", "label": null, "scenario": "qa", "source": "massive", "id": "calib-17"}
+{"text": "give me the alarm times for the next two days", "label": null, "scenario": "alarm", "source": "massive", "id": "calib-18"}
+{"text": "i need to make a list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-19"}
+{"text": "what is the wake up time for my alarm i have set for the flight this weekend", "label": null, "scenario": "alarm", "source": "massive", "id": "calib-20"}
+{"text": "let me know new emails from john", "label": "email", "scenario": "email", "source": "massive", "id": "calib-21"}
+{"text": "please make a list of thing i have to shop tomorrow", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-22"}
+{"text": "get a forecast about wind speed tonight", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-23"}
+{"text": "i want to start my email out like this", "label": "email", "scenario": "email", "source": "massive", "id": "calib-24"}
+{"text": "by remote sensor", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-25"}
+{"text": "taxi now", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-26"}
+{"text": "tell me mary's cell number", "label": "email", "scenario": "email", "source": "massive", "id": "calib-27"}
+{"text": "how much is one u. s. d. in inr", "label": null, "scenario": "qa", "source": "massive", "id": "calib-28"}
+{"text": "olly are there any events on my calendar for this week", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-29"}
+{"text": "please pull up the article on dog sitting in the morning news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-30"}
+{"text": "how warm is it now", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-31"}
+{"text": "is it sunny today", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-32"}
+{"text": "what are the subject line and sender from today's email inbox", "label": "email", "scenario": "email", "source": "massive", "id": "calib-33"}
+{"text": "what's new today", "label": "news", "scenario": "news", "source": "massive", "id": "calib-34"}
+{"text": "open uber app and book me a car for pick up at the airport", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-35"}
+{"text": "turn on my plug", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-36"}
+{"text": "when does the next train traveling the the city leave here", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-37"}
+{"text": "what do i have on my shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-38"}
+{"text": "add toothpaste to my shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-39"}
+{"text": "what has happened recently in the world", "label": "news", "scenario": "news", "source": "massive", "id": "calib-40"}
+{"text": "show traffic in ohio", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-41"}
+{"text": "could you create a new event with these people only", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-42"}
+{"text": "i want to listen to some gospel music", "label": null, "scenario": "play", "source": "massive", "id": "calib-43"}
+{"text": "create vacation list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-44"}
+{"text": "please turn off the lights in bedroom", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-45"}
+{"text": "when new york train will arrive", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-46"}
+{"text": "what lists are open", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-47"}
+{"text": "i want to set an alarm when i'm driving home tomorrow to remember to stop at the store and get food", "label": null, "scenario": "alarm", "source": "massive", "id": "calib-48"}
+{"text": "too private", "label": null, "scenario": "general", "source": "massive", "id": "calib-49"}
+{"text": "should i wear sandals", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-50"}
+{"text": "give me petey's telephone number", "label": "email", "scenario": "email", "source": "massive", "id": "calib-51"}
+{"text": "tweet long wait time and unprofessional employees", "label": null, "scenario": "social", "source": "massive", "id": "calib-52"}
+{"text": "remind me of this meeting soon", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-53"}
+{"text": "socket off", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-54"}
+{"text": "lower lights in kitchen", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-55"}
+{"text": "i want the news about academy awards", "label": "news", "scenario": "news", "source": "massive", "id": "calib-56"}
+{"text": "i mostly pay attention", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-57"}
+{"text": "show me all scheduled alarms", "label": null, "scenario": "alarm", "source": "massive", "id": "calib-58"}
+{"text": "my choice to play an audio from first", "label": null, "scenario": "play", "source": "massive", "id": "calib-59"}
+{"text": "do i need a coat today", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-60"}
+{"text": "what's the traffic situation from kamycka to dejvicka", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-61"}
+{"text": "how many hours distance is between my location and new york", "label": null, "scenario": "datetime", "source": "massive", "id": "calib-62"}
+{"text": "what is the traffic like today", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-63"}
+{"text": "today weather", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-64"}
+{"text": "olly i need to remember to get to the shops before they close", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-65"}
+{"text": "what's going on here", "label": "news", "scenario": "news", "source": "massive", "id": "calib-66"}
+{"text": "add detergent to the list of things i need to buy", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-67"}
+{"text": "do i have any appointments on march thirtieth", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-68"}
+{"text": "give me the headlines from sky news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-69"}
+{"text": "play pop", "label": null, "scenario": "play", "source": "massive", "id": "calib-70"}
+{"text": "do i need to carry an umbrella today", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-71"}
+{"text": "is colombo on the coast of sri lanka", "label": null, "scenario": "qa", "source": "massive", "id": "calib-72"}
+{"text": "trash the current list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-73"}
+{"text": "email naty for her birthday", "label": "email", "scenario": "email", "source": "massive", "id": "calib-74"}
+{"text": "could you please have uber be at my house in fifteen minutes", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-75"}
+{"text": "time constrain", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-76"}
+{"text": "set a meeting between myself and john at two p. m. tomorrow", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-77"}
+{"text": "which route has less traffic today", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-78"}
+{"text": "make sure bread is on my grocery list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-79"}
+{"text": "could you please hire me a taxi to go to the opera tonight", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-80"}
+{"text": "this week's weather forecast", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-81"}
+{"text": "ok google what is the weather going to be like on march twentieth two thousand and seventeen", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-82"}
+{"text": "add event baseball practice five p. m. tonight", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-83"}
+{"text": "delete bread from shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-84"}
+{"text": "how is the traffic on harvard", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-85"}
+{"text": "lower the brightness of the lights", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-86"}
+{"text": "go to contacts and add a new email to the list", "label": "email", "scenario": "email", "source": "massive", "id": "calib-87"}
+{"text": "turn off bedroom light at nine thirty p. m.", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-88"}
+{"text": "what is the correct time", "label": null, "scenario": "datetime", "source": "massive", "id": "calib-89"}
+{"text": "can you give me some idea about dance bar", "label": null, "scenario": "qa", "source": "massive", "id": "calib-90"}
+{"text": "what is the current forecast for maine", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-91"}
+{"text": "if there is event of show then remove it", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-92"}
+{"text": "what is going for tomorrow", "label": "news", "scenario": "news", "source": "massive", "id": "calib-93"}
+{"text": "ok google add a notification from bob's news on the weather", "label": "news", "scenario": "news", "source": "massive", "id": "calib-94"}
+{"text": "start the satellite music feed", "label": null, "scenario": "play", "source": "massive", "id": "calib-95"}
+{"text": "the sun is shinning bright will we have this weather for the rest of the day", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-96"}
+{"text": "is there any special in politic", "label": "news", "scenario": "news", "source": "massive", "id": "calib-97"}
+{"text": "email ashwin patel my best wishes and an attachment of workpdf", "label": "email", "scenario": "email", "source": "massive", "id": "calib-98"}
+{"text": "hi google please send mail to mom i am coming home on this weekend", "label": "email", "scenario": "email", "source": "massive", "id": "calib-99"}
+{"text": "olly do i have anything outstanding on any lists", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-100"}
+{"text": "practical driving assessment", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-101"}
+{"text": "can you reserve a train ticket for this day", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-102"}
+{"text": "please turn off the lights in the bedroom", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-103"}
+{"text": "will there be any seventy degree days next week", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-104"}
+{"text": "what's the traffic this morning", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-105"}
+{"text": "pull up a complaint for a. o. l.", "label": null, "scenario": "social", "source": "massive", "id": "calib-106"}
+{"text": "increase volume to fifty percent", "label": null, "scenario": "audio", "source": "massive", "id": "calib-107"}
+{"text": "order me some chinese food", "label": null, "scenario": "takeaway", "source": "massive", "id": "calib-108"}
+{"text": "did i get new emails from sarah", "label": "email", "scenario": "email", "source": "massive", "id": "calib-109"}
+{"text": "when is bank holiday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-110"}
+{"text": "which lists are present in the notes app", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-111"}
+{"text": "show grocery list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-112"}
+{"text": "play previous song", "label": null, "scenario": "play", "source": "massive", "id": "calib-113"}
+{"text": "notify me with news updates on nigeria", "label": "news", "scenario": "news", "source": "massive", "id": "calib-114"}
+{"text": "alexa i want to check julia's available dates so would you send her mail and ask about it", "label": "email", "scenario": "email", "source": "massive", "id": "calib-115"}
+{"text": "olly tell me the most recent news from c. n. n.", "label": "news", "scenario": "news", "source": "massive", "id": "calib-116"}
+{"text": "pink is all we need", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-117"}
+{"text": "any meeting between six to seven p. m.", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-118"}
+{"text": "name a rom com movie playing in and around new york theaters", "label": null, "scenario": "recommendation", "source": "massive", "id": "calib-119"}
+{"text": "brighten up the lighting", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-120"}
+{"text": "book a ticket for today in irctc site for the stored information", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-121"}
+{"text": "what are my current list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-122"}
+{"text": "does charley's steakhouse deliver", "label": null, "scenario": "takeaway", "source": "massive", "id": "calib-123"}
+{"text": "can this room have green light", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-124"}
+{"text": "what is on the list for today", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-125"}
+{"text": "what is the meeting schedule", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-126"}
+{"text": "please check the train schedule for wednesday at five p. m. going to rockville", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-127"}
+{"text": "what's the average price of a house in michigan", "label": null, "scenario": "general", "source": "massive", "id": "calib-128"}
+{"text": "i want to make a note on my calendar for the event tomorrow at the library", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-129"}
+{"text": "please reply to this email", "label": "email", "scenario": "email", "source": "massive", "id": "calib-130"}
+{"text": "book a taxi to the airport for tomorrow morning", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-131"}
+{"text": "tell me the news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-132"}
+{"text": "please explain the chinese culture", "label": null, "scenario": "general", "source": "massive", "id": "calib-133"}
+{"text": "remind me to wash the windows", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-134"}
+{"text": "add paav bhaji in menu card", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-135"}
+{"text": "tweet to the bbb that burger king is too expensive", "label": null, "scenario": "social", "source": "massive", "id": "calib-136"}
+{"text": "give me some dim light", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-137"}
+{"text": "create a new list of", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-138"}
+{"text": "book me a train ride", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-139"}
+{"text": "it's awfully dark here", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-140"}
+{"text": "give me the newest new york times", "label": "news", "scenario": "news", "source": "massive", "id": "calib-141"}
+{"text": "where is the food festival tonight", "label": null, "scenario": "recommendation", "source": "massive", "id": "calib-142"}
+{"text": "find me the cheapest place to buy a new backpack", "label": null, "scenario": "recommendation", "source": "massive", "id": "calib-143"}
+{"text": "please mute yourself", "label": null, "scenario": "audio", "source": "massive", "id": "calib-144"}
+{"text": "open social media account", "label": null, "scenario": "social", "source": "massive", "id": "calib-145"}
+{"text": "south it going to be hot tomorrow", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-146"}
+{"text": "tell me the weather in shanghai", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-147"}
+{"text": "influx", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-148"}
+{"text": "can you please add my dinner reservations to my calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-149"}
+{"text": "can you make a red shade of light in the living room", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-150"}
+{"text": "start radio station one oh seven point five f. m.", "label": null, "scenario": "play", "source": "massive", "id": "calib-151"}
+{"text": "read me the content of this list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-152"}
+{"text": "english test form email from marcia", "label": "email", "scenario": "email", "source": "massive", "id": "calib-153"}
+{"text": "can you remove this item from the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-154"}
+{"text": "please turn off right side of light", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-155"}
+{"text": "find songs from my big band playlist", "label": null, "scenario": "play", "source": "massive", "id": "calib-156"}
+{"text": "please book a train ticket for me", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-157"}
+{"text": "what is the traffic situation at the bazaar highway", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-158"}
+{"text": "olly book me a train ticket to new york city on the third i don't care what time", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-159"}
+{"text": "reply back to this email", "label": "email", "scenario": "email", "source": "massive", "id": "calib-160"}
+{"text": "cancel the milk from the shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-161"}
+{"text": "remove frida from contacts", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-162"}
+{"text": "at what time is my alarm set", "label": null, "scenario": "alarm", "source": "massive", "id": "calib-163"}
+{"text": "book me a train ticket to newcastle", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-164"}
+{"text": "show me map of this location", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-165"}
+{"text": "train times for tomorrow", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-166"}
+{"text": "what is the latest from my feed", "label": null, "scenario": "social", "source": "massive", "id": "calib-167"}
+{"text": "is there any traffic on my way to work", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-168"}
+{"text": "weather for the next week in new york", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-169"}
+{"text": "please check my reminders", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-170"}
+{"text": "please reply to my most recent email", "label": "email", "scenario": "email", "source": "massive", "id": "calib-171"}
+{"text": "what is the weather report", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-172"}
+{"text": "what about the new york city traffic", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-173"}
+{"text": "i want to make next week's to do list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-174"}
+{"text": "check recently sent emails from mom", "label": "email", "scenario": "email", "source": "massive", "id": "calib-175"}
+{"text": "directions to place", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-176"}
+{"text": "what is happening in milwaukee today", "label": null, "scenario": "recommendation", "source": "massive", "id": "calib-177"}
+{"text": "when does the next train traveling the city leave here", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-178"}
+{"text": "what's on for this week", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-179"}
+{"text": "what year did robin williams pass away", "label": null, "scenario": "qa", "source": "massive", "id": "calib-180"}
+{"text": "i want to play rock paper scissors let's play", "label": null, "scenario": "play", "source": "massive", "id": "calib-181"}
+{"text": "reduce the lights", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-182"}
+{"text": "event reminder mona tuesday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-183"}
+{"text": "please turn off kitchen light for me", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-184"}
+{"text": "read my grocery list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-185"}
+{"text": "please turn on the lights in my house", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-186"}
+{"text": "add something to my list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-187"}
+{"text": "call me an uber for right now", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-188"}
+{"text": "please say to the email that sent me george i need the money now it's urgent", "label": "email", "scenario": "email", "source": "massive", "id": "calib-189"}
+{"text": "book me a return trip from edinburgh to london by train", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-190"}
+{"text": "need to carry a umbrella this evening", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-191"}
+{"text": "do i have any emails from jane doe", "label": "email", "scenario": "email", "source": "massive", "id": "calib-192"}
+{"text": "olly what is the weather like this week", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-193"}
+{"text": "please book me a taxi uber", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-194"}
+{"text": "set my alarm for time", "label": null, "scenario": "alarm", "source": "massive", "id": "calib-195"}
+{"text": "show us red", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-196"}
+{"text": "is this person sent any email", "label": "email", "scenario": "email", "source": "massive", "id": "calib-197"}
+{"text": "the weather is sunny today", "label": null, "scenario": "general", "source": "massive", "id": "calib-198"}
+{"text": "any death news in times of india", "label": "news", "scenario": "news", "source": "massive", "id": "calib-199"}
+{"text": "i want all my events deleted", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-200"}
+{"text": "clean the floor please", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-201"}
+{"text": "provide what is there on the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-202"}
+{"text": "write email to my company mate to submit the task tomorrow", "label": "email", "scenario": "email", "source": "massive", "id": "calib-203"}
+{"text": "remove event", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-204"}
+{"text": "did i get an email from paul", "label": "email", "scenario": "email", "source": "massive", "id": "calib-205"}
+{"text": "is there any email with subject", "label": "email", "scenario": "email", "source": "massive", "id": "calib-206"}
+{"text": "will you take care of the home security system", "label": null, "scenario": "general", "source": "massive", "id": "calib-207"}
+{"text": "turn corner light on", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-208"}
+{"text": "check the latest news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-209"}
+{"text": "mute the living room speakers", "label": null, "scenario": "audio", "source": "massive", "id": "calib-210"}
+{"text": "what is the date for the event scheduled on the twentieth of february", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-211"}
+{"text": "which date is on next monday", "label": null, "scenario": "datetime", "source": "massive", "id": "calib-212"}
+{"text": "give me dark", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-213"}
+{"text": "add dan at dancom to my contacts", "label": "email", "scenario": "email", "source": "massive", "id": "calib-214"}
+{"text": "remove mother from my contact list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-215"}
+{"text": "switch to", "label": null, "scenario": "play", "source": "massive", "id": "calib-216"}
+{"text": "remove all upcoming events please", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-217"}
+{"text": "what is the recipe for chocolate chips", "label": null, "scenario": "general", "source": "massive", "id": "calib-218"}
+{"text": "give me the latest political headlines across the world", "label": "news", "scenario": "news", "source": "massive", "id": "calib-219"}
+{"text": "cross out bread from shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-220"}
+{"text": "i'd like a train ticket to this location", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-221"}
+{"text": "how hot is it in quebec", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-222"}
+{"text": "is the coffee ready", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-223"}
+{"text": "any events happening nearby", "label": null, "scenario": "recommendation", "source": "massive", "id": "calib-224"}
+{"text": "turn on robot vacuum cleaner", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-225"}
+{"text": "give me the update on traffic at new york", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-226"}
+{"text": "olly set a reminder for my meeting today", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-227"}
+{"text": "has sally fields ever won an academy award", "label": null, "scenario": "qa", "source": "massive", "id": "calib-228"}
+{"text": "what will the high be tomorrow in tucson", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-229"}
+{"text": "let's email sandy", "label": "email", "scenario": "email", "source": "massive", "id": "calib-230"}
+{"text": "where is the nearest olive garden", "label": null, "scenario": "recommendation", "source": "massive", "id": "calib-231"}
+{"text": "make coffee at six am", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-232"}
+{"text": "i want to make this week's shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-233"}
+{"text": "what's a romantic meal for my girlfriend", "label": null, "scenario": "general", "source": "massive", "id": "calib-234"}
+{"text": "google home", "label": "news", "scenario": "news", "source": "massive", "id": "calib-235"}
+{"text": "send an uber to me right now", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-236"}
+{"text": "how far is orlando from my house", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-237"}
+{"text": "do i need a coat outside right now", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-238"}
+{"text": "what is a virtual reality headset", "label": null, "scenario": "qa", "source": "massive", "id": "calib-239"}
+{"text": "i would like the house lights to be pink", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-240"}
+{"text": "email my appointments to reschedule", "label": "email", "scenario": "email", "source": "massive", "id": "calib-241"}
+{"text": "clear all events in calendar for march", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-242"}
+{"text": "what's the temperature outside", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-243"}
+{"text": "what are the names of the lists that i have created", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-244"}
+{"text": "change the lights in the house to green", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-245"}
+{"text": "tell me if i have any unread new emails", "label": "email", "scenario": "email", "source": "massive", "id": "calib-246"}
+{"text": "play anything by cat stevens and i'll be happy", "label": null, "scenario": "play", "source": "massive", "id": "calib-247"}
+{"text": "should i wear a a dress or a sweat shirt today", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-248"}
+{"text": "run over my to do list with me", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-249"}
+{"text": "what are the headlines on the new york times", "label": "news", "scenario": "news", "source": "massive", "id": "calib-250"}
+{"text": "alexa book me a train ticket for this afternoon to chicago", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-251"}
+{"text": "meetings from twenty to twenty five june", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-252"}
+{"text": "look up the definition to ambulance", "label": null, "scenario": "qa", "source": "massive", "id": "calib-253"}
+{"text": "google news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-254"}
+{"text": "what is the tallest mountain in tucson", "label": null, "scenario": "qa", "source": "massive", "id": "calib-255"}
+{"text": "how much are train tickets to vegas", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-256"}
+{"text": "start pandora", "label": null, "scenario": "play", "source": "massive", "id": "calib-257"}
+{"text": "are there unread emails in my inbox", "label": "email", "scenario": "email", "source": "massive", "id": "calib-258"}
+{"text": "i want to go to sally's birthday on saturday at ten p. m.", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-259"}
+{"text": "where is the closest train depot", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-260"}
+{"text": "can you tell me about wayne gretszky", "label": null, "scenario": "qa", "source": "massive", "id": "calib-261"}
+{"text": "did i get an email from mike", "label": "email", "scenario": "email", "source": "massive", "id": "calib-262"}
+{"text": "can you check to see if i have any recent email alerts", "label": "email", "scenario": "email", "source": "massive", "id": "calib-263"}
+{"text": "it is too dark in here increase the brightness of the lights", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-264"}
+{"text": "book a ticket for me on a train to get to boston tomorrow what is available", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-265"}
+{"text": "what trips are available from new york city to poughkeepsie", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-266"}
+{"text": "what is on the agenda for the four p. m. meeting with joe", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-267"}
+{"text": "new emails received in past hour", "label": "email", "scenario": "email", "source": "massive", "id": "calib-268"}
+{"text": "change the lights into green", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-269"}
+{"text": "find the shortest distance for the location needed", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-270"}
+{"text": "what are the most recent headlines on c. n. n.", "label": "news", "scenario": "news", "source": "massive", "id": "calib-271"}
+{"text": "delete my meeting for tomorrow", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-272"}
+{"text": "cancel all my appointments", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-273"}
+{"text": "clean my house", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-274"}
+{"text": "do you expect sun on sunday", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-275"}
+{"text": "please turn off the porch light", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-276"}
+{"text": "keep me updated on what is happening in southeast africa currently", "label": "news", "scenario": "news", "source": "massive", "id": "calib-277"}
+{"text": "when do i need to pay the bills", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-278"}
+{"text": "alexa what is the news in my area", "label": "news", "scenario": "news", "source": "massive", "id": "calib-279"}
+{"text": "pop", "label": null, "scenario": "play", "source": "massive", "id": "calib-280"}
+{"text": "switch all lights off except living area", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-281"}
+{"text": "olly anything else left on the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-282"}
+{"text": "hoover the hallway", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-283"}
+{"text": "add a meeting in office at eleven am", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-284"}
+{"text": "add eggs to my list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-285"}
+{"text": "check my email inboxes and tell me about new mails", "label": "email", "scenario": "email", "source": "massive", "id": "calib-286"}
+{"text": "what unread emails do i have", "label": "email", "scenario": "email", "source": "massive", "id": "calib-287"}
+{"text": "set reminder for tomorrow for this item", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-288"}
+{"text": "set a reminder for my meeting at five p. m.", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-289"}
+{"text": "a new list to be created by tomorrow", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-290"}
+{"text": "change house light from green to red", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-291"}
+{"text": "check for new emails", "label": "email", "scenario": "email", "source": "massive", "id": "calib-292"}
+{"text": "reserve a ticket to go to destination by train", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-293"}
+{"text": "i want a reply to the email", "label": "email", "scenario": "email", "source": "massive", "id": "calib-294"}
+{"text": "i need to get a ticket via train to orlando from hwood", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-295"}
+{"text": "turn off the socket", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-296"}
+{"text": "please update my grocery list with one gallon of two percent milk", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-297"}
+{"text": "find an uber on twenty ninth", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-298"}
+{"text": "can i go outing without any umbrella", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-299"}
+{"text": "show me what shops are around me", "label": null, "scenario": "recommendation", "source": "massive", "id": "calib-300"}
+{"text": "what's the latest on the travel ban", "label": "news", "scenario": "news", "source": "massive", "id": "calib-301"}
+{"text": "what is the current weather", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-302"}
+{"text": "what is new in politics today can you filter out trump news though", "label": "news", "scenario": "news", "source": "massive", "id": "calib-303"}
+{"text": "what were the cities affected by the earthquake", "label": "news", "scenario": "news", "source": "massive", "id": "calib-304"}
+{"text": "world local news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-305"}
+{"text": "climate details now", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-306"}
+{"text": "google maps", "label": null, "scenario": "qa", "source": "massive", "id": "calib-307"}
+{"text": "what is rock", "label": null, "scenario": "qa", "source": "massive", "id": "calib-308"}
+{"text": "do i have any off days this week", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-309"}
+{"text": "the event will include walter and gemma", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-310"}
+{"text": "hey schedule a meeting with mr. ross for this friday noon", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-311"}
+{"text": "here is a new email address to be added to the contacts", "label": "email", "scenario": "email", "source": "massive", "id": "calib-312"}
+{"text": "there is an email i need you to send my friend", "label": "email", "scenario": "email", "source": "massive", "id": "calib-313"}
+{"text": "put clean dog at the top of the cleaning list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-314"}
+{"text": "play my station", "label": null, "scenario": "play", "source": "massive", "id": "calib-315"}
+{"text": "add an alarm for tomorrow morning at six am", "label": null, "scenario": "alarm", "source": "massive", "id": "calib-316"}
+{"text": "remind me an hour before my next work meeting", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-317"}
+{"text": "send email to family saying i love you all", "label": "email", "scenario": "email", "source": "massive", "id": "calib-318"}
+{"text": "what is the weather update for tuesday", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-319"}
+{"text": "what lists are in my notebook", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-320"}
+{"text": "reply to the email", "label": "email", "scenario": "email", "source": "massive", "id": "calib-321"}
+{"text": "am i going to swim or work today", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-322"}
+{"text": "what is the definition of logic", "label": null, "scenario": "qa", "source": "massive", "id": "calib-323"}
+{"text": "check for all emails from tom brady", "label": "email", "scenario": "email", "source": "massive", "id": "calib-324"}
+{"text": "march fifth is john's birthday please place this on the calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-325"}
+{"text": "who am i meeting today", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-326"}
+{"text": "make a things to do list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-327"}
+{"text": "can we turn up the lights", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-328"}
+{"text": "how was the weather this week", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-329"}
+{"text": "what day is christmas", "label": null, "scenario": "datetime", "source": "massive", "id": "calib-330"}
+{"text": "when is it going to snow next", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-331"}
+{"text": "turn down the volume", "label": null, "scenario": "audio", "source": "massive", "id": "calib-332"}
+{"text": "olly change my light color to blue and please turn off the kitchen light", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-333"}
+{"text": "i wish to know the weather in s. f.", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-334"}
+{"text": "new scenario time or calendar to new list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-335"}
+{"text": "please tell me what is the rate for yen to u. s. d.", "label": null, "scenario": "qa", "source": "massive", "id": "calib-336"}
+{"text": "please delete bananas from my shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-337"}
+{"text": "is the road in some particular area wide or narrow", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-338"}
+{"text": "please mute the television for one hour", "label": null, "scenario": "audio", "source": "massive", "id": "calib-339"}
+{"text": "what movies are playing near me olly", "label": null, "scenario": "recommendation", "source": "massive", "id": "calib-340"}
+{"text": "alexa turn off the lamp in the living room", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-341"}
+{"text": "change the lights to dim", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-342"}
+{"text": "please check for new email", "label": "email", "scenario": "email", "source": "massive", "id": "calib-343"}
+{"text": "what are the top news headlines right now", "label": "news", "scenario": "news", "source": "massive", "id": "calib-344"}
+{"text": "olly open the uber app and get me a car please", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-345"}
+{"text": "i need to add a new email to my contacts", "label": "email", "scenario": "email", "source": "massive", "id": "calib-346"}
+{"text": "what pubs are close", "label": null, "scenario": "recommendation", "source": "massive", "id": "calib-347"}
+{"text": "turn off the room light", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-348"}
+{"text": "dim the garden light by half", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-349"}
+{"text": "book an uber for one hour from now", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-350"}
+{"text": "send a message to national grid that the power is out again", "label": null, "scenario": "social", "source": "massive", "id": "calib-351"}
+{"text": "olly please check my email for me", "label": "email", "scenario": "email", "source": "massive", "id": "calib-352"}
+{"text": "book three round trip train tickets for sunday at seven p. m. return ticket of next week sunday at eight am", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-353"}
+{"text": "give me today's sports news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-354"}
+{"text": "temperature outside", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-355"}
+{"text": "add a new email", "label": "email", "scenario": "email", "source": "massive", "id": "calib-356"}
+{"text": "are there any shopping centers nearby", "label": null, "scenario": "recommendation", "source": "massive", "id": "calib-357"}
+{"text": "hey i just lost my wallet today", "label": null, "scenario": "general", "source": "massive", "id": "calib-358"}
+{"text": "call a taxi company", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-359"}
+{"text": "what's hot social media topics", "label": null, "scenario": "social", "source": "massive", "id": "calib-360"}
+{"text": "give me an update on the election in one hour", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-361"}
+{"text": "what's the latest news from t. mobile", "label": "news", "scenario": "news", "source": "massive", "id": "calib-362"}
+{"text": "i want to know the news form miami herald", "label": "news", "scenario": "news", "source": "massive", "id": "calib-363"}
+{"text": "make me a coffee please", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-364"}
+{"text": "what is one hundred and twenty three times one hundred and twenty three", "label": null, "scenario": "qa", "source": "massive", "id": "calib-365"}
+{"text": "please turn off my patio lights", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-366"}
+{"text": "what were the winning powerball numbers last night", "label": "news", "scenario": "news", "source": "massive", "id": "calib-367"}
+{"text": "i don't need the shopping list delete it", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-368"}
+{"text": "temple runner play", "label": null, "scenario": "play", "source": "massive", "id": "calib-369"}
+{"text": "shadi special podcast play it", "label": null, "scenario": "play", "source": "massive", "id": "calib-370"}
+{"text": "i went to the park", "label": null, "scenario": "general", "source": "massive", "id": "calib-371"}
+{"text": "i'd like to cancel the trip to vegas next week", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-372"}
+{"text": "read the headlines from new york times", "label": "news", "scenario": "news", "source": "massive", "id": "calib-373"}
+{"text": "i want a coffee now", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-374"}
+{"text": "can you set my alarm", "label": null, "scenario": "alarm", "source": "massive", "id": "calib-375"}
+{"text": "go backward thirty seconds", "label": null, "scenario": "play", "source": "massive", "id": "calib-376"}
+{"text": "do i have any new emails from paul", "label": "email", "scenario": "email", "source": "massive", "id": "calib-377"}
+{"text": "fire in columbus ohio", "label": "news", "scenario": "news", "source": "massive", "id": "calib-378"}
+{"text": "find me the cheapest train ticket to spain", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-379"}
+{"text": "will it rain now", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-380"}
+{"text": "please turn down the lights to fifty percent in the den", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-381"}
+{"text": "show the list that are available with numbers", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-382"}
+{"text": "what is the capital of mexico", "label": null, "scenario": "qa", "source": "massive", "id": "calib-383"}
+{"text": "turn on channel nine hundred and fifty one", "label": null, "scenario": "play", "source": "massive", "id": "calib-384"}
+{"text": "yes or no tomorrow's temperature is to be hot", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-385"}
+{"text": "what is the weather this friday", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-386"}
+{"text": "can you let me know the weather of alabama tomorrow", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-387"}
+{"text": "put pizza on the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-388"}
+{"text": "take me to m. c. donalds", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-389"}
+{"text": "minimize the light power", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-390"}
+{"text": "can i remove a reminder", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-391"}
+{"text": "get me the weather forecast of beijing", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-392"}
+{"text": "open a reminder about next week's managers meeting on tuesday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-393"}
+{"text": "please see what you wrote for this question", "label": null, "scenario": "general", "source": "massive", "id": "calib-394"}
+{"text": "remind me the wedding on time to buy a present", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-395"}
+{"text": "play repeats please", "label": null, "scenario": "play", "source": "massive", "id": "calib-396"}
+{"text": "email donna plans for today", "label": "email", "scenario": "email", "source": "massive", "id": "calib-397"}
+{"text": "is it going to be sunny this weekend", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-398"}
+{"text": "shutoff light in the kitchen", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-399"}
+{"text": "tell me what is in your list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-400"}
+{"text": "forward email address to my new email olly", "label": "email", "scenario": "email", "source": "massive", "id": "calib-401"}
+{"text": "add this new email with contact", "label": "email", "scenario": "email", "source": "massive", "id": "calib-402"}
+{"text": "please open my contact list", "label": "email", "scenario": "email", "source": "massive", "id": "calib-403"}
+{"text": "did i get an email from sarah", "label": "email", "scenario": "email", "source": "massive", "id": "calib-404"}
+{"text": "i have bad experience with bugs in this hotel tweet this to customer service and give them link relevance to this topic", "label": null, "scenario": "social", "source": "massive", "id": "calib-405"}
+{"text": "check my list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-406"}
+{"text": "read me my list for shopping", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-407"}
+{"text": "current date", "label": null, "scenario": "datetime", "source": "massive", "id": "calib-408"}
+{"text": "open the site bbcnews dot com", "label": "news", "scenario": "news", "source": "massive", "id": "calib-409"}
+{"text": "tell me the top stories in the news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-410"}
+{"text": "add the song the new playlist", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-411"}
+{"text": "olly get me the popular news from b. b. c.", "label": "news", "scenario": "news", "source": "massive", "id": "calib-412"}
+{"text": "change my room lights so that i can get a good sleep", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-413"}
+{"text": "remind me to go grocery shopping today", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-414"}
+{"text": "i don't want to carry an umbrella will we have rain today", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-415"}
+{"text": "turn the lights blue", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-416"}
+{"text": "make the coffee", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-417"}
+{"text": "olly what are the most recent headlines on c. n. n.", "label": "news", "scenario": "news", "source": "massive", "id": "calib-418"}
+{"text": "weather report of boston", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-419"}
+{"text": "cricket live scorecards", "label": "news", "scenario": "news", "source": "massive", "id": "calib-420"}
+{"text": "set aside this day for this calendar event", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-421"}
+{"text": "who won the last five n. c. a. a. men's basketball tournament", "label": null, "scenario": "qa", "source": "massive", "id": "calib-422"}
+{"text": "put off the living room light", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-423"}
+{"text": "turn off lights in all bathrooms", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-424"}
+{"text": "olly book me a taxi to leith in half an hour", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-425"}
+{"text": "i would like to pickup a veggie sub with a cookie from subway", "label": null, "scenario": "takeaway", "source": "massive", "id": "calib-426"}
+{"text": "definition of arrow please", "label": null, "scenario": "qa", "source": "massive", "id": "calib-427"}
+{"text": "is the road clear in florida", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-428"}
+{"text": "direct me towards nearest railway station", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-429"}
+{"text": "can you provide me with the contact information assigned to this person", "label": "email", "scenario": "email", "source": "massive", "id": "calib-430"}
+{"text": "i would like to hear my lists", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-431"}
+{"text": "get sia's cheap thrills ready to play next", "label": null, "scenario": "play", "source": "massive", "id": "calib-432"}
+{"text": "please add my next meeting", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-433"}
+{"text": "we need milk", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-434"}
+{"text": "i want to play a game with you", "label": null, "scenario": "play", "source": "massive", "id": "calib-435"}
+{"text": "send will do thanks to john as a reply to his last message", "label": "email", "scenario": "email", "source": "massive", "id": "calib-436"}
+{"text": "turn on the radio to ten fifty three", "label": null, "scenario": "play", "source": "massive", "id": "calib-437"}
+{"text": "create a list of monthly groceries to be bought", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-438"}
+{"text": "set notification for news about the dakota pipeline", "label": "news", "scenario": "news", "source": "massive", "id": "calib-439"}
+{"text": "tell me c. n. n. news for me right now", "label": "news", "scenario": "news", "source": "massive", "id": "calib-440"}
+{"text": "how old is mariah carey", "label": null, "scenario": "qa", "source": "massive", "id": "calib-441"}
+{"text": "do you have any updates on blank", "label": "news", "scenario": "news", "source": "massive", "id": "calib-442"}
+{"text": "what is my event schedule tomorrow", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-443"}
+{"text": "what news do you have today", "label": "news", "scenario": "news", "source": "massive", "id": "calib-444"}
+{"text": "book ticket to depart in the morning", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-445"}
+{"text": "do i need a jacket", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-446"}
+{"text": "tell me what the latest news is", "label": "news", "scenario": "news", "source": "massive", "id": "calib-447"}
+{"text": "remind me about", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-448"}
+{"text": "what day is this event scheduled for", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-449"}
+{"text": "what's the news on b. b. c. news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-450"}
+{"text": "brighten the light of hall", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-451"}
+{"text": "i want to have a new playlist of songs", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-452"}
+{"text": "do i have any events going on this weekend", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-453"}
+{"text": "turn down the lights in the living room", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-454"}
+{"text": "order the best priced general tofu in nyack", "label": null, "scenario": "takeaway", "source": "massive", "id": "calib-455"}
+{"text": "book a taxi for tomorrow morning", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-456"}
+{"text": "should i take a sweater or a coat to work today", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-457"}
+{"text": "get me a train ticket from mumbai to goa", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-458"}
+{"text": "please tell dsw i'm returning defective shoes", "label": null, "scenario": "social", "source": "massive", "id": "calib-459"}
+{"text": "take out event from calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-460"}
+{"text": "can you do nine plus two", "label": null, "scenario": "qa", "source": "massive", "id": "calib-461"}
+{"text": "mute the settings", "label": null, "scenario": "audio", "source": "massive", "id": "calib-462"}
+{"text": "ask my friend hows the climate there", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-463"}
+{"text": "what's my stock fluctuations", "label": null, "scenario": "qa", "source": "massive", "id": "calib-464"}
+{"text": "please turn off the lamp", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-465"}
+{"text": "what is the weather", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-466"}
+{"text": "do i need my raingear", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-467"}
+{"text": "what is the current traffic situation", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-468"}
+{"text": "diverge", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-469"}
+{"text": "what is the traffic like right now", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-470"}
+{"text": "list out", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-471"}
+{"text": "run recent email", "label": "email", "scenario": "email", "source": "massive", "id": "calib-472"}
+{"text": "what is the amount for train ticket booking", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-473"}
+{"text": "open my most recent email and reply", "label": "email", "scenario": "email", "source": "massive", "id": "calib-474"}
+{"text": "tell me about the weather this week", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-475"}
+{"text": "this weeks weather forecast", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-476"}
+{"text": "add mary's birthday on the twenty second to my calendar please", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-477"}
+{"text": "is it a rainy and stormy day", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-478"}
+{"text": "check item five on my to do list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-479"}
+{"text": "book me a ticket to paris on eurostar this weekend", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-480"}
+{"text": "what day of the week is november fourteenth", "label": null, "scenario": "datetime", "source": "massive", "id": "calib-481"}
+{"text": "check all the new them emails and mark them star", "label": "email", "scenario": "email", "source": "massive", "id": "calib-482"}
+{"text": "is it gonna snow", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-483"}
+{"text": "send an email to george brown", "label": "email", "scenario": "email", "source": "massive", "id": "calib-484"}
+{"text": "show me timetables for trains going from prague to brno", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-485"}
+{"text": "news articles on a particular subject", "label": "news", "scenario": "news", "source": "massive", "id": "calib-486"}
+{"text": "vacuum the kitchen", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-487"}
+{"text": "run reply to latest email received", "label": "email", "scenario": "email", "source": "massive", "id": "calib-488"}
+{"text": "i have all details about pda's", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-489"}
+{"text": "get me a taxi", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-490"}
+{"text": "what's been going on", "label": null, "scenario": "general", "source": "massive", "id": "calib-491"}
+{"text": "send me a reminder of my meeting with tom next friday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-492"}
+{"text": "please give me update of cricket", "label": "news", "scenario": "news", "source": "massive", "id": "calib-493"}
+{"text": "i'm in a meeting please do not speak", "label": null, "scenario": "audio", "source": "massive", "id": "calib-494"}
+{"text": "remind me of the meeting on the twenty second of january", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-495"}
+{"text": "is it currently raining in new york city", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-496"}
+{"text": "its hot today", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-497"}
+{"text": "recent tech headlines", "label": "news", "scenario": "news", "source": "massive", "id": "calib-498"}
+{"text": "what year did michael jackson die", "label": null, "scenario": "qa", "source": "massive", "id": "calib-499"}
+{"text": "bring up my latest emails", "label": "email", "scenario": "email", "source": "massive", "id": "calib-500"}
+{"text": "turn on the lamp", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-501"}
+{"text": "send twitter to mattel that they need to stop making toys in china", "label": null, "scenario": "social", "source": "massive", "id": "calib-502"}
+{"text": "please call a taxi to arrive at four hundred and take me to the manor theater", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-503"}
+{"text": "can you write an email to chelsea", "label": "email", "scenario": "email", "source": "massive", "id": "calib-504"}
+{"text": "turn off the light in the bathroom", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-505"}
+{"text": "what happened in n. y. c. times square yesterday at noontime", "label": "news", "scenario": "news", "source": "massive", "id": "calib-506"}
+{"text": "what street do i take to get to downtown", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-507"}
+{"text": "list items on my work list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-508"}
+{"text": "beep when i get an email from john", "label": "email", "scenario": "email", "source": "massive", "id": "calib-509"}
+{"text": "turn on the vacuum now", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-510"}
+{"text": "show me the weather forecast for the next three three days", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-511"}
+{"text": "i like red color for my home change it", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-512"}
+{"text": "are there any accidents on the four hundred and five", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-513"}
+{"text": "is it gonna rain", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-514"}
+{"text": "please play rock music", "label": null, "scenario": "play", "source": "massive", "id": "calib-515"}
+{"text": "please remove the alarm which i set", "label": null, "scenario": "alarm", "source": "massive", "id": "calib-516"}
+{"text": "open the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-517"}
+{"text": "what is the weather like in brooklyn right now", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-518"}
+{"text": "open podcast player", "label": null, "scenario": "play", "source": "massive", "id": "calib-519"}
+{"text": "add vodka to my party shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-520"}
+{"text": "add new item", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-521"}
+{"text": "book me a taxi for one p. m.", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-522"}
+{"text": "hey olly make the house lights a different color", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-523"}
+{"text": "when was angelina jolie born", "label": null, "scenario": "qa", "source": "massive", "id": "calib-524"}
+{"text": "remind me when mom sends me an email", "label": "email", "scenario": "email", "source": "massive", "id": "calib-525"}
+{"text": "i want to hear the songs of adele", "label": null, "scenario": "play", "source": "massive", "id": "calib-526"}
+{"text": "weather for next eight days san antonio texas", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-527"}
+{"text": "what is john smith's number", "label": "email", "scenario": "email", "source": "massive", "id": "calib-528"}
+{"text": "new emails", "label": "email", "scenario": "email", "source": "massive", "id": "calib-529"}
+{"text": "tweet my current location", "label": null, "scenario": "social", "source": "massive", "id": "calib-530"}
+{"text": "dim lights", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-531"}
+{"text": "can you tell me about the alarm called bed", "label": null, "scenario": "alarm", "source": "massive", "id": "calib-532"}
+{"text": "i wish to listen that radio channel", "label": null, "scenario": "play", "source": "massive", "id": "calib-533"}
+{"text": "delete all lists", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-534"}
+{"text": "what day does easter fall on this year", "label": null, "scenario": "datetime", "source": "massive", "id": "calib-535"}
+{"text": "should i plan to shovel my way out of the house", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-536"}
+{"text": "wakey wakey eggs and bakey", "label": null, "scenario": "general", "source": "massive", "id": "calib-537"}
+{"text": "look up bill information", "label": "email", "scenario": "email", "source": "massive", "id": "calib-538"}
+{"text": "what day of the week is the twenty sixth", "label": null, "scenario": "datetime", "source": "massive", "id": "calib-539"}
+{"text": "tell me the weather in barcelona in two days from now", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-540"}
+{"text": "swimming", "label": null, "scenario": "recommendation", "source": "massive", "id": "calib-541"}
+{"text": "let me know when my meetings are on monday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-542"}
+{"text": "please tell me where the fair is going to be this year", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-543"}
+{"text": "what kind of musical events are happening around here this week", "label": null, "scenario": "recommendation", "source": "massive", "id": "calib-544"}
+{"text": "what exactly is a resin tooth filling", "label": null, "scenario": "qa", "source": "massive", "id": "calib-545"}
+{"text": "olly what time is it in california", "label": null, "scenario": "datetime", "source": "massive", "id": "calib-546"}
+{"text": "do i have an appointment tomorrow", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-547"}
+{"text": "please make me updated about today's scenario", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-548"}
+{"text": "set a reminder for vacation next month", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-549"}
+{"text": "turn up the lights", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-550"}
+{"text": "tell me the quickest route to joe's place", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-551"}
+{"text": "is it supposed to rain tomorrow", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-552"}
+{"text": "tell me the weather this week", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-553"}
+{"text": "lower the lights in the room", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-554"}
+{"text": "how long is the walk from nyack to valley cottage", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-555"}
+{"text": "what's the next thing on my list of appointments", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-556"}
+{"text": "take grocery buying off of the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-557"}
+{"text": "please add new item to list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-558"}
+{"text": "get me directions to meijer", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-559"}
+{"text": "what is the highest temperature of delhi", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-560"}
+{"text": "lighter shade on the lights please", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-561"}
+{"text": "check on the delivery of my current order", "label": null, "scenario": "takeaway", "source": "massive", "id": "calib-562"}
+{"text": "tell me ten minutes before meeting", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-563"}
+{"text": "do i need to use sunscreen before going to meet my friend for lunch", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-564"}
+{"text": "clean up my schedule", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-565"}
+{"text": "tell about the latest world news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-566"}
+{"text": "how many euros for one u. s. d.", "label": null, "scenario": "qa", "source": "massive", "id": "calib-567"}
+{"text": "please remind me to call mom in half an hour", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-568"}
+{"text": "set reminder at", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-569"}
+{"text": "play musician play list", "label": null, "scenario": "play", "source": "massive", "id": "calib-570"}
+{"text": "book me a taxi to the mall of america please", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-571"}
+{"text": "send chris an email say do you have plans tonight want to go to dinner", "label": "email", "scenario": "email", "source": "massive", "id": "calib-572"}
+{"text": "has ben got in touch", "label": "email", "scenario": "email", "source": "massive", "id": "calib-573"}
+{"text": "find emails about hours from work", "label": "email", "scenario": "email", "source": "massive", "id": "calib-574"}
+{"text": "delete apples from my grocery list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-575"}
+{"text": "its too bright in here", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-576"}
+{"text": "top news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-577"}
+{"text": "coach and fare", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-578"}
+{"text": "change light colors", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-579"}
+{"text": "show me the stock price for google", "label": null, "scenario": "qa", "source": "massive", "id": "calib-580"}
+{"text": "i would like it to help analyze ideas", "label": null, "scenario": "general", "source": "massive", "id": "calib-581"}
+{"text": "is the weather supposed to be nice today", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-582"}
+{"text": "are there any meetings set for next wednesday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-583"}
+{"text": "what is on my list today", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-584"}
+{"text": "yes i want to know latest news updates", "label": "news", "scenario": "news", "source": "massive", "id": "calib-585"}
+{"text": "i have not gotten my daily news yet can you please brief me a little bit", "label": "news", "scenario": "news", "source": "massive", "id": "calib-586"}
+{"text": "how cold is the weather right now", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-587"}
+{"text": "what is the weather forecast for chicago", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-588"}
+{"text": "make a repeating reminder for my yoga practice every day at noon", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-589"}
+{"text": "send me links to news articles about the protest", "label": "news", "scenario": "news", "source": "massive", "id": "calib-590"}
+{"text": "reply to this email", "label": "email", "scenario": "email", "source": "massive", "id": "calib-591"}
+{"text": "add new items in the alarm list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-592"}
+{"text": "today get umbrella", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-593"}
+{"text": "go to cnncom", "label": "news", "scenario": "news", "source": "massive", "id": "calib-594"}
+{"text": "contacts", "label": "email", "scenario": "email", "source": "massive", "id": "calib-595"}
+{"text": "my mother needs the weekly weather sent to her", "label": "email", "scenario": "email", "source": "massive", "id": "calib-596"}
+{"text": "please turn on my coffee pot", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-597"}
+{"text": "crack a joke", "label": null, "scenario": "general", "source": "massive", "id": "calib-598"}
+{"text": "delete everything on the menu", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-599"}
+{"text": "make me a cup of coffee with salted carmel flavored cream", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-600"}
+{"text": "i want to start a new list of power tools on sale at true value", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-601"}
+{"text": "can you delete all events from my calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-602"}
+{"text": "start a list of dog names", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-603"}
+{"text": "how is weather in new york city", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-604"}
+{"text": "what is the weather forecast for today", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-605"}
+{"text": "find a taxi service close to me", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-606"}
+{"text": "remove the bank transaction list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-607"}
+{"text": "are there any alarms for today", "label": null, "scenario": "alarm", "source": "massive", "id": "calib-608"}
+{"text": "are there are any delays on my commute", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-609"}
+{"text": "power on wemo", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-610"}
+{"text": "next thursday i need to be reminded to call the bank", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-611"}
+{"text": "send an email to frank at work", "label": "email", "scenario": "email", "source": "massive", "id": "calib-612"}
+{"text": "check the weather of city on list starts with a", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-613"}
+{"text": "make the smart socket turn off", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-614"}
+{"text": "please set the vacuum to start going now", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-615"}
+{"text": "send an email to adele", "label": "email", "scenario": "email", "source": "massive", "id": "calib-616"}
+{"text": "please increase the light", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-617"}
+{"text": "please check for new emails", "label": "email", "scenario": "email", "source": "massive", "id": "calib-618"}
+{"text": "directions to new orleans", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-619"}
+{"text": "make the lights a different color", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-620"}
+{"text": "get me the number for local taxi service", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-621"}
+{"text": "olly what's happened in the news today", "label": "news", "scenario": "news", "source": "massive", "id": "calib-622"}
+{"text": "olly tell me what lists i currently have", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-623"}
+{"text": "show news of migration", "label": "news", "scenario": "news", "source": "massive", "id": "calib-624"}
+{"text": "down the light power", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-625"}
+{"text": "our water bill was too high", "label": null, "scenario": "general", "source": "massive", "id": "calib-626"}
+{"text": "what is the quickest way to grand central", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-627"}
+{"text": "should i wear a short sleeve", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-628"}
+{"text": "find the latest disney podcast", "label": null, "scenario": "play", "source": "massive", "id": "calib-629"}
+{"text": "can you speak quieter please", "label": null, "scenario": "audio", "source": "massive", "id": "calib-630"}
+{"text": "please book the five p. m. train to rockville", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-631"}
+{"text": "reply email received", "label": "email", "scenario": "email", "source": "massive", "id": "calib-632"}
+{"text": "what's going on today", "label": null, "scenario": "general", "source": "massive", "id": "calib-633"}
+{"text": "open iheartradio rov the rock", "label": null, "scenario": "play", "source": "massive", "id": "calib-634"}
+{"text": "set a reminder every day at noon to take medication", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-635"}
+{"text": "notify me about news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-636"}
+{"text": "who is the first president in u. s. a.", "label": null, "scenario": "qa", "source": "massive", "id": "calib-637"}
+{"text": "save event for five p. m. to six p. m. on march eighteenth", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-638"}
+{"text": "what is the forecast in my area today", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-639"}
+{"text": "what is the news in my area", "label": "news", "scenario": "news", "source": "massive", "id": "calib-640"}
+{"text": "please send an email to the following email address hwu at gmail dot com", "label": "email", "scenario": "email", "source": "massive", "id": "calib-641"}
+{"text": "tell me latest technology news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-642"}
+{"text": "how to i get to cape cod", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-643"}
+{"text": "i want topics on celebrity gossip", "label": "news", "scenario": "news", "source": "massive", "id": "calib-644"}
+{"text": "is my order ready for pick up now", "label": null, "scenario": "takeaway", "source": "massive", "id": "calib-645"}
+{"text": "what is the seattle city council doing about homelessness", "label": "news", "scenario": "news", "source": "massive", "id": "calib-646"}
+{"text": "i want to hear more audiobook", "label": null, "scenario": "play", "source": "massive", "id": "calib-647"}
+{"text": "send email to jim's work email", "label": "email", "scenario": "email", "source": "massive", "id": "calib-648"}
+{"text": "anything on your mind", "label": null, "scenario": "general", "source": "massive", "id": "calib-649"}
+{"text": "please mute for five minutes", "label": null, "scenario": "audio", "source": "massive", "id": "calib-650"}
+{"text": "send a tweet to the local wawa that their service is terrible at their market street location", "label": null, "scenario": "social", "source": "massive", "id": "calib-651"}
+{"text": "light green", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-652"}
+{"text": "how do i get to dunkin' donut in atlantic city nj", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-653"}
+{"text": "will i need to wear a coat today", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-654"}
+{"text": "please set my coffee machine to start at four p. m. time", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-655"}
+{"text": "hey siri what is in the world news right now", "label": "news", "scenario": "news", "source": "massive", "id": "calib-656"}
+{"text": "can you see what andrew emailed me about", "label": "email", "scenario": "email", "source": "massive", "id": "calib-657"}
+{"text": "start the pop radio station", "label": null, "scenario": "play", "source": "massive", "id": "calib-658"}
+{"text": "is it raining in toledo right now", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-659"}
+{"text": "what are the events conducted in new york", "label": null, "scenario": "recommendation", "source": "massive", "id": "calib-660"}
+{"text": "so clean news in past six hours is what", "label": "news", "scenario": "news", "source": "massive", "id": "calib-661"}
+{"text": "please access g. p. s. to direct me", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-662"}
+{"text": "exchange rates between dollar and euro", "label": null, "scenario": "qa", "source": "massive", "id": "calib-663"}
+{"text": "can you please book train tickets for two for this friday", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-664"}
+{"text": "should i wear sunblock today", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-665"}
+{"text": "please set a reminder for tuesdays at nine am", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-666"}
+{"text": "most current local news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-667"}
+{"text": "add dale at gmail dot com to my contacts", "label": "email", "scenario": "email", "source": "massive", "id": "calib-668"}
+{"text": "what is the answer to two plus two", "label": null, "scenario": "qa", "source": "massive", "id": "calib-669"}
+{"text": "if it is raining i will not go for job", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-670"}
+{"text": "give me up to date on sports news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-671"}
+{"text": "traffic status please", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-672"}
+{"text": "what is mondays actual date", "label": null, "scenario": "datetime", "source": "massive", "id": "calib-673"}
+{"text": "delete the following list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-674"}
+{"text": "how old was albert einstein when he came up with relativity theory", "label": null, "scenario": "qa", "source": "massive", "id": "calib-675"}
+{"text": "hey siri what time is it", "label": null, "scenario": "datetime", "source": "massive", "id": "calib-676"}
+{"text": "ok google can you remove this item from the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-677"}
+{"text": "give me a newspaper", "label": "news", "scenario": "news", "source": "massive", "id": "calib-678"}
+{"text": "olly turn the lights off in the bedroom", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-679"}
+{"text": "shut the smart socket down", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-680"}
+{"text": "did prince have children", "label": null, "scenario": "qa", "source": "massive", "id": "calib-681"}
+{"text": "remind me to go to the store every friday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-682"}
+{"text": "when is this going to happen", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-683"}
+{"text": "what does the traffic look like on my usual route to work", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-684"}
+{"text": "open c. n. n. app", "label": "news", "scenario": "news", "source": "massive", "id": "calib-685"}
+{"text": "clear the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-686"}
+{"text": "is there a way to get the latest breaking news on trump", "label": "news", "scenario": "news", "source": "massive", "id": "calib-687"}
+{"text": "what are today's sports news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-688"}
+{"text": "turn off kitchen light", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-689"}
+{"text": "can you add this event with joey", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-690"}
+{"text": "do they deliver home", "label": null, "scenario": "takeaway", "source": "massive", "id": "calib-691"}
+{"text": "switch off the wemo plug socket", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-692"}
+{"text": "take it in hand", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-693"}
+{"text": "what's thirteen plus fourteen", "label": null, "scenario": "qa", "source": "massive", "id": "calib-694"}
+{"text": "what is the plan for tonight", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-695"}
+{"text": "where is the south pole", "label": null, "scenario": "qa", "source": "massive", "id": "calib-696"}
+{"text": "olly find me the cheapest train ticket to spain", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-697"}
+{"text": "remind me at six about the meeting at seven", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-698"}
+{"text": "what color are chairs", "label": null, "scenario": "qa", "source": "massive", "id": "calib-699"}
+{"text": "open up a new list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-700"}
+{"text": "email my mom", "label": "email", "scenario": "email", "source": "massive", "id": "calib-701"}
+{"text": "go to the next episode in this podcast", "label": null, "scenario": "play", "source": "massive", "id": "calib-702"}
+{"text": "delete the list please", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-703"}
+{"text": "remind me to check morning news update", "label": "news", "scenario": "news", "source": "massive", "id": "calib-704"}
+{"text": "what is the exchange rate between u. s. d. and euro", "label": null, "scenario": "qa", "source": "massive", "id": "calib-705"}
+{"text": "is it going to be windy tomorrow", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-706"}
+{"text": "is my order at domino's ready", "label": null, "scenario": "takeaway", "source": "massive", "id": "calib-707"}
+{"text": "remind me to go shopping every week", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-708"}
+{"text": "have i received any work emails from jeff", "label": "email", "scenario": "email", "source": "massive", "id": "calib-709"}
+{"text": "select the item", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-710"}
+{"text": "hey send a meeting invite to mr. ross for this friday's meeting and block my calendar for friday afternoon", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-711"}
+{"text": "who was appointed as deputy centimeter of uttar pradesh", "label": null, "scenario": "qa", "source": "massive", "id": "calib-712"}
+{"text": "tell me the latest updates of new york", "label": "news", "scenario": "news", "source": "massive", "id": "calib-713"}
+{"text": "inform my group that the new meeting date is tomorrow", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-714"}
+{"text": "is it too cold to go swimming", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-715"}
+{"text": "directions to sainsburys", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-716"}
+{"text": "tell me the name of my lists", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-717"}
+{"text": "turn down the lights to medium", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-718"}
+{"text": "will i need a jacket after ten p. m. in my area", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-719"}
+{"text": "today's weather is awesome", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-720"}
+{"text": "could you please play the f. m. station which plays pop songs", "label": null, "scenario": "play", "source": "massive", "id": "calib-721"}
+{"text": "send an email to jake to tell him thank you", "label": "email", "scenario": "email", "source": "massive", "id": "calib-722"}
+{"text": "create a new list for my birthday plans", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-723"}
+{"text": "do they offer takeaway", "label": null, "scenario": "takeaway", "source": "massive", "id": "calib-724"}
+{"text": "is it going to be cold in the next few days", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-725"}
+{"text": "send email to boss to meet for performance review", "label": "email", "scenario": "email", "source": "massive", "id": "calib-726"}
+{"text": "i want to figure out the stock on microsoft", "label": null, "scenario": "qa", "source": "massive", "id": "calib-727"}
+{"text": "i want a train ticket to oregon", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-728"}
+{"text": "play my favorite book", "label": null, "scenario": "play", "source": "massive", "id": "calib-729"}
+{"text": "remind me about my meeting with joe at ten on monday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-730"}
+{"text": "where is the best mechanic in eagle point", "label": null, "scenario": "recommendation", "source": "massive", "id": "calib-731"}
+{"text": "what new emails do i have", "label": "email", "scenario": "email", "source": "massive", "id": "calib-732"}
+{"text": "what was the temperature when i was in the park", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-733"}
+{"text": "i would like to hear some good funny jokes", "label": null, "scenario": "general", "source": "massive", "id": "calib-734"}
+{"text": "re add eggs to the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-735"}
+{"text": "send flowers to my girl friend", "label": null, "scenario": "general", "source": "massive", "id": "calib-736"}
+{"text": "can i get an uber home from the fox downtown as soon as possible", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-737"}
+{"text": "include this item", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-738"}
+{"text": "turn on the robot vacuum", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-739"}
+{"text": "next one please", "label": null, "scenario": "play", "source": "massive", "id": "calib-740"}
+{"text": "anything interesting in the news today", "label": "news", "scenario": "news", "source": "massive", "id": "calib-741"}
+{"text": "link john at gmail dot com to john in contacts", "label": "email", "scenario": "email", "source": "massive", "id": "calib-742"}
+{"text": "please order one train ticket to los angeles", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-743"}
+{"text": "what are the latest crime statistics for me area", "label": "news", "scenario": "news", "source": "massive", "id": "calib-744"}
+{"text": "show b. b. c. report on migration", "label": "news", "scenario": "news", "source": "massive", "id": "calib-745"}
+{"text": "tallest building", "label": null, "scenario": "qa", "source": "massive", "id": "calib-746"}
+{"text": "what is this weeks weather forecast", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-747"}
+{"text": "activate the robot vacuum", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-748"}
+{"text": "i want to listen to today's hits", "label": null, "scenario": "play", "source": "massive", "id": "calib-749"}
+{"text": "it is a sunny day today right", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-750"}
+{"text": "check inbox", "label": "email", "scenario": "email", "source": "massive", "id": "calib-751"}
+{"text": "show me emails from my friends", "label": "email", "scenario": "email", "source": "massive", "id": "calib-752"}
+{"text": "where is ashwin", "label": null, "scenario": "qa", "source": "massive", "id": "calib-753"}
+{"text": "olly what's the weather right now", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-754"}
+{"text": "clear my next event", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-755"}
+{"text": "which shops can i find in milan", "label": null, "scenario": "recommendation", "source": "massive", "id": "calib-756"}
+{"text": "what is jill's home phone number", "label": "email", "scenario": "email", "source": "massive", "id": "calib-757"}
+{"text": "olly do you have any local news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-758"}
+{"text": "is the sun gonna shine in devon this weekend", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-759"}
+{"text": "please play my best music", "label": null, "scenario": "play", "source": "massive", "id": "calib-760"}
+{"text": "check weather update for lagos this week", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-761"}
+{"text": "what are the events taking place in new york today", "label": null, "scenario": "recommendation", "source": "massive", "id": "calib-762"}
+{"text": "what is the address for the event scheduled on the first of january alexa", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-763"}
+{"text": "olly change all lights to blue", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-764"}
+{"text": "google chrome", "label": "email", "scenario": "email", "source": "massive", "id": "calib-765"}
+{"text": "does this restaurant have takeaway", "label": null, "scenario": "takeaway", "source": "massive", "id": "calib-766"}
+{"text": "open memos", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-767"}
+{"text": "create an alarm for five p. m.", "label": null, "scenario": "alarm", "source": "massive", "id": "calib-768"}
+{"text": "can you turn off my desk lamp", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-769"}
+{"text": "play why do you sing by kirk franklin", "label": null, "scenario": "play", "source": "massive", "id": "calib-770"}
+{"text": "erase my appointment for march seven", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-771"}
+{"text": "remind me about tomorrows meeting tonight", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-772"}
+{"text": "will it snow next week", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-773"}
+{"text": "post the picture i just took on twitter", "label": null, "scenario": "social", "source": "massive", "id": "calib-774"}
+{"text": "play my favorites", "label": null, "scenario": "play", "source": "massive", "id": "calib-775"}
+{"text": "what time is it in mountain standard time", "label": null, "scenario": "datetime", "source": "massive", "id": "calib-776"}
+{"text": "did erin send me any emails", "label": "email", "scenario": "email", "source": "massive", "id": "calib-777"}
+{"text": "please add dinner with mary to my calendar on saturday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-778"}
+{"text": "raju phone book", "label": "email", "scenario": "email", "source": "massive", "id": "calib-779"}
+{"text": "start house cleanup", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-780"}
+{"text": "update me on the standing rock protest", "label": "news", "scenario": "news", "source": "massive", "id": "calib-781"}
+{"text": "add buy groceries to my to do list for today", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-782"}
+{"text": "what concerts are due nearby", "label": null, "scenario": "recommendation", "source": "massive", "id": "calib-783"}
+{"text": "minimize the lights", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-784"}
+{"text": "when is the next train to new york", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-785"}
+{"text": "what do i have going on today", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-786"}
+{"text": "can you send an email to my mother about the weekly weather", "label": "email", "scenario": "email", "source": "massive", "id": "calib-787"}
+{"text": "turn light off", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-788"}
+{"text": "turn off the light of my bed room please", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-789"}
+{"text": "dim the lights at the living room", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-790"}
+{"text": "wipe calendar clean", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-791"}
+{"text": "turn my lights down to a lower level of brightness", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-792"}
+{"text": "play next song", "label": null, "scenario": "play", "source": "massive", "id": "calib-793"}
+{"text": "i will need my filter coffee in ten minutes please ask the coffee maker accordingly", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-794"}
+{"text": "what is the current traffic in washington town", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-795"}
+{"text": "is there any possibility of rain this week", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-796"}
+{"text": "i want to finish listening to the book one thousand nine hundred and eighty four from where i left off", "label": null, "scenario": "play", "source": "massive", "id": "calib-797"}
+{"text": "move buying eggs item to trash from to do list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-798"}
+{"text": "read me the front page of the new york times", "label": "news", "scenario": "news", "source": "massive", "id": "calib-799"}
+{"text": "tell me about the news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-800"}
+{"text": "how many degrees is it in houston right now", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-801"}
+{"text": "can you check if i got an email from john", "label": "email", "scenario": "email", "source": "massive", "id": "calib-802"}
+{"text": "what are the latest world news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-803"}
+{"text": "play episode ten in the podcast", "label": null, "scenario": "play", "source": "massive", "id": "calib-804"}
+{"text": "change color of lights", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-805"}
+{"text": "what time does the first metrolink arrive in the morning", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-806"}
+{"text": "should i wear my sunscreen", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-807"}
+{"text": "should i wear gloves tonight", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-808"}
+{"text": "when is trumps next press conference", "label": "news", "scenario": "news", "source": "massive", "id": "calib-809"}
+{"text": "train schedule", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-810"}
+{"text": "what's happening on b. b. c. news today", "label": "news", "scenario": "news", "source": "massive", "id": "calib-811"}
+{"text": "when was last academy award winning movie", "label": null, "scenario": "qa", "source": "massive", "id": "calib-812"}
+{"text": "clear list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-813"}
+{"text": "meeting at eight am to twelve p. m.", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-814"}
+{"text": "change the lighting to blue", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-815"}
+{"text": "tag my tweet to provider", "label": null, "scenario": "social", "source": "massive", "id": "calib-816"}
+{"text": "remove pepper from my grocery list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-817"}
+{"text": "will i need to be warm", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-818"}
+{"text": "please put to my calendar daily stand-up to ten am", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-819"}
+{"text": "give a list of all appointments today post three p. m.", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-820"}
+{"text": "education", "label": "news", "scenario": "news", "source": "massive", "id": "calib-821"}
+{"text": "make my radio turn on", "label": null, "scenario": "play", "source": "massive", "id": "calib-822"}
+{"text": "i need a gold class ticket on train number five using my credit card", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-823"}
+{"text": "ask for the weather today morning", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-824"}
+{"text": "open the new york times app", "label": "news", "scenario": "news", "source": "massive", "id": "calib-825"}
+{"text": "tell me what lists i currently have", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-826"}
+{"text": "add girls night out to my calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-827"}
+{"text": "show a new list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-828"}
+{"text": "please play me the madonna song again", "label": null, "scenario": "play", "source": "massive", "id": "calib-829"}
+{"text": "let me know the morning of my doctor appointment on the twelfth", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-830"}
+{"text": "i need to know all new news on the houston texans draft", "label": "news", "scenario": "news", "source": "massive", "id": "calib-831"}
+{"text": "get route for los angles from here", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-832"}
+{"text": "hey lets just talk", "label": null, "scenario": "general", "source": "massive", "id": "calib-833"}
+{"text": "schedule taxi pickup for monday at noon", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-834"}
+{"text": "please delete this list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-835"}
+{"text": "am i going to be able to mow the grass this evening", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-836"}
+{"text": "find me the top news of the day", "label": "news", "scenario": "news", "source": "massive", "id": "calib-837"}
+{"text": "are there team meetups on the schedule this month", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-838"}
+{"text": "olly what bars are around me", "label": null, "scenario": "recommendation", "source": "massive", "id": "calib-839"}
+{"text": "please remove the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-840"}
+{"text": "book my chair class a. c. train ticket from manhattan to new york", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-841"}
+{"text": "what list is available for food products online", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-842"}
+{"text": "set up uber", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-843"}
+{"text": "switch off main light", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-844"}
+{"text": "read me the news from nsnbc", "label": "news", "scenario": "news", "source": "massive", "id": "calib-845"}
+{"text": "what time does the train leave philadelphia", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-846"}
+{"text": "i would like to order a meal do have any special offers for sea food", "label": null, "scenario": "general", "source": "massive", "id": "calib-847"}
+{"text": "what was the stock price for google yesterday", "label": null, "scenario": "qa", "source": "massive", "id": "calib-848"}
+{"text": "please create new list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-849"}
+{"text": "lower the lighting", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-850"}
+{"text": "what time am i meeting john tomorrow", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-851"}
+{"text": "why are we here", "label": null, "scenario": "general", "source": "massive", "id": "calib-852"}
+{"text": "what day is december thirteenth", "label": null, "scenario": "datetime", "source": "massive", "id": "calib-853"}
+{"text": "play some soft rock", "label": null, "scenario": "play", "source": "massive", "id": "calib-854"}
+{"text": "what on my list to do today evening", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-855"}
+{"text": "is snow coming tonight", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-856"}
+{"text": "olly tell me the time in g. m. t. plus five", "label": null, "scenario": "datetime", "source": "massive", "id": "calib-857"}
+{"text": "initiate cleaning process", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-858"}
+{"text": "olly let's email sandy", "label": "email", "scenario": "email", "source": "massive", "id": "calib-859"}
+{"text": "dim the lights to level two", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-860"}
+{"text": "accumulation of snow predictions in buffalo", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-861"}
+{"text": "please give me update of hockey", "label": "news", "scenario": "news", "source": "massive", "id": "calib-862"}
+{"text": "quiet mode on until i am home from work", "label": null, "scenario": "audio", "source": "massive", "id": "calib-863"}
+{"text": "put this event in a repeating pattern on my calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-864"}
+{"text": "what is the economic policy of trump", "label": "news", "scenario": "news", "source": "massive", "id": "calib-865"}
+{"text": "check list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-866"}
+{"text": "olly get me a train ticket to atlanta", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-867"}
+{"text": "nano technology", "label": "news", "scenario": "news", "source": "massive", "id": "calib-868"}
+{"text": "olly what does snafu mean", "label": null, "scenario": "qa", "source": "massive", "id": "calib-869"}
+{"text": "what purpose the event been scheduled for", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-870"}
+{"text": "what is the name of the best italian restaurant", "label": null, "scenario": "general", "source": "massive", "id": "calib-871"}
+{"text": "give me directions to the target on i forty", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-872"}
+{"text": "resume audiobook", "label": null, "scenario": "play", "source": "massive", "id": "calib-873"}
+{"text": "i need to add this new contact for sam smith ssmith at yahoo dot com", "label": "email", "scenario": "email", "source": "massive", "id": "calib-874"}
+{"text": "give me the exchange rate for the us dollar and the euro", "label": null, "scenario": "qa", "source": "massive", "id": "calib-875"}
+{"text": "please turn off the plug socket of my phone when it'll be charged", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-876"}
+{"text": "do i have the reply from charlotte relating to yesterdays inquiry", "label": "email", "scenario": "email", "source": "massive", "id": "calib-877"}
+{"text": "send an email to this contact", "label": "email", "scenario": "email", "source": "massive", "id": "calib-878"}
+{"text": "i need to make a grocery list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-879"}
+{"text": "olly what's on my to do list for today", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-880"}
+{"text": "can you enter an event to my calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-881"}
+{"text": "olly please make ke a coffee", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-882"}
+{"text": "tell about computer definition", "label": null, "scenario": "qa", "source": "massive", "id": "calib-883"}
+{"text": "increase the light a little", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-884"}
+{"text": "i need to know more about the parade this weekend", "label": null, "scenario": "general", "source": "massive", "id": "calib-885"}
+{"text": "is it going to rain at one p. m. today", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-886"}
+{"text": "describe your list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-887"}
+{"text": "remove my six am alarm", "label": null, "scenario": "alarm", "source": "massive", "id": "calib-888"}
+{"text": "please tell me what lists i have made", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-889"}
+{"text": "remind me when my car is due the day before", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-890"}
+{"text": "check emails from someone", "label": "email", "scenario": "email", "source": "massive", "id": "calib-891"}
+{"text": "add a notification reminder and calendar event for thursday at seven am labeled sales meeting please", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-892"}
+{"text": "are there any new emails yet", "label": "email", "scenario": "email", "source": "massive", "id": "calib-893"}
+{"text": "reply to all emails received between ten p. m. and seven am everyday", "label": "email", "scenario": "email", "source": "massive", "id": "calib-894"}
+{"text": "let me know if there are any new emails from ebay", "label": "email", "scenario": "email", "source": "massive", "id": "calib-895"}
+{"text": "what will be this week weather condition", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-896"}
+{"text": "what time is the train to san francisco due", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-897"}
+{"text": "how old is joanne", "label": "email", "scenario": "email", "source": "massive", "id": "calib-898"}
+{"text": "tell me how to go bali without airplane with lowest cost option time doesn't matter i have two hundred days travel time and only dollars to spend", "label": null, "scenario": "general", "source": "massive", "id": "calib-899"}
+{"text": "hello google post my current status on twitter mentioning a great trip to paris with friends and family", "label": null, "scenario": "social", "source": "massive", "id": "calib-900"}
+{"text": "open news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-901"}
+{"text": "remove seven am alarm", "label": null, "scenario": "alarm", "source": "massive", "id": "calib-902"}
+{"text": "could you create a new list for me", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-903"}
+{"text": "i want to know more about the upcoming commonwealth games", "label": null, "scenario": "general", "source": "massive", "id": "calib-904"}
+{"text": "are there any new videos on the youtube for new york times", "label": "news", "scenario": "news", "source": "massive", "id": "calib-905"}
+{"text": "what's been happening for the last two months", "label": "news", "scenario": "news", "source": "massive", "id": "calib-906"}
+{"text": "i want to order a takeaway from papa john's", "label": null, "scenario": "takeaway", "source": "massive", "id": "calib-907"}
+{"text": "create a new list for me please", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-908"}
+{"text": "please remind this sunday to go to mass", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-909"}
+{"text": "vacuum on", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-910"}
+{"text": "resume play on my most recent audiobook selection", "label": null, "scenario": "play", "source": "massive", "id": "calib-911"}
+{"text": "delete an first event of twenty third of march twenty seventeen", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-912"}
+{"text": "will i need a coat this morning", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-913"}
+{"text": "how is the traffic now", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-914"}
+{"text": "what's the weather for my location this week", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-915"}
+{"text": "is there a article on polar bears", "label": "news", "scenario": "news", "source": "massive", "id": "calib-916"}
+{"text": "hey google hey what time can i catch the nearest train to me", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-917"}
+{"text": "set notification for six o'clock news update", "label": "news", "scenario": "news", "source": "massive", "id": "calib-918"}
+{"text": "do you think it will be okay to wear shorts this week", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-919"}
+{"text": "olly change the color of the lights", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-920"}
+{"text": "let me see my most recent emails", "label": "email", "scenario": "email", "source": "massive", "id": "calib-921"}
+{"text": "book an uber to pick me up now", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-922"}
+{"text": "i have a new email address can you send an email", "label": "email", "scenario": "email", "source": "massive", "id": "calib-923"}
+{"text": "how do i get from my house to the target along i forty", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-924"}
+{"text": "please book a train ticket to", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-925"}
+{"text": "find me kiss f. m. channel", "label": null, "scenario": "play", "source": "massive", "id": "calib-926"}
+{"text": "any meeting on friday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-927"}
+{"text": "change the lights to a different hue", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-928"}
+{"text": "switch on the plug", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-929"}
+{"text": "buy an acela train ticket on thursday", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-930"}
+{"text": "is there anything special going on nearby", "label": null, "scenario": "recommendation", "source": "massive", "id": "calib-931"}
+{"text": "tell me if there's any new news on that topic", "label": "news", "scenario": "news", "source": "massive", "id": "calib-932"}
+{"text": "start cappuccino for me now", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-933"}
+{"text": "please power down", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-934"}
+{"text": "please turn off all the lights outdoor", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-935"}
+{"text": "has the war in syria ended", "label": "news", "scenario": "news", "source": "massive", "id": "calib-936"}
+{"text": "what is the timing of bagmati express", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-937"}
+{"text": "what's on my grocery list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-938"}
+{"text": "please add the meeting with ms. boland on wednesday eight hundred am to my calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-939"}
+{"text": "can you create new list for me", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-940"}
+{"text": "what is the five days forecast looking like in new york city", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-941"}
+{"text": "show me news about trump", "label": "news", "scenario": "news", "source": "massive", "id": "calib-942"}
+{"text": "is anything different today about blank", "label": "news", "scenario": "news", "source": "massive", "id": "calib-943"}
+{"text": "turn off the rice cooker socket", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-944"}
+{"text": "what is the most concern issue in u. s. a. today and what can be done to deal with it effectively", "label": null, "scenario": "general", "source": "massive", "id": "calib-945"}
+{"text": "could you list out the list of trains heading to chester the day after", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-946"}
+{"text": "search the contact", "label": "email", "scenario": "email", "source": "massive", "id": "calib-947"}
+{"text": "set an appointment for allen on tomorrow", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-948"}
+{"text": "make a cup of coffee for me", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-949"}
+{"text": "add new item to list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-950"}
+{"text": "play hotel california after this song", "label": null, "scenario": "play", "source": "massive", "id": "calib-951"}
+{"text": "make me coffee now", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-952"}
+{"text": "please find new from c. n. n.", "label": "news", "scenario": "news", "source": "massive", "id": "calib-953"}
+{"text": "disable alarm for three p. m.", "label": null, "scenario": "alarm", "source": "massive", "id": "calib-954"}
+{"text": "what are my notifications", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-955"}
+{"text": "can you tell me what list i have", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-956"}
+{"text": "shut off the lights in the kitchen", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-957"}
+{"text": "please remove the appointment on april first", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-958"}
+{"text": "every other monday remind me to take out the recycling", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-959"}
+{"text": "do you know the weather", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-960"}
+{"text": "delete to do list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-961"}
+{"text": "reply to mark's email", "label": "email", "scenario": "email", "source": "massive", "id": "calib-962"}
+{"text": "its cold outside", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-963"}
+{"text": "do i have any mails olly", "label": "email", "scenario": "email", "source": "massive", "id": "calib-964"}
+{"text": "what's next on my list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-965"}
+{"text": "who is the prime minister of russia", "label": null, "scenario": "qa", "source": "massive", "id": "calib-966"}
+{"text": "what's the travel time from here to dallas by train", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-967"}
+{"text": "tell me the latest news about donald trump", "label": "news", "scenario": "news", "source": "massive", "id": "calib-968"}
+{"text": "reply to joes email", "label": "email", "scenario": "email", "source": "massive", "id": "calib-969"}
+{"text": "what is the weather for the school week", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-970"}
+{"text": "should i bring an umbrella for work today", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-971"}
+{"text": "tell me what's on my list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-972"}
+{"text": "did i get anything new from my boss", "label": "email", "scenario": "email", "source": "massive", "id": "calib-973"}
+{"text": "invite people to the calendar event", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-974"}
+{"text": "tell me what's on my holiday list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-975"}
+{"text": "create a repeating event on mondays at seven p. m.", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-976"}
+{"text": "i'd like to get on the next train that will be departing indianapolis headed to chicago", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-977"}
+{"text": "create a birthday wish reminder for tomorrow at ten am", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-978"}
+{"text": "what will the weather be like a week from now", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-979"}
+{"text": "set the reminder for upcoming meeting", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-980"}
+{"text": "set a reminder of meeting at nine am tomorrow", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-981"}
+{"text": "what is the home phone number for sarah", "label": "email", "scenario": "email", "source": "massive", "id": "calib-982"}
+{"text": "look up the map to stores near me", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-983"}
+{"text": "what is the latest news about obamacare", "label": "news", "scenario": "news", "source": "massive", "id": "calib-984"}
+{"text": "what is happening with president trump", "label": "news", "scenario": "news", "source": "massive", "id": "calib-985"}
+{"text": "set a weekly meeting for friday nine am", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-986"}
+{"text": "open me a new list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-987"}
+{"text": "erase item please from my list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-988"}
+{"text": "i want to post on facebook", "label": null, "scenario": "social", "source": "massive", "id": "calib-989"}
+{"text": "can you read the names of my lists of reminders", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-990"}
+{"text": "confirm a travel ticket to german", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-991"}
+{"text": "what news has happened on c. n. n. today", "label": "news", "scenario": "news", "source": "massive", "id": "calib-992"}
+{"text": "find the ways of travel for the same", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-993"}
+{"text": "i want to listen to podcast about rock and roll", "label": null, "scenario": "play", "source": "massive", "id": "calib-994"}
+{"text": "google i need you to delete the current list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-995"}
+{"text": "i need a list of my clients today make one", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-996"}
+{"text": "light up the lights in the kitchen", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-997"}
+{"text": "what is happening in the world right now", "label": "news", "scenario": "news", "source": "massive", "id": "calib-998"}
+{"text": "how is the weather right now", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-999"}
+{"text": "check if any alarm is there after five am", "label": null, "scenario": "alarm", "source": "massive", "id": "calib-1000"}
+{"text": "will i need to carry around a br today", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1001"}
+{"text": "how many phone numbers do i have for brenden", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1002"}
+{"text": "time for my drive home station please", "label": null, "scenario": "play", "source": "massive", "id": "calib-1003"}
+{"text": "please delete the shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1004"}
+{"text": "list emails for last hour", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1005"}
+{"text": "can i order out", "label": null, "scenario": "takeaway", "source": "massive", "id": "calib-1006"}
+{"text": "add this email to a new contact", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1007"}
+{"text": "please turn on ninety nine point five", "label": null, "scenario": "play", "source": "massive", "id": "calib-1008"}
+{"text": "tweet complaint to this company", "label": null, "scenario": "social", "source": "massive", "id": "calib-1009"}
+{"text": "delete all read s. m. s. from s. m. s. list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1010"}
+{"text": "play the celine dion song from the titanic movie", "label": null, "scenario": "play", "source": "massive", "id": "calib-1011"}
+{"text": "who is scheduled for tomorrow's meeting", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1012"}
+{"text": "please check the exchange rates of the us dollar versus the euro", "label": null, "scenario": "qa", "source": "massive", "id": "calib-1013"}
+{"text": "the time", "label": null, "scenario": "datetime", "source": "massive", "id": "calib-1014"}
+{"text": "i want to hear the last news from c. n. n.", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1015"}
+{"text": "can you book an uber tomorrow", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1016"}
+{"text": "reply thank you to john", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1017"}
+{"text": "temperature this hour", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1018"}
+{"text": "olly do i need to bring a coat today", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1019"}
+{"text": "what are the top world news stories", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1020"}
+{"text": "i want to mute the speaker", "label": null, "scenario": "audio", "source": "massive", "id": "calib-1021"}
+{"text": "what is the news this morning", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1022"}
+{"text": "read shopping list items", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1023"}
+{"text": "send an email to rae telling her my phone is back in service", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1024"}
+{"text": "what is today's weather in springfield", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1025"}
+{"text": "send to jane only help", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1026"}
+{"text": "donald trump", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1027"}
+{"text": "c. n. n.", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1028"}
+{"text": "please check email contain job listing", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1029"}
+{"text": "convert one us dollar to euro", "label": null, "scenario": "qa", "source": "massive", "id": "calib-1030"}
+{"text": "set an event", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1031"}
+{"text": "remind me i take mom to the hairdresser's thursday at one thousand one hundred am", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1032"}
+{"text": "automobiles", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1033"}
+{"text": "i want to listen to the new sam harris episode", "label": null, "scenario": "play", "source": "massive", "id": "calib-1034"}
+{"text": "what was the last movie that brad pitt starred in", "label": null, "scenario": "qa", "source": "massive", "id": "calib-1035"}
+{"text": "i want reggae", "label": null, "scenario": "play", "source": "massive", "id": "calib-1036"}
+{"text": "turn off the lights", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1037"}
+{"text": "can i get a recap on the latest news going on in the world", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1038"}
+{"text": "what events near hear are happening this week", "label": null, "scenario": "recommendation", "source": "massive", "id": "calib-1039"}
+{"text": "resume recent audiobook", "label": null, "scenario": "play", "source": "massive", "id": "calib-1040"}
+{"text": "how many food items on the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1041"}
+{"text": "olly find a ride to the bar", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1042"}
+{"text": "tell me the time", "label": null, "scenario": "datetime", "source": "massive", "id": "calib-1043"}
+{"text": "weather news", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1044"}
+{"text": "will you dim all the lights", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1045"}
+{"text": "how is traffic over the donner summit now", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1046"}
+{"text": "publish an email to my company worker with today's scheduled meeting information", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1047"}
+{"text": "what is jay's phone number", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1048"}
+{"text": "remind me about the meeting tomorrow one hour before", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1049"}
+{"text": "remind upcoming event's", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1050"}
+{"text": "i took my truck to the shop", "label": null, "scenario": "general", "source": "massive", "id": "calib-1051"}
+{"text": "save the email to my contact", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1052"}
+{"text": "set an event for friday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1053"}
+{"text": "what's happening in france today", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1054"}
+{"text": "get all available's", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1055"}
+{"text": "hows mysore climate today", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1056"}
+{"text": "olly remove item from my list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1057"}
+{"text": "through mobile phones", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1058"}
+{"text": "darker lights please", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1059"}
+{"text": "where should i go for dinner in san francisco tonight", "label": null, "scenario": "recommendation", "source": "massive", "id": "calib-1060"}
+{"text": "i would love the wemo socket to not be active right now", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1061"}
+{"text": "given me the exchange rates between u. s. d. and cad", "label": null, "scenario": "qa", "source": "massive", "id": "calib-1062"}
+{"text": "surrounding environment", "label": null, "scenario": "general", "source": "massive", "id": "calib-1063"}
+{"text": "please add list of friends to invite for the party", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1064"}
+{"text": "remind my friend to get the assignment tomorrow", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1065"}
+{"text": "hey i want to send an email to my friend", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1066"}
+{"text": "get me to the nearest train station", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1067"}
+{"text": "what is mary s.'s birthday", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1068"}
+{"text": "alter the color of the lights at home", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1069"}
+{"text": "what are the upcoming events", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1070"}
+{"text": "shoot an email to chris about work tomorrow", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1071"}
+{"text": "remind me every year on this date of", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1072"}
+{"text": "i'd like a cup of coffee please", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1073"}
+{"text": "play mocking bird by eminem", "label": null, "scenario": "play", "source": "massive", "id": "calib-1074"}
+{"text": "where is baseball practice happening tomorrow", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1075"}
+{"text": "add valia's wedding the next saturday at eight o'clock", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1076"}
+{"text": "what is happening in the world today", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1077"}
+{"text": "can you tell me my appointments for this week", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1078"}
+{"text": "tell me the current weather in new york city", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1079"}
+{"text": "what sort of music events can i find going on around me", "label": null, "scenario": "recommendation", "source": "massive", "id": "calib-1080"}
+{"text": "can you tell me the times the train leaves for chicago", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1081"}
+{"text": "start up bejeweled", "label": null, "scenario": "play", "source": "massive", "id": "calib-1082"}
+{"text": "olly email alice to let her know we are on the way", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1083"}
+{"text": "bring up my last playlist from tidal", "label": null, "scenario": "play", "source": "massive", "id": "calib-1084"}
+{"text": "reply to sarah's email", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1085"}
+{"text": "how expensive is google stock", "label": null, "scenario": "qa", "source": "massive", "id": "calib-1086"}
+{"text": "tell me about blank", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1087"}
+{"text": "find unread emails received from peter today olly", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1088"}
+{"text": "what is the traffic today", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1089"}
+{"text": "please set the alarm for next morning to seven am", "label": null, "scenario": "alarm", "source": "massive", "id": "calib-1090"}
+{"text": "coffee make now", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1091"}
+{"text": "make some coffee", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1092"}
+{"text": "play for me the beatles song from audiobook", "label": null, "scenario": "play", "source": "massive", "id": "calib-1093"}
+{"text": "delete my to do list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1094"}
+{"text": "what is the weather in miami", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1095"}
+{"text": "define love", "label": null, "scenario": "qa", "source": "massive", "id": "calib-1096"}
+{"text": "i don't need apples remove it from my shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1097"}
+{"text": "i wish to know the weather in san fransico", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1098"}
+{"text": "send an email to john that i am on my way to home", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1099"}
+{"text": "please clean my calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1100"}
+{"text": "how is the weather in this week", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1101"}
+{"text": "find train tickets for manchester train station for today", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1102"}
+{"text": "convert new york time to london", "label": null, "scenario": "datetime", "source": "massive", "id": "calib-1103"}
+{"text": "hey olly what is in the world news right now", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1104"}
+{"text": "remove the old music list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1105"}
+{"text": "repeat the next song", "label": null, "scenario": "play", "source": "massive", "id": "calib-1106"}
+{"text": "i need a taxi at eight tomorrow morning to take me to work", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1107"}
+{"text": "start song one", "label": null, "scenario": "play", "source": "massive", "id": "calib-1108"}
+{"text": "what are some recent emails in my inbox please", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1109"}
+{"text": "turn off the garage light", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1110"}
+{"text": "tell me the landline number", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1111"}
+{"text": "i am exhausted from work", "label": null, "scenario": "general", "source": "massive", "id": "calib-1112"}
+{"text": "please turn the lights up to eight", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1113"}
+{"text": "show me where i can find a train", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1114"}
+{"text": "play favorites listed in podcasts starting with first one", "label": null, "scenario": "play", "source": "massive", "id": "calib-1115"}
+{"text": "please brief me about this week's weather", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1116"}
+{"text": "can i wear shorts today", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1117"}
+{"text": "follow trump campaign news feed", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1118"}
+{"text": "hey siri make sure my calendar is completely clear tomorrow", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1119"}
+{"text": "can i change this light to orange", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1120"}
+{"text": "please start new list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1121"}
+{"text": "do you think it would rain today", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1122"}
+{"text": "did i get any emails from sam today", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1123"}
+{"text": "siri how is the news media reacting to trump's potential ties with russia", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1124"}
+{"text": "what are the best italian restaurants in los angeles", "label": null, "scenario": "recommendation", "source": "massive", "id": "calib-1125"}
+{"text": "my calendar is to be updated with all rccg march event", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1126"}
+{"text": "finance", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1127"}
+{"text": "make me a coffee please olly", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1128"}
+{"text": "list shops in douglasville ga", "label": null, "scenario": "recommendation", "source": "massive", "id": "calib-1129"}
+{"text": "read upcoming event's", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1130"}
+{"text": "olly find the nearest uber", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1131"}
+{"text": "i'd like to hear folk songs from one thousand nine hundred and sixty eight", "label": null, "scenario": "play", "source": "massive", "id": "calib-1132"}
+{"text": "is it snowing in seattle", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1133"}
+{"text": "hey olly i want to get trains to manchester on wednesday", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1134"}
+{"text": "turn the vacuum on", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1135"}
+{"text": "olly how many tornadoes have there been this month", "label": null, "scenario": "general", "source": "massive", "id": "calib-1136"}
+{"text": "let me know what is remaining on my query", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1137"}
+{"text": "remove yams", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1138"}
+{"text": "tell me which stocks were the biggest gainers in stock market nasdaq today", "label": null, "scenario": "qa", "source": "massive", "id": "calib-1139"}
+{"text": "did anyone win the powerball lottery yesterday", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1140"}
+{"text": "what is the plot of the most recent will smith movie", "label": null, "scenario": "qa", "source": "massive", "id": "calib-1141"}
+{"text": "what is currently breaking news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1142"}
+{"text": "turn off the sound", "label": null, "scenario": "audio", "source": "massive", "id": "calib-1143"}
+{"text": "is it hot outside right now i'm hawaii", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1144"}
+{"text": "can i get the directions to the nearest bar", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1145"}
+{"text": "what's going on between three hundred and thirty and four", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1146"}
+{"text": "i needed to prepare for a meeting", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1147"}
+{"text": "initiate the music on the electronic playlist", "label": null, "scenario": "play", "source": "massive", "id": "calib-1148"}
+{"text": "i need to get to bristol friday night can you book me a ticket please", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1149"}
+{"text": "hey siri what's the time", "label": null, "scenario": "datetime", "source": "massive", "id": "calib-1150"}
+{"text": "do i have any emails to read from jason", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1151"}
+{"text": "is it going to be sunny next tuesday", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1152"}
+{"text": "what will be the temperature today for miami florida", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1153"}
+{"text": "what are the trending topics in the world", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1154"}
+{"text": "activate robot vacuum cleaner", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1155"}
+{"text": "turn on bjork", "label": null, "scenario": "play", "source": "massive", "id": "calib-1156"}
+{"text": "can you give me details on john", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1157"}
+{"text": "latest news from the area", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1158"}
+{"text": "where is my girl friend right now", "label": null, "scenario": "general", "source": "massive", "id": "calib-1159"}
+{"text": "please make me coffee without sweetener", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1160"}
+{"text": "what's on my shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1161"}
+{"text": "have i received any new emails", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1162"}
+{"text": "what is the fastest way to get to starbucks", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1163"}
+{"text": "load my playlist titled country favorites and play it", "label": null, "scenario": "play", "source": "massive", "id": "calib-1164"}
+{"text": "will it rain this week", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1165"}
+{"text": "what is the capital of china", "label": null, "scenario": "qa", "source": "massive", "id": "calib-1166"}
+{"text": "how many new articles have been posted at u. s. a. today in the past hour", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1167"}
+{"text": "give me the news from source", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1168"}
+{"text": "what is the current state of brexit negotiations", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1169"}
+{"text": "please show me lists", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1170"}
+{"text": "can you start the coffee machine for me", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1171"}
+{"text": "check my inbox", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1172"}
+{"text": "stock price", "label": null, "scenario": "qa", "source": "massive", "id": "calib-1173"}
+{"text": "local news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1174"}
+{"text": "olly any fresh news on brad pitt", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1175"}
+{"text": "headlines from dhaka tribune", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1176"}
+{"text": "what is there to do in new york city", "label": null, "scenario": "recommendation", "source": "massive", "id": "calib-1177"}
+{"text": "set alarm for reminder", "label": null, "scenario": "alarm", "source": "massive", "id": "calib-1178"}
+{"text": "what has been the best selling product on sports category in amazon for the last three days", "label": null, "scenario": "general", "source": "massive", "id": "calib-1179"}
+{"text": "time n. date", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1180"}
+{"text": "what day is it", "label": null, "scenario": "datetime", "source": "massive", "id": "calib-1181"}
+{"text": "what's on my list today", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1182"}
+{"text": "do i have any appointments this week", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1183"}
+{"text": "email friend", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1184"}
+{"text": "do you recommend an umbrellas", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1185"}
+{"text": "reddit popular", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1186"}
+{"text": "remind me about tomorrow meeting at ten am", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1187"}
+{"text": "what time will the soccer match be tonight", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1188"}
+{"text": "what is mom's email address", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1189"}
+{"text": "play romantic playlist", "label": null, "scenario": "play", "source": "massive", "id": "calib-1190"}
+{"text": "is that person living currently if yes where and how old is that person now", "label": null, "scenario": "general", "source": "massive", "id": "calib-1191"}
+{"text": "what is the fastest route to my grandmother's house", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1192"}
+{"text": "how long will it take me to get to park avenue considering current traffic", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1193"}
+{"text": "olly turn on the coffee machine to make me some coffee", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1194"}
+{"text": "i want the lights less brighter", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1195"}
+{"text": "you'll be able to turn that device on or off using your smartphone or tablet", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1196"}
+{"text": "find me info on cars", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1197"}
+{"text": "can you please put on music", "label": null, "scenario": "play", "source": "massive", "id": "calib-1198"}
+{"text": "please tell me what will be rainy day based on the weather forecast", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1199"}
+{"text": "check the traffic to our home", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1200"}
+{"text": "reduce the brightness", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1201"}
+{"text": "should i wear sunscreen today", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1202"}
+{"text": "buy me a train ticket", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1203"}
+{"text": "what is the weather like right now", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1204"}
+{"text": "play all the programs pertaining to rock songs on the radio", "label": null, "scenario": "play", "source": "massive", "id": "calib-1205"}
+{"text": "please provide me with notifications on the election results", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1206"}
+{"text": "can you please describe the iphone seven", "label": null, "scenario": "qa", "source": "massive", "id": "calib-1207"}
+{"text": "hey what are you up to", "label": null, "scenario": "general", "source": "massive", "id": "calib-1208"}
+{"text": "what was the news for today from news provider", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1209"}
+{"text": "what is eastern standard time right noe", "label": null, "scenario": "datetime", "source": "massive", "id": "calib-1210"}
+{"text": "tell me the nearest location", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1211"}
+{"text": "we had great dinner today", "label": null, "scenario": "general", "source": "massive", "id": "calib-1212"}
+{"text": "remind me at eight p. m. to do laundry", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1213"}
+{"text": "give me the exchange rate for dollar in euros", "label": null, "scenario": "qa", "source": "massive", "id": "calib-1214"}
+{"text": "vacuum living room", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1215"}
+{"text": "todays news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1216"}
+{"text": "what list did i make today", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1217"}
+{"text": "what time is it in the other time zones", "label": null, "scenario": "datetime", "source": "massive", "id": "calib-1218"}
+{"text": "i went to the grocery store today", "label": null, "scenario": "general", "source": "massive", "id": "calib-1219"}
+{"text": "what does obsessed mean", "label": null, "scenario": "qa", "source": "massive", "id": "calib-1220"}
+{"text": "what time can i call from pennsylvania and it will be business hours in australia", "label": null, "scenario": "datetime", "source": "massive", "id": "calib-1221"}
+{"text": "brighten light", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1222"}
+{"text": "are the streets congested right now", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1223"}
+{"text": "create a notification reminder for meeting tomorrow", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1224"}
+{"text": "hey can you please make me a creamy coffee", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1225"}
+{"text": "google search booking train ticket", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1226"}
+{"text": "please raise the lights to max", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1227"}
+{"text": "what is latest on the recent events happening right now", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1228"}
+{"text": "play get happy by ella fitzgerald", "label": null, "scenario": "play", "source": "massive", "id": "calib-1229"}
+{"text": "anything interesting from bob's news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1230"}
+{"text": "turn to station one hundred and two point seven ally", "label": null, "scenario": "play", "source": "massive", "id": "calib-1231"}
+{"text": "what could be the time in india", "label": null, "scenario": "datetime", "source": "massive", "id": "calib-1232"}
+{"text": "how long will it take to drive to long beach", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1233"}
+{"text": "i would like to listen to celine dion", "label": null, "scenario": "play", "source": "massive", "id": "calib-1234"}
+{"text": "what's happening around the world", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1235"}
+{"text": "when is the next train to glasgow from aberdeen", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1236"}
+{"text": "start email to client", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1237"}
+{"text": "make a new list for school supplies", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1238"}
+{"text": "please turn off my alarm for this evening", "label": null, "scenario": "alarm", "source": "massive", "id": "calib-1239"}
+{"text": "olly what is this week's weather forecast", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1240"}
+{"text": "message my mother in law to book the reservations before friday or they will expire", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1241"}
+{"text": "jam", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1242"}
+{"text": "can you book a train ticket to berkeley for me", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1243"}
+{"text": "show me politics news from today", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1244"}
+{"text": "answer email from", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1245"}
+{"text": "turn the smart plug on", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1246"}
+{"text": "disable all alarms set for today", "label": null, "scenario": "alarm", "source": "massive", "id": "calib-1247"}
+{"text": "what is the weather this week for miami", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1248"}
+{"text": "can you tell me a joke", "label": null, "scenario": "general", "source": "massive", "id": "calib-1249"}
+{"text": "play audio", "label": null, "scenario": "play", "source": "massive", "id": "calib-1250"}
+{"text": "search earliest trains to brooklyn ny weekends and holidays", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1251"}
+{"text": "alexa state the weather in our city", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1252"}
+{"text": "cheapest flights to kansas city from dallas", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1253"}
+{"text": "add doctor's appointment monday at three to calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1254"}
+{"text": "notify me of breaking news on c. n. n.", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1255"}
+{"text": "please remind to get donuts for the meeting", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1256"}
+{"text": "search my emails with subject including work hours", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1257"}
+{"text": "is it too warm to wear my wooly sweater today", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1258"}
+{"text": "are eggs on my shopping list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1259"}
+{"text": "will i need a sweater after work", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1260"}
+{"text": "what is the weather like in toronto", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1261"}
+{"text": "hey olly i need you to make a list of cricket players of indian team who played for the international team in two thousand and fourteen", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1262"}
+{"text": "did ben's email have an attachment", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1263"}
+{"text": "tell me what i wore yesterday", "label": null, "scenario": "general", "source": "massive", "id": "calib-1264"}
+{"text": "all march events in rccg is to be added to my calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1265"}
+{"text": "do i have a meeting this afternoon", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1266"}
+{"text": "place event in my calendar every tuesday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1267"}
+{"text": "what is on november twenty", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1268"}
+{"text": "lights off in the guest room", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1269"}
+{"text": "disable wemo socket", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1270"}
+{"text": "what's the temperature today", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1271"}
+{"text": "this item should be added to the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1272"}
+{"text": "add work to my calendar for every friday", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1273"}
+{"text": "show me a funny joke", "label": null, "scenario": "general", "source": "massive", "id": "calib-1274"}
+{"text": "send new email to joejoe at gmail dot com", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1275"}
+{"text": "can you add a new email to my contacts", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1276"}
+{"text": "turn off lighting", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1277"}
+{"text": "start playing ringcast", "label": null, "scenario": "play", "source": "massive", "id": "calib-1278"}
+{"text": "don't speak for an hour", "label": null, "scenario": "audio", "source": "massive", "id": "calib-1279"}
+{"text": "remove the excel file from the list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1280"}
+{"text": "start a new grocery list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1281"}
+{"text": "turn off the lights in my room", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1282"}
+{"text": "hey siri chance the current light settings", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1283"}
+{"text": "read me the latest international news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1284"}
+{"text": "i hope we could eat cookies and watch movies together", "label": null, "scenario": "general", "source": "massive", "id": "calib-1285"}
+{"text": "olly brew my coffee", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1286"}
+{"text": "is alex saved in my contacts list", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1287"}
+{"text": "hey its too hot outside what is the temperature this afternoon", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1288"}
+{"text": "turn off my wifi", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1289"}
+{"text": "mute enabled until i say so", "label": null, "scenario": "audio", "source": "massive", "id": "calib-1290"}
+{"text": "check the weather of city alabama", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1291"}
+{"text": "delete event from calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1292"}
+{"text": "what are the longest rivers in the world", "label": null, "scenario": "qa", "source": "massive", "id": "calib-1293"}
+{"text": "continue the last chapter of the audio book i was listening to", "label": null, "scenario": "play", "source": "massive", "id": "calib-1294"}
+{"text": "change moms birthday event to repeat every year on same day", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1295"}
+{"text": "please read the last email for me", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1296"}
+{"text": "how's the weather in the capital city", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1297"}
+{"text": "olly will it be nice on saturday", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1298"}
+{"text": "delete the song what if in my music", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1299"}
+{"text": "how much does a bowling ball cost", "label": null, "scenario": "qa", "source": "massive", "id": "calib-1300"}
+{"text": "what is the latest poll on the public view of president trump", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1301"}
+{"text": "are there any traffic restrictions due to the president's visit", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1302"}
+{"text": "what were the first number of email subjects i got today", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1303"}
+{"text": "what is email id of john", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1304"}
+{"text": "remove buying eggs item from to do list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1305"}
+{"text": "any new email", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1306"}
+{"text": "please turn off the smart socket", "label": "home", "scenario": "iot", "source": "massive", "id": "calib-1307"}
+{"text": "should i bring warm clothes", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1308"}
+{"text": "show latest news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1309"}
+{"text": "please tell me the current date", "label": null, "scenario": "datetime", "source": "massive", "id": "calib-1310"}
+{"text": "how is the traffic at the moment", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1311"}
+{"text": "what time is the earliest train to glasgow", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1312"}
+{"text": "how much is one dollar in pounds", "label": null, "scenario": "qa", "source": "massive", "id": "calib-1313"}
+{"text": "please show my list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1314"}
+{"text": "when is the next train to center city philadelphia", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1315"}
+{"text": "are there any recall news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1316"}
+{"text": "will i need sunscreen later", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1317"}
+{"text": "will it rain today", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1318"}
+{"text": "what's three plus three hundred and fifty five", "label": null, "scenario": "qa", "source": "massive", "id": "calib-1319"}
+{"text": "what is the weather in columbus", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1320"}
+{"text": "remind me about this", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1321"}
+{"text": "remind me of dinner with mom tonight on my calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1322"}
+{"text": "resume the last kingdom for me", "label": null, "scenario": "play", "source": "massive", "id": "calib-1323"}
+{"text": "what is happening in the world news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1324"}
+{"text": "do i have any new emails from sarah", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1325"}
+{"text": "please empty my calendar", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1326"}
+{"text": "add this to a list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1327"}
+{"text": "can you set the location to my sisters house for this event", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1328"}
+{"text": "when was dolly parton born", "label": null, "scenario": "qa", "source": "massive", "id": "calib-1329"}
+{"text": "olly will it rain on saturday", "label": "weather", "scenario": "weather", "source": "massive", "id": "calib-1330"}
+{"text": "hey start an email to coworker", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1331"}
+{"text": "every wednesday night at five p. m. remind me to meet phil", "label": "calendar", "scenario": "calendar", "source": "massive", "id": "calib-1332"}
+{"text": "make list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1333"}
+{"text": "b. b. c. live", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1334"}
+{"text": "show me my list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1335"}
+{"text": "i had a problem with my burger can you tweet bk", "label": null, "scenario": "social", "source": "massive", "id": "calib-1336"}
+{"text": "was anyone arrested at the protest today in chicago", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1337"}
+{"text": "tell me a joke about dogs", "label": null, "scenario": "general", "source": "massive", "id": "calib-1338"}
+{"text": "i do not need this any more", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1339"}
+{"text": "good morning olly", "label": null, "scenario": "general", "source": "massive", "id": "calib-1340"}
+{"text": "display my list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1341"}
+{"text": "name off all the lists i own", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1342"}
+{"text": "what's in the news", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1343"}
+{"text": "show me recent news on particular subject", "label": "news", "scenario": "news", "source": "massive", "id": "calib-1344"}
+{"text": "i need to add pasta and milk to the grocery list", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1345"}
+{"text": "why are women so mysterious", "label": null, "scenario": "general", "source": "massive", "id": "calib-1346"}
+{"text": "open note pad", "label": "lists", "scenario": "lists", "source": "massive", "id": "calib-1347"}
+{"text": "what is the traffic situation right in broadway street", "label": "transport", "scenario": "transport", "source": "massive", "id": "calib-1348"}
+{"text": "read email subject chemistry", "label": "email", "scenario": "email", "source": "massive", "id": "calib-1349"}

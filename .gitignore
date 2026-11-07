@@ -1,0 +1,5 @@
+raw/
+__pycache__/
+*.pyc
+build_data/
+work/*.pt
