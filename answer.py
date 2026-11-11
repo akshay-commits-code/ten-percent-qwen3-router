@@ -1,4 +1,4 @@
-"""Answer: python answer.py <artifact_dir> <messages.jsonl|.txt>  -> one queue name per line on stdout.
+"""Answer: python answer.py <artifact_dir> <messages.jsonl|.txt>  -> one skill name per line on stdout.
 Input: JSONL with a "text" field per line, or plain text with one message per line."""
 import json, sys, os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))

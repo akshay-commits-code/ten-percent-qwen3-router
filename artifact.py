@@ -1,6 +1,6 @@
 """The shipped artifact: bit-packed integer codes + fp16 scales (+ int8 zero points where asymmetric) + bf16
 router/norms, the tokenizer, the task definition and this code. load() rebuilds a standard HF Qwen3-MoE whose
-layers keep a varying number of the base's experts; nothing else is stored."""
+layers keep a varying number of the base's experts, plus any experts that feedback restored (grow.py)."""
 import json, os, shutil
 import torch
 from safetensors.torch import save_file, load_file
@@ -108,33 +108,15 @@ def load(d, device="cuda"):
             b.mlp.experts = torch.nn.ModuleList(b.mlp.experts[:K]); b.mlp.num_experts = K
     m.load_state_dict(sd, strict=True, assign=True)
     m = m.to(device=device, dtype=torch.bfloat16).eval()
+    import grow
+    m.tpc_grown = grow.load_growth(d, m)  # experts restored by feedback (growth.safetensors), if any
     return m, AutoTokenizer.from_pretrained(d)
 
 
 def disk_bytes(d):
-    return sum(os.path.getsize(os.path.join(r, f)) for r, _, fs in os.walk(d) for f in fs)
-
-
-def apply_feedback(d, model, tok, items, delta=None, qt=None):
-    """Teach from annotated items [(text, correct_label)]: closed-form edit of the existing output rows of the label
-    tokens, written back into lm_head.safetensors (same size on disk). No new parameters, no lookup at answer time."""
-    import core
-    if not items:
-        return {"edited_labels": [], "mistakes_used": 0}
-    cfg = json.load(open(f"{d}/feedback.json"))
-    delta = cfg["delta"] if delta is None else delta; qt = cfg["quantile"] if qt is None else qt
-    stats = load_file(f"{d}/feedback_stats.safetensors")
-    texts, labels = [t for t, _ in items], [y for _, y in items]
-    preds, _, ex = core.run(model, tok, texts, want_hidden=True)
-    ids = {y: core.label_token(tok, y) for y in set(labels)}
-    rows = {y: model.lm_head.weight.data[ids[y]].float().cpu() for y in ids}
-    new = core.plan_edit(ex["h"], ex["top"], preds, labels, rows, stats, delta, qt, cfg.get("contrast", 0.0))
-    meta = json.load(open(f"{d}/quant.json")); bits = meta["bits"]["lm_head.weight"]
-    t = load_file(f"{d}/lm_head.safetensors"); H = model.config.hidden_size; per = H * bits // 8
-    for y, w in new.items():
-        cd, s, z = core.requant_row(w, bits, cfg.get("head_mode", "clip"), meta["group"]); tid = ids[y]
-        t["lm_head.weight::q"][tid * per:(tid + 1) * per] = pack_bits(cd, bits)
-        t["lm_head.weight::s"][tid] = s
-        model.lm_head.weight.data[tid] = core.dequantize(cd[None], s[None], None, bits, meta["group"]).to(model.lm_head.weight.device)[0]
-    save_file(t, f"{d}/lm_head.safetensors")
-    return {"edited_labels": sorted(new), "mistakes_used": int(sum(p != y for p, y in zip(preds, labels)))}
+    """Bytes of everything shipped in the artifact folder (hidden folders and Python caches are not part of it)."""
+    n = 0
+    for r, ds, fs in os.walk(d):
+        ds[:] = [x for x in ds if not x.startswith(".") and x != "__pycache__"]
+        n += sum(os.path.getsize(os.path.join(r, f)) for f in fs if not f.startswith("."))
+    return n

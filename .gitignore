@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 build_data/
 work/*.pt
+final_data/
+.DS_Store

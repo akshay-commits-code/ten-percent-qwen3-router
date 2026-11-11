@@ -1,0 +1,16 @@
+{
+ "base": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+ "revision": "0d7cf23991f47feeb3a57ecb4c9cee8ea4a17bfe",
+ "base_fp16_bytes": 61064245248,
+ "limit_bytes": 6106424524,
+ "reserve_bytes": 65536,
+ "n_cand": 70,
+ "group": 35,
+ "tau": 0.5,
+ "cap": 3.0,
+ "floor": -8.0,
+ "guard_max_changed": 3,
+ "patience": 2,
+ "delta": 0.5,
+ "share": 0.6
+}

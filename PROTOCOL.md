@@ -114,3 +114,59 @@ At answer time the model is the original model's own computation with more of it
 **Disclosed in advance.** The exam was already opened once for the first submission. It is opened a second time here, only to check the model after the new feedback. No exam output was used to design the new step. Only the chosen locale's `locked` file is opened.
 
 **Pass conditions.** Locked accuracy rises clearly over no feedback; shuffled and empty do clearly worse than real; exam faithfulness after feedback stays at or above 98% overall and 95% per kind; total size stays at or under 10%.
+
+## Amendment 5: step 5 finalised on pool / dev only (the hi-IN locked file is still unopened; the exam has not been re-opened)
+
+**Self-contained alternatives were tried first and dropped.** All on hi-IN `pool` / `dev` and the English `dev` (`lab/`):
+
+| Idea (nothing fetched from the base) | Unseen Hindi `dev` |
+|---|---|
+| No feedback | 55.7% |
+| Feedback removes more experts (prune-only) | No usable gain. Removing one expert moves the 24 annotated items by about as much as run-to-run numeric noise. |
+| Feedback changes how many experts each token uses (4 / 6 / 12 / 16 instead of 8) | 42.0% / 53.6% / 57.0% / 53.8% |
+| Upper limit of only removing the "answer weather when unsure" habit | 63.9% |
+
+The small model fails on Hindi because the experts that handle Hindi were pruned. Only putting them back fixes that, so the regrow mechanism of amendment 4 stays.
+
+**Changes to amendment 4, with reasons.**
+
+- **One group instead of one expert at a time.** Candidates are put back as a group that fills the room left under 10% (35 experts). A single expert's effect on 24 items is about as large as numeric noise, so one-at-a-time decisions were unreliable. On hi-IN `dev`: groups of 4 kept 4 experts (57.8%), groups of 8 kept 32 (81.8%), groups of 12 kept 12 (66.2%), one group of 35 kept 35 (86.3%).
+- **Stricter label test.** A group stays only if (a) the average clipped margin of the annotated mistakes toward their annotated labels rises by at least 0.5, and (b) at least 60% of those items each move toward their label by more than 0.5. Test (b) was added because test (a) alone accepted some shuffled-label feedback: 3% of 2,000 simulated shuffles of the Hindi items, and the seed-0 shuffle of the Turkish items, where 19 of the 24 mistakes carry one of two labels so a shuffle leaves many labels correct. With (b), 0 of 2,000 simulated Hindi shuffles pass; the real labels pass with 88% of items moving.
+- **Guard.** `guard.jsonl` holds 64 unlabeled English requests from the calibration text. A group is rejected if more than 3 of the model's own answers on them change.
+- **Where restored experts come from.** By default `feedback.py` fetches only the needed tensors (the base router and the chosen experts, about 360 MB) from the public base repo, pinned to revision `0d7cf23`. `--base <folder>` uses a local copy. Answering needs nothing but the artifact.
+- **Scoring inside feedback.** The margin is read at the first answer token: the logit of the annotated skill name minus the best other token.
+
+**Frozen constants (`growth_cfg.json`).** Group 35, at most 70 candidates, stop after 2 rejected groups, margin clip −8 to +3, average gain ≥ 0.5, share of items moved ≥ 60% (each by more than 0.5), guard ≤ 3 of 64 changed, limit 6,106,424,524 bytes.
+
+**Locale.** By the amendment-4 rule (largest base-minus-small gap on `dev`, base at least 85%): **hi-IN**, base 94.5%, small 54.1% (probe saved before any design work).
+
+**Dress rehearsal on dev with the frozen code and constants** (feedback = first 24 small-model mistakes in the locale's `pool`; design shuffle seed 0):
+
+| Locale | `dev` before | Real feedback | Shuffled labels | Experts restored (real / shuffled) | English `dev` faithfulness before → after |
+|---|---|---|---|---|---|
+| hi-IN (chosen) | 55.67% | **86.28%** | 55.67% | 35 / 0 | 99.10% → 99.18% (1,400 items, 7 answers changed) |
+| tr-TR (extra check) | 68.07% | 87.86% | 68.07% | 35 / 0 | 98.69% → 98.69% (first 400 items) |
+| ar-SA (extra check) | 74.14% | 90.50% | 74.14% | 35 / 0 | 98.69% → 98.69% (first 400 items) |
+
+After real feedback the hi-IN artifact is 6,105,631,828 bytes (9.9987%). A fresh load from disk gave the same 379 `dev` answers as the in-memory model.
+
+**Rehearsal of the final script on dev files.** After the constants and the artifact were frozen, `modal_final2.py --rehearsal` ran the whole final procedure with hi-IN `dev` in place of `locked` and the English `dev` in place of the exam (no base model, no locked file in the image). It exists to make sure the one real run cannot fail on a technicality. Result: real feedback through the shipped `feedback.py` command restored 35 experts and a fresh load scored 86.28% (120 items fixed, 4 broken); empty and shuffled seeds 1–3 restored nothing (55.67%); `answer.py` gave the same answers as the in-process model; 7 of 1,400 English `dev` answers changed. Nothing was changed after the rehearsal except adding shuffle seeds 4–6. Saved in `work/step5/rehearsal_raw.json` and `work/step5/rehearsal_results.json`.
+
+**Frozen artifact (`ARTIFACT.json`).** 6,039,657,231 bytes before feedback (9.891%). `model.safetensors` and `lm_head.safetensors` are byte-identical to the first submission. The old `feedback.json` and `feedback_stats.safetensors` are gone; `grow.py`, `keep.json`, `growth_cfg.json` and `guard.jsonl` are added.
+
+**Final run, once (`modal_final2.py`).** As in amendment 4, on hi-IN `locked` and the exam:
+
+- base; small before feedback; empty feedback; shuffled-label feedback with seeds 1 to 6
+- real feedback, run through the shipped `feedback.py` command, then a fresh load of the artifact answers hi-IN `locked` and the whole exam
+- the exam is re-run after any control that restores an expert
+
+**Pass conditions (unchanged).** Locked accuracy rises clearly over no feedback; shuffled and empty do clearly worse than real; exam faithfulness after feedback stays at or above 98% overall and 95% per kind; everything shipped stays at or under 10%.
+
+**Disclosed in advance.**
+
+- Feedback needs the original model's files (public repo or a local copy). It adds only slices of the original model.
+- The annotated texts pick the candidate experts; the labels decide whether they stay. When the labels are rejected nothing changes, so a rejected shuffled run equals the empty run.
+- The exam was opened once for the first submission and is opened a second time here, only to check the model after the new feedback. No exam output was used to design this step.
+- The first submission's shuffled control used one fixed shuffle (seed 0), the same one used while tuning. This run uses six shuffles. Seeds 1–3 were pre-registered in amendment 4 and no choice was ever made on them, but the rehearsal below already applied them to the same 24 `pool` items (all three were rejected). Seeds 4–6 were added after that and have never been run.
+- When the exam was built, its sentences were read once to exclude them from the calibration text.
+- The "locked first" order rests on this repo's git history and the Hugging Face upload times.

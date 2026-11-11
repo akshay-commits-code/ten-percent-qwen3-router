@@ -1,0 +1,70 @@
+{
+ "files": {
+  "answer.py": {
+   "bytes": 547,
+   "sha256": "a168dd50839b96a6e354ca125f4d87e9e20058245976b0bf54510c630fb8cc3d"
+  },
+  "artifact.py": {
+   "bytes": 5780,
+   "sha256": "e8053ff3d838a50dee3c4d9bd33d97075c5853d5cbbf83379555c6b0490f70c4"
+  },
+  "config.json": {
+   "bytes": 1244,
+   "sha256": "6163859fb4f61ba51df868ffab0057668539d9cd753a0bf8bf81d7823ec3f0c5"
+  },
+  "core.py": {
+   "bytes": 11788,
+   "sha256": "abd268aca1d724a49764787076ae61d040c168c01e2ca7ad872fd4f4c3f9d65a"
+  },
+  "feedback.py": {
+   "bytes": 1200,
+   "sha256": "ac2fb34f849f0f4440eaa29171807def1a02c12f894e57e132bf308908172d16"
+  },
+  "generation_config.json": {
+   "bytes": 239,
+   "sha256": "19d306dd769db12a9d710b44cf7f83b635efbe5166b84fb4358a08fb7d88bb53"
+  },
+  "grow.py": {
+   "bytes": 13133,
+   "sha256": "7554d0d8cf09201fed37d8b46b06365ec013a2dbbd8f3920d9feeacb481f841e"
+  },
+  "growth_cfg.json": {
+   "bytes": 332,
+   "sha256": "0e2ea81e0db9cd4684a64cadc0a723aaacd43af57b703a234c1358ed8ef7c471"
+  },
+  "guard.jsonl": {
+   "bytes": 3168,
+   "sha256": "629f91d015ce2c06d9f6867020659d7ca4274b3686e6a3b5cf2b691403b970c1"
+  },
+  "keep.json": {
+   "bytes": 10999,
+   "sha256": "3914dcceb187ffbd2a49d6c278221e1690ee54d674677b350fc36735de0bf646"
+  },
+  "lm_head.safetensors": {
+   "bytes": 160444600,
+   "sha256": "37837e54f0bd680b26c8c77b1f8c28618ab2c8b6d63b02da4486b64bf2e9482c"
+  },
+  "model.safetensors": {
+   "bytes": 5867697032,
+   "sha256": "f4410fed575208f8879233b87db2d1cae3f510332d657a3b9e2d22ac679319da"
+  },
+  "quant.json": {
+   "bytes": 34204,
+   "sha256": "2d95401914ebb3c1d43ecab6bcb6869e1710b6d93d1dde54a81b0c984608bd11"
+  },
+  "task.json": {
+   "bytes": 934,
+   "sha256": "8caeb0334f60509061937189cef3ab0d4bfbd1baf1f225939cbb30cf1b7f707d"
+  },
+  "tokenizer.json": {
+   "bytes": 11422654,
+   "sha256": "aeb13307a71acd8fe81861d94ad54ab689df773318809eed3cbe794b4492dae4"
+  },
+  "tokenizer_config.json": {
+   "bytes": 9377,
+   "sha256": "a62ff0a2472a0fa1b8eaabcb57c59b58afa42a22831dc141400b6e0cf2b65ce3"
+  }
+ },
+ "artifact_bytes": 6039657231,
+ "weights_identical_to_first_submission": true
+}
