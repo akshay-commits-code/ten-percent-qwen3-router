@@ -1,0 +1,70 @@
+{
+ "locked_files": {
+  "teach2/es-ES/locked.jsonl": "19d6147bac257396e1e651fe1e3a2646bfdae9b24a07b07dee37960e18f2144a",
+  "teach2/de-DE/locked.jsonl": "28ae6b0013aa4f6c7359dacd03d5039fadebdcf4e35b1446f9fd7f116d30f612",
+  "teach2/fr-FR/locked.jsonl": "b2b28503aab0f842bfb19032772c9a0cfbc58645b6d632105c69dc22f4654e44",
+  "teach2/zh-CN/locked.jsonl": "2fa8e2d0c11dfef4d17a924073a6aba6ba998d35c721bec7374000a6f9440c23",
+  "teach2/ja-JP/locked.jsonl": "19b6781940c5a76017984955c8e7545fe7c4dc05841e345302b134bc8cc937c3",
+  "teach2/hi-IN/locked.jsonl": "9b03b464cc77dd3de28eeb392a3a855b9f6a63d2bbbeb2c90a79e1fdc2b9e015",
+  "teach2/ar-SA/locked.jsonl": "c72f0afda451f1344e341f37f575a3164affaeaccf55b4d3c73d334ae5bafa12",
+  "teach2/ru-RU/locked.jsonl": "8ed35b9f444dd17ba6fc438ad3cad67abf01b2a6b358706e27002908eb6af383",
+  "teach2/ko-KR/locked.jsonl": "974062ae2b351f040c7c1957db63ea4b84d99ccebfe8e43c74500b4e9d4a7ab0",
+  "teach2/th-TH/locked.jsonl": "78e64dbc5714a8c8b0c2f5ae93c34009d668989979de66d0c79e77353c995a6e",
+  "teach2/tr-TR/locked.jsonl": "6b9255b465e129ecc1ea05d1ee4e5986c10819acad43b1c10f84edba67b092ce",
+  "teach2/vi-VN/locked.jsonl": "6fb061f3064ca3378fdc9beefa9b081a4fefe41f9053602b01f10f9d29d623fd"
+ },
+ "other_files": {
+  "teach2/es-ES/pool.jsonl": "5cc5d5f0a29ec46060a9796250d7a4a38be3fb2981e874418c56bb295e35e487",
+  "teach2/es-ES/dev.jsonl": "0b56973f798396774d17e5f3b086b1eda108978af13845a81ba8d2ddabcde905",
+  "teach2/de-DE/pool.jsonl": "b3e781e7d9ae4b161840d322808628746e0cc26a1d2a8cfab88ffdf95c2f3bf8",
+  "teach2/de-DE/dev.jsonl": "23befd21e9a530bb0492688cbf2a0f2bd735c579813fc5c625fa83125aa19d9a",
+  "teach2/fr-FR/pool.jsonl": "f7f747a697a656e9a007865378e54d12f1186e820d7d072252b6f4fe5c7ceac2",
+  "teach2/fr-FR/dev.jsonl": "86217d46f39c6e7bbba298f33de81c25a5989d939312fe9ce2c0cce63e05e1f6",
+  "teach2/zh-CN/pool.jsonl": "47f14f233b23a25c5b086ead60e7f44728618c381a7214690399074239698156",
+  "teach2/zh-CN/dev.jsonl": "73a96cc310d7231ae0ee6f79466a7a066fd26b7212d49db970277018968d67a4",
+  "teach2/ja-JP/pool.jsonl": "e83fd995b724fe013e60c80c7db911fd3143ec90da088e1207c4b4b4ba4f72a8",
+  "teach2/ja-JP/dev.jsonl": "e51dd069f07d26ddf41469d046d783197080e1a43f2a844500e60aa3747edcb6",
+  "teach2/hi-IN/pool.jsonl": "37ff255354be8387b65c51f23c7d29c296cd2e84b2eda2a11c0c28ed827ec81b",
+  "teach2/hi-IN/dev.jsonl": "80c1cd9c56590a78a89a3a6ed4e2a3cbe9fe4f1139061e063e01244f656f747f",
+  "teach2/ar-SA/pool.jsonl": "087844d1079ee009bf5577cb317bb0af5961cca37cd926fcfb6aa47ad4a8f0b4",
+  "teach2/ar-SA/dev.jsonl": "9166e3546c5d5d1808cda52bfcd686c28f1d80c10df792809faad0edb190ec8a",
+  "teach2/ru-RU/pool.jsonl": "a58474e8a670f3ee4e6493de6fc48777924e534bb82ad88ab88e04b607f393b8",
+  "teach2/ru-RU/dev.jsonl": "f48dcca38d360ea995efc5a9ec9d94656b3f552a0e216ce4f48dad6eb39d7f13",
+  "teach2/ko-KR/pool.jsonl": "7a0cec231a869c02c2ff4ad043f11d9371a19a40ec7043c4b3bbc4ac234106be",
+  "teach2/ko-KR/dev.jsonl": "0e610df1e9d7e1759063c31d6aa997b171afbefeb62cf719093345a2806f4eac",
+  "teach2/th-TH/pool.jsonl": "b2e47928dcc9f706df1cd9a2b9b99909e9ef95e643447daf96be284e162ef690",
+  "teach2/th-TH/dev.jsonl": "851cbd0c2d4296670a0c3ddfbb64acb4837cc6fec5dc446915e2282edb19760d",
+  "teach2/tr-TR/pool.jsonl": "54fe619f3dbcf16bcce8e22fe25299a0c5580d647875078959aca1e86722a358",
+  "teach2/tr-TR/dev.jsonl": "eb910c5a48f586fdec890f10ed72f487fd835dcf767681699925cafe620ba62f",
+  "teach2/vi-VN/pool.jsonl": "4229c204c9498e2379162cca1d0446ae9eec99e0458317a7e3250aedbed3fb29",
+  "teach2/vi-VN/dev.jsonl": "74047be46acd83099bd569208d38489acf664789daa206f6c868d3e1fb48c0c4"
+ },
+ "counts": {
+  "pool": 379,
+  "dev": 379,
+  "locked": 379
+ },
+ "per_label": {
+  "news": 9,
+  "lists": 36,
+  "transport": 40,
+  "weather": 54,
+  "home": 80,
+  "email": 80,
+  "calendar": 80
+ },
+ "locales": [
+  "es-ES",
+  "de-DE",
+  "fr-FR",
+  "zh-CN",
+  "ja-JP",
+  "hi-IN",
+  "ar-SA",
+  "ru-RU",
+  "ko-KR",
+  "th-TH",
+  "tr-TR",
+  "vi-VN"
+ ]
+}

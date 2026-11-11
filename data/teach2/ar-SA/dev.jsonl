@@ -1,0 +1,379 @@
+{"text": "أرسل شكرا ما قصرت في email لمحمد", "label": "email", "source": "massive-ar-SA", "massive_id": "17077", "id": "ar-SA-dev-0"}
+{"text": "احب ارد على ايميل سلافة", "label": "email", "source": "massive-ar-SA", "massive_id": "16701", "id": "ar-SA-dev-1"}
+{"text": "البحث عن مقالات إخبارية عن ترامب", "label": "news", "source": "massive-ar-SA", "massive_id": "4607", "id": "ar-SA-dev-2"}
+{"text": "ايش الأغاني في قائمتي المفظلة", "label": "lists", "source": "massive-ar-SA", "massive_id": "10932", "id": "ar-SA-dev-3"}
+{"text": "احجز لي تذكرة قطار اليوم الى جدة", "label": "transport", "source": "massive-ar-SA", "massive_id": "12172", "id": "ar-SA-dev-4"}
+{"text": "كيف هو الطقس الحالي في المدينة", "label": "weather", "source": "massive-ar-SA", "massive_id": "655", "id": "ar-SA-dev-5"}
+{"text": "اقرأ لي مقالة إخبارية عن الوليد بن طلال", "label": "news", "source": "massive-ar-SA", "massive_id": "3129", "id": "ar-SA-dev-6"}
+{"text": "شغل الأخبار", "label": "news", "source": "massive-ar-SA", "massive_id": "3100", "id": "ar-SA-dev-7"}
+{"text": "يرجى التحقق من الطقس يوم الثلاثاء", "label": "weather", "source": "massive-ar-SA", "massive_id": "5377", "id": "ar-SA-dev-8"}
+{"text": "ساطعة أكثر شكرا", "label": "home", "source": "massive-ar-SA", "massive_id": "2130", "id": "ar-SA-dev-9"}
+{"text": "ما قي القوائم في جهات الاتصال", "label": "lists", "source": "massive-ar-SA", "massive_id": "10955", "id": "ar-SA-dev-10"}
+{"text": "ذكرني موعد الإجتماع الساعة سبعة المسا الإثنين الجاي", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8301", "id": "ar-SA-dev-11"}
+{"text": "قائمة المهمات", "label": "lists", "source": "massive-ar-SA", "massive_id": "11105", "id": "ar-SA-dev-12"}
+{"text": "تذكرة محايل عسير قطار", "label": "transport", "source": "massive-ar-SA", "massive_id": "12819", "id": "ar-SA-dev-13"}
+{"text": "ما هو الطقس الحالي في الرياض", "label": "weather", "source": "massive-ar-SA", "massive_id": "3878", "id": "ar-SA-dev-14"}
+{"text": "غير لمبات غرفتي إلى بعظ الألوان الرومنسية", "label": "home", "source": "massive-ar-SA", "massive_id": "414", "id": "ar-SA-dev-15"}
+{"text": "أنا أنتهيت من قائمة المهام", "label": "lists", "source": "massive-ar-SA", "massive_id": "6204", "id": "ar-SA-dev-16"}
+{"text": "قطار اليوم أبها", "label": "transport", "source": "massive-ar-SA", "massive_id": "12909", "id": "ar-SA-dev-17"}
+{"text": "ألغي اجتماع بكره من التقويم حقي", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7087", "id": "ar-SA-dev-18"}
+{"text": "فيش", "label": "home", "source": "massive-ar-SA", "massive_id": "321", "id": "ar-SA-dev-19"}
+{"text": "امسح القائمة اللي قبل", "label": "lists", "source": "massive-ar-SA", "massive_id": "10801", "id": "ar-SA-dev-20"}
+{"text": "ماذا ستكون حالة الطقس خلال الأيام السبعة الجاي", "label": "weather", "source": "massive-ar-SA", "massive_id": "1725", "id": "ar-SA-dev-21"}
+{"text": "ظع نشاط عيد ميلاد يوم الأربعاء", "label": "calendar", "source": "massive-ar-SA", "massive_id": "9006", "id": "ar-SA-dev-22"}
+{"text": "قطار الرياض", "label": "transport", "source": "massive-ar-SA", "massive_id": "12376", "id": "ar-SA-dev-23"}
+{"text": "الرياض مكة", "label": "transport", "source": "massive-ar-SA", "massive_id": "12267", "id": "ar-SA-dev-24"}
+{"text": "ما هي توقعات الاسبوع", "label": "weather", "source": "massive-ar-SA", "massive_id": "100", "id": "ar-SA-dev-25"}
+{"text": "تكفى طفي اللمبات في الحمام", "label": "home", "source": "massive-ar-SA", "massive_id": "5242", "id": "ar-SA-dev-26"}
+{"text": "brighten your hallway lights", "label": "home", "source": "massive-ar-SA", "massive_id": "1071", "id": "ar-SA-dev-27"}
+{"text": "امسح الموعد الجاي في التقويم", "label": "calendar", "source": "massive-ar-SA", "massive_id": "9129", "id": "ar-SA-dev-28"}
+{"text": "هل هي تثلج في جدة", "label": "weather", "source": "massive-ar-SA", "massive_id": "336", "id": "ar-SA-dev-29"}
+{"text": "هيه انت أرسل لي محمد أي email قريب ولا لا", "label": "email", "source": "massive-ar-SA", "massive_id": "16038", "id": "ar-SA-dev-30"}
+{"text": "سيارة أجرة", "label": "transport", "source": "massive-ar-SA", "massive_id": "12322", "id": "ar-SA-dev-31"}
+{"text": "هل يجب أن أبقي النافذة مفتوحة الليلة", "label": "weather", "source": "massive-ar-SA", "massive_id": "6094", "id": "ar-SA-dev-32"}
+{"text": "هل عندي ايميلات جديدة من فيصل", "label": "email", "source": "massive-ar-SA", "massive_id": "17178", "id": "ar-SA-dev-33"}
+{"text": "افتح البريد الوارد", "label": "email", "source": "massive-ar-SA", "massive_id": "16844", "id": "ar-SA-dev-34"}
+{"text": "وش الفعاليات اللي في تقويمي", "label": "calendar", "source": "massive-ar-SA", "massive_id": "6790", "id": "ar-SA-dev-35"}
+{"text": "في أي حركة مرور", "label": "transport", "source": "massive-ar-SA", "massive_id": "12862", "id": "ar-SA-dev-36"}
+{"text": "مرحبا google تقدر تسويلي موعد مع فهد يوم الإثنين الجاي في الليل", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8237", "id": "ar-SA-dev-37"}
+{"text": "أبغى اصحصح سويلي أقوى قهوة تقدر تسويها", "label": "home", "source": "massive-ar-SA", "massive_id": "3198", "id": "ar-SA-dev-38"}
+{"text": "حقي", "label": "transport", "source": "massive-ar-SA", "massive_id": "12288", "id": "ar-SA-dev-39"}
+{"text": "ممكن ترسل رسالة لهند بالإيميل", "label": "email", "source": "massive-ar-SA", "massive_id": "16972", "id": "ar-SA-dev-40"}
+{"text": "ودي نور أكثر", "label": "home", "source": "massive-ar-SA", "massive_id": "2402", "id": "ar-SA-dev-41"}
+{"text": "تقويم حقي اليوم", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8469", "id": "ar-SA-dev-42"}
+{"text": "ذكرني بعدد القوائم اللي عندي", "label": "lists", "source": "massive-ar-SA", "massive_id": "10957", "id": "ar-SA-dev-43"}
+{"text": "أخبرني إيش الطقس في الرياض هالحين", "label": "weather", "source": "massive-ar-SA", "massive_id": "2265", "id": "ar-SA-dev-44"}
+{"text": "ابي قهوة لو سمحت", "label": "home", "source": "massive-ar-SA", "massive_id": "3678", "id": "ar-SA-dev-45"}
+{"text": "ستكون درجة الحرارة اليوم", "label": "weather", "source": "massive-ar-SA", "massive_id": "4602", "id": "ar-SA-dev-46"}
+{"text": "ارفع الإضاءة", "label": "home", "source": "massive-ar-SA", "massive_id": "3808", "id": "ar-SA-dev-47"}
+{"text": "أطفئ قابس ويمو", "label": "home", "source": "massive-ar-SA", "massive_id": "5652", "id": "ar-SA-dev-48"}
+{"text": "ايش أوقات المغادرة والوصول لهذا القطار", "label": "transport", "source": "massive-ar-SA", "massive_id": "12570", "id": "ar-SA-dev-49"}
+{"text": "هل يجب أن آخذ معطف مطري معي الآن", "label": "weather", "source": "massive-ar-SA", "massive_id": "5661", "id": "ar-SA-dev-50"}
+{"text": "قول لي عن ايميلاتي الجديدة", "label": "email", "source": "massive-ar-SA", "massive_id": "16337", "id": "ar-SA-dev-51"}
+{"text": "أرسل تنبيه قبل الإجتماع", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7981", "id": "ar-SA-dev-52"}
+{"text": "هل سوف تمطر هذا الاسبوع", "label": "weather", "source": "massive-ar-SA", "massive_id": "3857", "id": "ar-SA-dev-53"}
+{"text": "olly فيه فرقة بتغني الليلة على الساعة تسعة في البوليفارد ابي اروحه", "label": "calendar", "source": "massive-ar-SA", "massive_id": "6819", "id": "ar-SA-dev-54"}
+{"text": "الطقس في مدينة جدة", "label": "weather", "source": "massive-ar-SA", "massive_id": "2223", "id": "ar-SA-dev-55"}
+{"text": "تكفى قول لي اذا وصلتني أي ايميلات جديدة من بندر", "label": "email", "source": "massive-ar-SA", "massive_id": "16662", "id": "ar-SA-dev-56"}
+{"text": "من فضلك قل لي حالة الطقس", "label": "weather", "source": "massive-ar-SA", "massive_id": "3012", "id": "ar-SA-dev-57"}
+{"text": "تذكير جديد عند الثالثة عصرا", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8775", "id": "ar-SA-dev-58"}
+{"text": "خل السطوع على واحد", "label": "home", "source": "massive-ar-SA", "massive_id": "2262", "id": "ar-SA-dev-59"}
+{"text": "لطيف", "label": "calendar", "source": "massive-ar-SA", "massive_id": "6885", "id": "ar-SA-dev-60"}
+{"text": "زواج أحمد", "label": "calendar", "source": "massive-ar-SA", "massive_id": "9035", "id": "ar-SA-dev-61"}
+{"text": "نظم اجتماع اليوم الصبح", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7550", "id": "ar-SA-dev-62"}
+{"text": "جهز القائمة", "label": "lists", "source": "massive-ar-SA", "massive_id": "11140", "id": "ar-SA-dev-63"}
+{"text": "هل أحتاج إلى وضع كريم حروق الشمس عندما أذهب إلى جدة", "label": "weather", "source": "massive-ar-SA", "massive_id": "5664", "id": "ar-SA-dev-64"}
+{"text": "نظف الغبار ثم على المنظف", "label": "home", "source": "massive-ar-SA", "massive_id": "5528", "id": "ar-SA-dev-65"}
+{"text": "كم عدد الأشواط التي سجلها الأهلي الأمس", "label": "news", "source": "massive-ar-SA", "massive_id": "5232", "id": "ar-SA-dev-66"}
+{"text": "سلام أبي قهوة الحين", "label": "home", "source": "massive-ar-SA", "massive_id": "339", "id": "ar-SA-dev-67"}
+{"text": "إضاءة اعلى", "label": "home", "source": "massive-ar-SA", "massive_id": "3595", "id": "ar-SA-dev-68"}
+{"text": "خلنا نشوف كل التذكيرات المعلقة", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8498", "id": "ar-SA-dev-69"}
+{"text": "كم كانت درجة الحرارة في الرياض هذا الصباح", "label": "weather", "source": "massive-ar-SA", "massive_id": "1254", "id": "ar-SA-dev-70"}
+{"text": "رد على عمار وخله يعرف اني بكون فاضية بكره", "label": "email", "source": "massive-ar-SA", "massive_id": "16059", "id": "ar-SA-dev-71"}
+{"text": "هل عندي أية بقايا لليوم", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8149", "id": "ar-SA-dev-72"}
+{"text": "جهات الإتصال لو سمحت", "label": "email", "source": "massive-ar-SA", "massive_id": "17090", "id": "ar-SA-dev-73"}
+{"text": "ما هو الطقس في حائل", "label": "weather", "source": "massive-ar-SA", "massive_id": "4687", "id": "ar-SA-dev-74"}
+{"text": "olly اطلب قهوة وحده من مقهى starbucks", "label": "home", "source": "massive-ar-SA", "massive_id": "1815", "id": "ar-SA-dev-75"}
+{"text": "دين حقي الجمعة", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7775", "id": "ar-SA-dev-76"}
+{"text": "يوم اجتماع", "label": "calendar", "source": "massive-ar-SA", "massive_id": "6734", "id": "ar-SA-dev-77"}
+{"text": "سوي قائمة بالمواعيد اللي عندي شهر مارس", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7359", "id": "ar-SA-dev-78"}
+{"text": "احذف أول قائمة لو سمحت", "label": "lists", "source": "massive-ar-SA", "massive_id": "10916", "id": "ar-SA-dev-79"}
+{"text": "لو سمحت طف الضوء بغرفة المرسم", "label": "home", "source": "massive-ar-SA", "massive_id": "5202", "id": "ar-SA-dev-80"}
+{"text": "ما هو الطقس اليوم", "label": "weather", "source": "massive-ar-SA", "massive_id": "4789", "id": "ar-SA-dev-81"}
+{"text": "قطار تذكرة", "label": "transport", "source": "massive-ar-SA", "massive_id": "12472", "id": "ar-SA-dev-82"}
+{"text": "وش هو رقم هاتف الشغل حق سعاد", "label": "email", "source": "massive-ar-SA", "massive_id": "15815", "id": "ar-SA-dev-83"}
+{"text": "اقرالي الموجود في القائمة حقي", "label": "lists", "source": "massive-ar-SA", "massive_id": "10731", "id": "ar-SA-dev-84"}
+{"text": "خلني أعرف إذا جاني email جديد اليوم", "label": "email", "source": "massive-ar-SA", "massive_id": "15965", "id": "ar-SA-dev-85"}
+{"text": "من فضلك قل لي ما إذا كانت سوف تثلج في نهاية هذا الاسبوع", "label": "weather", "source": "massive-ar-SA", "massive_id": "1543", "id": "ar-SA-dev-86"}
+{"text": "ضيف email جديد للتواصل في القايمة حقتي", "label": "email", "source": "massive-ar-SA", "massive_id": "16909", "id": "ar-SA-dev-87"}
+{"text": "عندي تدريب بنادي عكاظ بكره الساعة ستة", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7860", "id": "ar-SA-dev-88"}
+{"text": "الرياض", "label": "transport", "source": "massive-ar-SA", "massive_id": "12196", "id": "ar-SA-dev-89"}
+{"text": "خلي يوم ثلاثة يوليو في التقويم فاضي", "label": "calendar", "source": "massive-ar-SA", "massive_id": "9040", "id": "ar-SA-dev-90"}
+{"text": "تكفى سويلي قهوة", "label": "home", "source": "massive-ar-SA", "massive_id": "3609", "id": "ar-SA-dev-91"}
+{"text": "افتح تذكيراتي", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7802", "id": "ar-SA-dev-92"}
+{"text": "هل جتني أي رسايل من صالح", "label": "email", "source": "massive-ar-SA", "massive_id": "16985", "id": "ar-SA-dev-93"}
+{"text": "أنا ما أسوي أي شي هذا الأسبوع", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8232", "id": "ar-SA-dev-94"}
+{"text": "بكرة اجتماع العاشرة صباحا", "label": "calendar", "source": "massive-ar-SA", "massive_id": "6856", "id": "ar-SA-dev-95"}
+{"text": "سجل فعالية متكررة يوم السبت الساعة سبعة الصبح وسميها وقت السينما", "label": "calendar", "source": "massive-ar-SA", "massive_id": "6826", "id": "ar-SA-dev-96"}
+{"text": "ممكن تكتب email لمنى عشاني", "label": "email", "source": "massive-ar-SA", "massive_id": "16534", "id": "ar-SA-dev-97"}
+{"text": "اجتماعات بكرة", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7413", "id": "ar-SA-dev-98"}
+{"text": "أرسل email لماما", "label": "email", "source": "massive-ar-SA", "massive_id": "16313", "id": "ar-SA-dev-99"}
+{"text": "أريد من آلة صنع القهوة أن تعمل لي قهوه", "label": "home", "source": "massive-ar-SA", "massive_id": "2867", "id": "ar-SA-dev-100"}
+{"text": "كل إحداث حقي", "label": "calendar", "source": "massive-ar-SA", "massive_id": "6899", "id": "ar-SA-dev-101"}
+{"text": "البيت", "label": "transport", "source": "massive-ar-SA", "massive_id": "12548", "id": "ar-SA-dev-102"}
+{"text": "خبرني شلون ممكن أوصل المول", "label": "transport", "source": "massive-ar-SA", "massive_id": "12817", "id": "ar-SA-dev-103"}
+{"text": "اضبط آلة القهوة حقي", "label": "home", "source": "massive-ar-SA", "massive_id": "3568", "id": "ar-SA-dev-104"}
+{"text": "هل موعد هذي المناسبة صحيح", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8784", "id": "ar-SA-dev-105"}
+{"text": "أبي أعرف اذا عندي أي شي مسجل اليوم بين ثلاثة و أربعة بعد الظهر", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7900", "id": "ar-SA-dev-106"}
+{"text": "تكفى شوف اذا فيه email من ماما", "label": "email", "source": "massive-ar-SA", "massive_id": "16381", "id": "ar-SA-dev-107"}
+{"text": "هل يمكنك تجهيز بعض القهوة لي", "label": "home", "source": "massive-ar-SA", "massive_id": "2305", "id": "ar-SA-dev-108"}
+{"text": "فعل قابس ذكي", "label": "home", "source": "massive-ar-SA", "massive_id": "4847", "id": "ar-SA-dev-109"}
+{"text": "حركة المرور", "label": "transport", "source": "massive-ar-SA", "massive_id": "12821", "id": "ar-SA-dev-110"}
+{"text": "taxi", "label": "transport", "source": "massive-ar-SA", "massive_id": "12904", "id": "ar-SA-dev-111"}
+{"text": "ذكرني بالعيد الوطني الجاي", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8451", "id": "ar-SA-dev-112"}
+{"text": "اطلب مقاضي هذا الشهر لو سمحت", "label": "lists", "source": "massive-ar-SA", "massive_id": "15122", "id": "ar-SA-dev-113"}
+{"text": "أبغى أعرف اذا هذا رمز المنطقة الصحيح حق مديري", "label": "email", "source": "massive-ar-SA", "massive_id": "16582", "id": "ar-SA-dev-114"}
+{"text": "سعيد", "label": "weather", "source": "massive-ar-SA", "massive_id": "325", "id": "ar-SA-dev-115"}
+{"text": "اكتب email عن جو الأسبوع الجاي لزوجتي", "label": "email", "source": "massive-ar-SA", "massive_id": "16259", "id": "ar-SA-dev-116"}
+{"text": "شغل المكنسة الكهربائية", "label": "home", "source": "massive-ar-SA", "massive_id": "83", "id": "ar-SA-dev-117"}
+{"text": "iroomba house pink and white", "label": "home", "source": "massive-ar-SA", "massive_id": "2054", "id": "ar-SA-dev-118"}
+{"text": "ايش المنبهات اللي عندي هذا الشهر", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8458", "id": "ar-SA-dev-119"}
+{"text": "أي يوم في الأسبوع بيكون عيد ميلادي هاذي السنة", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7187", "id": "ar-SA-dev-120"}
+{"text": "أنا أي اشعارات", "label": "calendar", "source": "massive-ar-SA", "massive_id": "15305", "id": "ar-SA-dev-121"}
+{"text": "التنظيف جيد للغبار أمر سيء للغاية والآن قم بتنظيف سجادتي", "label": "home", "source": "massive-ar-SA", "massive_id": "30", "id": "ar-SA-dev-122"}
+{"text": "ضيف اجتماع هدى هذا الخميس للتقويم", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7045", "id": "ar-SA-dev-123"}
+{"text": "olly ذكرني اطلع الزبالة يوم الثلاثاء", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7210", "id": "ar-SA-dev-124"}
+{"text": "ايش القوائم اللي رتبتها", "label": "lists", "source": "massive-ar-SA", "massive_id": "10650", "id": "ar-SA-dev-125"}
+{"text": "رقم تلفون ياسر", "label": "email", "source": "massive-ar-SA", "massive_id": "16907", "id": "ar-SA-dev-126"}
+{"text": "اجعل الغرفة أكثر إنارة", "label": "home", "source": "massive-ar-SA", "massive_id": "211", "id": "ar-SA-dev-127"}
+{"text": "جهز القائمة", "label": "lists", "source": "massive-ar-SA", "massive_id": "10489", "id": "ar-SA-dev-128"}
+{"text": "ابي أعرف اذا عيد الأضحى بيكون يوم جمعة هذي السنة", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8710", "id": "ar-SA-dev-129"}
+{"text": "olly حار وحلو واساسه حليب صويا", "label": "home", "source": "massive-ar-SA", "massive_id": "5814", "id": "ar-SA-dev-130"}
+{"text": "كيف معلومات الطقس", "label": "weather", "source": "massive-ar-SA", "massive_id": "700", "id": "ar-SA-dev-131"}
+{"text": "افصل الكهربا wemo من فضلك", "label": "home", "source": "massive-ar-SA", "massive_id": "4203", "id": "ar-SA-dev-132"}
+{"text": "هل سوف أحتاج واقي شمس بعد الظهر", "label": "weather", "source": "massive-ar-SA", "massive_id": "6025", "id": "ar-SA-dev-133"}
+{"text": "احذف قائمة الأشياء اللي بشتريها", "label": "lists", "source": "massive-ar-SA", "massive_id": "10458", "id": "ar-SA-dev-134"}
+{"text": "تقويم جوجل إضافة حدث في الواحد والعشرون من آذار", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7050", "id": "ar-SA-dev-135"}
+{"text": "lights out", "label": "home", "source": "massive-ar-SA", "massive_id": "5431", "id": "ar-SA-dev-136"}
+{"text": "اكتب وأرسل email لمديرتي", "label": "email", "source": "massive-ar-SA", "massive_id": "16605", "id": "ar-SA-dev-137"}
+{"text": "ذكرني آخذ دواي كل يوم الساعة سبعة باليل لاأسبوعين قدام", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8617", "id": "ar-SA-dev-138"}
+{"text": "رتب رحلة للرياض بالقطار", "label": "transport", "source": "massive-ar-SA", "massive_id": "12130", "id": "ar-SA-dev-139"}
+{"text": "ايش التذكيرات اللي عندي هذا الأسبوع", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7846", "id": "ar-SA-dev-140"}
+{"text": "وش المهمات المعلقة حقي", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7266", "id": "ar-SA-dev-141"}
+{"text": "قطار الحرمين جدة", "label": "transport", "source": "massive-ar-SA", "massive_id": "12881", "id": "ar-SA-dev-142"}
+{"text": "ارفع الإضاءة لو سمحت", "label": "home", "source": "massive-ar-SA", "massive_id": "1089", "id": "ar-SA-dev-143"}
+{"text": "طف لمبات المطبخ", "label": "home", "source": "massive-ar-SA", "massive_id": "5397", "id": "ar-SA-dev-144"}
+{"text": "يوم الثلاثاء ما هو الطقس المفترض أن يكون", "label": "weather", "source": "massive-ar-SA", "massive_id": "605", "id": "ar-SA-dev-145"}
+{"text": "مره النور قوي", "label": "home", "source": "massive-ar-SA", "massive_id": "3701", "id": "ar-SA-dev-146"}
+{"text": "ورني آخر email من أحمد", "label": "email", "source": "massive-ar-SA", "massive_id": "16078", "id": "ar-SA-dev-147"}
+{"text": "كم عمر شهد", "label": "email", "source": "massive-ar-SA", "massive_id": "16217", "id": "ar-SA-dev-148"}
+{"text": "الخميس موعد شعري", "label": "calendar", "source": "massive-ar-SA", "massive_id": "9152", "id": "ar-SA-dev-149"}
+{"text": "شغل آلة القهوة الساعة ثلاثة", "label": "home", "source": "massive-ar-SA", "massive_id": "4443", "id": "ar-SA-dev-150"}
+{"text": "لو سمحت حط حفلة عيد الميلاد حقي في التقويم", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8584", "id": "ar-SA-dev-151"}
+{"text": "وش المعلومات اللي عندك في ملف معلوماتي عن محمد", "label": "email", "source": "massive-ar-SA", "massive_id": "16254", "id": "ar-SA-dev-152"}
+{"text": "طفي لمبة الكراج", "label": "home", "source": "massive-ar-SA", "massive_id": "1974", "id": "ar-SA-dev-153"}
+{"text": "اطلب من غوغل التحقق من رقم الشغل حق أمي", "label": "email", "source": "massive-ar-SA", "massive_id": "16554", "id": "ar-SA-dev-154"}
+{"text": "لو سمحت طف لمبات غرفة النوم", "label": "home", "source": "massive-ar-SA", "massive_id": "4632", "id": "ar-SA-dev-155"}
+{"text": "أوبر نصف ساعة", "label": "transport", "source": "massive-ar-SA", "massive_id": "12496", "id": "ar-SA-dev-156"}
+{"text": "لو سمحت امسح هاذي المناسبة", "label": "calendar", "source": "massive-ar-SA", "massive_id": "9074", "id": "ar-SA-dev-157"}
+{"text": "ايش الأشياء اللي حطيتها للحين في قائمة العثيم", "label": "lists", "source": "massive-ar-SA", "massive_id": "10753", "id": "ar-SA-dev-158"}
+{"text": "شغل المكنسة الكهربائية", "label": "home", "source": "massive-ar-SA", "massive_id": "5571", "id": "ar-SA-dev-159"}
+{"text": "فيش ثلاثي", "label": "home", "source": "massive-ar-SA", "massive_id": "4964", "id": "ar-SA-dev-160"}
+{"text": "مين آخر واحد اتصل عليا", "label": "email", "source": "massive-ar-SA", "massive_id": "16589", "id": "ar-SA-dev-161"}
+{"text": "وش الإجتماعات اللي عندي الخميس الجاي", "label": "calendar", "source": "massive-ar-SA", "massive_id": "9141", "id": "ar-SA-dev-162"}
+{"text": "وش آخر نشاط في ايميلي", "label": "email", "source": "massive-ar-SA", "massive_id": "17035", "id": "ar-SA-dev-163"}
+{"text": "دور على ايميلات محمد عن الكشتة", "label": "email", "source": "massive-ar-SA", "massive_id": "16389", "id": "ar-SA-dev-164"}
+{"text": "قطار تذكرة", "label": "transport", "source": "massive-ar-SA", "massive_id": "12461", "id": "ar-SA-dev-165"}
+{"text": "ارفع سطوع اللمبات مو قادره أشوف هنا", "label": "home", "source": "massive-ar-SA", "massive_id": "6053", "id": "ar-SA-dev-166"}
+{"text": "احذف هذا الموعد من تنبيهات التقويم حقي", "label": "calendar", "source": "massive-ar-SA", "massive_id": "9195", "id": "ar-SA-dev-167"}
+{"text": "خلني أعرف وش الإيميلات الجديدة", "label": "email", "source": "massive-ar-SA", "massive_id": "16647", "id": "ar-SA-dev-168"}
+{"text": "حط منبه لاجتماع نادي البنات يوم الأحد بعد جمعية تحفيظ القرآن", "label": "calendar", "source": "massive-ar-SA", "massive_id": "9086", "id": "ar-SA-dev-169"}
+{"text": "start cleaning up the house", "label": "home", "source": "massive-ar-SA", "massive_id": "4459", "id": "ar-SA-dev-170"}
+{"text": "تكفى اكتب email جديد لزميلي في الشغل", "label": "email", "source": "massive-ar-SA", "massive_id": "16029", "id": "ar-SA-dev-171"}
+{"text": "المدينة", "label": "transport", "source": "massive-ar-SA", "massive_id": "12672", "id": "ar-SA-dev-172"}
+{"text": "امسح من قائمة التشغيل قائمة أغاني الجنادرية", "label": "lists", "source": "massive-ar-SA", "massive_id": "10523", "id": "ar-SA-dev-173"}
+{"text": "هل يمكنك التحقق من الطقس في مكة من فضلك", "label": "weather", "source": "massive-ar-SA", "massive_id": "4169", "id": "ar-SA-dev-174"}
+{"text": "سجل اجتماع يوم اثنين وعشرين october عشرة ونص الصبح", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7383", "id": "ar-SA-dev-175"}
+{"text": "حركة المرور الحالية", "label": "transport", "source": "massive-ar-SA", "massive_id": "12665", "id": "ar-SA-dev-176"}
+{"text": "أعطني إشعار قبل اجتماعي التالي بأيام", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8187", "id": "ar-SA-dev-177"}
+{"text": "تكفى وطي الإضاءة بنسبة عشرين في المية", "label": "home", "source": "massive-ar-SA", "massive_id": "1075", "id": "ar-SA-dev-178"}
+{"text": "اثنين أربعة بعد الظهر اليوم", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7320", "id": "ar-SA-dev-179"}
+{"text": "ابي أعرف اذا عندي ايميلات من هذا المرسل", "label": "email", "source": "massive-ar-SA", "massive_id": "16914", "id": "ar-SA-dev-180"}
+{"text": "الأربعاء التاسعة صباحا مكتب الدكتور زاهر", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8487", "id": "ar-SA-dev-181"}
+{"text": "رد على ايميل نواف وقول له اني مو جاي الليلة", "label": "email", "source": "massive-ar-SA", "massive_id": "15802", "id": "ar-SA-dev-182"}
+{"text": "اليوم مشمس أم لا", "label": "weather", "source": "massive-ar-SA", "massive_id": "1969", "id": "ar-SA-dev-183"}
+{"text": "أقرب قطار", "label": "transport", "source": "massive-ar-SA", "massive_id": "12922", "id": "ar-SA-dev-184"}
+{"text": "قول لي سعر تذكرة القطار من تبوك لينبع", "label": "transport", "source": "massive-ar-SA", "massive_id": "12384", "id": "ar-SA-dev-185"}
+{"text": "امسح قائمة الأشياء اللي بسويها نهاية هذا الأسبوع", "label": "lists", "source": "massive-ar-SA", "massive_id": "10937", "id": "ar-SA-dev-186"}
+{"text": "الجمعة ستة المسا", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8318", "id": "ar-SA-dev-187"}
+{"text": "طف لمبات غرفة النوم", "label": "home", "source": "massive-ar-SA", "massive_id": "2121", "id": "ar-SA-dev-188"}
+{"text": "ذكرني حقي موعد الطبيب ثلاثطعش يوليو", "label": "calendar", "source": "massive-ar-SA", "massive_id": "6989", "id": "ar-SA-dev-189"}
+{"text": "أقرأ القائمة حقي بصوت عالي", "label": "lists", "source": "massive-ar-SA", "massive_id": "10715", "id": "ar-SA-dev-190"}
+{"text": "أبغى أشرب قهوة", "label": "home", "source": "massive-ar-SA", "massive_id": "5540", "id": "ar-SA-dev-191"}
+{"text": "وش هي emails الجديدة", "label": "email", "source": "massive-ar-SA", "massive_id": "15935", "id": "ar-SA-dev-192"}
+{"text": "افتح برنامج الملاحظات وأعطيني تفاصيل كل القوائم", "label": "lists", "source": "massive-ar-SA", "massive_id": "10705", "id": "ar-SA-dev-193"}
+{"text": "حقي برامج", "label": "transport", "source": "massive-ar-SA", "massive_id": "12804", "id": "ar-SA-dev-194"}
+{"text": "هل الجو بارد بالخارج", "label": "weather", "source": "massive-ar-SA", "massive_id": "5787", "id": "ar-SA-dev-195"}
+{"text": "ما هي توقعات الحين المدينة المنورة", "label": "weather", "source": "massive-ar-SA", "massive_id": "279", "id": "ar-SA-dev-196"}
+{"text": "وش ناقص كمان في المذكرات", "label": "lists", "source": "massive-ar-SA", "massive_id": "10426", "id": "ar-SA-dev-197"}
+{"text": "جيب لي تذكرة قطار ل نجران اليوم", "label": "transport", "source": "massive-ar-SA", "massive_id": "12834", "id": "ar-SA-dev-198"}
+{"text": "هل الطقس مشمس في جدة الآن", "label": "weather", "source": "massive-ar-SA", "massive_id": "375", "id": "ar-SA-dev-199"}
+{"text": "قطار تذكرة الرياض غدا صباحا العاشرة", "label": "transport", "source": "massive-ar-SA", "massive_id": "12627", "id": "ar-SA-dev-200"}
+{"text": "هل سأحتاج حذاء مطري", "label": "weather", "source": "massive-ar-SA", "massive_id": "5586", "id": "ar-SA-dev-201"}
+{"text": "احذف الموعد مع جمال العبدالله من تقويمي", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7294", "id": "ar-SA-dev-202"}
+{"text": "هل لازم البس طبقات اليوم", "label": "weather", "source": "massive-ar-SA", "massive_id": "4483", "id": "ar-SA-dev-203"}
+{"text": "الإيميلات اللي في آخر عشر دقايق", "label": "email", "source": "massive-ar-SA", "massive_id": "16763", "id": "ar-SA-dev-204"}
+{"text": "مباراة الفروسية الجمعة", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7615", "id": "ar-SA-dev-205"}
+{"text": "هل أحتاج إلى وضع كريم واقي من الشمس اليوم", "label": "weather", "source": "massive-ar-SA", "massive_id": "4473", "id": "ar-SA-dev-206"}
+{"text": "ايش بعد على القائمة", "label": "lists", "source": "massive-ar-SA", "massive_id": "11243", "id": "ar-SA-dev-207"}
+{"text": "كم هو حار اليوم", "label": "weather", "source": "massive-ar-SA", "massive_id": "5036", "id": "ar-SA-dev-208"}
+{"text": "ماذا تحتوي القائمة", "label": "lists", "source": "massive-ar-SA", "massive_id": "10697", "id": "ar-SA-dev-209"}
+{"text": "طفي اللمبه لو سمحت", "label": "home", "source": "massive-ar-SA", "massive_id": "999", "id": "ar-SA-dev-210"}
+{"text": "اختار جهة الإتصال", "label": "email", "source": "massive-ar-SA", "massive_id": "16106", "id": "ar-SA-dev-211"}
+{"text": "ابدأ email لياسمين", "label": "email", "source": "massive-ar-SA", "massive_id": "17113", "id": "ar-SA-dev-212"}
+{"text": "كيف رح يكون الطقس هذا الاسبوع", "label": "weather", "source": "massive-ar-SA", "massive_id": "4485", "id": "ar-SA-dev-213"}
+{"text": "تقدر تتأكد من الحقائق عن هذي المسألة", "label": "calendar", "source": "massive-ar-SA", "massive_id": "6967", "id": "ar-SA-dev-214"}
+{"text": "أقرب قطار", "label": "transport", "source": "massive-ar-SA", "massive_id": "12733", "id": "ar-SA-dev-215"}
+{"text": "أرسل email للسكرتيرة ليلى وخلها تكنسل كل مواعيد بكره", "label": "email", "source": "massive-ar-SA", "massive_id": "16282", "id": "ar-SA-dev-216"}
+{"text": "اتحقق من أي ايميلات جديدة على جوجل", "label": "email", "source": "massive-ar-SA", "massive_id": "16587", "id": "ar-SA-dev-217"}
+{"text": "هل سيكون الجو بارد", "label": "weather", "source": "massive-ar-SA", "massive_id": "4905", "id": "ar-SA-dev-218"}
+{"text": "أرسل شكرا مره أمي لأمي", "label": "email", "source": "massive-ar-SA", "massive_id": "16126", "id": "ar-SA-dev-219"}
+{"text": "ما مدى البرودة اليوم", "label": "weather", "source": "massive-ar-SA", "massive_id": "5037", "id": "ar-SA-dev-220"}
+{"text": "افتح الإيميل وشوف الرسايل", "label": "email", "source": "massive-ar-SA", "massive_id": "16414", "id": "ar-SA-dev-221"}
+{"text": "android", "label": "lists", "source": "massive-ar-SA", "massive_id": "10571", "id": "ar-SA-dev-222"}
+{"text": "شوف اذا وصلتني ايميلات من مهند في الساعة اللي راحت", "label": "email", "source": "massive-ar-SA", "massive_id": "15923", "id": "ar-SA-dev-223"}
+{"text": "ابي أعرف اذ ا عندي أي email جديد من عبد القادر", "label": "email", "source": "massive-ar-SA", "massive_id": "16731", "id": "ar-SA-dev-224"}
+{"text": "نبهني اذا وصلني أي ايميلات على حساب الإيميل حقي", "label": "email", "source": "massive-ar-SA", "massive_id": "16249", "id": "ar-SA-dev-225"}
+{"text": "من فضلك أزل الأحداث الرياضية من القائمة", "label": "lists", "source": "massive-ar-SA", "massive_id": "10686", "id": "ar-SA-dev-226"}
+{"text": "شغل قابس ذكي", "label": "home", "source": "massive-ar-SA", "massive_id": "3804", "id": "ar-SA-dev-227"}
+{"text": "ورني أخر الايميلات", "label": "email", "source": "massive-ar-SA", "massive_id": "16339", "id": "ar-SA-dev-228"}
+{"text": "أحذف عنصر", "label": "lists", "source": "massive-ar-SA", "massive_id": "10444", "id": "ar-SA-dev-229"}
+{"text": "ما هي توقعات الطقس اليوم", "label": "weather", "source": "massive-ar-SA", "massive_id": "4265", "id": "ar-SA-dev-230"}
+{"text": "البيك جدة البيت", "label": "transport", "source": "massive-ar-SA", "massive_id": "12650", "id": "ar-SA-dev-231"}
+{"text": "وش وضع صندوق الوارد حقي", "label": "email", "source": "massive-ar-SA", "massive_id": "17049", "id": "ar-SA-dev-232"}
+{"text": "تكفى ارفع الإضاءة", "label": "home", "source": "massive-ar-SA", "massive_id": "3437", "id": "ar-SA-dev-233"}
+{"text": "شغل المكنسة الكهربائية الذكية الخاص بي من فضلك", "label": "home", "source": "massive-ar-SA", "massive_id": "4074", "id": "ar-SA-dev-234"}
+{"text": "هل فيه أية أحداث جاية في التقويم حقي", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7016", "id": "ar-SA-dev-235"}
+{"text": "مرحبا cancel siri كل جدولي على القائمة", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8380", "id": "ar-SA-dev-236"}
+{"text": "ممكن تطفي لمبة المطبخ ليا", "label": "home", "source": "massive-ar-SA", "massive_id": "2244", "id": "ar-SA-dev-237"}
+{"text": "أرسل لي محمد إيميل عن الذخيرة", "label": "email", "source": "massive-ar-SA", "massive_id": "16357", "id": "ar-SA-dev-238"}
+{"text": "كيف أوصل للمر", "label": "email", "source": "massive-ar-SA", "massive_id": "16870", "id": "ar-SA-dev-239"}
+{"text": "olly سويلي قهوة", "label": "home", "source": "massive-ar-SA", "massive_id": "163", "id": "ar-SA-dev-240"}
+{"text": "رد على ايميل أحمد بالرد ستة وثلاثين", "label": "email", "source": "massive-ar-SA", "massive_id": "16929", "id": "ar-SA-dev-241"}
+{"text": "أرسل email لبنتي", "label": "email", "source": "massive-ar-SA", "massive_id": "16604", "id": "ar-SA-dev-242"}
+{"text": "ما هي القصص الإخبارية على الجزيرة موقع الكتروني", "label": "news", "source": "massive-ar-SA", "massive_id": "2921", "id": "ar-SA-dev-243"}
+{"text": "اقرأ هذيك القائمة ليا لو سمحت", "label": "lists", "source": "massive-ar-SA", "massive_id": "11013", "id": "ar-SA-dev-244"}
+{"text": "فارس بكرة ثلاثة الظهر", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8401", "id": "ar-SA-dev-245"}
+{"text": "light switch off", "label": "home", "source": "massive-ar-SA", "massive_id": "1945", "id": "ar-SA-dev-246"}
+{"text": "كيف الجو", "label": "weather", "source": "massive-ar-SA", "massive_id": "6316", "id": "ar-SA-dev-247"}
+{"text": "قطار جدة المدينة", "label": "transport", "source": "massive-ar-SA", "massive_id": "12771", "id": "ar-SA-dev-248"}
+{"text": "هل الجو عاصف اليوم", "label": "weather", "source": "massive-ar-SA", "massive_id": "3130", "id": "ar-SA-dev-249"}
+{"text": "ايش كان الحدث الجاي", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7643", "id": "ar-SA-dev-250"}
+{"text": "من فضلك حضر لي قهوة", "label": "home", "source": "massive-ar-SA", "massive_id": "1569", "id": "ar-SA-dev-251"}
+{"text": "هل هناك أي أخبار بيئية جديدة", "label": "news", "source": "massive-ar-SA", "massive_id": "2595", "id": "ar-SA-dev-252"}
+{"text": "ماذا سيكون الطقس هذا الأسبوع", "label": "weather", "source": "massive-ar-SA", "massive_id": "2064", "id": "ar-SA-dev-253"}
+{"text": "ابي تذكير لااجتماع المحررين الساعة ثنتين الظهر يوم الخميس", "label": "calendar", "source": "massive-ar-SA", "massive_id": "9085", "id": "ar-SA-dev-254"}
+{"text": "ضيف فرح الغامدي لقائمة جهات الإتصال المفضلة حقي", "label": "email", "source": "massive-ar-SA", "massive_id": "15976", "id": "ar-SA-dev-255"}
+{"text": "اقرا ايميلات مهند", "label": "email", "source": "massive-ar-SA", "massive_id": "16696", "id": "ar-SA-dev-256"}
+{"text": "اجعل لي كل اضواء المنزل برتقالية", "label": "home", "source": "massive-ar-SA", "massive_id": "1643", "id": "ar-SA-dev-257"}
+{"text": "أرني طقس حق بكرة في هذي المنطقة", "label": "weather", "source": "massive-ar-SA", "massive_id": "5720", "id": "ar-SA-dev-258"}
+{"text": "uber يوصلني البيت", "label": "transport", "source": "massive-ar-SA", "massive_id": "12755", "id": "ar-SA-dev-259"}
+{"text": "هل سوف تثلج هالأسبوع", "label": "weather", "source": "massive-ar-SA", "massive_id": "1466", "id": "ar-SA-dev-260"}
+{"text": "هل يمكنك تغيير مزاج ضوء من فضلك", "label": "home", "source": "massive-ar-SA", "massive_id": "1236", "id": "ar-SA-dev-261"}
+{"text": "تكفى أعطيني توقعات الطقس اليوم لمدينة أبها", "label": "weather", "source": "massive-ar-SA", "massive_id": "2423", "id": "ar-SA-dev-262"}
+{"text": "شوف وصلتني ايميلات من شهد عسيري ولا لا", "label": "email", "source": "massive-ar-SA", "massive_id": "16991", "id": "ar-SA-dev-263"}
+{"text": "متى أجري هذا الاختبار", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8088", "id": "ar-SA-dev-264"}
+{"text": "احذف بيض من القائمة", "label": "lists", "source": "massive-ar-SA", "massive_id": "10431", "id": "ar-SA-dev-265"}
+{"text": "امسح موعد وحدة الظهر من التقويم حقي", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8434", "id": "ar-SA-dev-266"}
+{"text": "قطار", "label": "transport", "source": "massive-ar-SA", "massive_id": "12157", "id": "ar-SA-dev-267"}
+{"text": "متى ووين حفل عيد ميلاد وسيم", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8338", "id": "ar-SA-dev-268"}
+{"text": "تنصحني آخذ المظلة معي بكره", "label": "weather", "source": "massive-ar-SA", "massive_id": "219", "id": "ar-SA-dev-269"}
+{"text": "ارسل ايميل حق رجاء عشان العمل", "label": "email", "source": "massive-ar-SA", "massive_id": "16053", "id": "ar-SA-dev-270"}
+{"text": "المكان وسخ هنا ابدأ التنظيف", "label": "home", "source": "massive-ar-SA", "massive_id": "27", "id": "ar-SA-dev-271"}
+{"text": "كم عدد الإيميلات اللي عندي وما قريتها", "label": "email", "source": "massive-ar-SA", "massive_id": "16421", "id": "ar-SA-dev-272"}
+{"text": "ايش التنبيهات المعلقة اللي عندي", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8647", "id": "ar-SA-dev-273"}
+{"text": "وش email فيصل", "label": "email", "source": "massive-ar-SA", "massive_id": "16952", "id": "ar-SA-dev-274"}
+{"text": "احذف التفاح من القائمة", "label": "lists", "source": "massive-ar-SA", "massive_id": "10519", "id": "ar-SA-dev-275"}
+{"text": "شغل اللمبات هنا", "label": "home", "source": "massive-ar-SA", "massive_id": "4573", "id": "ar-SA-dev-276"}
+{"text": "ما هو آخر أخبار عبد الفتاح السيسي", "label": "news", "source": "massive-ar-SA", "massive_id": "5224", "id": "ar-SA-dev-277"}
+{"text": "في أي يوم سيكون ماطر هذا الاسبوع", "label": "weather", "source": "massive-ar-SA", "massive_id": "3588", "id": "ar-SA-dev-278"}
+{"text": "رد على الإيميل اللي وصلني من خالد", "label": "email", "source": "massive-ar-SA", "massive_id": "17067", "id": "ar-SA-dev-279"}
+{"text": "خمسة العصر قطار القنفذة", "label": "transport", "source": "massive-ar-SA", "massive_id": "12642", "id": "ar-SA-dev-280"}
+{"text": "عندي أي ايميلات جديدة ولا لا", "label": "email", "source": "massive-ar-SA", "massive_id": "17006", "id": "ar-SA-dev-281"}
+{"text": "حدد موعد اجتماع مع محمد أحمد الاثنين الثانية مساء", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8809", "id": "ar-SA-dev-282"}
+{"text": "وصلتني أي ايميلات جديدة من بابا", "label": "email", "source": "massive-ar-SA", "massive_id": "15891", "id": "ar-SA-dev-283"}
+{"text": "اتصل باللمبات", "label": "home", "source": "massive-ar-SA", "massive_id": "4369", "id": "ar-SA-dev-284"}
+{"text": "طفي اللمبات", "label": "home", "source": "massive-ar-SA", "massive_id": "5761", "id": "ar-SA-dev-285"}
+{"text": "قطار ينبع", "label": "transport", "source": "massive-ar-SA", "massive_id": "12623", "id": "ar-SA-dev-286"}
+{"text": "هل سأحتاج إلى ارتداء معطف اليوم في فترة ما بعد الظهر", "label": "weather", "source": "massive-ar-SA", "massive_id": "5429", "id": "ar-SA-dev-287"}
+{"text": "أولي امسح القائمة", "label": "lists", "source": "massive-ar-SA", "massive_id": "10824", "id": "ar-SA-dev-288"}
+{"text": "سجل تنبيه في التقويم حقي لحفلة المسبح في بيت سعود هذا السبت", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8594", "id": "ar-SA-dev-289"}
+{"text": "الرياض قبل الظهر قطار", "label": "transport", "source": "massive-ar-SA", "massive_id": "12128", "id": "ar-SA-dev-290"}
+{"text": "غير الخطط الخاصة بي واحذف الفعالية التالية", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8009", "id": "ar-SA-dev-291"}
+{"text": "أرسل email لواحد", "label": "email", "source": "massive-ar-SA", "massive_id": "16980", "id": "ar-SA-dev-292"}
+{"text": "الديرة", "label": "transport", "source": "massive-ar-SA", "massive_id": "12516", "id": "ar-SA-dev-293"}
+{"text": "لو سمحت حط تذكير للاجتماع", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8392", "id": "ar-SA-dev-294"}
+{"text": "ابدأ email جديد لفيصل الغامدي", "label": "email", "source": "massive-ar-SA", "massive_id": "16087", "id": "ar-SA-dev-295"}
+{"text": "أرسل email لجدتي يقول بنزورك يوم السبت نشوفك على خير", "label": "email", "source": "massive-ar-SA", "massive_id": "16944", "id": "ar-SA-dev-296"}
+{"text": "هلا أخفت الأضواء", "label": "home", "source": "massive-ar-SA", "massive_id": "665", "id": "ar-SA-dev-297"}
+{"text": "نظف سجادة غرفة المعيشة بالمكنسة الكهربائية", "label": "home", "source": "massive-ar-SA", "massive_id": "4356", "id": "ar-SA-dev-298"}
+{"text": "ما هي درجة الحرارة اليوم", "label": "weather", "source": "massive-ar-SA", "massive_id": "13441", "id": "ar-SA-dev-299"}
+{"text": "طف نور الغرفة", "label": "home", "source": "massive-ar-SA", "massive_id": "5518", "id": "ar-SA-dev-300"}
+{"text": "قوي الإضاءة", "label": "home", "source": "massive-ar-SA", "massive_id": "851", "id": "ar-SA-dev-301"}
+{"text": "شغل لي ماكينة القهوة", "label": "home", "source": "massive-ar-SA", "massive_id": "2749", "id": "ar-SA-dev-302"}
+{"text": "قطار تبوك", "label": "transport", "source": "massive-ar-SA", "massive_id": "12434", "id": "ar-SA-dev-303"}
+{"text": "ممكن أعرف الأربع القطارات المجدولة لجدة", "label": "transport", "source": "massive-ar-SA", "massive_id": "12247", "id": "ar-SA-dev-304"}
+{"text": "ممكن ترفع الإضاءة", "label": "home", "source": "massive-ar-SA", "massive_id": "1993", "id": "ar-SA-dev-305"}
+{"text": "تذاكر قطار", "label": "transport", "source": "massive-ar-SA", "massive_id": "12140", "id": "ar-SA-dev-306"}
+{"text": "شنو رقم الهاتف حق عواد", "label": "email", "source": "massive-ar-SA", "massive_id": "15901", "id": "ar-SA-dev-307"}
+{"text": "ماذا سيكون الطقس يوم الاثنين هذا الأسبوع", "label": "weather", "source": "massive-ar-SA", "massive_id": "1259", "id": "ar-SA-dev-308"}
+{"text": "ضيف أجتماعي بكرا الساعة عشرة الصباح في مكتب google", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7519", "id": "ar-SA-dev-309"}
+{"text": "هذي الغرفة", "label": "home", "source": "massive-ar-SA", "massive_id": "998", "id": "ar-SA-dev-310"}
+{"text": "ضع ملحوظة على هذا في القائمة", "label": "lists", "source": "massive-ar-SA", "massive_id": "10711", "id": "ar-SA-dev-311"}
+{"text": "ابدأ رد", "label": "email", "source": "massive-ar-SA", "massive_id": "16176", "id": "ar-SA-dev-312"}
+{"text": "put lights high setting up", "label": "home", "source": "massive-ar-SA", "massive_id": "3428", "id": "ar-SA-dev-313"}
+{"text": "أبغي تخفيف الأضواء", "label": "home", "source": "massive-ar-SA", "massive_id": "964", "id": "ar-SA-dev-314"}
+{"text": "turn lights blue three p. m. at", "label": "home", "source": "massive-ar-SA", "massive_id": "898", "id": "ar-SA-dev-315"}
+{"text": "هل الجو مشمس", "label": "weather", "source": "massive-ar-SA", "massive_id": "4505", "id": "ar-SA-dev-316"}
+{"text": "رد على احمد", "label": "email", "source": "massive-ar-SA", "massive_id": "16691", "id": "ar-SA-dev-317"}
+{"text": "تكفى أرسل email لزوجتي عن الجو الأسبوع الجاي", "label": "email", "source": "massive-ar-SA", "massive_id": "16258", "id": "ar-SA-dev-318"}
+{"text": "كيف حال المواصلات", "label": "transport", "source": "massive-ar-SA", "massive_id": "12555", "id": "ar-SA-dev-319"}
+{"text": "تكفى شوف اذا عندي ايميلات جديدة", "label": "email", "source": "massive-ar-SA", "massive_id": "16551", "id": "ar-SA-dev-320"}
+{"text": "شغل المكنسة الكهربائية", "label": "home", "source": "massive-ar-SA", "massive_id": "2434", "id": "ar-SA-dev-321"}
+{"text": "شغل فيش wemo", "label": "home", "source": "massive-ar-SA", "massive_id": "1506", "id": "ar-SA-dev-322"}
+{"text": "أنا دائما منتبه", "label": "weather", "source": "massive-ar-SA", "massive_id": "1399", "id": "ar-SA-dev-323"}
+{"text": "ابي أعرف اذا عندي موعد يوم الجمعة", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8072", "id": "ar-SA-dev-324"}
+{"text": "ورني القائمة اللي عندي لو سمحت", "label": "lists", "source": "massive-ar-SA", "massive_id": "10805", "id": "ar-SA-dev-325"}
+{"text": "أكتب بعدين email لمها عن الشغل", "label": "email", "source": "massive-ar-SA", "massive_id": "16618", "id": "ar-SA-dev-326"}
+{"text": "أبغى شوية قهوة الحين", "label": "home", "source": "massive-ar-SA", "massive_id": "3630", "id": "ar-SA-dev-327"}
+{"text": "تحقق من الايميلات حقي وخبرني اذا في أي ايميل جديد", "label": "email", "source": "massive-ar-SA", "massive_id": "16713", "id": "ar-SA-dev-328"}
+{"text": "الطقس المفتوح", "label": "weather", "source": "massive-ar-SA", "massive_id": "5591", "id": "ar-SA-dev-329"}
+{"text": "فيلم", "label": "calendar", "source": "massive-ar-SA", "massive_id": "6892", "id": "ar-SA-dev-330"}
+{"text": "turn on all outdoor lights on", "label": "home", "source": "massive-ar-SA", "massive_id": "3464", "id": "ar-SA-dev-331"}
+{"text": "امسح الخظار من القائمة", "label": "lists", "source": "massive-ar-SA", "massive_id": "11202", "id": "ar-SA-dev-332"}
+{"text": "ايش سالفة الحدث", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7677", "id": "ar-SA-dev-333"}
+{"text": "يقوم الروبوت بتنظيف غرفة المعيشة الآن", "label": "home", "source": "massive-ar-SA", "massive_id": "864", "id": "ar-SA-dev-334"}
+{"text": "عطني كل الإيميلات الأخيرة حقتي", "label": "email", "source": "massive-ar-SA", "massive_id": "17034", "id": "ar-SA-dev-335"}
+{"text": "ماذا يحدث مع أسعار الدينار اليوم", "label": "news", "source": "massive-ar-SA", "massive_id": "5563", "id": "ar-SA-dev-336"}
+{"text": "زودي سطوع الأنوار", "label": "home", "source": "massive-ar-SA", "massive_id": "5002", "id": "ar-SA-dev-337"}
+{"text": "ابدأ في صنع بعض القهوة", "label": "home", "source": "massive-ar-SA", "massive_id": "2024", "id": "ar-SA-dev-338"}
+{"text": "توقعات طقس تسع أيام", "label": "weather", "source": "massive-ar-SA", "massive_id": "4823", "id": "ar-SA-dev-339"}
+{"text": "احذف الطاولة من الأثاث", "label": "lists", "source": "massive-ar-SA", "massive_id": "10495", "id": "ar-SA-dev-340"}
+{"text": "olly أرسل email لعلي", "label": "email", "source": "massive-ar-SA", "massive_id": "16012", "id": "ar-SA-dev-341"}
+{"text": "قطار الجوف", "label": "transport", "source": "massive-ar-SA", "massive_id": "12484", "id": "ar-SA-dev-342"}
+{"text": "متى موعد التالي مع دكتور محمد", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7185", "id": "ar-SA-dev-343"}
+{"text": "الشركة القادمة شغل مكنسة كهربائية الآن", "label": "home", "source": "massive-ar-SA", "massive_id": "3659", "id": "ar-SA-dev-344"}
+{"text": "دور عالقائمة اللي كنت تبي تمسحها", "label": "lists", "source": "massive-ar-SA", "massive_id": "11095", "id": "ar-SA-dev-345"}
+{"text": "تفاصيل التواصل مع سلمان", "label": "email", "source": "massive-ar-SA", "massive_id": "17111", "id": "ar-SA-dev-346"}
+{"text": "هل سأحتاج إلى واقي من الشمس بعد الظهر هذي", "label": "weather", "source": "massive-ar-SA", "massive_id": "5710", "id": "ar-SA-dev-347"}
+{"text": "امسح قائمة التسوق", "label": "lists", "source": "massive-ar-SA", "massive_id": "11023", "id": "ar-SA-dev-348"}
+{"text": "سجل اجتماع في التقويم مع ماجد و سمر يوم خمسة ديسمبر الساعة خمسة ونص العصر", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7717", "id": "ar-SA-dev-349"}
+{"text": "سوي لي قهوة", "label": "home", "source": "massive-ar-SA", "massive_id": "1619", "id": "ar-SA-dev-350"}
+{"text": "طفي الفيش", "label": "home", "source": "massive-ar-SA", "massive_id": "5394", "id": "ar-SA-dev-351"}
+{"text": "وش المواعيد اللي عندي اليوم", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8915", "id": "ar-SA-dev-352"}
+{"text": "باقي أي شي في القائمة", "label": "lists", "source": "massive-ar-SA", "massive_id": "10474", "id": "ar-SA-dev-353"}
+{"text": "وش اللي يصير في العالم", "label": "news", "source": "massive-ar-SA", "massive_id": "293", "id": "ar-SA-dev-354"}
+{"text": "ابي نور أكثر", "label": "home", "source": "massive-ar-SA", "massive_id": "1805", "id": "ar-SA-dev-355"}
+{"text": "اقرا الايميلات حقي الي ما قريناها", "label": "email", "source": "massive-ar-SA", "massive_id": "16294", "id": "ar-SA-dev-356"}
+{"text": "احذف قائمة التسوق", "label": "lists", "source": "massive-ar-SA", "massive_id": "10432", "id": "ar-SA-dev-357"}
+{"text": "ذكرني اني اتصل بصديقاتي القديمين الي من ست شهور ما تواصل معهم", "label": "calendar", "source": "massive-ar-SA", "massive_id": "13178", "id": "ar-SA-dev-358"}
+{"text": "احذفي كل فعالياتي الجاية", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8853", "id": "ar-SA-dev-359"}
+{"text": "لو سمحت سوي قائمة بعناوين آخر عشرين email وصلتني", "label": "email", "source": "massive-ar-SA", "massive_id": "16793", "id": "ar-SA-dev-360"}
+{"text": "أرسل email لفريق الشغل فيه جدول هذا الأسبوع", "label": "email", "source": "massive-ar-SA", "massive_id": "16117", "id": "ar-SA-dev-361"}
+{"text": "ممكن تطفي وحده من اللمبات في الحمام حقي", "label": "home", "source": "massive-ar-SA", "massive_id": "3093", "id": "ar-SA-dev-362"}
+{"text": "هل يجب أن أجلب معطف معي الليلة", "label": "weather", "source": "massive-ar-SA", "massive_id": "4290", "id": "ar-SA-dev-363"}
+{"text": "ممكن تقوي الأنوار لو سمحت", "label": "home", "source": "massive-ar-SA", "massive_id": "1561", "id": "ar-SA-dev-364"}
+{"text": "الجو مثل", "label": "weather", "source": "massive-ar-SA", "massive_id": "6635", "id": "ar-SA-dev-365"}
+{"text": "هل أنا عندي email جديد من سماح", "label": "email", "source": "massive-ar-SA", "massive_id": "17070", "id": "ar-SA-dev-366"}
+{"text": "شوف اذا وصلتني ايميلات جديدة من فارس", "label": "email", "source": "massive-ar-SA", "massive_id": "17088", "id": "ar-SA-dev-367"}
+{"text": "رجاءاً اتحقق من دراسة الايميل الأخير من هذا المرسل", "label": "email", "source": "massive-ar-SA", "massive_id": "16445", "id": "ar-SA-dev-368"}
+{"text": "تقرير الطقس الاسبوعي", "label": "weather", "source": "massive-ar-SA", "massive_id": "2917", "id": "ar-SA-dev-369"}
+{"text": "تكفى اكتب email جديد لمحمد وأرسل الرسالة الحين", "label": "email", "source": "massive-ar-SA", "massive_id": "16201", "id": "ar-SA-dev-370"}
+{"text": "أضف حدث إلى مفكرة غوغل في الخامس من مايو", "label": "calendar", "source": "massive-ar-SA", "massive_id": "7048", "id": "ar-SA-dev-371"}
+{"text": "بليز احذف عيد ميلاد بندر من قائمتي", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8275", "id": "ar-SA-dev-372"}
+{"text": "شغل المكنسة الكهربائية الآلية حقتي بسرعة", "label": "home", "source": "massive-ar-SA", "massive_id": "2002", "id": "ar-SA-dev-373"}
+{"text": "أرسل email لأخويا واسأله متى بيجي يتعشا عندنا", "label": "email", "source": "massive-ar-SA", "massive_id": "16680", "id": "ar-SA-dev-374"}
+{"text": "اكتب email وارسله على saleh at gmail dot com", "label": "email", "source": "massive-ar-SA", "massive_id": "17042", "id": "ar-SA-dev-375"}
+{"text": "أوقف تشغيل واي في المنزل عشان توفير الطاقة", "label": "home", "source": "massive-ar-SA", "massive_id": "7331", "id": "ar-SA-dev-376"}
+{"text": "أبي أعرف اذا عندي أي تنبيهات", "label": "calendar", "source": "massive-ar-SA", "massive_id": "6784", "id": "ar-SA-dev-377"}
+{"text": "ابغى أحدث التقويم حقي", "label": "calendar", "source": "massive-ar-SA", "massive_id": "8086", "id": "ar-SA-dev-378"}

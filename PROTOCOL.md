@@ -84,3 +84,33 @@ Pick the one with the highest dev faithfulness.
 **Artifact.** 6,040,715,643 bytes, which is 9.892% of 61,064,245,248 fp16 bytes. On a 300-item round trip, 299 answers were identical (one differs by batch numerics).
 
 **Nearby exam items, pre-registered:** labels `lists` and `home`.
+
+## Amendment 4: step 5 replaced (written before any model run on the new teach sets)
+
+**Why.** The maintainer ruled on 10 Nov that the first feedback step does not qualify: it wrote new values into two output-layer rows, and those values were fitted to the feedback. The compression side was not questioned. The shipped weights (`model.safetensors`, `lm_head.safetensors`) stay byte-identical; only the feedback step is replaced.
+
+**New mechanism: regrow.** Feedback never changes or creates a weight value. It only decides which of the base model's own pruned experts are put back.
+
+1. Run the small model on the annotated items (at most 25, each a real mistake).
+2. Candidates: pruned experts the base router would use on those items, ranked by the routing mass they would receive on the message tokens.
+3. Try the candidates one at a time, in that order. An expert stays only if the annotated items move toward their annotated labels (the sum of capped label margins rises by a set amount). Otherwise it is removed again.
+4. Restored experts are copied from the base and rounded by the same fixed rule as every kept expert (3-bit asymmetric, fp16 group scales). They are stored in `growth.safetensors`, which counts toward size. Growth stops before everything shipped exceeds 10% of the base's fp16 bytes.
+
+At answer time the model is the original model's own computation with more of its original experts present. No head, no adapter, no lookup, nothing in the prompt.
+
+**What the feedback teaches.** Requests in a language the small model was not built for (it was selected and calibrated on English). Twelve MASSIVE locales are candidates. MASSIVE is a parallel corpus, so the new sets use only utterance ids whose English text was never in any earlier split. For each locale the same ids are split into `pool`, `dev` and `locked` (379 items each); all 12 `locked` files are hash-locked in `LOCK2.json` before any model run.
+
+**Choices, all on `pool` / `dev` and the English `dev` only.**
+
+- Locale: the one with the largest gap between base and small accuracy on its `dev`, with base accuracy at least 85%.
+- Growth constants (number of candidates tried, margin cap, acceptance threshold, growth cap).
+- Feedback set: the first 24 small-model mistakes in the locale's `pool`, in file order.
+
+**Final run, once.** On the chosen locale's `locked` file and the exam:
+
+- base, small before feedback, real feedback, empty feedback, and shuffled-label feedback with three different shuffles (seeds 1–3; design uses seed 0)
+- the exam after real feedback
+
+**Disclosed in advance.** The exam was already opened once for the first submission. It is opened a second time here, only to check the model after the new feedback. No exam output was used to design the new step. Only the chosen locale's `locked` file is opened.
+
+**Pass conditions.** Locked accuracy rises clearly over no feedback; shuffled and empty do clearly worse than real; exam faithfulness after feedback stays at or above 98% overall and 95% per kind; total size stays at or under 10%.

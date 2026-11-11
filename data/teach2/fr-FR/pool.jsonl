@@ -1,0 +1,379 @@
+{"text": "quelle est l'heure du train du matin en direction de montréal", "label": "transport", "source": "massive-fr-FR", "massive_id": "12531", "id": "fr-FR-pool-0"}
+{"text": "est ce qu'il fera beau demain", "label": "weather", "source": "massive-fr-FR", "massive_id": "1401", "id": "fr-FR-pool-1"}
+{"text": "réserve un billet de train depuis paris à lyon", "label": "transport", "source": "massive-fr-FR", "massive_id": "12379", "id": "fr-FR-pool-2"}
+{"text": "je voudrais une tasse de café avec une crème et trois sucres", "label": "home", "source": "massive-fr-FR", "massive_id": "3136", "id": "fr-FR-pool-3"}
+{"text": "réplique à e-mail de john", "label": "email", "source": "massive-fr-FR", "massive_id": "15949", "id": "fr-FR-pool-4"}
+{"text": "cherche un taxi pour rentrer à la maison", "label": "transport", "source": "massive-fr-FR", "massive_id": "12232", "id": "fr-FR-pool-5"}
+{"text": "me rappeler après une heure de aller faire du shopping", "label": "calendar", "source": "massive-fr-FR", "massive_id": "9000", "id": "fr-FR-pool-6"}
+{"text": "quelle est la température actuelle à saint tropez", "label": "weather", "source": "massive-fr-FR", "massive_id": "2346", "id": "fr-FR-pool-7"}
+{"text": "s'il vous plaît définir événement le lundi", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8901", "id": "fr-FR-pool-8"}
+{"text": "rédige un e-mail à parisa", "label": "email", "source": "massive-fr-FR", "massive_id": "15959", "id": "fr-FR-pool-9"}
+{"text": "que dit entrapreneur saying about homelessness dans l'article de seattle times", "label": "news", "source": "massive-fr-FR", "massive_id": "2666", "id": "fr-FR-pool-10"}
+{"text": "s'il vous plaît ajouter un événement à mon emploi du temps", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7835", "id": "fr-FR-pool-11"}
+{"text": "s'il te plait mets toutes les lumières", "label": "home", "source": "massive-fr-FR", "massive_id": "5501", "id": "fr-FR-pool-12"}
+{"text": "ai-je du temps pour un rendez-vous chez le médecin mardi matin", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8595", "id": "fr-FR-pool-13"}
+{"text": "quel temps fera-t-il pour les sept prochains jours", "label": "weather", "source": "massive-fr-FR", "massive_id": "1918", "id": "fr-FR-pool-14"}
+{"text": "à quelle heure le train part de paris", "label": "transport", "source": "massive-fr-FR", "massive_id": "12365", "id": "fr-FR-pool-15"}
+{"text": "ai- je du temps libre mardi prochain pour planifier une réunion", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8081", "id": "fr-FR-pool-16"}
+{"text": "qui m'a envoyé un e-mail récemment et à propos de quoi ont-ils envoyé un e-mail", "label": "email", "source": "massive-fr-FR", "massive_id": "16394", "id": "fr-FR-pool-17"}
+{"text": "démarrez le robot aspirateur à treize heures aujourd'hui", "label": "home", "source": "massive-fr-FR", "massive_id": "1058", "id": "fr-FR-pool-18"}
+{"text": "ajoute cette e-mail à mon contact", "label": "email", "source": "massive-fr-FR", "massive_id": "17062", "id": "fr-FR-pool-19"}
+{"text": "montre moi la direction de ma maison", "label": "transport", "source": "massive-fr-FR", "massive_id": "12851", "id": "fr-FR-pool-20"}
+{"text": "éteins les lumières de la chambre", "label": "home", "source": "massive-fr-FR", "massive_id": "2776", "id": "fr-FR-pool-21"}
+{"text": "mettre des chaussures sur ma liste", "label": "lists", "source": "massive-fr-FR", "massive_id": "11221", "id": "fr-FR-pool-22"}
+{"text": "dimanche", "label": "weather", "source": "massive-fr-FR", "massive_id": "327", "id": "fr-FR-pool-23"}
+{"text": "puis-je faire sécher mes vêtements sur la corde", "label": "weather", "source": "massive-fr-FR", "massive_id": "5700", "id": "fr-FR-pool-24"}
+{"text": "fournir des informations sur la bill à partir de ma liste de contacts", "label": "email", "source": "massive-fr-FR", "massive_id": "16250", "id": "fr-FR-pool-25"}
+{"text": "qui m'a envoyé un e-mail récemment", "label": "email", "source": "massive-fr-FR", "massive_id": "16366", "id": "fr-FR-pool-26"}
+{"text": "s'il te plaît rappelle moi que je dois aller chercher mes vêtements chez le nettoyeur aujourd'hui", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7468", "id": "fr-FR-pool-27"}
+{"text": "augmenter la luminosité de vingt pour cent", "label": "home", "source": "massive-fr-FR", "massive_id": "313", "id": "fr-FR-pool-28"}
+{"text": "ai-je besoin d'un chapeau", "label": "weather", "source": "massive-fr-FR", "massive_id": "5588", "id": "fr-FR-pool-29"}
+{"text": "le temps sera-t-il pluvieux demain", "label": "weather", "source": "massive-fr-FR", "massive_id": "6039", "id": "fr-FR-pool-30"}
+{"text": "supprimer le rappel de réunion pour mardi", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7609", "id": "fr-FR-pool-31"}
+{"text": "s'il vous plaît supprimer ma liste d' épicerie en entier", "label": "lists", "source": "massive-fr-FR", "massive_id": "10735", "id": "fr-FR-pool-32"}
+{"text": "commencer à faire du café", "label": "home", "source": "massive-fr-FR", "massive_id": "3232", "id": "fr-FR-pool-33"}
+{"text": "définir l' événement sur la répétition", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7514", "id": "fr-FR-pool-34"}
+{"text": "à quel point il fait chaud actuelle sur lyon", "label": "weather", "source": "massive-fr-FR", "massive_id": "1405", "id": "fr-FR-pool-35"}
+{"text": "ajouter une réunion au bureau avec brian pour quinze heures mardi", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8415", "id": "fr-FR-pool-36"}
+{"text": "montre moi la météo de lyon d' une semaine", "label": "weather", "source": "massive-fr-FR", "massive_id": "3801", "id": "fr-FR-pool-37"}
+{"text": "supprime tous les détails de mon calendrier", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8844", "id": "fr-FR-pool-38"}
+{"text": "définir la première semaine de juin comme jour férié dans mon calendrier", "label": "calendar", "source": "massive-fr-FR", "massive_id": "6746", "id": "fr-FR-pool-39"}
+{"text": "ai- je de nouveaux mails", "label": "email", "source": "massive-fr-FR", "massive_id": "16277", "id": "fr-FR-pool-40"}
+{"text": "est-ce qu'il fera beau ce weekend", "label": "weather", "source": "massive-fr-FR", "massive_id": "3408", "id": "fr-FR-pool-41"}
+{"text": "il pleut", "label": "weather", "source": "massive-fr-FR", "massive_id": "2059", "id": "fr-FR-pool-42"}
+{"text": "donne-moi les prévisions météorologiques pour cette semaine", "label": "weather", "source": "massive-fr-FR", "massive_id": "4486", "id": "fr-FR-pool-43"}
+{"text": "s'il vous plaît rendre les lumières amicales", "label": "home", "source": "massive-fr-FR", "massive_id": "210", "id": "fr-FR-pool-44"}
+{"text": "e mails maintenant", "label": "email", "source": "massive-fr-FR", "massive_id": "16922", "id": "fr-FR-pool-45"}
+{"text": "ai- je reçu un e-mail au cours de la dernière heure", "label": "email", "source": "massive-fr-FR", "massive_id": "16653", "id": "fr-FR-pool-46"}
+{"text": "qu'est-ce qui se passe avec cette lumière jaune un peu de blanc ici", "label": "home", "source": "massive-fr-FR", "massive_id": "4642", "id": "fr-FR-pool-47"}
+{"text": "enregistrer cet évènement", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7157", "id": "fr-FR-pool-48"}
+{"text": "prochain train pour d. c.", "label": "transport", "source": "massive-fr-FR", "massive_id": "12416", "id": "fr-FR-pool-49"}
+{"text": "quelles listes sont actuellement disponibles en ce moment", "label": "lists", "source": "massive-fr-FR", "massive_id": "10967", "id": "fr-FR-pool-50"}
+{"text": "signale tout nouvel e-mail", "label": "email", "source": "massive-fr-FR", "massive_id": "17121", "id": "fr-FR-pool-51"}
+{"text": "envoie un e-mail à sam francois", "label": "email", "source": "massive-fr-FR", "massive_id": "16474", "id": "fr-FR-pool-52"}
+{"text": "c. n. n. nouvelles", "label": "news", "source": "massive-fr-FR", "massive_id": "4666", "id": "fr-FR-pool-53"}
+{"text": "affichage e-mail récent de john olly", "label": "email", "source": "massive-fr-FR", "massive_id": "16076", "id": "fr-FR-pool-54"}
+{"text": "en mars quelles réunions sont disponibles", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7375", "id": "fr-FR-pool-55"}
+{"text": "changer la lumière en couleur rose", "label": "home", "source": "massive-fr-FR", "massive_id": "1960", "id": "fr-FR-pool-56"}
+{"text": "ai- je des e-mails", "label": "email", "source": "massive-fr-FR", "massive_id": "17176", "id": "fr-FR-pool-57"}
+{"text": "y aura-t-il du vent ce soir", "label": "weather", "source": "massive-fr-FR", "massive_id": "3555", "id": "fr-FR-pool-58"}
+{"text": "s'il vous plaît éteindre la cuisine", "label": "home", "source": "massive-fr-FR", "massive_id": "1785", "id": "fr-FR-pool-59"}
+{"text": "le temps a-t-il changé pour mercredi", "label": "weather", "source": "massive-fr-FR", "massive_id": "2248", "id": "fr-FR-pool-60"}
+{"text": "j.", "label": "calendar", "source": "massive-fr-FR", "massive_id": "9111", "id": "fr-FR-pool-61"}
+{"text": "avinash va avec moi ce cinq avril movie commando", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7564", "id": "fr-FR-pool-62"}
+{"text": "je veux nettoyer ma chambre et mettre l' aspirateur et aller dans ma chambre", "label": "home", "source": "massive-fr-FR", "massive_id": "5329", "id": "fr-FR-pool-63"}
+{"text": "ne me laisse pas oublier j'ai besoin d'un rappel pour le vingt-sept mars à midi", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8319", "id": "fr-FR-pool-64"}
+{"text": "démarrer l' aspirateur", "label": "home", "source": "massive-fr-FR", "massive_id": "633", "id": "fr-FR-pool-65"}
+{"text": "commence à brasser s'il te plaît", "label": "home", "source": "massive-fr-FR", "massive_id": "1609", "id": "fr-FR-pool-66"}
+{"text": "est ce qu il y a de nouveaux mails", "label": "email", "source": "massive-fr-FR", "massive_id": "16513", "id": "fr-FR-pool-67"}
+{"text": "créer une nouvelle liste", "label": "lists", "source": "massive-fr-FR", "massive_id": "10712", "id": "fr-FR-pool-68"}
+{"text": "le temps est-il nuageux", "label": "weather", "source": "massive-fr-FR", "massive_id": "5534", "id": "fr-FR-pool-69"}
+{"text": "est-ce que la température va être plus de cinquante demain", "label": "weather", "source": "massive-fr-FR", "massive_id": "4613", "id": "fr-FR-pool-70"}
+{"text": "quel contact n'ai-je pas appelé depuis douze mois", "label": "email", "source": "massive-fr-FR", "massive_id": "16229", "id": "fr-FR-pool-71"}
+{"text": "dois-je apporter un parapluie à bruxelles cet après-midi", "label": "weather", "source": "massive-fr-FR", "massive_id": "5167", "id": "fr-FR-pool-72"}
+{"text": "veuillez envoyer un e-mail au nouvel e-mail de larry à larrylarry à gmail point com", "label": "email", "source": "massive-fr-FR", "massive_id": "16200", "id": "fr-FR-pool-73"}
+{"text": "citer les disponibles", "label": "lists", "source": "massive-fr-FR", "massive_id": "11169", "id": "fr-FR-pool-74"}
+{"text": "j ai besoin d envoyer un e-mail à michael", "label": "email", "source": "massive-fr-FR", "massive_id": "16996", "id": "fr-FR-pool-75"}
+{"text": "pouvons-nous s'il vous plaît baisser les lumières", "label": "home", "source": "massive-fr-FR", "massive_id": "5480", "id": "fr-FR-pool-76"}
+{"text": "dois-je porter un manteau demain quand je pars au travail", "label": "weather", "source": "massive-fr-FR", "massive_id": "4210", "id": "fr-FR-pool-77"}
+{"text": "envoyer un e-mail à mon frère et dire anniversaire de mariage", "label": "email", "source": "massive-fr-FR", "massive_id": "16103", "id": "fr-FR-pool-78"}
+{"text": "marquer mardi prochain dans mon calendrier comme anniversaire de pierre", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7322", "id": "fr-FR-pool-79"}
+{"text": "veuillez organiser une réunion avec mes travailleurs de l'entreprise", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7301", "id": "fr-FR-pool-80"}
+{"text": "olly tamiser les lumières dans la salle", "label": "home", "source": "massive-fr-FR", "massive_id": "16", "id": "fr-FR-pool-81"}
+{"text": "régler la luminosité à cinquante pour cent", "label": "home", "source": "massive-fr-FR", "massive_id": "155", "id": "fr-FR-pool-82"}
+{"text": "quel temps fait-il à marseille", "label": "weather", "source": "massive-fr-FR", "massive_id": "2557", "id": "fr-FR-pool-83"}
+{"text": "supprimer mon rendez-vous pour demain à quinze heures", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8563", "id": "fr-FR-pool-84"}
+{"text": "supprimer la réunion du mercredi matin", "label": "calendar", "source": "massive-fr-FR", "massive_id": "10924", "id": "fr-FR-pool-85"}
+{"text": "envoie un e-mail à mon patron à propos de mon congé", "label": "email", "source": "massive-fr-FR", "massive_id": "16102", "id": "fr-FR-pool-86"}
+{"text": "envoie un mail à john pour de l' argent", "label": "email", "source": "massive-fr-FR", "massive_id": "16054", "id": "fr-FR-pool-87"}
+{"text": "la température de demain doit être chaude oui ou non", "label": "weather", "source": "massive-fr-FR", "massive_id": "1683", "id": "fr-FR-pool-88"}
+{"text": "envoie un e-mail à mon père quel temps il fait cette semaine", "label": "email", "source": "massive-fr-FR", "massive_id": "16213", "id": "fr-FR-pool-89"}
+{"text": "démarrer l' aspirateur maintenant", "label": "home", "source": "massive-fr-FR", "massive_id": "2621", "id": "fr-FR-pool-90"}
+{"text": "e-mail message à adresse", "label": "email", "source": "massive-fr-FR", "massive_id": "16573", "id": "fr-FR-pool-91"}
+{"text": "retirer le chèque de caution de la liste de choses à faire", "label": "lists", "source": "massive-fr-FR", "massive_id": "11073", "id": "fr-FR-pool-92"}
+{"text": "j'ai besoin d'une veste après dix heures du matin ou pas", "label": "weather", "source": "massive-fr-FR", "massive_id": "5453", "id": "fr-FR-pool-93"}
+{"text": "dites moi l'état du trafic d'ici à la domicile", "label": "transport", "source": "massive-fr-FR", "massive_id": "12318", "id": "fr-FR-pool-94"}
+{"text": "affiche -moi les nouveaux e-mails de ma boite de réception", "label": "email", "source": "massive-fr-FR", "massive_id": "16775", "id": "fr-FR-pool-95"}
+{"text": "supprimer ce que je dois faire le vingt trois mars", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8288", "id": "fr-FR-pool-96"}
+{"text": "pouvez-vous consulter les prix des billets de train pour moi", "label": "transport", "source": "massive-fr-FR", "massive_id": "12279", "id": "fr-FR-pool-97"}
+{"text": "quelle veste dois-je porter", "label": "weather", "source": "massive-fr-FR", "massive_id": "4436", "id": "fr-FR-pool-98"}
+{"text": "supprime le prochain événement aujourd'hui", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7892", "id": "fr-FR-pool-99"}
+{"text": "ai-je une fête programmée pour demain sur mon calendrier", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8016", "id": "fr-FR-pool-100"}
+{"text": "comment c'est dehors aujourd'hui", "label": "weather", "source": "massive-fr-FR", "massive_id": "4376", "id": "fr-FR-pool-101"}
+{"text": "quelle est l'adresse de john doe", "label": "email", "source": "massive-fr-FR", "massive_id": "16350", "id": "fr-FR-pool-102"}
+{"text": "robert m'a-t-il envoyé des e-mails", "label": "email", "source": "massive-fr-FR", "massive_id": "15809", "id": "fr-FR-pool-103"}
+{"text": "je voudrais qu'il prenne des rendez-vous chez le médecin etc pour moi", "label": "calendar", "source": "massive-fr-FR", "massive_id": "13394", "id": "fr-FR-pool-104"}
+{"text": "rappelle-moi d'appeler la banque jeudi prochain", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8826", "id": "fr-FR-pool-105"}
+{"text": "y a t il un train reliant londres à paris et à quelle heure", "label": "transport", "source": "massive-fr-FR", "massive_id": "12366", "id": "fr-FR-pool-106"}
+{"text": "réunions de la première semaine de mars", "label": "calendar", "source": "massive-fr-FR", "massive_id": "9020", "id": "fr-FR-pool-107"}
+{"text": "supprimer le mariage le trois juillet", "label": "calendar", "source": "massive-fr-FR", "massive_id": "9039", "id": "fr-FR-pool-108"}
+{"text": "j'ai signalé l'un des pda", "label": "lists", "source": "massive-fr-FR", "massive_id": "11230", "id": "fr-FR-pool-109"}
+{"text": "ce qui se passe dans le football aujourd'hui", "label": "news", "source": "massive-fr-FR", "massive_id": "65", "id": "fr-FR-pool-110"}
+{"text": "que diriez-vous des dernières nouvelles", "label": "news", "source": "massive-fr-FR", "massive_id": "4859", "id": "fr-FR-pool-111"}
+{"text": "quelle est la probabilité d'orages aujourd'hui à marseille", "label": "weather", "source": "massive-fr-FR", "massive_id": "3286", "id": "fr-FR-pool-112"}
+{"text": "efface l' élément du calendrier", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8516", "id": "fr-FR-pool-113"}
+{"text": "allume les lumières", "label": "home", "source": "massive-fr-FR", "massive_id": "5752", "id": "fr-FR-pool-114"}
+{"text": "ajoute le mail de sarah comme contact", "label": "email", "source": "massive-fr-FR", "massive_id": "15978", "id": "fr-FR-pool-115"}
+{"text": "sandale", "label": "home", "source": "massive-fr-FR", "massive_id": "4037", "id": "fr-FR-pool-116"}
+{"text": "salut google s'il vous plaît annule tous les programmes pour vendredi", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8098", "id": "fr-FR-pool-117"}
+{"text": "baisser les lumières s'il te plait", "label": "home", "source": "massive-fr-FR", "massive_id": "3280", "id": "fr-FR-pool-118"}
+{"text": "ai-je reçu des e-mails d' amazon ces deux derniers jours", "label": "email", "source": "massive-fr-FR", "massive_id": "16734", "id": "fr-FR-pool-119"}
+{"text": "email à pawel les dernières nouvelles", "label": "email", "source": "massive-fr-FR", "massive_id": "15760", "id": "fr-FR-pool-120"}
+{"text": "olly s'il vous plaît dites-moi les coordonnées de mon frère", "label": "email", "source": "massive-fr-FR", "massive_id": "16185", "id": "fr-FR-pool-121"}
+{"text": "change les lumières au rouge", "label": "home", "source": "massive-fr-FR", "massive_id": "3776", "id": "fr-FR-pool-122"}
+{"text": "n'oublie pas de me rappeler l'anniversaire de mon frère le vingt avril", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7653", "id": "fr-FR-pool-123"}
+{"text": "j'aimerais en savoir plus sur l'événement prévu", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8790", "id": "fr-FR-pool-124"}
+{"text": "quelles sont les prévisions météorologiques d'aujourd'hui", "label": "weather", "source": "massive-fr-FR", "massive_id": "3506", "id": "fr-FR-pool-125"}
+{"text": "la température sera-t-elle supérieure à quarante demain", "label": "weather", "source": "massive-fr-FR", "massive_id": "4614", "id": "fr-FR-pool-126"}
+{"text": "éteindre la lumière du hangar", "label": "home", "source": "massive-fr-FR", "massive_id": "2441", "id": "fr-FR-pool-127"}
+{"text": "donne-moi un bulletin météo pour paris", "label": "weather", "source": "massive-fr-FR", "massive_id": "3784", "id": "fr-FR-pool-128"}
+{"text": "quel temps fait-il", "label": "weather", "source": "massive-fr-FR", "massive_id": "3339", "id": "fr-FR-pool-129"}
+{"text": "j'ai envie d'un café maintenant", "label": "home", "source": "massive-fr-FR", "massive_id": "165", "id": "fr-FR-pool-130"}
+{"text": "c'est ensoleillé aujourd'hui", "label": "weather", "source": "massive-fr-FR", "massive_id": "5789", "id": "fr-FR-pool-131"}
+{"text": "il y a t il des emails non lus de cette personne", "label": "email", "source": "massive-fr-FR", "massive_id": "16913", "id": "fr-FR-pool-132"}
+{"text": "siri trouve des billets de train pour rosanne", "label": "transport", "source": "massive-fr-FR", "massive_id": "12794", "id": "fr-FR-pool-133"}
+{"text": "quelle est la prochaine dans mon calendrier", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7757", "id": "fr-FR-pool-134"}
+{"text": "relisez-moi ce qu'il y a sur ma liste de course", "label": "lists", "source": "massive-fr-FR", "massive_id": "10944", "id": "fr-FR-pool-135"}
+{"text": "efface l' ancienne liste de lecture et crées-en une nouvelle", "label": "lists", "source": "massive-fr-FR", "massive_id": "11212", "id": "fr-FR-pool-136"}
+{"text": "pouvez-vous faire un événement pour vendredi soir avec emi maya et mackensie", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7105", "id": "fr-FR-pool-137"}
+{"text": "répondre à tous les e-mails reçus de dix heures à neuf heures du matin", "label": "email", "source": "massive-fr-FR", "massive_id": "16114", "id": "fr-FR-pool-138"}
+{"text": "nouvelle liste", "label": "lists", "source": "massive-fr-FR", "massive_id": "10858", "id": "fr-FR-pool-139"}
+{"text": "ce soir sera-t-il une nuit collante", "label": "weather", "source": "massive-fr-FR", "massive_id": "6023", "id": "fr-FR-pool-140"}
+{"text": "quelle est la durée estimée du trajet en train vers orlando", "label": "transport", "source": "massive-fr-FR", "massive_id": "12927", "id": "fr-FR-pool-141"}
+{"text": "ajoute l email", "label": "email", "source": "massive-fr-FR", "massive_id": "16224", "id": "fr-FR-pool-142"}
+{"text": "s'il vous plaît trouver un numéro de contact de rahul judawa", "label": "email", "source": "massive-fr-FR", "massive_id": "16977", "id": "fr-FR-pool-143"}
+{"text": "je ne ferai pas la vidange de ma voiture aujourd'hui", "label": "lists", "source": "massive-fr-FR", "massive_id": "11021", "id": "fr-FR-pool-144"}
+{"text": "couper les poivrons rouges de l' épicerie", "label": "lists", "source": "massive-fr-FR", "massive_id": "10989", "id": "fr-FR-pool-145"}
+{"text": "ajouter au calendrier à cette date et heure avec ces personnes", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8703", "id": "fr-FR-pool-146"}
+{"text": "annuler tous mes rendez-vous après trois heures du matin aujourd'hui et informez-moi des détails", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7660", "id": "fr-FR-pool-147"}
+{"text": "retirer le lait de la liste de course", "label": "lists", "source": "massive-fr-FR", "massive_id": "11083", "id": "fr-FR-pool-148"}
+{"text": "changement de couleur des lumières", "label": "home", "source": "massive-fr-FR", "massive_id": "5714", "id": "fr-FR-pool-149"}
+{"text": "fais briller les lumières en bleu", "label": "home", "source": "massive-fr-FR", "massive_id": "264", "id": "fr-FR-pool-150"}
+{"text": "sur la fiche de chargeur mobile", "label": "home", "source": "massive-fr-FR", "massive_id": "5048", "id": "fr-FR-pool-151"}
+{"text": "retrouvez un chauffeur uber disponible pour ce soir après vingt deux heures", "label": "transport", "source": "massive-fr-FR", "massive_id": "12478", "id": "fr-FR-pool-152"}
+{"text": "allume l' aspirateur robot", "label": "home", "source": "massive-fr-FR", "massive_id": "1059", "id": "fr-FR-pool-153"}
+{"text": "dis-moi la météo", "label": "weather", "source": "massive-fr-FR", "massive_id": "179", "id": "fr-FR-pool-154"}
+{"text": "baisse les lumières s'il te plait", "label": "home", "source": "massive-fr-FR", "massive_id": "4644", "id": "fr-FR-pool-155"}
+{"text": "une fois qu'un nouveau sujet sur la politique apparaît alerte-moi", "label": "news", "source": "massive-fr-FR", "massive_id": "1617", "id": "fr-FR-pool-156"}
+{"text": "sur quoi et à propos de qui je ai envoyé un e-mail la semaine dernière", "label": "email", "source": "massive-fr-FR", "massive_id": "16395", "id": "fr-FR-pool-157"}
+{"text": "j'ai besoin d'un taxi maintenant", "label": "transport", "source": "massive-fr-FR", "massive_id": "12428", "id": "fr-FR-pool-158"}
+{"text": "veuillez réserver le prochain taxi à neuf heures du matin", "label": "transport", "source": "massive-fr-FR", "massive_id": "12905", "id": "fr-FR-pool-159"}
+{"text": "envoie une réponse à michael comme réponse quatre cent trente de son e-mail de ce matin", "label": "email", "source": "massive-fr-FR", "massive_id": "16559", "id": "fr-FR-pool-160"}
+{"text": "c'est bientôt anniversaire de joes", "label": "email", "source": "massive-fr-FR", "massive_id": "16242", "id": "fr-FR-pool-161"}
+{"text": "ai-je une réunion demain matin", "label": "calendar", "source": "massive-fr-FR", "massive_id": "6800", "id": "fr-FR-pool-162"}
+{"text": "insérer cet élément", "label": "lists", "source": "massive-fr-FR", "massive_id": "11091", "id": "fr-FR-pool-163"}
+{"text": "obtiens le roomba pour commencer à nettoyer", "label": "home", "source": "massive-fr-FR", "massive_id": "3842", "id": "fr-FR-pool-164"}
+{"text": "tiens moi au courant de la météo aujourd'hui", "label": "weather", "source": "massive-fr-FR", "massive_id": "3244", "id": "fr-FR-pool-165"}
+{"text": "merci de te rendre sur amtrak dot com pour acheter des billets", "label": "transport", "source": "massive-fr-FR", "massive_id": "12241", "id": "fr-FR-pool-166"}
+{"text": "envoie un email à mathieu avec pour contenu le projet est fini envoie moi la facture s.t.p.", "label": "email", "source": "massive-fr-FR", "massive_id": "15779", "id": "fr-FR-pool-167"}
+{"text": "ce que nous avons obtenu lors de cette réunion qui s'est tenue hier", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7523", "id": "fr-FR-pool-168"}
+{"text": "s'il vous plaît vérifier mes e-mails pour moi", "label": "email", "source": "massive-fr-FR", "massive_id": "16648", "id": "fr-FR-pool-169"}
+{"text": "qui m'a envoyé un e-mail aujourd'hui et quel était le sujet", "label": "email", "source": "massive-fr-FR", "massive_id": "16959", "id": "fr-FR-pool-170"}
+{"text": "olly récupère la lumière pour moi", "label": "home", "source": "massive-fr-FR", "massive_id": "3010", "id": "fr-FR-pool-171"}
+{"text": "éteins les lumières", "label": "home", "source": "massive-fr-FR", "massive_id": "4346", "id": "fr-FR-pool-172"}
+{"text": "quel temps fait-il cette semaine", "label": "weather", "source": "massive-fr-FR", "massive_id": "2516", "id": "fr-FR-pool-173"}
+{"text": "dis-moi ce qu'il y a sur la liste", "label": "lists", "source": "massive-fr-FR", "massive_id": "10632", "id": "fr-FR-pool-174"}
+{"text": "éteindre la prise", "label": "home", "source": "massive-fr-FR", "massive_id": "3022", "id": "fr-FR-pool-175"}
+{"text": "supprimer l'événement du lundi", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7913", "id": "fr-FR-pool-176"}
+{"text": "dis moi de la construction de route la plus récente sur la route soixante-dix", "label": "news", "source": "massive-fr-FR", "massive_id": "5921", "id": "fr-FR-pool-177"}
+{"text": "retirer mon rendez-vous de une heure trente", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7283", "id": "fr-FR-pool-178"}
+{"text": "le chemin le plus rapide pour aller à la maison", "label": "transport", "source": "massive-fr-FR", "massive_id": "12738", "id": "fr-FR-pool-179"}
+{"text": "olly quel temps fera-t-il samedi", "label": "weather", "source": "massive-fr-FR", "massive_id": "1390", "id": "fr-FR-pool-180"}
+{"text": "je veux un billet de train de paris à lyon", "label": "transport", "source": "massive-fr-FR", "massive_id": "12282", "id": "fr-FR-pool-181"}
+{"text": "je veux du café", "label": "home", "source": "massive-fr-FR", "massive_id": "1169", "id": "fr-FR-pool-182"}
+{"text": "confirmer si la couleur est bleu", "label": "home", "source": "massive-fr-FR", "massive_id": "497", "id": "fr-FR-pool-183"}
+{"text": "quel jour et quelle heure est la réunion acme à san diego en californie", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8486", "id": "fr-FR-pool-184"}
+{"text": "baisse les lumières en bas dans le salon", "label": "home", "source": "massive-fr-FR", "massive_id": "1073", "id": "fr-FR-pool-185"}
+{"text": "ai-je quelque chose de prévu pour treize heures lundi prochain", "label": "calendar", "source": "massive-fr-FR", "massive_id": "9102", "id": "fr-FR-pool-186"}
+{"text": "s'il vous plaît laissez-moi savoir l'heure du train du northern rail", "label": "transport", "source": "massive-fr-FR", "massive_id": "12901", "id": "fr-FR-pool-187"}
+{"text": "comment régler la minuterie de ma cafetière", "label": "home", "source": "massive-fr-FR", "massive_id": "2513", "id": "fr-FR-pool-188"}
+{"text": "olly démarrer la cafetière", "label": "home", "source": "massive-fr-FR", "massive_id": "2832", "id": "fr-FR-pool-189"}
+{"text": "ai-je un numéro de travail pour susan", "label": "email", "source": "massive-fr-FR", "massive_id": "16876", "id": "fr-FR-pool-190"}
+{"text": "recherche le délais de matthew", "label": "email", "source": "massive-fr-FR", "massive_id": "16026", "id": "fr-FR-pool-191"}
+{"text": "éteindre les lumières dans ma chambre", "label": "home", "source": "massive-fr-FR", "massive_id": "4076", "id": "fr-FR-pool-192"}
+{"text": "règle les lumières du salon au rouge", "label": "home", "source": "massive-fr-FR", "massive_id": "2841", "id": "fr-FR-pool-193"}
+{"text": "cherche l'article", "label": "lists", "source": "massive-fr-FR", "massive_id": "10608", "id": "fr-FR-pool-194"}
+{"text": "y a-t-il quelque chose sur mon calendrier le vendredi matin après que j'arrive au travail", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7054", "id": "fr-FR-pool-195"}
+{"text": "réserver un ticket de train pour le belgium ce soir", "label": "transport", "source": "massive-fr-FR", "massive_id": "12200", "id": "fr-FR-pool-196"}
+{"text": "donne moi la météo les cinq derniers jours", "label": "weather", "source": "massive-fr-FR", "massive_id": "7641", "id": "fr-FR-pool-197"}
+{"text": "en savoir plus sur le concert de rue pete", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8258", "id": "fr-FR-pool-198"}
+{"text": "éteindre la lampe intelligente dans la tanière", "label": "home", "source": "massive-fr-FR", "massive_id": "2896", "id": "fr-FR-pool-199"}
+{"text": "directions à plage de virginie v. a.", "label": "transport", "source": "massive-fr-FR", "massive_id": "12569", "id": "fr-FR-pool-200"}
+{"text": "météo à liège", "label": "weather", "source": "massive-fr-FR", "massive_id": "2222", "id": "fr-FR-pool-201"}
+{"text": "alexa éteins le ventilateur dans la chambre principale", "label": "home", "source": "massive-fr-FR", "massive_id": "2946", "id": "fr-FR-pool-202"}
+{"text": "le jour de l' anniversaire de ma sœur envoyez-lui des fleurs", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8048", "id": "fr-FR-pool-203"}
+{"text": "quel était le sujet de mon dernier e-mail à thomas", "label": "email", "source": "massive-fr-FR", "massive_id": "16355", "id": "fr-FR-pool-204"}
+{"text": "olly y a t-il une chose quelconque dont je devrais être rappelé", "label": "calendar", "source": "massive-fr-FR", "massive_id": "6721", "id": "fr-FR-pool-205"}
+{"text": "alexa donne moi ma liste de choses à faire pour aujourd'hui", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7656", "id": "fr-FR-pool-206"}
+{"text": "envoie un e-mail à mon superviseur", "label": "email", "source": "massive-fr-FR", "massive_id": "16536", "id": "fr-FR-pool-207"}
+{"text": "rends cette chambre plus lumineuse", "label": "home", "source": "massive-fr-FR", "massive_id": "2811", "id": "fr-FR-pool-208"}
+{"text": "mène-moi aux e-mails de mon patron", "label": "email", "source": "massive-fr-FR", "massive_id": "16550", "id": "fr-FR-pool-209"}
+{"text": "ouvrir ma liste", "label": "lists", "source": "massive-fr-FR", "massive_id": "11045", "id": "fr-FR-pool-210"}
+{"text": "peux-tu faire bouillir la bouilloire", "label": "home", "source": "massive-fr-FR", "massive_id": "4085", "id": "fr-FR-pool-211"}
+{"text": "appelle moi un taxi olly", "label": "transport", "source": "massive-fr-FR", "massive_id": "12299", "id": "fr-FR-pool-212"}
+{"text": "vérifie les e-mails des deux dernières heures", "label": "email", "source": "massive-fr-FR", "massive_id": "15909", "id": "fr-FR-pool-213"}
+{"text": "veuillez changer les couleurs des lumières claires en rouge", "label": "home", "source": "massive-fr-FR", "massive_id": "2975", "id": "fr-FR-pool-214"}
+{"text": "j'aimerais que ce soit une couleur différente dans la cuisine", "label": "home", "source": "massive-fr-FR", "massive_id": "3674", "id": "fr-FR-pool-215"}
+{"text": "allumer la prise", "label": "home", "source": "massive-fr-FR", "massive_id": "1290", "id": "fr-FR-pool-216"}
+{"text": "donne-moi ma liste", "label": "lists", "source": "massive-fr-FR", "massive_id": "10929", "id": "fr-FR-pool-217"}
+{"text": "planifie une réunion avec nos employés concernant les primes", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8785", "id": "fr-FR-pool-218"}
+{"text": "envoyer salut dans whatsapp à vicky", "label": "email", "source": "massive-fr-FR", "massive_id": "17175", "id": "fr-FR-pool-219"}
+{"text": "commerce international et marché des affaires", "label": "news", "source": "massive-fr-FR", "massive_id": "5943", "id": "fr-FR-pool-220"}
+{"text": "qu'est-ce qui se passe", "label": "email", "source": "massive-fr-FR", "massive_id": "16862", "id": "fr-FR-pool-221"}
+{"text": "dis-moi les noms de ma liste", "label": "lists", "source": "massive-fr-FR", "massive_id": "11234", "id": "fr-FR-pool-222"}
+{"text": "dois-je mettre une veste quand je sors", "label": "weather", "source": "massive-fr-FR", "massive_id": "5751", "id": "fr-FR-pool-223"}
+{"text": "ai-je reçu des e-mails de kevin et qu'a-t-il dit", "label": "email", "source": "massive-fr-FR", "massive_id": "15801", "id": "fr-FR-pool-224"}
+{"text": "rappelez-moi de tweeter à cette entreprise", "label": "calendar", "source": "massive-fr-FR", "massive_id": "15545", "id": "fr-FR-pool-225"}
+{"text": "réciter les horaires de la liste", "label": "lists", "source": "massive-fr-FR", "massive_id": "10667", "id": "fr-FR-pool-226"}
+{"text": "s'il vous plaît prévenez-moi un jour avant l' anniversaire de jeff", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8260", "id": "fr-FR-pool-227"}
+{"text": "quel est le maximum pour aujourd'hui", "label": "weather", "source": "massive-fr-FR", "massive_id": "2328", "id": "fr-FR-pool-228"}
+{"text": "olly bonne nuit lumières éteintes", "label": "home", "source": "massive-fr-FR", "massive_id": "265", "id": "fr-FR-pool-229"}
+{"text": "éteins les lumières dans la chambre", "label": "home", "source": "massive-fr-FR", "massive_id": "18", "id": "fr-FR-pool-230"}
+{"text": "tom m'a-t-il envoyé un e-mail", "label": "email", "source": "massive-fr-FR", "massive_id": "16343", "id": "fr-FR-pool-231"}
+{"text": "remplace ceci", "label": "lists", "source": "massive-fr-FR", "massive_id": "10696", "id": "fr-FR-pool-232"}
+{"text": "tirez le contrôle des lumières", "label": "home", "source": "massive-fr-FR", "massive_id": "2646", "id": "fr-FR-pool-233"}
+{"text": "commence et envoie un e-mail à john smith", "label": "email", "source": "massive-fr-FR", "massive_id": "16892", "id": "fr-FR-pool-234"}
+{"text": "effacer mon emploi du temps pour aujourd'hui", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8896", "id": "fr-FR-pool-235"}
+{"text": "est-ce que john smith m'a envoyé de nouveaux mails", "label": "email", "source": "massive-fr-FR", "massive_id": "16391", "id": "fr-FR-pool-236"}
+{"text": "montre -moi les listes qui sont disponibles", "label": "lists", "source": "massive-fr-FR", "massive_id": "10635", "id": "fr-FR-pool-237"}
+{"text": "y a-t-il un rappel pour moi", "label": "calendar", "source": "massive-fr-FR", "massive_id": "6786", "id": "fr-FR-pool-238"}
+{"text": "réserver un billet de train pour la ville de nice", "label": "transport", "source": "massive-fr-FR", "massive_id": "12396", "id": "fr-FR-pool-239"}
+{"text": "comment puis-je appeler sarah", "label": "email", "source": "massive-fr-FR", "massive_id": "16272", "id": "fr-FR-pool-240"}
+{"text": "rends les lumières bleues ici", "label": "home", "source": "massive-fr-FR", "massive_id": "1316", "id": "fr-FR-pool-241"}
+{"text": "vérifie outlook", "label": "email", "source": "massive-fr-FR", "massive_id": "16052", "id": "fr-FR-pool-242"}
+{"text": "ajouter cet événement à mon calendrier", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7683", "id": "fr-FR-pool-243"}
+{"text": "mettre à jour la liste d' entraînement avec de nouveaux éléments", "label": "lists", "source": "massive-fr-FR", "massive_id": "11145", "id": "fr-FR-pool-244"}
+{"text": "il fait froid dehors", "label": "weather", "source": "massive-fr-FR", "massive_id": "491", "id": "fr-FR-pool-245"}
+{"text": "éclairer la lampe à côté du canapé", "label": "home", "source": "massive-fr-FR", "massive_id": "287", "id": "fr-FR-pool-246"}
+{"text": "allume wemo", "label": "home", "source": "massive-fr-FR", "massive_id": "5069", "id": "fr-FR-pool-247"}
+{"text": "ai- je déjà reçu l' e-mail de sean aujourd'hui", "label": "email", "source": "massive-fr-FR", "massive_id": "16679", "id": "fr-FR-pool-248"}
+{"text": "aidez-moi à établir une liste de", "label": "lists", "source": "massive-fr-FR", "massive_id": "10900", "id": "fr-FR-pool-249"}
+{"text": "comment s'organiser contre trump", "label": "email", "source": "massive-fr-FR", "massive_id": "17039", "id": "fr-FR-pool-250"}
+{"text": "configurer une date récurrente sur mon calendrier", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8620", "id": "fr-FR-pool-251"}
+{"text": "éteindre la prise wemo dans la salle de jeux", "label": "home", "source": "massive-fr-FR", "massive_id": "1927", "id": "fr-FR-pool-252"}
+{"text": "rencontres du week-end", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7493", "id": "fr-FR-pool-253"}
+{"text": "dicter un nouvel email", "label": "email", "source": "massive-fr-FR", "massive_id": "16756", "id": "fr-FR-pool-254"}
+{"text": "s'il te plait rends les lumières bleues", "label": "home", "source": "massive-fr-FR", "massive_id": "4647", "id": "fr-FR-pool-255"}
+{"text": "quelle température fait il", "label": "weather", "source": "massive-fr-FR", "massive_id": "2327", "id": "fr-FR-pool-256"}
+{"text": "qu'est-ce qu'il y a sur la liste", "label": "lists", "source": "massive-fr-FR", "massive_id": "10998", "id": "fr-FR-pool-257"}
+{"text": "quel temps fera-t-il à paris la semaine prochaine", "label": "weather", "source": "massive-fr-FR", "massive_id": "5143", "id": "fr-FR-pool-258"}
+{"text": "donner des directions à pizza hut", "label": "transport", "source": "massive-fr-FR", "massive_id": "12652", "id": "fr-FR-pool-259"}
+{"text": "mettre la couleur bleue pour toutes les lumières de ma maison", "label": "home", "source": "massive-fr-FR", "massive_id": "2282", "id": "fr-FR-pool-260"}
+{"text": "pourriez-vous s'il vous plaît dire quand nous devons payer pour l'assurance auto", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8799", "id": "fr-FR-pool-261"}
+{"text": "éteins la lumière de la salle de bain", "label": "home", "source": "massive-fr-FR", "massive_id": "1376", "id": "fr-FR-pool-262"}
+{"text": "quels sont les objets sur ma liste", "label": "lists", "source": "massive-fr-FR", "massive_id": "11078", "id": "fr-FR-pool-263"}
+{"text": "créer une nouvelle liste", "label": "lists", "source": "massive-fr-FR", "massive_id": "11034", "id": "fr-FR-pool-264"}
+{"text": "rappelle-moi d'aller à la gym chaque lundi et mardi", "label": "calendar", "source": "massive-fr-FR", "massive_id": "6766", "id": "fr-FR-pool-265"}
+{"text": "ajouter une adresse e-mail professionnelle", "label": "email", "source": "massive-fr-FR", "massive_id": "15977", "id": "fr-FR-pool-266"}
+{"text": "allumer la prise intelligente", "label": "home", "source": "massive-fr-FR", "massive_id": "1552", "id": "fr-FR-pool-267"}
+{"text": "puis-je rentrer à la maison sans embouteillage", "label": "transport", "source": "massive-fr-FR", "massive_id": "12443", "id": "fr-FR-pool-268"}
+{"text": "à paris le niveau de trafic est plus", "label": "transport", "source": "massive-fr-FR", "massive_id": "12337", "id": "fr-FR-pool-269"}
+{"text": "remplace les meubles par de l'électronique sur la liste", "label": "lists", "source": "massive-fr-FR", "massive_id": "10642", "id": "fr-FR-pool-270"}
+{"text": "ai je des rendez vous aujourd'hui", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7907", "id": "fr-FR-pool-271"}
+{"text": "appelle maman", "label": "email", "source": "massive-fr-FR", "massive_id": "10137", "id": "fr-FR-pool-272"}
+{"text": "combien y a-t-il de contacts nommés jean", "label": "email", "source": "massive-fr-FR", "massive_id": "15866", "id": "fr-FR-pool-273"}
+{"text": "je vais prendre mon café noir", "label": "home", "source": "massive-fr-FR", "massive_id": "4586", "id": "fr-FR-pool-274"}
+{"text": "s'il te plaît éteins seulement la lumière latérale droite", "label": "home", "source": "massive-fr-FR", "massive_id": "1706", "id": "fr-FR-pool-275"}
+{"text": "change les lumières de ma maison en orange", "label": "home", "source": "massive-fr-FR", "massive_id": "2550", "id": "fr-FR-pool-276"}
+{"text": "éteindre la lumière du porche", "label": "home", "source": "massive-fr-FR", "massive_id": "2578", "id": "fr-FR-pool-277"}
+{"text": "dire la liste", "label": "lists", "source": "massive-fr-FR", "massive_id": "10999", "id": "fr-FR-pool-278"}
+{"text": "rechercher un billet de train pour paris", "label": "transport", "source": "massive-fr-FR", "massive_id": "12199", "id": "fr-FR-pool-279"}
+{"text": "s'il te plaît détruire cette liste", "label": "lists", "source": "massive-fr-FR", "massive_id": "10963", "id": "fr-FR-pool-280"}
+{"text": "lire les informations sur l'événement du calendrier du dix neuf mars à quatorze heures", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8382", "id": "fr-FR-pool-281"}
+{"text": "quels nouveaux messages j' ai", "label": "email", "source": "massive-fr-FR", "massive_id": "16462", "id": "fr-FR-pool-282"}
+{"text": "comment sont les routes en maintenant", "label": "transport", "source": "massive-fr-FR", "massive_id": "12645", "id": "fr-FR-pool-283"}
+{"text": "c'est une douce soirée ce soir", "label": "weather", "source": "massive-fr-FR", "massive_id": "6022", "id": "fr-FR-pool-284"}
+{"text": "envoyer un e-mail à papa je vais aller à la fête d'anniversaire", "label": "email", "source": "massive-fr-FR", "massive_id": "16134", "id": "fr-FR-pool-285"}
+{"text": "rendez-vous avec joanna le samedi quatre heures après-midi", "label": "calendar", "source": "massive-fr-FR", "massive_id": "6789", "id": "fr-FR-pool-286"}
+{"text": "éteindre ma prise intelligente", "label": "home", "source": "massive-fr-FR", "massive_id": "1000", "id": "fr-FR-pool-287"}
+{"text": "s'il te plait trouve les prévisions météos d'aujourd'hui", "label": "weather", "source": "massive-fr-FR", "massive_id": "6152", "id": "fr-FR-pool-288"}
+{"text": "démarrer l' aspirateur pour moi", "label": "home", "source": "massive-fr-FR", "massive_id": "4011", "id": "fr-FR-pool-289"}
+{"text": "ai-je besoin de porter des lunettes de soleil dehors", "label": "weather", "source": "massive-fr-FR", "massive_id": "5665", "id": "fr-FR-pool-290"}
+{"text": "ajouter l' anniversaire de bola du douze juillet à mon calendrier", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7345", "id": "fr-FR-pool-291"}
+{"text": "tu peux rechercher trump", "label": "news", "source": "massive-fr-FR", "massive_id": "1997", "id": "fr-FR-pool-292"}
+{"text": "j'ai besoin d'allumer l'aspirateur", "label": "home", "source": "massive-fr-FR", "massive_id": "643", "id": "fr-FR-pool-293"}
+{"text": "quels sont les horaires des trains aujourd'hui", "label": "transport", "source": "massive-fr-FR", "massive_id": "12731", "id": "fr-FR-pool-294"}
+{"text": "réserver un taxi de la gare d'ola", "label": "transport", "source": "massive-fr-FR", "massive_id": "12830", "id": "fr-FR-pool-295"}
+{"text": "est-il ensoleillé dehor", "label": "weather", "source": "massive-fr-FR", "massive_id": "5451", "id": "fr-FR-pool-296"}
+{"text": "supprimer l' événement suivant", "label": "calendar", "source": "massive-fr-FR", "massive_id": "6996", "id": "fr-FR-pool-297"}
+{"text": "j'ai besoin d'un taxi tout de suite", "label": "transport", "source": "massive-fr-FR", "massive_id": "12228", "id": "fr-FR-pool-298"}
+{"text": "ai je un numéro pour jerry", "label": "email", "source": "massive-fr-FR", "massive_id": "16645", "id": "fr-FR-pool-299"}
+{"text": "y a-t-il un contact nommé allen dans ma liste", "label": "email", "source": "massive-fr-FR", "massive_id": "15868", "id": "fr-FR-pool-300"}
+{"text": "va-t-il neige demain à le midi", "label": "weather", "source": "massive-fr-FR", "massive_id": "1655", "id": "fr-FR-pool-301"}
+{"text": "longueur du trafic", "label": "transport", "source": "massive-fr-FR", "massive_id": "12327", "id": "fr-FR-pool-302"}
+{"text": "monter les lumières", "label": "home", "source": "massive-fr-FR", "massive_id": "3762", "id": "fr-FR-pool-303"}
+{"text": "quelle est la prévision à dix jours", "label": "weather", "source": "massive-fr-FR", "massive_id": "3406", "id": "fr-FR-pool-304"}
+{"text": "est-ce que je pourrai m'en sortir avec un culotte aujourd'hui", "label": "weather", "source": "massive-fr-FR", "massive_id": "4481", "id": "fr-FR-pool-305"}
+{"text": "réserve-moi un taxi uber pour leuven", "label": "transport", "source": "massive-fr-FR", "massive_id": "12849", "id": "fr-FR-pool-306"}
+{"text": "change les lumières au ton rouge", "label": "home", "source": "massive-fr-FR", "massive_id": "2018", "id": "fr-FR-pool-307"}
+{"text": "qu'est-ce qui est sur ma liste de choses à faire", "label": "lists", "source": "massive-fr-FR", "massive_id": "10833", "id": "fr-FR-pool-308"}
+{"text": "y a-t-il des e-mails que je n'ai pas encore lus", "label": "email", "source": "massive-fr-FR", "massive_id": "16011", "id": "fr-FR-pool-309"}
+{"text": "rapport de circulation", "label": "transport", "source": "massive-fr-FR", "massive_id": "12869", "id": "fr-FR-pool-310"}
+{"text": "donnez-moi une notification de trois jours avant mon examen de chimie s'il vous plaît", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7330", "id": "fr-FR-pool-311"}
+{"text": "alexa ai je de quelconque nouveaux e-mails", "label": "email", "source": "massive-fr-FR", "massive_id": "15790", "id": "fr-FR-pool-312"}
+{"text": "tamise les lumières du plafond", "label": "home", "source": "massive-fr-FR", "massive_id": "4896", "id": "fr-FR-pool-313"}
+{"text": "quelles sont les prévisions météorologiques pour demain", "label": "weather", "source": "massive-fr-FR", "massive_id": "346", "id": "fr-FR-pool-314"}
+{"text": "quelle est la tendance", "label": "news", "source": "massive-fr-FR", "massive_id": "745", "id": "fr-FR-pool-315"}
+{"text": "change les lumières en ma couleur préférée", "label": "home", "source": "massive-fr-FR", "massive_id": "4648", "id": "fr-FR-pool-316"}
+{"text": "initialiser l' aspirateur robot", "label": "home", "source": "massive-fr-FR", "massive_id": "2959", "id": "fr-FR-pool-317"}
+{"text": "ai-je reçu un e-mail de ron au cours les deux dernier jours", "label": "email", "source": "massive-fr-FR", "massive_id": "16764", "id": "fr-FR-pool-318"}
+{"text": "veuillez éteindre la prise de courant wemo", "label": "home", "source": "massive-fr-FR", "massive_id": "4572", "id": "fr-FR-pool-319"}
+{"text": "supprimer tous les événements et programmes", "label": "calendar", "source": "massive-fr-FR", "massive_id": "6929", "id": "fr-FR-pool-320"}
+{"text": "le temps est froid au royaume-uni", "label": "weather", "source": "massive-fr-FR", "massive_id": "5892", "id": "fr-FR-pool-321"}
+{"text": "régler les lumières du salon au rouge", "label": "home", "source": "massive-fr-FR", "massive_id": "455", "id": "fr-FR-pool-322"}
+{"text": "supprimer une liste de produit de nourriture achetée la semaine dernière", "label": "lists", "source": "massive-fr-FR", "massive_id": "10470", "id": "fr-FR-pool-323"}
+{"text": "liste tous les horaires de train pour new york", "label": "transport", "source": "massive-fr-FR", "massive_id": "12827", "id": "fr-FR-pool-324"}
+{"text": "y a-t-il des événements à venir", "label": "calendar", "source": "massive-fr-FR", "massive_id": "6860", "id": "fr-FR-pool-325"}
+{"text": "répéter un événement dans mon calendrier", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7755", "id": "fr-FR-pool-326"}
+{"text": "éteindre la lumière de la salle de bain à l'étage", "label": "home", "source": "massive-fr-FR", "massive_id": "1717", "id": "fr-FR-pool-327"}
+{"text": "tous les nouveaux messages mail", "label": "email", "source": "massive-fr-FR", "massive_id": "16416", "id": "fr-FR-pool-328"}
+{"text": "envoie un e-mail à mon oncle sur la situation météo actuelle", "label": "email", "source": "massive-fr-FR", "massive_id": "16189", "id": "fr-FR-pool-329"}
+{"text": "éteindre la lumière la plus proche", "label": "home", "source": "massive-fr-FR", "massive_id": "5390", "id": "fr-FR-pool-330"}
+{"text": "montre moi les informations de contact de derek", "label": "email", "source": "massive-fr-FR", "massive_id": "16823", "id": "fr-FR-pool-331"}
+{"text": "quels sont mes projets pour le mois de mai", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8461", "id": "fr-FR-pool-332"}
+{"text": "il fait un peu sombre augmente l'éclairage", "label": "home", "source": "massive-fr-FR", "massive_id": "3520", "id": "fr-FR-pool-333"}
+{"text": "envoie moi un mail", "label": "email", "source": "massive-fr-FR", "massive_id": "16305", "id": "fr-FR-pool-334"}
+{"text": "baisse le niveau de lumière dans ma maison", "label": "home", "source": "massive-fr-FR", "massive_id": "2176", "id": "fr-FR-pool-335"}
+{"text": "dis à bob smith", "label": "email", "source": "massive-fr-FR", "massive_id": "16322", "id": "fr-FR-pool-336"}
+{"text": "montre moi mes événements", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8460", "id": "fr-FR-pool-337"}
+{"text": "quand part le dernier train du travail", "label": "transport", "source": "massive-fr-FR", "massive_id": "12387", "id": "fr-FR-pool-338"}
+{"text": "s'il te plaît rappelle-moi la réunion d'affaires de onze heure du matin", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7790", "id": "fr-FR-pool-339"}
+{"text": "ajoute mon cours de spin au calendrier pour samedi à sept heures du matin", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7107", "id": "fr-FR-pool-340"}
+{"text": "pouvez-vous alterner les couleurs claires dans la maison", "label": "home", "source": "massive-fr-FR", "massive_id": "403", "id": "fr-FR-pool-341"}
+{"text": "rendez-vous avec jack le dix mars", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7470", "id": "fr-FR-pool-342"}
+{"text": "ajouter dans le calendrier la fête d'anniversaire demain deux heure du soir pour jane chez elle", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8475", "id": "fr-FR-pool-343"}
+{"text": "répond à mon dernier email", "label": "email", "source": "massive-fr-FR", "massive_id": "16902", "id": "fr-FR-pool-344"}
+{"text": "trouvez-moi le premier billet de train partant vendredi matin pour monaco", "label": "transport", "source": "massive-fr-FR", "massive_id": "12605", "id": "fr-FR-pool-345"}
+{"text": "envoyer un e-mail au personnel de group distribution à propos de la rencontre de demain", "label": "email", "source": "massive-fr-FR", "massive_id": "15996", "id": "fr-FR-pool-346"}
+{"text": "éteindre le courant", "label": "home", "source": "massive-fr-FR", "massive_id": "4026", "id": "fr-FR-pool-347"}
+{"text": "ai-je besoin d'un imperméable le lendemain", "label": "weather", "source": "massive-fr-FR", "massive_id": "5112", "id": "fr-FR-pool-348"}
+{"text": "en obtenant des notes", "label": "weather", "source": "massive-fr-FR", "massive_id": "512", "id": "fr-FR-pool-349"}
+{"text": "quels sont les événements la semaine prochaine", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7232", "id": "fr-FR-pool-350"}
+{"text": "quel est le code vestimentaire pour la fête", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8351", "id": "fr-FR-pool-351"}
+{"text": "quel temps fait-il dehors maintenant", "label": "weather", "source": "massive-fr-FR", "massive_id": "432", "id": "fr-FR-pool-352"}
+{"text": "commencer une nouvelle liste pour moi", "label": "lists", "source": "massive-fr-FR", "massive_id": "10562", "id": "fr-FR-pool-353"}
+{"text": "y a-t-il un trafic élevé", "label": "transport", "source": "massive-fr-FR", "massive_id": "12884", "id": "fr-FR-pool-354"}
+{"text": "qui m'a envoyé des e-mails cette semaine", "label": "email", "source": "massive-fr-FR", "massive_id": "16367", "id": "fr-FR-pool-355"}
+{"text": "allez-vous envoyer un e-mail à cette nouvelle adresse e-mail", "label": "email", "source": "massive-fr-FR", "massive_id": "16632", "id": "fr-FR-pool-356"}
+{"text": "rappelle-moi d'appeler maman tous les mardis à dix heures du matin", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8868", "id": "fr-FR-pool-357"}
+{"text": "montre moi la météo d'hier", "label": "weather", "source": "massive-fr-FR", "massive_id": "5320", "id": "fr-FR-pool-358"}
+{"text": "allumer la prise wemo", "label": "home", "source": "massive-fr-FR", "massive_id": "5686", "id": "fr-FR-pool-359"}
+{"text": "je dîne avec ma sœur ce samedi", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8690", "id": "fr-FR-pool-360"}
+{"text": "tamiser les lumières", "label": "home", "source": "massive-fr-FR", "massive_id": "160", "id": "fr-FR-pool-361"}
+{"text": "commander un café au magasin de café le plus proche", "label": "home", "source": "massive-fr-FR", "massive_id": "1817", "id": "fr-FR-pool-362"}
+{"text": "email ashwin patel mes meilleurs voeux et une pièce jointe de travail p. ré. f.", "label": "email", "source": "massive-fr-FR", "massive_id": "15991", "id": "fr-FR-pool-363"}
+{"text": "rappelle le moi au début de chaque mois", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8629", "id": "fr-FR-pool-364"}
+{"text": "pouvez-vous s'il vous plaît m'acheter un billet de train", "label": "transport", "source": "massive-fr-FR", "massive_id": "12749", "id": "fr-FR-pool-365"}
+{"text": "affiche mes listes", "label": "lists", "source": "massive-fr-FR", "massive_id": "11226", "id": "fr-FR-pool-366"}
+{"text": "s'il vous plaît dites-moi les points principaux de mes réunions de deux heures cet après-midi", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8490", "id": "fr-FR-pool-367"}
+{"text": "pour les trois prochains dimanches rappelle-moi que j'ai un cours de yoga à midi", "label": "calendar", "source": "massive-fr-FR", "massive_id": "7634", "id": "fr-FR-pool-368"}
+{"text": "pouvez-vous me parler du trafic", "label": "transport", "source": "massive-fr-FR", "massive_id": "12789", "id": "fr-FR-pool-369"}
+{"text": "verifie si il y a de nouveaux e-mails de mon chef", "label": "email", "source": "massive-fr-FR", "massive_id": "16431", "id": "fr-FR-pool-370"}
+{"text": "quels sont les horaires des trains", "label": "transport", "source": "massive-fr-FR", "massive_id": "12836", "id": "fr-FR-pool-371"}
+{"text": "olly s'il te plaît vérifie si j'ai reçu des e-mails de maman", "label": "email", "source": "massive-fr-FR", "massive_id": "16543", "id": "fr-FR-pool-372"}
+{"text": "suis-je libre à seize heures", "label": "calendar", "source": "massive-fr-FR", "massive_id": "8781", "id": "fr-FR-pool-373"}
+{"text": "montre-moi mes e-mails de l' heure passée", "label": "email", "source": "massive-fr-FR", "massive_id": "16520", "id": "fr-FR-pool-374"}
+{"text": "supprimer la liste d' épicerie s'il vous plaît", "label": "lists", "source": "massive-fr-FR", "massive_id": "10935", "id": "fr-FR-pool-375"}
+{"text": "ajouter à mon calendrier appel quotidien à cinq heure du soir", "label": "calendar", "source": "massive-fr-FR", "massive_id": "6745", "id": "fr-FR-pool-376"}
+{"text": "est-ce que maman m'a envoyé des e-mails", "label": "email", "source": "massive-fr-FR", "massive_id": "16540", "id": "fr-FR-pool-377"}
+{"text": "donner une entrée à cette liste", "label": "lists", "source": "massive-fr-FR", "massive_id": "11101", "id": "fr-FR-pool-378"}

@@ -1,0 +1,379 @@
+{"text": "मेरे कैलेंडर में से कल की मीटिंग cancel कर दो", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7087", "id": "hi-IN-dev-0"}
+{"text": "क्या मेरे इरूमबा ने घर को साफ कर दिया है", "label": "home", "source": "massive-hi-IN", "massive_id": "2054", "id": "hi-IN-dev-1"}
+{"text": "कल के लिए सभी अपॉइंटमेंट रद्द करने के लिए मेरे सहायक सोनम को एक ईमेल भेजें", "label": "email", "source": "massive-hi-IN", "massive_id": "16282", "id": "hi-IN-dev-2"}
+{"text": "कृपया सहकर्मी को एक नया ईमेल लिखें", "label": "email", "source": "massive-hi-IN", "massive_id": "16029", "id": "hi-IN-dev-3"}
+{"text": "मेरी सूची पढ़ें", "label": "lists", "source": "massive-hi-IN", "massive_id": "10715", "id": "hi-IN-dev-4"}
+{"text": "मुझे कुछ और रोशनी चाहिए", "label": "home", "source": "massive-hi-IN", "massive_id": "1805", "id": "hi-IN-dev-5"}
+{"text": "मेरी योजना बदलो मेरी अगली घटना मिटा दो", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8009", "id": "hi-IN-dev-6"}
+{"text": "मुझे अभी एक कॉफी चाहिए", "label": "home", "source": "massive-hi-IN", "massive_id": "339", "id": "hi-IN-dev-7"}
+{"text": "क्या यह योजन की तारीख सही है", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8784", "id": "hi-IN-dev-8"}
+{"text": "छह तीस प्रतिक्रिया के साथ विराट का ईमेल का जवाब दो", "label": "email", "source": "massive-hi-IN", "massive_id": "16929", "id": "hi-IN-dev-9"}
+{"text": "कृपया सभी बाहरी बत्तियाँ चालू करो", "label": "home", "source": "massive-hi-IN", "massive_id": "3464", "id": "hi-IN-dev-10"}
+{"text": "क्या मुझे आज परतों में कपड़े पहनने चाहिए", "label": "weather", "source": "massive-hi-IN", "massive_id": "4483", "id": "hi-IN-dev-11"}
+{"text": "मौसम खोलें", "label": "weather", "source": "massive-hi-IN", "massive_id": "5591", "id": "hi-IN-dev-12"}
+{"text": "इस कमरे की लाइट बंद कर दो", "label": "home", "source": "massive-hi-IN", "massive_id": "998", "id": "hi-IN-dev-13"}
+{"text": "क्या आप इस मुद्दे पर तथ्यों की जांच कर सकते हैं", "label": "calendar", "source": "massive-hi-IN", "massive_id": "6967", "id": "hi-IN-dev-14"}
+{"text": "कृपया मेरे लिए एक कॉफी बनाओ", "label": "home", "source": "massive-hi-IN", "massive_id": "3609", "id": "hi-IN-dev-15"}
+{"text": "सॉकेट को बंद कर दो", "label": "home", "source": "massive-hi-IN", "massive_id": "5394", "id": "hi-IN-dev-16"}
+{"text": "आइए सभी लंबित अनुस्मारकों के माध्यम से चलते हैं", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8498", "id": "hi-IN-dev-17"}
+{"text": "वह संपर्क कौन है जिसने मुझे आखिरी बार कॉल किया था", "label": "email", "source": "massive-hi-IN", "massive_id": "16589", "id": "hi-IN-dev-18"}
+{"text": "आज का मौसम का पूर्वानुमान क्या है", "label": "weather", "source": "massive-hi-IN", "massive_id": "4265", "id": "hi-IN-dev-19"}
+{"text": "कमरे को उज्जवल बनाना", "label": "home", "source": "massive-hi-IN", "massive_id": "211", "id": "hi-IN-dev-20"}
+{"text": "सफाई अच्छी है धूल इतनी खराब है अब अपना जादू करो मेरे कालीन को साफ करो", "label": "home", "source": "massive-hi-IN", "massive_id": "30", "id": "hi-IN-dev-21"}
+{"text": "राम से प्राप्त ईमेल का जवाब दें", "label": "email", "source": "massive-hi-IN", "massive_id": "17067", "id": "hi-IN-dev-22"}
+{"text": "जब आप बिजली बचाने के लिए घर से बाहर निकलें तो वाईफाई बंद करें", "label": "home", "source": "massive-hi-IN", "massive_id": "7331", "id": "hi-IN-dev-23"}
+{"text": "इस सप्ताह मौसम कैसा रहेगा", "label": "weather", "source": "massive-hi-IN", "massive_id": "4485", "id": "hi-IN-dev-24"}
+{"text": "क्या इस सप्ताह बर्फ़बारी होगी", "label": "weather", "source": "massive-hi-IN", "massive_id": "1466", "id": "hi-IN-dev-25"}
+{"text": "मोहन के आखिरी घंटे के ईमेल चेक करो", "label": "email", "source": "massive-hi-IN", "massive_id": "15923", "id": "hi-IN-dev-26"}
+{"text": "कृपया शयनकक्ष की लाइट को बंद करे", "label": "home", "source": "massive-hi-IN", "massive_id": "4632", "id": "hi-IN-dev-27"}
+{"text": "इस आयोजन के बारे में और बताओ", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7677", "id": "hi-IN-dev-28"}
+{"text": "कृपया मुझे वह सूची दिखाएं जो मेरे पास है", "label": "lists", "source": "massive-hi-IN", "massive_id": "10805", "id": "hi-IN-dev-29"}
+{"text": "कृपया मुझे तेरह जुलाई को मेरे डॉक्टर से मुलाकात की याद दिलाएं", "label": "calendar", "source": "massive-hi-IN", "massive_id": "6989", "id": "hi-IN-dev-30"}
+{"text": "कृपया लक्षित के लिए नया ईमेल लोड करें और अभी संदेश भेजें", "label": "email", "source": "massive-hi-IN", "massive_id": "16201", "id": "hi-IN-dev-31"}
+{"text": "सिस्टम मेरे आवागमन के लिए कोई भी ट्रैफ़िक समाचार खींचता है", "label": "transport", "source": "massive-hi-IN", "massive_id": "12288", "id": "hi-IN-dev-32"}
+{"text": "गोरखपुर के लिए आज का पूर्वानुमान क्या है", "label": "weather", "source": "massive-hi-IN", "massive_id": "279", "id": "hi-IN-dev-33"}
+{"text": "मैं मॉल में कैसे पहुंचूं", "label": "transport", "source": "massive-hi-IN", "massive_id": "12817", "id": "hi-IN-dev-34"}
+{"text": "android", "label": "lists", "source": "massive-hi-IN", "massive_id": "10571", "id": "hi-IN-dev-35"}
+{"text": "मेरे पास कौन से रिमाइंडर लंबित हैं", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8647", "id": "hi-IN-dev-36"}
+{"text": "मैं इस सप्ताह कुछ नहीं कर रहा हूँ", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8232", "id": "hi-IN-dev-37"}
+{"text": "बीस अक्टूबर को सुबह साढ़े दस बजे एक बैठक निर्धारित करें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7383", "id": "hi-IN-dev-38"}
+{"text": "मेरी सूची में एक नया ईमेल संपर्क जोड़ें", "label": "email", "source": "massive-hi-IN", "massive_id": "16909", "id": "hi-IN-dev-39"}
+{"text": "क्या मुझे दशरथ से कोई नया ईमेल प्राप्त हुआ है", "label": "email", "source": "massive-hi-IN", "massive_id": "16662", "id": "hi-IN-dev-40"}
+{"text": "कृपया रोशनी बढ़ाएं", "label": "home", "source": "massive-hi-IN", "massive_id": "3437", "id": "hi-IN-dev-41"}
+{"text": "आज कितनी ठंड है", "label": "weather", "source": "massive-hi-IN", "massive_id": "5037", "id": "hi-IN-dev-42"}
+{"text": "क्या मेरे पास आज के लिए कोई अवशेष है", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8149", "id": "hi-IN-dev-43"}
+{"text": "ट्रेन टिकट का भुगतान", "label": "transport", "source": "massive-hi-IN", "massive_id": "12472", "id": "hi-IN-dev-44"}
+{"text": "किसी को मेल भेजें", "label": "email", "source": "massive-hi-IN", "massive_id": "16980", "id": "hi-IN-dev-45"}
+{"text": "क्या मुझे आज दोपहर सनब्लॉक की आवश्यकता होगी", "label": "weather", "source": "massive-hi-IN", "massive_id": "5710", "id": "hi-IN-dev-46"}
+{"text": "मेरे बॉस को ईमेल लिखें और भेजें", "label": "email", "source": "massive-hi-IN", "massive_id": "16605", "id": "hi-IN-dev-47"}
+{"text": "दालान में बत्तियां रोशन करें", "label": "home", "source": "massive-hi-IN", "massive_id": "1071", "id": "hi-IN-dev-48"}
+{"text": "सूची में आगे क्या है", "label": "lists", "source": "massive-hi-IN", "massive_id": "11243", "id": "hi-IN-dev-49"}
+{"text": "राम का जन्मदिन मेरे कैलेंडर से हटाओ", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8275", "id": "hi-IN-dev-50"}
+{"text": "भोपाल में यातायात का स्तर क्या है", "label": "transport", "source": "massive-hi-IN", "massive_id": "12196", "id": "hi-IN-dev-51"}
+{"text": "रितु का वर्क फोन नंबर क्या है", "label": "email", "source": "massive-hi-IN", "massive_id": "15815", "id": "hi-IN-dev-52"}
+{"text": "कृपया मेरे जन्मदिन की पार्टी को कैलेंडर पर रखें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8584", "id": "hi-IN-dev-53"}
+{"text": "अहमदाबाद के लिए आज एक ट्रेन टिकट बुक करो मेरे लिए", "label": "transport", "source": "massive-hi-IN", "massive_id": "12172", "id": "hi-IN-dev-54"}
+{"text": "सोमवार को दोपहर दो बजे सोनम सिंग के साथ मीटिंग सेट करें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8809", "id": "hi-IN-dev-55"}
+{"text": "कृपया पहली सूची हटाओ", "label": "lists", "source": "massive-hi-IN", "massive_id": "10916", "id": "hi-IN-dev-56"}
+{"text": "मुझे पुराने दोस्तों से संपर्क करने के लिए याद दिलाएं कि मैंने छह महीने में उनके पास होने से पहले बात नहीं की है", "label": "calendar", "source": "massive-hi-IN", "massive_id": "13178", "id": "hi-IN-dev-57"}
+{"text": "अरे वैक्यूम क्लीनर रोबोट शुरू करो", "label": "home", "source": "massive-hi-IN", "massive_id": "83", "id": "hi-IN-dev-58"}
+{"text": "मुंबई में आज मौसम की स्थिति क्या है", "label": "weather", "source": "massive-hi-IN", "massive_id": "2423", "id": "hi-IN-dev-59"}
+{"text": "क्या आप मुझे फिल्म का शेड्यूल दे सकते हैं", "label": "calendar", "source": "massive-hi-IN", "massive_id": "6892", "id": "hi-IN-dev-60"}
+{"text": "क्या मुंबई में आज रेलगाड़ी देरी से पंहुचेगी", "label": "transport", "source": "massive-hi-IN", "massive_id": "12909", "id": "hi-IN-dev-61"}
+{"text": "ड्राइंग हॉल में लाइट को बंद कर दो", "label": "home", "source": "massive-hi-IN", "massive_id": "5202", "id": "hi-IN-dev-62"}
+{"text": "इस दोपहर को मुझे सनस्क्रीन की जरूरत होगी", "label": "weather", "source": "massive-hi-IN", "massive_id": "6025", "id": "hi-IN-dev-63"}
+{"text": "कृपया मुझे मेरे बालों की नियुक्ति के बारे में गुरुवार से एक घंटे पहले बताएं", "label": "calendar", "source": "massive-hi-IN", "massive_id": "9152", "id": "hi-IN-dev-64"}
+{"text": "अमित देसाई के लिए एक नया ईमेल प्रारंभ करें", "label": "email", "source": "massive-hi-IN", "massive_id": "16087", "id": "hi-IN-dev-65"}
+{"text": "अगले गुरुवार को मेरी कौन सी बैठकें हैं", "label": "calendar", "source": "massive-hi-IN", "massive_id": "9141", "id": "hi-IN-dev-66"}
+{"text": "घर जाने के लिए मेरे लिए एक उबर राइड बुक करें", "label": "transport", "source": "massive-hi-IN", "massive_id": "12755", "id": "hi-IN-dev-67"}
+{"text": "यातायात", "label": "transport", "source": "massive-hi-IN", "massive_id": "12821", "id": "hi-IN-dev-68"}
+{"text": "सप्ताह का पूर्वानुमान क्या है", "label": "weather", "source": "massive-hi-IN", "massive_id": "100", "id": "hi-IN-dev-69"}
+{"text": "क्या आप ईमेल के माध्यम से वापस राम संदेश भेज सकते हैं", "label": "email", "source": "massive-hi-IN", "massive_id": "16972", "id": "hi-IN-dev-70"}
+{"text": "कृपया मुझे मौसम बताओ", "label": "weather", "source": "massive-hi-IN", "massive_id": "3012", "id": "hi-IN-dev-71"}
+{"text": "जल्दी से मेरे रोबोट वैक्यूम क्लीनर को एक्टिवेट करो", "label": "home", "source": "massive-hi-IN", "massive_id": "2002", "id": "hi-IN-dev-72"}
+{"text": "इस साल शुक्रवार को होली है", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8710", "id": "hi-IN-dev-73"}
+{"text": "आज सुबह के लिए एक बैठक का प्रबंधन करें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7550", "id": "hi-IN-dev-74"}
+{"text": "मेरे लिए रांची के लिए एक ट्रेन बूक करो", "label": "transport", "source": "massive-hi-IN", "massive_id": "12434", "id": "hi-IN-dev-75"}
+{"text": "राकेश को जवाब दो", "label": "email", "source": "massive-hi-IN", "massive_id": "16691", "id": "hi-IN-dev-76"}
+{"text": "सूची से अंडे हटाओ", "label": "lists", "source": "massive-hi-IN", "massive_id": "10431", "id": "hi-IN-dev-77"}
+{"text": "फर्नीचर में से मेज हटा दो", "label": "lists", "source": "massive-hi-IN", "massive_id": "10495", "id": "hi-IN-dev-78"}
+{"text": "बाद में काम के बारे में सोनम को ईमेल ड्राफ्ट करें", "label": "email", "source": "massive-hi-IN", "massive_id": "16618", "id": "hi-IN-dev-79"}
+{"text": "मेरे पास वह परीक्षा कब होगी", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8088", "id": "hi-IN-dev-80"}
+{"text": "रोशनी लाओ", "label": "home", "source": "massive-hi-IN", "massive_id": "3808", "id": "hi-IN-dev-81"}
+{"text": "राम की बर्थडे पार्टी कब और कहाँ है", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8338", "id": "hi-IN-dev-82"}
+{"text": "मुझे भोपाल से ग्वालियर के लिए रेल टिकट की कीमत बताओ", "label": "transport", "source": "massive-hi-IN", "massive_id": "12384", "id": "hi-IN-dev-83"}
+{"text": "बेडरूम की बत्तियाँ बंद करें", "label": "home", "source": "massive-hi-IN", "massive_id": "2121", "id": "hi-IN-dev-84"}
+{"text": "कल सुबह दस बजे से पहले मेरे लिए इंदौर के लिए एक रेल टिकट बुक करें", "label": "transport", "source": "massive-hi-IN", "massive_id": "12627", "id": "hi-IN-dev-85"}
+{"text": "हे olly मैं अपने निकटतम ट्रेन को किस समय पकड़ सकता हूं", "label": "transport", "source": "massive-hi-IN", "massive_id": "12922", "id": "hi-IN-dev-86"}
+{"text": "ऐमनजई जलालनगर तक पहली मेट्रो कौन सी है", "label": "transport", "source": "massive-hi-IN", "massive_id": "12376", "id": "hi-IN-dev-87"}
+{"text": "मेरे भाई को ईमेल कर के पूछो कि वह डिनर पे कितने बजे तक आएगा", "label": "email", "source": "massive-hi-IN", "massive_id": "16680", "id": "hi-IN-dev-88"}
+{"text": "इस सप्ताह मौसम कैसा रहेगा", "label": "weather", "source": "massive-hi-IN", "massive_id": "2064", "id": "hi-IN-dev-89"}
+{"text": "बत्ती बुझा दो", "label": "home", "source": "massive-hi-IN", "massive_id": "1945", "id": "hi-IN-dev-90"}
+{"text": "क्या इस सप्ताह बारिश होने वाली है", "label": "weather", "source": "massive-hi-IN", "massive_id": "3857", "id": "hi-IN-dev-91"}
+{"text": "कृपया मेरी पत्नी को अगले सप्ताह के मौसम के बारे में ईमेल करें", "label": "email", "source": "massive-hi-IN", "massive_id": "16258", "id": "hi-IN-dev-92"}
+{"text": "माँ को बहुत-बहुत धन्यवाद माँ भेजो", "label": "email", "source": "massive-hi-IN", "massive_id": "16126", "id": "hi-IN-dev-93"}
+{"text": "मेरे एप इस्तेमाल करो", "label": "transport", "source": "massive-hi-IN", "massive_id": "12804", "id": "hi-IN-dev-94"}
+{"text": "मुझे कल की मुलाकात में सुबह दस बजे एक अनुस्मारक सूचना दें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "6856", "id": "hi-IN-dev-95"}
+{"text": "गेराज बत्ती बंद कर दो", "label": "home", "source": "massive-hi-IN", "massive_id": "1974", "id": "hi-IN-dev-96"}
+{"text": "मुझे सबसे हाल के ईमेल दिखाओ", "label": "email", "source": "massive-hi-IN", "massive_id": "16339", "id": "hi-IN-dev-97"}
+{"text": "आज मेरे पास कौन से अपॉइंटमेंट हैं", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8915", "id": "hi-IN-dev-98"}
+{"text": "रिजर्व ट्रेन टिकट", "label": "transport", "source": "massive-hi-IN", "massive_id": "12140", "id": "hi-IN-dev-99"}
+{"text": "शहर के लिए सबसे जल्दी पहुँचाने वाला रास्ता क्या है", "label": "transport", "source": "massive-hi-IN", "massive_id": "12516", "id": "hi-IN-dev-100"}
+{"text": "प्लेलिस्ट से हटाएं मेरे पुराने अंग्रेज़ी गानों की सूची", "label": "lists", "source": "massive-hi-IN", "massive_id": "10523", "id": "hi-IN-dev-101"}
+{"text": "संपर्क का चयन करें", "label": "email", "source": "massive-hi-IN", "massive_id": "16106", "id": "hi-IN-dev-102"}
+{"text": "ओली रितु को एक ईमेल भेजें", "label": "email", "source": "massive-hi-IN", "massive_id": "16012", "id": "hi-IN-dev-103"}
+{"text": "वेमो प्लग का switch on करें", "label": "home", "source": "massive-hi-IN", "massive_id": "1506", "id": "hi-IN-dev-104"}
+{"text": "राम का फ़ोन नंबर दो", "label": "email", "source": "massive-hi-IN", "massive_id": "16907", "id": "hi-IN-dev-105"}
+{"text": "मेरे लिए सबसे नज़दीकी ट्रेन कहाँ है", "label": "transport", "source": "massive-hi-IN", "massive_id": "12733", "id": "hi-IN-dev-106"}
+{"text": "कॉफी मशीन शुरू करो", "label": "home", "source": "massive-hi-IN", "massive_id": "2749", "id": "hi-IN-dev-107"}
+{"text": "अगर मुझे मेरे ईमेल पर कोई मेल प्राप्त होता है तो मुझे सूचित करें", "label": "email", "source": "massive-hi-IN", "massive_id": "16249", "id": "hi-IN-dev-108"}
+{"text": "एक taxi reserve करो", "label": "transport", "source": "massive-hi-IN", "massive_id": "12322", "id": "hi-IN-dev-109"}
+{"text": "मथुरा शहर में मौसम", "label": "weather", "source": "massive-hi-IN", "massive_id": "2223", "id": "hi-IN-dev-110"}
+{"text": "दोपहर तीन बजे बत्तियाँ नीली करें", "label": "home", "source": "massive-hi-IN", "massive_id": "898", "id": "hi-IN-dev-111"}
+{"text": "मुझे शुक्रवार को राजस्थान रॉयल्स के अलगे मैच के बारे में बताओ", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7615", "id": "hi-IN-dev-112"}
+{"text": "मेरी हाल की ईमेल गतिविधि क्या है", "label": "email", "source": "massive-hi-IN", "massive_id": "17035", "id": "hi-IN-dev-113"}
+{"text": "प्रसन्न", "label": "weather", "source": "massive-hi-IN", "massive_id": "325", "id": "hi-IN-dev-114"}
+{"text": "वर्क टीम को इस हफ्ते के शेड्यूल के बारे में ईमेल करो", "label": "email", "source": "massive-hi-IN", "massive_id": "16117", "id": "hi-IN-dev-115"}
+{"text": "एन. एस. ए. में आज क्या हो रहा है", "label": "news", "source": "massive-hi-IN", "massive_id": "5563", "id": "hi-IN-dev-116"}
+{"text": "रोबोट अब शयनकक्ष को वैक्यूम करता है", "label": "home", "source": "massive-hi-IN", "massive_id": "864", "id": "hi-IN-dev-117"}
+{"text": "कृपया शुक्रवार को शाम छह बजे रिमाइंडर दें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8318", "id": "hi-IN-dev-118"}
+{"text": "आज शाम दो से चार के बीच कौन सी घटनाएँ हो रही हैं", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7320", "id": "hi-IN-dev-119"}
+{"text": "बैठकों से मेरा दिन साफ़ करो", "label": "calendar", "source": "massive-hi-IN", "massive_id": "6734", "id": "hi-IN-dev-120"}
+{"text": "क्या आप मुझे मंगलवार को कचरा बाहर निकालने की याद दिला सकते हैं", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7210", "id": "hi-IN-dev-121"}
+{"text": "लल्लू को एक ईमेल का जवाब दें कि मैं आज रात नहीं आऊँगा", "label": "email", "source": "massive-hi-IN", "massive_id": "15802", "id": "hi-IN-dev-122"}
+{"text": "राज को नौकरी के लिए मेल भेजो", "label": "email", "source": "massive-hi-IN", "massive_id": "16053", "id": "hi-IN-dev-123"}
+{"text": "दस दिन का पूर्वानुमान बताओ", "label": "weather", "source": "massive-hi-IN", "massive_id": "4823", "id": "hi-IN-dev-124"}
+{"text": "अगला कैलेंडर कार्यक्रम मिटाएं", "label": "calendar", "source": "massive-hi-IN", "massive_id": "9129", "id": "hi-IN-dev-125"}
+{"text": "मेरी कॉफी मशीन सेट करो", "label": "home", "source": "massive-hi-IN", "massive_id": "3568", "id": "hi-IN-dev-126"}
+{"text": "सफाई शुरू करें", "label": "home", "source": "massive-hi-IN", "massive_id": "4459", "id": "hi-IN-dev-127"}
+{"text": "सूची सेट करें", "label": "lists", "source": "massive-hi-IN", "massive_id": "11140", "id": "hi-IN-dev-128"}
+{"text": "क्या तुम मेरे लिए रसोई की बत्ती बंद कर सकते हो", "label": "home", "source": "massive-hi-IN", "massive_id": "2244", "id": "hi-IN-dev-129"}
+{"text": "मेरे कैलेंडर को प्रज्वल और जया के साथ पांच दिसम्बर पाँच सौ तीस पी.एम. पर एक बैठक के साथ भरें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7717", "id": "hi-IN-dev-130"}
+{"text": "मेरी माँ को एक ईमेल भेजें", "label": "email", "source": "massive-hi-IN", "massive_id": "16313", "id": "hi-IN-dev-131"}
+{"text": "बुलडॉग के बारे में सुरेश से ईमेल ढूंढें", "label": "email", "source": "massive-hi-IN", "massive_id": "16389", "id": "hi-IN-dev-132"}
+{"text": "मेरे लिए प्रदीप से प्राप्त हुए नए ईमेल की जाँच करें", "label": "email", "source": "massive-hi-IN", "massive_id": "17088", "id": "hi-IN-dev-133"}
+{"text": "कृपया मुझे बताएं कि क्या इस सप्ताहांत बर्फ़बारी होने वाली है", "label": "weather", "source": "massive-hi-IN", "massive_id": "1543", "id": "hi-IN-dev-134"}
+{"text": "क्या का तापमान क्या रहेगा", "label": "weather", "source": "massive-hi-IN", "massive_id": "4602", "id": "hi-IN-dev-135"}
+{"text": "कृपया यहां बत्तियां चालू करें", "label": "home", "source": "massive-hi-IN", "massive_id": "4573", "id": "hi-IN-dev-136"}
+{"text": "ट्रैफिक कैसा है", "label": "transport", "source": "massive-hi-IN", "massive_id": "12555", "id": "hi-IN-dev-137"}
+{"text": "गूगल कैलेंडर को लाओ कृपया उसमे पांच मई के आयोजन को जोड़ो", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7048", "id": "hi-IN-dev-138"}
+{"text": "अगले सोमवार शाम सात बजे मेरी मीटिंग है मुझे याद दिलाना", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8301", "id": "hi-IN-dev-139"}
+{"text": "अंकिता कितनी पुरानी है", "label": "email", "source": "massive-hi-IN", "massive_id": "16217", "id": "hi-IN-dev-140"}
+{"text": "नोट्स ऐप देखें और मुझे सभी सभी का विवरण दें", "label": "lists", "source": "massive-hi-IN", "massive_id": "10705", "id": "hi-IN-dev-141"}
+{"text": "मैं अंजली के ईमेल का जवाब देना चाहूँगा", "label": "email", "source": "massive-hi-IN", "massive_id": "16701", "id": "hi-IN-dev-142"}
+{"text": "क्या मुझे बारिश के जूते चाहिए", "label": "weather", "source": "massive-hi-IN", "massive_id": "5586", "id": "hi-IN-dev-143"}
+{"text": "hey siri मेरे कैलेंडर पर आगे जो भी शेड्यूल किया गया है उसे रद्द करें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8380", "id": "hi-IN-dev-144"}
+{"text": "कल दोपहर तीन बजे राम के साथ मेरी मुलाकात है", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8401", "id": "hi-IN-dev-145"}
+{"text": "डायरी में और क्या गायब है", "label": "lists", "source": "massive-hi-IN", "massive_id": "10426", "id": "hi-IN-dev-146"}
+{"text": "बैठक कक्ष के कालीन को वैक्यूम करें", "label": "home", "source": "massive-hi-IN", "massive_id": "4356", "id": "hi-IN-dev-147"}
+{"text": "रोशनी चमकाना", "label": "home", "source": "massive-hi-IN", "massive_id": "851", "id": "hi-IN-dev-148"}
+{"text": "क्या ठंड होगी", "label": "weather", "source": "massive-hi-IN", "massive_id": "4905", "id": "hi-IN-dev-149"}
+{"text": "वेमो प्लग सॉकेट बंद करें", "label": "home", "source": "massive-hi-IN", "massive_id": "5652", "id": "hi-IN-dev-150"}
+{"text": "मुझे मेरे सभी हाल के ईमेल दें", "label": "email", "source": "massive-hi-IN", "massive_id": "17034", "id": "hi-IN-dev-151"}
+{"text": "मैंने अपनी वी मार्ट की सूची में पहले से ही क्या डाला हुआ है", "label": "lists", "source": "massive-hi-IN", "massive_id": "10753", "id": "hi-IN-dev-152"}
+{"text": "क्या मुझे कॉफी मिल सकती है", "label": "home", "source": "massive-hi-IN", "massive_id": "1569", "id": "hi-IN-dev-153"}
+{"text": "क्या तुम लाइट्स को तेज़ कर सकते हो", "label": "home", "source": "massive-hi-IN", "massive_id": "1561", "id": "hi-IN-dev-154"}
+{"text": "आज मुझे लखनऊ के लिए ट्रेन का एक टिकट प्राप्त हुआ", "label": "transport", "source": "massive-hi-IN", "massive_id": "12834", "id": "hi-IN-dev-155"}
+{"text": "भोपाल में मौसम कैसा है", "label": "weather", "source": "massive-hi-IN", "massive_id": "4687", "id": "hi-IN-dev-156"}
+{"text": "मियामी में वर्तमान मौसम कैसा है", "label": "weather", "source": "massive-hi-IN", "massive_id": "3878", "id": "hi-IN-dev-157"}
+{"text": "कमल का फोन नंबर क्या है", "label": "email", "source": "massive-hi-IN", "massive_id": "15901", "id": "hi-IN-dev-158"}
+{"text": "क्या मुझे आज दोपहर में कोट पहनना होगा", "label": "weather", "source": "massive-hi-IN", "massive_id": "5429", "id": "hi-IN-dev-159"}
+{"text": "कैसे मौसम की जानकारी", "label": "weather", "source": "massive-hi-IN", "massive_id": "700", "id": "hi-IN-dev-160"}
+{"text": "क्या तुम बत्तियाँ चालू कर सकती हो", "label": "home", "source": "massive-hi-IN", "massive_id": "1993", "id": "hi-IN-dev-161"}
+{"text": "अमित के बारे में मेरी जानकारी में आपके पास फ़ाइल में क्या जानकारी है", "label": "email", "source": "massive-hi-IN", "massive_id": "16254", "id": "hi-IN-dev-162"}
+{"text": "अरे राम ने मुझे हाल ही में कोई ईमेल भेजा है", "label": "email", "source": "massive-hi-IN", "massive_id": "16038", "id": "hi-IN-dev-163"}
+{"text": "क्या मेरे पास आरुष के नए ईमेल हैं", "label": "email", "source": "massive-hi-IN", "massive_id": "17178", "id": "hi-IN-dev-164"}
+{"text": "इस साल सप्ताह का कौन सा दिन मेरा जन्मदिन है", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7187", "id": "hi-IN-dev-165"}
+{"text": "कृपया उस कर्यक्रम को हटा दें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "9074", "id": "hi-IN-dev-166"}
+{"text": "उज्ज्वल", "label": "home", "source": "massive-hi-IN", "massive_id": "3595", "id": "hi-IN-dev-167"}
+{"text": "olly स्पष्ट सूची", "label": "lists", "source": "massive-hi-IN", "massive_id": "10824", "id": "hi-IN-dev-168"}
+{"text": "क्या california में snowing गिर रही है", "label": "weather", "source": "massive-hi-IN", "massive_id": "336", "id": "hi-IN-dev-169"}
+{"text": "क्या मुझे गोल्फ क्लब जाने पर सनबर्न क्रीम लगाने की ज़रूरत है", "label": "weather", "source": "massive-hi-IN", "massive_id": "5664", "id": "hi-IN-dev-170"}
+{"text": "आज मेरे कैलेंडर पर क्या निर्धारित है", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8469", "id": "hi-IN-dev-171"}
+{"text": "थोड़ा सा तेज़ धन्यवाद", "label": "home", "source": "massive-hi-IN", "massive_id": "2130", "id": "hi-IN-dev-172"}
+{"text": "पिछली list मिटाओ", "label": "lists", "source": "massive-hi-IN", "massive_id": "10801", "id": "hi-IN-dev-173"}
+{"text": "मनीष को एक व्यक्तिगत धन्यवाद ईमेल भेजें", "label": "email", "source": "massive-hi-IN", "massive_id": "17077", "id": "hi-IN-dev-174"}
+{"text": "मुझे मेरी पेंडिंग टास्क के बारे में बताओ", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7266", "id": "hi-IN-dev-175"}
+{"text": "बेटी को ईमेल भेजें", "label": "email", "source": "massive-hi-IN", "massive_id": "16604", "id": "hi-IN-dev-176"}
+{"text": "कैलेंडर अपडेट करने के बारे में बताओ", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8086", "id": "hi-IN-dev-177"}
+{"text": "क्या रेल गाडी से कश्मीरी gate जाने के लिए ticket बुक कर सकते है", "label": "transport", "source": "massive-hi-IN", "massive_id": "12819", "id": "hi-IN-dev-178"}
+{"text": "इस गुरुवार को ताल बैठक को कैलेंडर में जोड़ें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7045", "id": "hi-IN-dev-179"}
+{"text": "रोहन का ईमेल क्या है", "label": "email", "source": "massive-hi-IN", "massive_id": "16952", "id": "hi-IN-dev-180"}
+{"text": "मुझे आगामी राष्ट्रीय अवकाश के बारे में याद दिलाएं", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8451", "id": "hi-IN-dev-181"}
+{"text": "रोहन का संपर्क विवरण", "label": "email", "source": "massive-hi-IN", "massive_id": "17111", "id": "hi-IN-dev-182"}
+{"text": "क्या मेरे पास राम का कोई नया ईमेल है", "label": "email", "source": "massive-hi-IN", "massive_id": "16731", "id": "hi-IN-dev-183"}
+{"text": "मेरा कल छह बजे फिरोजशाह कोटला में अभ्यास हैं", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7860", "id": "hi-IN-dev-184"}
+{"text": "मैनचेस्टर में वर्जिन ट्रेन कितने बजे आती है", "label": "transport", "source": "massive-hi-IN", "massive_id": "12881", "id": "hi-IN-dev-185"}
+{"text": "क्या मेरे पास इस प्रेषक के ईमेल हैं", "label": "email", "source": "massive-hi-IN", "massive_id": "16914", "id": "hi-IN-dev-186"}
+{"text": "आज का तापमान क्या है", "label": "weather", "source": "massive-hi-IN", "massive_id": "13441", "id": "hi-IN-dev-187"}
+{"text": "आइटम डिलीट करो", "label": "lists", "source": "massive-hi-IN", "massive_id": "10444", "id": "hi-IN-dev-188"}
+{"text": "बत्ती बुझाओ", "label": "home", "source": "massive-hi-IN", "massive_id": "5431", "id": "hi-IN-dev-189"}
+{"text": "शुक्रवार के लिए मेरे कैलेंडर में योग जोड़ें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7775", "id": "hi-IN-dev-190"}
+{"text": "इस महीने के लिए मेरे रिमाइंडर क्या हैं", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8458", "id": "hi-IN-dev-191"}
+{"text": "क्या मुझे आज रात अपने साथ जैकेट लाना चाहिए", "label": "weather", "source": "massive-hi-IN", "massive_id": "4290", "id": "hi-IN-dev-192"}
+{"text": "कृपया मुझे एक कॉफी चाहिए", "label": "home", "source": "massive-hi-IN", "massive_id": "3678", "id": "hi-IN-dev-193"}
+{"text": "मुझे जगाने की जरूरत है मुझे सबसे मजबूत कॉफी बनाओ जो आप बना सकते हैं", "label": "home", "source": "massive-hi-IN", "massive_id": "3198", "id": "hi-IN-dev-194"}
+{"text": "मेरी पसंदीदा सूची में कौन से गाने हैं", "label": "lists", "source": "massive-hi-IN", "massive_id": "10932", "id": "hi-IN-dev-195"}
+{"text": "कृपया मेरे ईमेल जाँचें और अगर कोई भी नया ईमेल मौजूद है तो मुझे सूचित करें", "label": "email", "source": "massive-hi-IN", "massive_id": "16713", "id": "hi-IN-dev-196"}
+{"text": "कृपया उस सूची को मेरे पास वापस पढ़ें", "label": "lists", "source": "massive-hi-IN", "massive_id": "11013", "id": "hi-IN-dev-197"}
+{"text": "मेरे अनुस्मारक खोलें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7802", "id": "hi-IN-dev-198"}
+{"text": "क्या मेरे पास शुक्रवार की तारीख है", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8072", "id": "hi-IN-dev-199"}
+{"text": "मेरे कैलेंडर में कार्यक्रम को एक पी.एम. पर हटा दें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8434", "id": "hi-IN-dev-200"}
+{"text": "कल सुबह दस बजे गूगल ऑफिस में मेरी मीटिंग जोड़ें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7519", "id": "hi-IN-dev-201"}
+{"text": "इस ट्रेन के लिए प्रस्थान का आगमन समय क्या है", "label": "transport", "source": "massive-hi-IN", "massive_id": "12570", "id": "hi-IN-dev-202"}
+{"text": "मुझे और रोशनी चाहिए", "label": "home", "source": "massive-hi-IN", "massive_id": "2402", "id": "hi-IN-dev-203"}
+{"text": "अगले सात दिन मौसम का हाल क्या रहेगा", "label": "weather", "source": "massive-hi-IN", "massive_id": "1725", "id": "hi-IN-dev-204"}
+{"text": "कमरे की बत्ती बंद कर दो", "label": "home", "source": "massive-hi-IN", "massive_id": "5518", "id": "hi-IN-dev-205"}
+{"text": "हे google क्या आप अगले सोमवार की रात को कार्ल के साथ मेरी तिथि के लिए सहेज सकते हैं", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8237", "id": "hi-IN-dev-206"}
+{"text": "मेरे अपठित ईमेल पढ़ें", "label": "email", "source": "massive-hi-IN", "massive_id": "16294", "id": "hi-IN-dev-207"}
+{"text": "google मुझे अपनी माँ को कॉल करने की ज़रूरत है क्या आप मेरे लिए उसका ऑफिस का नंबर देखेंगे", "label": "email", "source": "massive-hi-IN", "massive_id": "16554", "id": "hi-IN-dev-208"}
+{"text": "olly वहाँ एक अच्छा बैंड बज रहा है जो आज रात नौ बजे सागर रत्ना में मैं जाना चाहता हूँ", "label": "calendar", "source": "massive-hi-IN", "massive_id": "6819", "id": "hi-IN-dev-209"}
+{"text": "रोबोट वैक्यूम क्लीनर शुरु करें", "label": "home", "source": "massive-hi-IN", "massive_id": "2434", "id": "hi-IN-dev-210"}
+{"text": "वैक्यूम क्लीनर चालू करें", "label": "home", "source": "massive-hi-IN", "massive_id": "5571", "id": "hi-IN-dev-211"}
+{"text": "google कोई नए ईमेल के लिए चेक करो", "label": "email", "source": "massive-hi-IN", "massive_id": "16587", "id": "hi-IN-dev-212"}
+{"text": "किचन की लाइट्स को बंद कर दो", "label": "home", "source": "massive-hi-IN", "massive_id": "5397", "id": "hi-IN-dev-213"}
+{"text": "संपर्कों में सूचियों के शीर्षक क्या हैं", "label": "lists", "source": "massive-hi-IN", "massive_id": "10955", "id": "hi-IN-dev-214"}
+{"text": "नरेंद्र मोदी पर नवीनतम क्या है", "label": "news", "source": "massive-hi-IN", "massive_id": "5224", "id": "hi-IN-dev-215"}
+{"text": "तुम मुझे कुछ कॉफी दे सकते हो", "label": "home", "source": "massive-hi-IN", "massive_id": "2305", "id": "hi-IN-dev-216"}
+{"text": "कॉफ़ी मशीन को तीन बजे स्टार्ट कर दो", "label": "home", "source": "massive-hi-IN", "massive_id": "4443", "id": "hi-IN-dev-217"}
+{"text": "क्या राम ने मुझे गोला-बारूद के बारे में ईमेल किया है", "label": "email", "source": "massive-hi-IN", "massive_id": "16357", "id": "hi-IN-dev-218"}
+{"text": "क्या मुझे आज सनस्क्रीन पहनने की जरूरत है", "label": "weather", "source": "massive-hi-IN", "massive_id": "4473", "id": "hi-IN-dev-219"}
+{"text": "कृपया मुझे इस महीने किराने का सामान ऑर्डर करें", "label": "lists", "source": "massive-hi-IN", "massive_id": "15122", "id": "hi-IN-dev-220"}
+{"text": "वेमो प्लग सॉकेट चालू करें", "label": "home", "source": "massive-hi-IN", "massive_id": "3804", "id": "hi-IN-dev-221"}
+{"text": "सीएनएन वेबसाइट पर समाचार क्या हैं", "label": "news", "source": "massive-hi-IN", "massive_id": "2921", "id": "hi-IN-dev-222"}
+{"text": "क्या बाहर ठंड है", "label": "weather", "source": "massive-hi-IN", "massive_id": "5787", "id": "hi-IN-dev-223"}
+{"text": "कैलिफ़ोर्निया में वर्तमान मौसम कैसा है", "label": "weather", "source": "massive-hi-IN", "massive_id": "655", "id": "hi-IN-dev-224"}
+{"text": "मेरी अगली गतिविधि साफ़ करें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8853", "id": "hi-IN-dev-225"}
+{"text": "क्या मुझे कल छाता लाना चाहिए", "label": "weather", "source": "massive-hi-IN", "massive_id": "219", "id": "hi-IN-dev-226"}
+{"text": "गूगल कैलेंडर इक्कीस मार्च को एक आयोजन को जोड़ो", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7050", "id": "hi-IN-dev-227"}
+{"text": "एक विपरीत बनाओ", "label": "home", "source": "massive-hi-IN", "massive_id": "2262", "id": "hi-IN-dev-228"}
+{"text": "क्या मुझे उज्ज्वल से कोई नया ईमेल मिला है", "label": "email", "source": "massive-hi-IN", "massive_id": "17070", "id": "hi-IN-dev-229"}
+{"text": "मेरे नए ईमेल कौन से हैं", "label": "email", "source": "massive-hi-IN", "massive_id": "15935", "id": "hi-IN-dev-230"}
+{"text": "मेरे लिए एक कॉफी लाओ", "label": "home", "source": "massive-hi-IN", "massive_id": "1619", "id": "hi-IN-dev-231"}
+{"text": "मेरे मार्च कैलेंडर में आयोजन को सूचीबद्ध किया जाना है", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7359", "id": "hi-IN-dev-232"}
+{"text": "olly गर्म और मीठा सोया वाला बनाओ", "label": "home", "source": "massive-hi-IN", "massive_id": "5814", "id": "hi-IN-dev-233"}
+{"text": "मनोज के ईमेल जांचें", "label": "email", "source": "massive-hi-IN", "massive_id": "16991", "id": "hi-IN-dev-234"}
+{"text": "इस घटना को मेरे कैलेंडर अधिसूचना से हटा दें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "9195", "id": "hi-IN-dev-235"}
+{"text": "मेरे नए ईमेल के बारे में बताओ", "label": "email", "source": "massive-hi-IN", "massive_id": "16337", "id": "hi-IN-dev-236"}
+{"text": "दुनिया में क्या चल रहा है", "label": "news", "source": "massive-hi-IN", "massive_id": "293", "id": "hi-IN-dev-237"}
+{"text": "कृपया पिछले बीस प्राप्त ईमेल की विषय पंक्तियों को सूचीबद्ध करें", "label": "email", "source": "massive-hi-IN", "massive_id": "16793", "id": "hi-IN-dev-238"}
+{"text": "आज धूप का दिन है या नहीं", "label": "weather", "source": "massive-hi-IN", "massive_id": "1969", "id": "hi-IN-dev-239"}
+{"text": "क्या मेरे पास कोई रिमाइंडर है", "label": "calendar", "source": "massive-hi-IN", "massive_id": "6784", "id": "hi-IN-dev-240"}
+{"text": "क्या अभी गोनबाद में धूप खिली हुई है", "label": "weather", "source": "massive-hi-IN", "massive_id": "375", "id": "hi-IN-dev-241"}
+{"text": "कृपया अगली टैक्सी बुक करें", "label": "transport", "source": "massive-hi-IN", "massive_id": "12904", "id": "hi-IN-dev-242"}
+{"text": "क्या मेरे पापा की ओर से कोई नया ईमेल आया है", "label": "email", "source": "massive-hi-IN", "massive_id": "15891", "id": "hi-IN-dev-243"}
+{"text": "क्या तुम बत्तियों को बीस प्रतिशत कम कर सकते हो", "label": "home", "source": "massive-hi-IN", "massive_id": "1075", "id": "hi-IN-dev-244"}
+{"text": "उत्तर लिखें", "label": "email", "source": "massive-hi-IN", "massive_id": "16176", "id": "hi-IN-dev-245"}
+{"text": "आज सुबह दिल्ली में तापमान क्या था", "label": "weather", "source": "massive-hi-IN", "massive_id": "1254", "id": "hi-IN-dev-246"}
+{"text": "इस सप्ताहांत पर किये वाले जाने काम की सूची मिटायें", "label": "lists", "source": "massive-hi-IN", "massive_id": "10937", "id": "hi-IN-dev-247"}
+{"text": "क्या आप कृपया प्रकाश का मूड बदल सकते हैं", "label": "home", "source": "massive-hi-IN", "massive_id": "1236", "id": "hi-IN-dev-248"}
+{"text": "कृपया list से sporty इवैंट को remoov करो", "label": "lists", "source": "massive-hi-IN", "massive_id": "10686", "id": "hi-IN-dev-249"}
+{"text": "क्या मुझे आज रात अपनी खिड़कियां खुली रखनी चाहिए", "label": "weather", "source": "massive-hi-IN", "massive_id": "6094", "id": "hi-IN-dev-250"}
+{"text": "मैने अपनी मतदाता सूची खत्म कर दी", "label": "lists", "source": "massive-hi-IN", "massive_id": "6204", "id": "hi-IN-dev-251"}
+{"text": "बैठक कृपया अनुस्मारक सेट करें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8392", "id": "hi-IN-dev-252"}
+{"text": "खरीदारी सूची हटाएं", "label": "lists", "source": "massive-hi-IN", "massive_id": "10432", "id": "hi-IN-dev-253"}
+{"text": "बैठक से पहले अलर्ट भेजें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7981", "id": "hi-IN-dev-254"}
+{"text": "ट्रेन टिकिट खरीदो", "label": "transport", "source": "massive-hi-IN", "massive_id": "12461", "id": "hi-IN-dev-255"}
+{"text": "लाइट बंद करें", "label": "home", "source": "massive-hi-IN", "massive_id": "5761", "id": "hi-IN-dev-256"}
+{"text": "सूची तैयार करें", "label": "lists", "source": "massive-hi-IN", "massive_id": "10489", "id": "hi-IN-dev-257"}
+{"text": "रेल से भोपाल की यात्रा का समय निर्धारित करें", "label": "transport", "source": "massive-hi-IN", "massive_id": "12130", "id": "hi-IN-dev-258"}
+{"text": "समाचार चालू करें", "label": "news", "source": "massive-hi-IN", "massive_id": "3100", "id": "hi-IN-dev-259"}
+{"text": "पढ़ो मेरी सूची में क्या है", "label": "lists", "source": "massive-hi-IN", "massive_id": "10731", "id": "hi-IN-dev-260"}
+{"text": "मैं हमेशा ध्यान देता हूँ", "label": "weather", "source": "massive-hi-IN", "massive_id": "1399", "id": "hi-IN-dev-261"}
+{"text": "बत्ती की चमक बढ़ाएं यहाँ नीचे देखना मुश्किल है", "label": "home", "source": "massive-hi-IN", "massive_id": "6053", "id": "hi-IN-dev-262"}
+{"text": "क्या मेरे लिए सोशल मीडिया से कोई सूचना है", "label": "calendar", "source": "massive-hi-IN", "massive_id": "15305", "id": "hi-IN-dev-263"}
+{"text": "लाइट्स को कनेक्ट कर दो", "label": "home", "source": "massive-hi-IN", "massive_id": "4369", "id": "hi-IN-dev-264"}
+{"text": "क्या आप रोशनी कम कर सकते हैं", "label": "home", "source": "massive-hi-IN", "massive_id": "665", "id": "hi-IN-dev-265"}
+{"text": "मुझे अब कुछ कॉफी चाहिए", "label": "home", "source": "massive-hi-IN", "massive_id": "3630", "id": "hi-IN-dev-266"}
+{"text": "कृपया मंगलवार को मौसम की जांच करें", "label": "weather", "source": "massive-hi-IN", "massive_id": "5377", "id": "hi-IN-dev-267"}
+{"text": "मेरे कैलेंडर से रमेश यादव के साथ मुलाकात हटायें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7294", "id": "hi-IN-dev-268"}
+{"text": "जुलाई तीन कैलेंडर पर खाली करें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "9040", "id": "hi-IN-dev-269"}
+{"text": "मैं चाहता हूं कि कॉफी मशीन मुझे कॉफी बना दे", "label": "home", "source": "massive-hi-IN", "massive_id": "2867", "id": "hi-IN-dev-270"}
+{"text": "लाइट्स को बढ़ा दो", "label": "home", "source": "massive-hi-IN", "massive_id": "1089", "id": "hi-IN-dev-271"}
+{"text": "मोदी के बारे में समाचार लेख देखें", "label": "news", "source": "massive-hi-IN", "massive_id": "4607", "id": "hi-IN-dev-272"}
+{"text": "चेतेश्वर पुजारा ने कल कितने रन बनाए थे", "label": "news", "source": "massive-hi-IN", "massive_id": "5232", "id": "hi-IN-dev-273"}
+{"text": "यह गंदा है यहाँ कुछ आवाज़ उठाओ", "label": "home", "source": "massive-hi-IN", "massive_id": "27", "id": "hi-IN-dev-274"}
+{"text": "डॉक्टर आलिया के साथ मेरा अगला appointment कब है", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7185", "id": "hi-IN-dev-275"}
+{"text": "वर्तमान यातायात", "label": "transport", "source": "massive-hi-IN", "massive_id": "12665", "id": "hi-IN-dev-276"}
+{"text": "इस सप्ताह कौन से रिमाइंडर आ रहे हैं", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7846", "id": "hi-IN-dev-277"}
+{"text": "यह देखने के लिए जांचें कि क्या मेरे पास नए ईमेल हैं कृपया", "label": "email", "source": "massive-hi-IN", "massive_id": "16551", "id": "hi-IN-dev-278"}
+{"text": "बत्ती में रोशनी बढ़ाओ", "label": "home", "source": "massive-hi-IN", "massive_id": "5002", "id": "hi-IN-dev-279"}
+{"text": "कविता को एक ईमेल लिखो", "label": "email", "source": "massive-hi-IN", "massive_id": "17113", "id": "hi-IN-dev-280"}
+{"text": "क्या आज दिन चमकीला है", "label": "weather", "source": "massive-hi-IN", "massive_id": "4505", "id": "hi-IN-dev-281"}
+{"text": "olly स्टारबक्स कॉफी शॉप को एक कॉफी ऑर्डर करें", "label": "home", "source": "massive-hi-IN", "massive_id": "1815", "id": "hi-IN-dev-282"}
+{"text": "सूची करो", "label": "lists", "source": "massive-hi-IN", "massive_id": "11105", "id": "hi-IN-dev-283"}
+{"text": "train से दोपहर से पहले जयपुर कैसे पहुँचे", "label": "transport", "source": "massive-hi-IN", "massive_id": "12128", "id": "hi-IN-dev-284"}
+{"text": "मोदी सत्र के बारे में मेरे लिए न्यूज़ पढ़ो", "label": "news", "source": "massive-hi-IN", "massive_id": "3129", "id": "hi-IN-dev-285"}
+{"text": "घर की सभी lights को orange कर दो", "label": "home", "source": "massive-hi-IN", "massive_id": "1643", "id": "hi-IN-dev-286"}
+{"text": "क्या तुम मेरे लिए शिमला का मौसम चेक कर सकते हो", "label": "weather", "source": "massive-hi-IN", "massive_id": "4169", "id": "hi-IN-dev-287"}
+{"text": "रोहन को जवाब दो और उसे बताओ कि मैं कल मुक्त हो जाऊंगा", "label": "email", "source": "massive-hi-IN", "massive_id": "16059", "id": "hi-IN-dev-288"}
+{"text": "wemo प्लग सॉकेट को सक्रिय करें", "label": "home", "source": "massive-hi-IN", "massive_id": "4847", "id": "hi-IN-dev-289"}
+{"text": "कॉफ़ी बनाना स्टार्ट कर दो", "label": "home", "source": "massive-hi-IN", "massive_id": "2024", "id": "hi-IN-dev-290"}
+{"text": "दादी को यह कहते हुए एक ईमेल भेजें कि हम शनिवार को जा रहे हैं फिर मिलते हैं", "label": "email", "source": "massive-hi-IN", "massive_id": "16944", "id": "hi-IN-dev-291"}
+{"text": "इस सप्ताह में किस दिन बारिश होगी", "label": "weather", "source": "massive-hi-IN", "massive_id": "3588", "id": "hi-IN-dev-292"}
+{"text": "क्या मेरे पास सूची में कुछ है", "label": "lists", "source": "massive-hi-IN", "massive_id": "10474", "id": "hi-IN-dev-293"}
+{"text": "मौसम का साप्ताहिक विवरण", "label": "weather", "source": "massive-hi-IN", "massive_id": "2917", "id": "hi-IN-dev-294"}
+{"text": "क्या आप कृपया मेरा टी. पी. लिंक प्लग बंद कर सकते हैं", "label": "home", "source": "massive-hi-IN", "massive_id": "4964", "id": "hi-IN-dev-295"}
+{"text": "olly मेरे लिए एक कॉफी बनाओ", "label": "home", "source": "massive-hi-IN", "massive_id": "163", "id": "hi-IN-dev-296"}
+{"text": "क्या मेरे कैलेंडर पर कोई आयोजन आनेवाला है", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7016", "id": "hi-IN-dev-297"}
+{"text": "क्या कोई नया ईमेल है", "label": "email", "source": "massive-hi-IN", "massive_id": "17006", "id": "hi-IN-dev-298"}
+{"text": "इस शनिवार को हर्ष की जगह में पूल पार्टी के लिए मेरे कैलेंडर में एक कार्यक्रम निर्धारित करें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8594", "id": "hi-IN-dev-299"}
+{"text": "मैं कॉफी पीना चाहता हूँ", "label": "home", "source": "massive-hi-IN", "massive_id": "5540", "id": "hi-IN-dev-300"}
+{"text": "मैंने कौन सी सूचियां बनायीं हैं", "label": "lists", "source": "massive-hi-IN", "massive_id": "10650", "id": "hi-IN-dev-301"}
+{"text": "मौसम कैसा है", "label": "weather", "source": "massive-hi-IN", "massive_id": "6316", "id": "hi-IN-dev-302"}
+{"text": "मुझे पाँच बजे की ट्रेन से जोधपुर के लिए निकलना है", "label": "transport", "source": "massive-hi-IN", "massive_id": "12642", "id": "hi-IN-dev-303"}
+{"text": "राहुल विवाह अनुस्मारक", "label": "calendar", "source": "massive-hi-IN", "massive_id": "9035", "id": "hi-IN-dev-304"}
+{"text": "कृपया वेमो पावर में कटौती करें", "label": "home", "source": "massive-hi-IN", "massive_id": "4203", "id": "hi-IN-dev-305"}
+{"text": "सब्जियों को सूची से हटा दें", "label": "lists", "source": "massive-hi-IN", "massive_id": "11202", "id": "hi-IN-dev-306"}
+{"text": "क्या आप मुझे मैकडॉनल्ड्स मैनहट्टन से मेरे घर तक का रास्ता बता सकते हैं", "label": "transport", "source": "massive-hi-IN", "massive_id": "12650", "id": "hi-IN-dev-307"}
+{"text": "क्या आप मेरे लिए राजेश को एक ईमेल लिखेंगे", "label": "email", "source": "massive-hi-IN", "massive_id": "16534", "id": "hi-IN-dev-308"}
+{"text": "शनिवार को सुबह सात बजे सिनेमा समय नाम की दोहराई जाने वाली घटना जोड़ें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "6826", "id": "hi-IN-dev-309"}
+{"text": "मेरा प्लग अक्षम करें", "label": "home", "source": "massive-hi-IN", "massive_id": "321", "id": "hi-IN-dev-310"}
+{"text": "संपर्क कृपया", "label": "email", "source": "massive-hi-IN", "massive_id": "17090", "id": "hi-IN-dev-311"}
+{"text": "क्या आप बत्तियाँ बंद कर सकते हैं", "label": "home", "source": "massive-hi-IN", "massive_id": "999", "id": "hi-IN-dev-312"}
+{"text": "मेरे कैलेंडर पर कौन-सी घटनाएँ हैं", "label": "calendar", "source": "massive-hi-IN", "massive_id": "6790", "id": "hi-IN-dev-313"}
+{"text": "खरीदने के लिए चीजों की एक सूची निकालें", "label": "lists", "source": "massive-hi-IN", "massive_id": "10458", "id": "hi-IN-dev-314"}
+{"text": "सूची में इसे नोट करें", "label": "lists", "source": "massive-hi-IN", "massive_id": "10711", "id": "hi-IN-dev-315"}
+{"text": "तरह मौसम", "label": "weather", "source": "massive-hi-IN", "massive_id": "6635", "id": "hi-IN-dev-316"}
+{"text": "क्या मुझे कबीर से कोई संदेश मिलता है", "label": "email", "source": "massive-hi-IN", "massive_id": "16985", "id": "hi-IN-dev-317"}
+{"text": "ईमेल चेक संदेश खोलें", "label": "email", "source": "massive-hi-IN", "massive_id": "16414", "id": "hi-IN-dev-318"}
+{"text": "मेरे पास कितने अपठित ईमेल हैं", "label": "email", "source": "massive-hi-IN", "massive_id": "16421", "id": "hi-IN-dev-319"}
+{"text": "पंजाब mail के ग्वालियर पहुँचने का तय समय क्या है", "label": "transport", "source": "massive-hi-IN", "massive_id": "12267", "id": "hi-IN-dev-320"}
+{"text": "क्या आप मुझे दिल्ली के लिए अगली चार निर्धारित ट्रेनों के बारे में बता सकते हैं", "label": "transport", "source": "massive-hi-IN", "massive_id": "12247", "id": "hi-IN-dev-321"}
+{"text": "i remind दिलाएं कि मेरे पास कितने हैं", "label": "lists", "source": "massive-hi-IN", "massive_id": "10957", "id": "hi-IN-dev-322"}
+{"text": "क्या कोई नई पर्यावरण खबर है", "label": "news", "source": "massive-hi-IN", "massive_id": "2595", "id": "hi-IN-dev-323"}
+{"text": "जिस सूची को मिटाना है तो उसे ढूंढो", "label": "lists", "source": "massive-hi-IN", "massive_id": "11095", "id": "hi-IN-dev-324"}
+{"text": "मेरा रोबोट वैक्यूम क्लीनर चालू करो", "label": "home", "source": "massive-hi-IN", "massive_id": "4074", "id": "hi-IN-dev-325"}
+{"text": "मेरी अगली मुलाकात से पहले मुझे एक दिन का नोटिस दें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8187", "id": "hi-IN-dev-326"}
+{"text": "मैं घर तक की सवारी करना चाहता हूँ", "label": "transport", "source": "massive-hi-IN", "massive_id": "12548", "id": "hi-IN-dev-327"}
+{"text": "बाथरूम की लाइट्स को बंद कर दो", "label": "home", "source": "massive-hi-IN", "massive_id": "5242", "id": "hi-IN-dev-328"}
+{"text": "धूल साफ करें और फिर क्लीनर चालू करें", "label": "home", "source": "massive-hi-IN", "massive_id": "5528", "id": "hi-IN-dev-329"}
+{"text": "मुंबई से कोलकाता जाने वाली ट्रेन खोजें", "label": "transport", "source": "massive-hi-IN", "massive_id": "12771", "id": "hi-IN-dev-330"}
+{"text": "क्या मुझे अब अपना रेनकोट अपने साथ ले जाना चाहिए", "label": "weather", "source": "massive-hi-IN", "massive_id": "5661", "id": "hi-IN-dev-331"}
+{"text": "मेरी पत्नी को अगले सप्ताह के मौसम के बारे में एक ईमेल लिखें", "label": "email", "source": "massive-hi-IN", "massive_id": "16259", "id": "hi-IN-dev-332"}
+{"text": "मुझे इस क्षेत्र का कल का मौसम दिखाओ", "label": "weather", "source": "massive-hi-IN", "massive_id": "5720", "id": "hi-IN-dev-333"}
+{"text": "मेरे पसंदीदा संपर्कों की सूची में ईशनि यादव को जोड़ें", "label": "email", "source": "massive-hi-IN", "massive_id": "15976", "id": "hi-IN-dev-334"}
+{"text": "क्या आज तूफ़ानी मौसम है", "label": "weather", "source": "massive-hi-IN", "massive_id": "3130", "id": "hi-IN-dev-335"}
+{"text": "प्रकाश ईमेल पढ़ें", "label": "email", "source": "massive-hi-IN", "massive_id": "16696", "id": "hi-IN-dev-336"}
+{"text": "आने वाला कार्यक्रम क्या था", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7643", "id": "hi-IN-dev-337"}
+{"text": "क्या मेरे पास आज तीन से चार बजे के बीच कुछ निर्धारित है", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7900", "id": "hi-IN-dev-338"}
+{"text": "अगर मुझे आज एक नया ईमेल मिले तो मुझे बताएं", "label": "email", "source": "massive-hi-IN", "massive_id": "15965", "id": "hi-IN-dev-339"}
+{"text": "olly तीस मिनट में एक उबर बुलाओ", "label": "transport", "source": "massive-hi-IN", "massive_id": "12496", "id": "hi-IN-dev-340"}
+{"text": "पिछले दस मिनट में ईमेल", "label": "email", "source": "massive-hi-IN", "massive_id": "16763", "id": "hi-IN-dev-341"}
+{"text": "मुझे बताओ की अभी औरंगाबाद महाराष्ट्र में मौसम कैसा है", "label": "weather", "source": "massive-hi-IN", "massive_id": "2265", "id": "hi-IN-dev-342"}
+{"text": "इनबॉक्स खोलो", "label": "email", "source": "massive-hi-IN", "massive_id": "16844", "id": "hi-IN-dev-343"}
+{"text": "सूची से सेब हटाओ", "label": "lists", "source": "massive-hi-IN", "massive_id": "10519", "id": "hi-IN-dev-344"}
+{"text": "मुझे चर्च के बाद रविवार को महिला क्लब के साथ मिलने के लिए एक अनुस्मारक सेट करें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "9086", "id": "hi-IN-dev-345"}
+{"text": "मुझे कल सभी बैठकों के बारे में सूचित करें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "7413", "id": "hi-IN-dev-346"}
+{"text": "आज कितनी गर्मी है", "label": "weather", "source": "massive-hi-IN", "massive_id": "5036", "id": "hi-IN-dev-347"}
+{"text": "क्या कोई यातायात है", "label": "transport", "source": "massive-hi-IN", "massive_id": "12862", "id": "hi-IN-dev-348"}
+{"text": "आज का मौसम कैसा है", "label": "weather", "source": "massive-hi-IN", "massive_id": "4789", "id": "hi-IN-dev-349"}
+{"text": "क्या आप बत्तियों को उच्च सेटिंग पर रख सकते हैं", "label": "home", "source": "massive-hi-IN", "massive_id": "3428", "id": "hi-IN-dev-350"}
+{"text": "सूची कैसे चालू करें", "label": "lists", "source": "massive-hi-IN", "massive_id": "10697", "id": "hi-IN-dev-351"}
+{"text": "यह बहुत उज्ज्वल है", "label": "home", "source": "massive-hi-IN", "massive_id": "3701", "id": "hi-IN-dev-352"}
+{"text": "शहर में ट्रैफिक कैसा है", "label": "transport", "source": "massive-hi-IN", "massive_id": "12672", "id": "hi-IN-dev-353"}
+{"text": "वैक्यूम क्लीनर को अभी शुरू करो कंपनी आ रही है", "label": "home", "source": "massive-hi-IN", "massive_id": "3659", "id": "hi-IN-dev-354"}
+{"text": "मेरे कमरे की रोशनी कुछ प्रेम प्रसंगयुक्त रंग में बदलो", "label": "home", "source": "massive-hi-IN", "massive_id": "414", "id": "hi-IN-dev-355"}
+{"text": "मुझे जाने के लिए train का टिकट दिलाओ", "label": "transport", "source": "massive-hi-IN", "massive_id": "12157", "id": "hi-IN-dev-356"}
+{"text": "क्या आपके पास बरेली के लिए रेलगाड़ी की समय सारिणी है", "label": "transport", "source": "massive-hi-IN", "massive_id": "12623", "id": "hi-IN-dev-357"}
+{"text": "नहलूर के लिए ट्रेन कितने बजे निकलती है", "label": "transport", "source": "massive-hi-IN", "massive_id": "12484", "id": "hi-IN-dev-358"}
+{"text": "मंगलवार को मौसम कैसा होना चाहिए", "label": "weather", "source": "massive-hi-IN", "massive_id": "605", "id": "hi-IN-dev-359"}
+{"text": "कृपया माँ से ईमेल देखें", "label": "email", "source": "massive-hi-IN", "massive_id": "16381", "id": "hi-IN-dev-360"}
+{"text": "इस सप्ताह सोमवार को मौसम कैसा रहेगा", "label": "weather", "source": "massive-hi-IN", "massive_id": "1259", "id": "hi-IN-dev-361"}
+{"text": "अच्छा", "label": "calendar", "source": "massive-hi-IN", "massive_id": "6885", "id": "hi-IN-dev-362"}
+{"text": "दालान तक कैसे पहुंचे", "label": "email", "source": "massive-hi-IN", "massive_id": "16870", "id": "hi-IN-dev-363"}
+{"text": "क्या आप मेरे स्नान घर में मेरी बत्तियाँ बंद कर सकते हैं", "label": "home", "source": "massive-hi-IN", "massive_id": "3093", "id": "hi-IN-dev-364"}
+{"text": "मुझे मंद बत्तियाँ चाहिए", "label": "home", "source": "massive-hi-IN", "massive_id": "964", "id": "hi-IN-dev-365"}
+{"text": "मुझे नए ईमेल के बारे में बताएं", "label": "email", "source": "massive-hi-IN", "massive_id": "16647", "id": "hi-IN-dev-366"}
+{"text": "अगले दो सप्ताह हर दिन शाम सात बजे मुझे मेरी दवा लेने के लिए याद दिलाएं", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8617", "id": "hi-IN-dev-367"}
+{"text": "क्या यह मेरे मालिक के लिए सही क्षेत्र कोड है", "label": "email", "source": "massive-hi-IN", "massive_id": "16582", "id": "hi-IN-dev-368"}
+{"text": "राम एट जीमेल डॉट कॉम पर एक ईमेल लिखें", "label": "email", "source": "massive-hi-IN", "massive_id": "17042", "id": "hi-IN-dev-369"}
+{"text": "बुधवार के लिए जन्मदिन का कार्यक्रम निर्धारित करें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "9006", "id": "hi-IN-dev-370"}
+{"text": "कृपया चिकित्सक मुरारी के कार्यालय में बुधवार को नो ऐ.एम. पर अपॉइंटमेंट जोड़ें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8487", "id": "hi-IN-dev-371"}
+{"text": "मेरे इनबॉक्स की स्थिति", "label": "email", "source": "massive-hi-IN", "massive_id": "17049", "id": "hi-IN-dev-372"}
+{"text": "new reminder तीन पी.एम. पर सेट करें", "label": "calendar", "source": "massive-hi-IN", "massive_id": "8775", "id": "hi-IN-dev-373"}
+{"text": "मोहन से नवीनतम ईमेल दिखाएं", "label": "email", "source": "massive-hi-IN", "massive_id": "16078", "id": "hi-IN-dev-374"}
+{"text": "मेरे कैलेंडर से सभी ईवेंट हटाएं", "label": "calendar", "source": "massive-hi-IN", "massive_id": "6899", "id": "hi-IN-dev-375"}
+{"text": "खरीदारी की सूची हटाएं", "label": "lists", "source": "massive-hi-IN", "massive_id": "11023", "id": "hi-IN-dev-376"}
+{"text": "गुरूवार मुझे दोपहर दो बजे संपादक की बैठक के लिए एक रिमाइंडर चाहिए", "label": "calendar", "source": "massive-hi-IN", "massive_id": "9085", "id": "hi-IN-dev-377"}
+{"text": "कृपया इस प्रेषक के हालिया ईमेल अध्ययन की जांच करें", "label": "email", "source": "massive-hi-IN", "massive_id": "16445", "id": "hi-IN-dev-378"}

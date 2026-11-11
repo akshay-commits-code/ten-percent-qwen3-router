@@ -1,0 +1,379 @@
+{"text": "tăng ánh sáng lên", "label": "home", "source": "massive-vi-VN", "massive_id": "3762", "id": "vi-VN-pool-0"}
+{"text": "thay đổi đèn thành màu đỏ", "label": "home", "source": "massive-vi-VN", "massive_id": "3776", "id": "vi-VN-pool-1"}
+{"text": "tôi cần một chiếc taxi để lái bây giờ", "label": "transport", "source": "massive-vi-VN", "massive_id": "12428", "id": "vi-VN-pool-2"}
+{"text": "bật ổ chuyển đổi", "label": "home", "source": "massive-vi-VN", "massive_id": "5686", "id": "vi-VN-pool-3"}
+{"text": "thời tiết tuần này như thế nào", "label": "weather", "source": "massive-vi-VN", "massive_id": "2516", "id": "vi-VN-pool-4"}
+{"text": "thời tiết như thế nào ở seattle", "label": "weather", "source": "massive-vi-VN", "massive_id": "2557", "id": "vi-VN-pool-5"}
+{"text": "làm sao tôi cài đặt thời gian cho máy làm cà phê của tôi", "label": "home", "source": "massive-vi-VN", "massive_id": "2513", "id": "vi-VN-pool-6"}
+{"text": "đặt lịch hẹn với bác sĩ giúp tôi", "label": "calendar", "source": "massive-vi-VN", "massive_id": "13394", "id": "vi-VN-pool-7"}
+{"text": "cho giày vào danh sách của tôi", "label": "lists", "source": "massive-vi-VN", "massive_id": "11221", "id": "vi-VN-pool-8"}
+{"text": "tôi muốn dọn dẹp phòng ngủ bật máy hút bụi và đi vào phòng tôi", "label": "home", "source": "massive-vi-VN", "massive_id": "5329", "id": "vi-VN-pool-9"}
+{"text": "tạo một cuộc hẹn định kì vào lịch của tôi", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8620", "id": "vi-VN-pool-10"}
+{"text": "xoá cuộc họp sáng thứ tư", "label": "calendar", "source": "massive-vi-VN", "massive_id": "10924", "id": "vi-VN-pool-11"}
+{"text": "thêm email", "label": "email", "source": "massive-vi-VN", "massive_id": "16224", "id": "vi-VN-pool-12"}
+{"text": "tôi có số điện thoại công việc nào của cúc không", "label": "email", "source": "massive-vi-VN", "massive_id": "16876", "id": "vi-VN-pool-13"}
+{"text": "tắt đèn phòng ngủ", "label": "home", "source": "massive-vi-VN", "massive_id": "18", "id": "vi-VN-pool-14"}
+{"text": "tôi sẽ có thể mặc đồ ngắn hôm nay phải không", "label": "weather", "source": "massive-vi-VN", "massive_id": "4481", "id": "vi-VN-pool-15"}
+{"text": "gửi email đến bố con sẽ đến tiệc sinh nhật", "label": "email", "source": "massive-vi-VN", "massive_id": "16134", "id": "vi-VN-pool-16"}
+{"text": "bạn có thể đun sôi ấm siêu tốc không", "label": "home", "source": "massive-vi-VN", "massive_id": "4085", "id": "vi-VN-pool-17"}
+{"text": "bắt đầu pha cà phê", "label": "home", "source": "massive-vi-VN", "massive_id": "3232", "id": "vi-VN-pool-18"}
+{"text": "tắt các đèn trong phòng ngủ của tôi", "label": "home", "source": "massive-vi-VN", "massive_id": "4076", "id": "vi-VN-pool-19"}
+{"text": "các sự kiện tuần tới là gì", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7232", "id": "vi-VN-pool-20"}
+{"text": "vui lòng cho tôi biết thời gian của tàu thống nhất", "label": "transport", "source": "massive-vi-VN", "massive_id": "12901", "id": "vi-VN-pool-21"}
+{"text": "thêm mục này vào", "label": "lists", "source": "massive-vi-VN", "massive_id": "11091", "id": "vi-VN-pool-22"}
+{"text": "danh sách mới", "label": "lists", "source": "massive-vi-VN", "massive_id": "10858", "id": "vi-VN-pool-23"}
+{"text": "gọi mẹ", "label": "email", "source": "massive-vi-VN", "massive_id": "10137", "id": "vi-VN-pool-24"}
+{"text": "gửi email đến của giám sát của tôi", "label": "email", "source": "massive-vi-VN", "massive_id": "16536", "id": "vi-VN-pool-25"}
+{"text": "thông báo cho tôi ba ngày trước bài thi hóa của tôi", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7330", "id": "vi-VN-pool-26"}
+{"text": "đặt cho tôi một grab taxi đi long an", "label": "transport", "source": "massive-vi-VN", "massive_id": "12849", "id": "vi-VN-pool-27"}
+{"text": "cho tôi biết tình trạng giao thông từ đây về nhà", "label": "transport", "source": "massive-vi-VN", "massive_id": "12318", "id": "vi-VN-pool-28"}
+{"text": "khi chủ đề mới về chính trị xuất hiện hay báo cho tôi", "label": "news", "source": "massive-vi-VN", "massive_id": "1617", "id": "vi-VN-pool-29"}
+{"text": "làm ơn tìm dự báo của ngày hôm nay", "label": "weather", "source": "massive-vi-VN", "massive_id": "6152", "id": "vi-VN-pool-30"}
+{"text": "vui lòng xóa toàn bộ danh sách tạp hóa của tôi", "label": "lists", "source": "massive-vi-VN", "massive_id": "10735", "id": "vi-VN-pool-31"}
+{"text": "có bất kỳ thư điện tử nào tôi chưa đọc không", "label": "email", "source": "massive-vi-VN", "massive_id": "16011", "id": "vi-VN-pool-32"}
+{"text": "chỉnh ánh sáng sang màu yêu thích của tôi", "label": "home", "source": "massive-vi-VN", "massive_id": "4648", "id": "vi-VN-pool-33"}
+{"text": "tôi cần gửi email đến dũng", "label": "email", "source": "massive-vi-VN", "massive_id": "16996", "id": "vi-VN-pool-34"}
+{"text": "tôi có thể phơi quần áo trên dây", "label": "weather", "source": "massive-vi-VN", "massive_id": "5700", "id": "vi-VN-pool-35"}
+{"text": "đặt vé tàu từ hồ chí minh tới đà lạt", "label": "transport", "source": "massive-vi-VN", "massive_id": "12379", "id": "vi-VN-pool-36"}
+{"text": "nhắc tôi đi tập gym mỗi thứ hai và thứ ba", "label": "calendar", "source": "massive-vi-VN", "massive_id": "6766", "id": "vi-VN-pool-37"}
+{"text": "đưa tôi đến email của sếp tôi", "label": "email", "source": "massive-vi-VN", "massive_id": "16550", "id": "vi-VN-pool-38"}
+{"text": "sinh nhật mẹ", "label": "calendar", "source": "massive-vi-VN", "massive_id": "9111", "id": "vi-VN-pool-39"}
+{"text": "giờ tàu chạy ngày hôm nay", "label": "transport", "source": "massive-vi-VN", "massive_id": "12731", "id": "vi-VN-pool-40"}
+{"text": "gửi thư điện tử đến sếp của tôi về việc nghỉ việc của tôi", "label": "email", "source": "massive-vi-VN", "massive_id": "16102", "id": "vi-VN-pool-41"}
+{"text": "chuyến tàu hỏa tiếp theo đến hà nội", "label": "transport", "source": "massive-vi-VN", "massive_id": "12416", "id": "vi-VN-pool-42"}
+{"text": "những tin nhắn mới mà tôi có là gì", "label": "email", "source": "massive-vi-VN", "massive_id": "16462", "id": "vi-VN-pool-43"}
+{"text": "ai đã email tôi tuần này", "label": "email", "source": "massive-vi-VN", "massive_id": "16367", "id": "vi-VN-pool-44"}
+{"text": "tôi có nhận được bất kỳ email nào từ shopee hai ngày trước không", "label": "email", "source": "massive-vi-VN", "massive_id": "16734", "id": "vi-VN-pool-45"}
+{"text": "xem dự báo thời tiết tuần này", "label": "weather", "source": "massive-vi-VN", "massive_id": "4486", "id": "vi-VN-pool-46"}
+{"text": "vui lòng gửi email đến địa chỉ email mới của thùy tại thuytran a còng gmail.com", "label": "email", "source": "massive-vi-VN", "massive_id": "16200", "id": "vi-VN-pool-47"}
+{"text": "doanh nghiệp nói gì về người vô gia cư trên báo doanh nhân sài gòn", "label": "news", "source": "massive-vi-VN", "massive_id": "2666", "id": "vi-VN-pool-48"}
+{"text": "gửi email đến anh tôi và nói chúc mừng kỷ niệm ngày cưới", "label": "email", "source": "massive-vi-VN", "massive_id": "16103", "id": "vi-VN-pool-49"}
+{"text": "thời tiết như thế nào", "label": "weather", "source": "massive-vi-VN", "massive_id": "3339", "id": "vi-VN-pool-50"}
+{"text": "nhiệt độ hiện tại ở nha trang là bao nhiêu", "label": "weather", "source": "massive-vi-VN", "massive_id": "2346", "id": "vi-VN-pool-51"}
+{"text": "gửi một email cho tôi", "label": "email", "source": "massive-vi-VN", "massive_id": "16305", "id": "vi-VN-pool-52"}
+{"text": "lịch tiếp theo của tôi là gì", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7757", "id": "vi-VN-pool-53"}
+{"text": "tôi có nhận được thư nói nào từ oanh không và ảnh đã nói những gì", "label": "email", "source": "massive-vi-VN", "massive_id": "15801", "id": "vi-VN-pool-54"}
+{"text": "tìm cho tôi vé tàu sớm nhất khởi hành tới sài gòn buổi sáng thứ sáu", "label": "transport", "source": "massive-vi-VN", "massive_id": "12605", "id": "vi-VN-pool-55"}
+{"text": "ngoài trời hôm nay như thế nào", "label": "weather", "source": "massive-vi-VN", "massive_id": "4376", "id": "vi-VN-pool-56"}
+{"text": "thêm lan vào liên hệ email", "label": "email", "source": "massive-vi-VN", "massive_id": "15978", "id": "vi-VN-pool-57"}
+{"text": "có sự kiện nào sắp đến không", "label": "calendar", "source": "massive-vi-VN", "massive_id": "6860", "id": "vi-VN-pool-58"}
+{"text": "mấy giờ tàu hỏa khởi hành ở hà nội", "label": "transport", "source": "massive-vi-VN", "massive_id": "12365", "id": "vi-VN-pool-59"}
+{"text": "các kế hoạch của tôi trong tháng năm là gì", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8461", "id": "vi-VN-pool-60"}
+{"text": "dự báo thời tiết ngày mai như thế nào", "label": "weather", "source": "massive-vi-VN", "massive_id": "346", "id": "vi-VN-pool-61"}
+{"text": "có kẹt xe không", "label": "transport", "source": "massive-vi-VN", "massive_id": "12884", "id": "vi-VN-pool-62"}
+{"text": "tôi có cần áo mưa cho ngày mai hay không", "label": "weather", "source": "massive-vi-VN", "massive_id": "5112", "id": "vi-VN-pool-63"}
+{"text": "vui lòng tắt ổ cắm wemo", "label": "home", "source": "massive-vi-VN", "massive_id": "4572", "id": "vi-VN-pool-64"}
+{"text": "khởi động máy hút bụi cho tôi", "label": "home", "source": "massive-vi-VN", "massive_id": "4011", "id": "vi-VN-pool-65"}
+{"text": "chuyến tàu buổi sáng tới vinh là mấy giờ", "label": "transport", "source": "massive-vi-VN", "massive_id": "12531", "id": "vi-VN-pool-66"}
+{"text": "làm ơn cho tôi biết thời tiết của washington dc sẽ như thế nào trong tuần tới", "label": "weather", "source": "massive-vi-VN", "massive_id": "5143", "id": "vi-VN-pool-67"}
+{"text": "tôi cần cà phê", "label": "home", "source": "massive-vi-VN", "massive_id": "1169", "id": "vi-VN-pool-68"}
+{"text": "con đường nhanh chóng tới nhà", "label": "transport", "source": "massive-vi-VN", "massive_id": "12738", "id": "vi-VN-pool-69"}
+{"text": "tìm kiếm thời hạn của sơn", "label": "email", "source": "massive-vi-VN", "massive_id": "16026", "id": "vi-VN-pool-70"}
+{"text": "mức cao hôm nay là bao nhiêu", "label": "weather", "source": "massive-vi-VN", "massive_id": "2328", "id": "vi-VN-pool-71"}
+{"text": "giảm bớt các đèn trên cao", "label": "home", "source": "massive-vi-VN", "massive_id": "4896", "id": "vi-VN-pool-72"}
+{"text": "đừng quên nhắc tôi về sinh nhật của anh trai tôi vào ngày hai mươi tháng tư", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7653", "id": "vi-VN-pool-73"}
+{"text": "bật ổ cắm lên", "label": "home", "source": "massive-vi-VN", "massive_id": "1290", "id": "vi-VN-pool-74"}
+{"text": "có chuyện gì với ánh sáng màu vàng này hãy tăng một chút màu trắng ở đây", "label": "home", "source": "massive-vi-VN", "massive_id": "4642", "id": "vi-VN-pool-75"}
+{"text": "kiểm tra thư điện tử từ sếp của tôi", "label": "email", "source": "massive-vi-VN", "massive_id": "16431", "id": "vi-VN-pool-76"}
+{"text": "tôi có báo cáo của thiết bị hỗ trợ cá nhân bất kỳ", "label": "lists", "source": "massive-vi-VN", "massive_id": "11230", "id": "vi-VN-pool-77"}
+{"text": "vui lòng chỉ tắt các đèn phía bên phải", "label": "home", "source": "massive-vi-VN", "massive_id": "1706", "id": "vi-VN-pool-78"}
+{"text": "tôi có thời gian rảnh thứ ba tới để lên lịch cho một cuộc họp không", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8081", "id": "vi-VN-pool-79"}
+{"text": "nhiệt độ của ngày mai sẽ nóng hay không", "label": "weather", "source": "massive-vi-VN", "massive_id": "1683", "id": "vi-VN-pool-80"}
+{"text": "bật wemo", "label": "home", "source": "massive-vi-VN", "massive_id": "5069", "id": "vi-VN-pool-81"}
+{"text": "nói với thái nguyễn", "label": "email", "source": "massive-vi-VN", "massive_id": "16322", "id": "vi-VN-pool-82"}
+{"text": "mở máy hút bụi", "label": "home", "source": "massive-vi-VN", "massive_id": "2959", "id": "vi-VN-pool-83"}
+{"text": "tắt ổ cắm thông minh trong phòng trò chơi", "label": "home", "source": "massive-vi-VN", "massive_id": "1927", "id": "vi-VN-pool-84"}
+{"text": "hiển thị thông tin liên lạc của oanh", "label": "email", "source": "massive-vi-VN", "massive_id": "16823", "id": "vi-VN-pool-85"}
+{"text": "tăng độ sáng lên hai mươi phần trăm", "label": "home", "source": "massive-vi-VN", "massive_id": "313", "id": "vi-VN-pool-86"}
+{"text": "thay đổi màu của các đèn", "label": "home", "source": "massive-vi-VN", "massive_id": "5714", "id": "vi-VN-pool-87"}
+{"text": "tôi có cần áo khoác sau mười giờ sáng hay không", "label": "weather", "source": "massive-vi-VN", "massive_id": "5453", "id": "vi-VN-pool-88"}
+{"text": "vui lòng cho tôi biết các ý chính của cuộc họp lúc hai giờ chiều nay", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8490", "id": "vi-VN-pool-89"}
+{"text": "khởi động máy hút bụi", "label": "home", "source": "massive-vi-VN", "massive_id": "633", "id": "vi-VN-pool-90"}
+{"text": "điều khiển đèn kéo lên", "label": "home", "source": "massive-vi-VN", "massive_id": "2646", "id": "vi-VN-pool-91"}
+{"text": "có gì trong danh sách", "label": "lists", "source": "massive-vi-VN", "massive_id": "10998", "id": "vi-VN-pool-92"}
+{"text": "có gì xảy ra với bóng đá hôm nay", "label": "news", "source": "massive-vi-VN", "massive_id": "65", "id": "vi-VN-pool-93"}
+{"text": "tin nhắn email đến địa chỉ", "label": "email", "source": "massive-vi-VN", "massive_id": "16573", "id": "vi-VN-pool-94"}
+{"text": "lặp lại một sự kiện trong lịch của tôi", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7755", "id": "vi-VN-pool-95"}
+{"text": "tôi sẽ không thay dầu xe hơi vào hôm nay", "label": "lists", "source": "massive-vi-VN", "massive_id": "11021", "id": "vi-VN-pool-96"}
+{"text": "vui lòng tới ticketbox chấm com để mua vé", "label": "transport", "source": "massive-vi-VN", "massive_id": "12241", "id": "vi-VN-pool-97"}
+{"text": "thêm thư điện tử này vào liên hệ của tôi", "label": "email", "source": "massive-vi-VN", "massive_id": "17062", "id": "vi-VN-pool-98"}
+{"text": "alexa tôi bất kỳ thư điện tử nào mới không", "label": "email", "source": "massive-vi-VN", "massive_id": "15790", "id": "vi-VN-pool-99"}
+{"text": "điều chỉnh các đèn phù hợp để xem phim", "label": "home", "source": "massive-vi-VN", "massive_id": "210", "id": "vi-VN-pool-100"}
+{"text": "thêm vào lịch của tôi cuộc gọi hàng ngày lúc năm giờ chiều", "label": "calendar", "source": "massive-vi-VN", "massive_id": "6745", "id": "vi-VN-pool-101"}
+{"text": "xóa cuộc hẹn của tôi", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7283", "id": "vi-VN-pool-102"}
+{"text": "làm sáng đèn bàn cạnh ghế sofa", "label": "home", "source": "massive-vi-VN", "massive_id": "287", "id": "vi-VN-pool-103"}
+{"text": "cho tôi biết thời tiết trong một tuần của phố cổ", "label": "weather", "source": "massive-vi-VN", "massive_id": "3801", "id": "vi-VN-pool-104"}
+{"text": "tôi có cần mang áo khoác khi đi ra ngoài hay không", "label": "weather", "source": "massive-vi-VN", "massive_id": "5751", "id": "vi-VN-pool-105"}
+{"text": "tôi có rảnh lúc bốn giờ chiều không", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8781", "id": "vi-VN-pool-106"}
+{"text": "cho tôi xem dự báo thời tiết tuần của las vegas", "label": "weather", "source": "massive-vi-VN", "massive_id": "3784", "id": "vi-VN-pool-107"}
+{"text": "bật robot hút bụi", "label": "home", "source": "massive-vi-VN", "massive_id": "1059", "id": "vi-VN-pool-108"}
+{"text": "olly giảm đèn cho tôi", "label": "home", "source": "massive-vi-VN", "massive_id": "3010", "id": "vi-VN-pool-109"}
+{"text": "tất cả email mới", "label": "email", "source": "massive-vi-VN", "massive_id": "16416", "id": "vi-VN-pool-110"}
+{"text": "vui lòng xóa danh sách này", "label": "lists", "source": "massive-vi-VN", "massive_id": "10963", "id": "vi-VN-pool-111"}
+{"text": "tôi có email nào không", "label": "email", "source": "massive-vi-VN", "massive_id": "17176", "id": "vi-VN-pool-112"}
+{"text": "olly chúc ngủ ngon tắt đèn đi", "label": "home", "source": "massive-vi-VN", "massive_id": "265", "id": "vi-VN-pool-113"}
+{"text": "tôi có cuộc hẹn nào ngày hôm nay không", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7907", "id": "vi-VN-pool-114"}
+{"text": "làm ơn nhắc tôi hôm nay tôi cần lấy quần áo từ máy giặt", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7468", "id": "vi-VN-pool-115"}
+{"text": "tôi có cần mặc áo khoác khi đi làm vào ngày mai không", "label": "weather", "source": "massive-vi-VN", "massive_id": "4210", "id": "vi-VN-pool-116"}
+{"text": "lấy thông tin của huy từ danh bạ", "label": "email", "source": "massive-vi-VN", "massive_id": "16250", "id": "vi-VN-pool-117"}
+{"text": "thế còn những tin tức mới nhất", "label": "news", "source": "massive-vi-VN", "massive_id": "4859", "id": "vi-VN-pool-118"}
+{"text": "gửi thư đến vũ về tiền", "label": "email", "source": "massive-vi-VN", "massive_id": "16054", "id": "vi-VN-pool-119"}
+{"text": "sapp cái gì", "label": "email", "source": "massive-vi-VN", "massive_id": "16862", "id": "vi-VN-pool-120"}
+{"text": "vui lòng tổ chức một cuộc họp với nhân viên công ty của tôi", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7301", "id": "vi-VN-pool-121"}
+{"text": "có thư điện tử nào của người này tôi chưa đọc không", "label": "email", "source": "massive-vi-VN", "massive_id": "16913", "id": "vi-VN-pool-122"}
+{"text": "đọc thông tin về sự kiện lịch vào ngày mười chín tháng ba lúc hai giờ chiều", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8382", "id": "vi-VN-pool-123"}
+{"text": "cho tôi xem thời tiết ngày hôm qua", "label": "weather", "source": "massive-vi-VN", "massive_id": "5320", "id": "vi-VN-pool-124"}
+{"text": "giảm các đèn trong phòng khách xuống", "label": "home", "source": "massive-vi-VN", "massive_id": "1073", "id": "vi-VN-pool-125"}
+{"text": "trong tháng ba có những cuộc họp nào", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7375", "id": "vi-VN-pool-126"}
+{"text": "đặt một vé tàu hỏa đến thành phố bắc ninh", "label": "transport", "source": "massive-vi-VN", "massive_id": "12396", "id": "vi-VN-pool-127"}
+{"text": "gửi thư điện tử bây giờ", "label": "email", "source": "massive-vi-VN", "massive_id": "16922", "id": "vi-VN-pool-128"}
+{"text": "bắt đầu máy hút bụi bây giờ", "label": "home", "source": "massive-vi-VN", "massive_id": "2621", "id": "vi-VN-pool-129"}
+{"text": "có bất kỳ ai tên hùng trong danh sách của tôi không", "label": "email", "source": "massive-vi-VN", "massive_id": "15868", "id": "vi-VN-pool-130"}
+{"text": "gõ email mới", "label": "email", "source": "massive-vi-VN", "massive_id": "16756", "id": "vi-VN-pool-131"}
+{"text": "thay đồ nội thất bằng đồ điện tử trong danh sách", "label": "lists", "source": "massive-vi-VN", "massive_id": "10642", "id": "vi-VN-pool-132"}
+{"text": "trả lời hùng với câu trả lời là bốn trăm ba mươi từ email của anh ấy đã gửi sáng nay", "label": "email", "source": "massive-vi-VN", "massive_id": "16559", "id": "vi-VN-pool-133"}
+{"text": "trả lời email cuối cùng của tôi", "label": "email", "source": "massive-vi-VN", "massive_id": "16902", "id": "vi-VN-pool-134"}
+{"text": "tắt đèn ngủ thông minh trong phòng đọc sách", "label": "home", "source": "massive-vi-VN", "massive_id": "2896", "id": "vi-VN-pool-135"}
+{"text": "chỉ đường đến k. f. c", "label": "transport", "source": "massive-vi-VN", "massive_id": "12652", "id": "vi-VN-pool-136"}
+{"text": "đặt chế độ sáng đến năm mươi phần trăm", "label": "home", "source": "massive-vi-VN", "massive_id": "155", "id": "vi-VN-pool-137"}
+{"text": "cho xem thư điện tử gần đây từ hùng olly", "label": "email", "source": "massive-vi-VN", "massive_id": "16076", "id": "vi-VN-pool-138"}
+{"text": "đừng để tôi quên tôi cần lời nhắc nhở vào ngày hai mươi bảy tháng ba vào buổi trưa", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8319", "id": "vi-VN-pool-139"}
+{"text": "hiện cho tôi những thư điện tử mới từ hộp thư đến của tôi", "label": "email", "source": "massive-vi-VN", "massive_id": "16775", "id": "vi-VN-pool-140"}
+{"text": "phản hồi thư điện tử từ huy", "label": "email", "source": "massive-vi-VN", "massive_id": "15949", "id": "vi-VN-pool-141"}
+{"text": "chủ nhật", "label": "weather", "source": "massive-vi-VN", "massive_id": "327", "id": "vi-VN-pool-142"}
+{"text": "một giờ chiều hôm nay khởi động robot hút bụi", "label": "home", "source": "massive-vi-VN", "massive_id": "1058", "id": "vi-VN-pool-143"}
+{"text": "tôi cần bạn bật máy hút bụi", "label": "home", "source": "massive-vi-VN", "massive_id": "643", "id": "vi-VN-pool-144"}
+{"text": "xóa danh sách các món thực phẩm đã mua tuần trước", "label": "lists", "source": "massive-vi-VN", "massive_id": "10470", "id": "vi-VN-pool-145"}
+{"text": "tôi cần một chiếc taxi bây giờ", "label": "transport", "source": "massive-vi-VN", "massive_id": "12228", "id": "vi-VN-pool-146"}
+{"text": "thời tiết ngoài trời bây giờ như thế nào", "label": "weather", "source": "massive-vi-VN", "massive_id": "432", "id": "vi-VN-pool-147"}
+{"text": "có những liên hệ nào mà tôi chưa gọi trong mười hai tháng", "label": "email", "source": "massive-vi-VN", "massive_id": "16229", "id": "vi-VN-pool-148"}
+{"text": "tôi thỉnh thoảng chú ý", "label": "weather", "source": "massive-vi-VN", "massive_id": "1401", "id": "vi-VN-pool-149"}
+{"text": "cho robot hút bụi bắt đầu dọn dẹp", "label": "home", "source": "massive-vi-VN", "massive_id": "3842", "id": "vi-VN-pool-150"}
+{"text": "thương mại quốc tế và thị trường kinh doanh", "label": "news", "source": "massive-vi-VN", "massive_id": "5943", "id": "vi-VN-pool-151"}
+{"text": "tôi có cần kính râm khi ra ngoài không", "label": "weather", "source": "massive-vi-VN", "massive_id": "5665", "id": "vi-VN-pool-152"}
+{"text": "nhiệt độ sé cao hơn bốn mươi ngày mai phải không", "label": "weather", "source": "massive-vi-VN", "massive_id": "4614", "id": "vi-VN-pool-153"}
+{"text": "làm cho đèn sáng màu xanh dương", "label": "home", "source": "massive-vi-VN", "massive_id": "264", "id": "vi-VN-pool-154"}
+{"text": "đọc danh sách", "label": "lists", "source": "massive-vi-VN", "massive_id": "10999", "id": "vi-VN-pool-155"}
+{"text": "tôi có thể trở về nhà mà không bị tắc đường không", "label": "transport", "source": "massive-vi-VN", "massive_id": "12443", "id": "vi-VN-pool-156"}
+{"text": "bạn có thể mua giúp tôi một vá tàu hỏa được không", "label": "transport", "source": "massive-vi-VN", "massive_id": "12749", "id": "vi-VN-pool-157"}
+{"text": "lên lịch cuộc họp với nhân viên của chúng tôi liên quan đến thưởng", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8785", "id": "vi-VN-pool-158"}
+{"text": "email cho hùng với nội dung dự án đã kết thúc vui lòng gửi cho tôi hóa đơn", "label": "email", "source": "massive-vi-VN", "massive_id": "15779", "id": "vi-VN-pool-159"}
+{"text": "xác nhận có phải là màu xanh dương không", "label": "home", "source": "massive-vi-VN", "massive_id": "497", "id": "vi-VN-pool-160"}
+{"text": "làm ơn nhắc tôi về cuộc họp kinh doanh mười một giờ sáng", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7790", "id": "vi-VN-pool-161"}
+{"text": "xóa sự kiện tiếp theo hôm nay", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7892", "id": "vi-VN-pool-162"}
+{"text": "vui lòng pha cà phê đá", "label": "home", "source": "massive-vi-VN", "massive_id": "1609", "id": "vi-VN-pool-163"}
+{"text": "tắt nguồn tủ lạnh", "label": "home", "source": "massive-vi-VN", "massive_id": "4037", "id": "vi-VN-pool-164"}
+{"text": "vui lòng tắt đèn phòng tắm", "label": "home", "source": "massive-vi-VN", "massive_id": "1376", "id": "vi-VN-pool-165"}
+{"text": "bật ổ cắm thông minh", "label": "home", "source": "massive-vi-VN", "massive_id": "1552", "id": "vi-VN-pool-166"}
+{"text": "hiện các email của tôi từ một giờ trước", "label": "email", "source": "massive-vi-VN", "massive_id": "16520", "id": "vi-VN-pool-167"}
+{"text": "nhắc tôi gọi cho ngân hàng vào thứ năm tới", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8826", "id": "vi-VN-pool-168"}
+{"text": "thời tiết cuối tuần này liệu có đẹp không", "label": "weather", "source": "massive-vi-VN", "massive_id": "3408", "id": "vi-VN-pool-169"}
+{"text": "trả lời tất cả các email nhận được từ mười giờ tối đến chín giờ sáng", "label": "email", "source": "massive-vi-VN", "massive_id": "16114", "id": "vi-VN-pool-170"}
+{"text": "làm ơn tắt nhà bếp", "label": "home", "source": "massive-vi-VN", "massive_id": "1785", "id": "vi-VN-pool-171"}
+{"text": "tôi có lịch trình nào vào một giờ chiều thứ hai tới không", "label": "calendar", "source": "massive-vi-VN", "massive_id": "9102", "id": "vi-VN-pool-172"}
+{"text": "tìm kiếm mục", "label": "lists", "source": "massive-vi-VN", "massive_id": "10608", "id": "vi-VN-pool-173"}
+{"text": "thời tiết ở việt nam có lạnh không", "label": "weather", "source": "massive-vi-VN", "massive_id": "5892", "id": "vi-VN-pool-174"}
+{"text": "báo cáo bất kỳ thư điện tử mới", "label": "email", "source": "massive-vi-VN", "massive_id": "17121", "id": "vi-VN-pool-175"}
+{"text": "ly làm mờ đèn ở hội trường", "label": "home", "source": "massive-vi-VN", "massive_id": "16", "id": "vi-VN-pool-176"}
+{"text": "chòa google vui lòng xóa tất cả chương trình cho thứ sáu", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8098", "id": "vi-VN-pool-177"}
+{"text": "nhiệt độ đang là bao nhiêu", "label": "weather", "source": "massive-vi-VN", "massive_id": "2327", "id": "vi-VN-pool-178"}
+{"text": "làm thế nào để chúng tôi tổ chức chống lại vũ", "label": "email", "source": "massive-vi-VN", "massive_id": "17039", "id": "vi-VN-pool-179"}
+{"text": "bắt đầu một danh sách mới cho tôi", "label": "lists", "source": "massive-vi-VN", "massive_id": "10562", "id": "vi-VN-pool-180"}
+{"text": "gửi email đến bùi tiến dũng", "label": "email", "source": "massive-vi-VN", "massive_id": "16474", "id": "vi-VN-pool-181"}
+{"text": "bạn có thể tra cứu giá vé tàu cho tôi không", "label": "transport", "source": "massive-vi-VN", "massive_id": "12279", "id": "vi-VN-pool-182"}
+{"text": "tôi đã nhận được bất cứ thư điện tử nào huy hai ngày trước không", "label": "email", "source": "massive-vi-VN", "massive_id": "16764", "id": "vi-VN-pool-183"}
+{"text": "thay đổi đèn thành màu hồng", "label": "home", "source": "massive-vi-VN", "massive_id": "1960", "id": "vi-VN-pool-184"}
+{"text": "hãy đặt một sự kiện vào thứ hai", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8901", "id": "vi-VN-pool-185"}
+{"text": "chỉnh đèn sang tông đỏ", "label": "home", "source": "massive-vi-VN", "massive_id": "2018", "id": "vi-VN-pool-186"}
+{"text": "cho tôi biết về công trình xây dựng đường gần đây nhất trên tuyến đường bảy mươi", "label": "news", "source": "massive-vi-VN", "massive_id": "5921", "id": "vi-VN-pool-187"}
+{"text": "tìm vé tàu hỏa tới hà nội", "label": "transport", "source": "massive-vi-VN", "massive_id": "12199", "id": "vi-VN-pool-188"}
+{"text": "thời tiết hôm nay thế nào", "label": "weather", "source": "massive-vi-VN", "massive_id": "3506", "id": "vi-VN-pool-189"}
+{"text": "xóa kiểm tra tiền gửi khỏi danh sách việc cần làm", "label": "lists", "source": "massive-vi-VN", "massive_id": "11073", "id": "vi-VN-pool-190"}
+{"text": "ngoài trời lạnh không", "label": "weather", "source": "massive-vi-VN", "massive_id": "491", "id": "vi-VN-pool-191"}
+{"text": "nam có gửi thư điện tử cho tôi chưa", "label": "email", "source": "massive-vi-VN", "massive_id": "16343", "id": "vi-VN-pool-192"}
+{"text": "tôi có bất kỳ cuộc họp nào vào buổi sáng ngày mai không", "label": "calendar", "source": "massive-vi-VN", "massive_id": "6800", "id": "vi-VN-pool-193"}
+{"text": "thêm thông tin về buổi hòa nhạc tại nhà hát lớn", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8258", "id": "vi-VN-pool-194"}
+{"text": "gửi thư điện tử cho nhóm nhân viên phân phối về cuộc họp của ngày mai", "label": "email", "source": "massive-vi-VN", "massive_id": "15996", "id": "vi-VN-pool-195"}
+{"text": "tối tăng độ sáng lên", "label": "home", "source": "massive-vi-VN", "massive_id": "3520", "id": "vi-VN-pool-196"}
+{"text": "đặt một cuộc họp với minh ngày mười tháng ba", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7470", "id": "vi-VN-pool-197"}
+{"text": "danh sách việc cần làm của tôi có gì", "label": "lists", "source": "massive-vi-VN", "massive_id": "10833", "id": "vi-VN-pool-198"}
+{"text": "chúng ta có thể làm giảm các đèn xuống không", "label": "home", "source": "massive-vi-VN", "massive_id": "5480", "id": "vi-VN-pool-199"}
+{"text": "làm ơn mở tất cả bóng đèn", "label": "home", "source": "massive-vi-VN", "massive_id": "5501", "id": "vi-VN-pool-200"}
+{"text": "cho tôi biết thời tiết hôm nay", "label": "weather", "source": "massive-vi-VN", "massive_id": "3244", "id": "vi-VN-pool-201"}
+{"text": "thêm vào lịch tiệc sinh nhật của hoa vào ngày mai lúc hai giờ chiều ở nhà cô ấy", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8475", "id": "vi-VN-pool-202"}
+{"text": "vui lòng xóa danh sách tạp hóa", "label": "lists", "source": "massive-vi-VN", "massive_id": "10935", "id": "vi-VN-pool-203"}
+{"text": "vặn các đèn tắt đi", "label": "home", "source": "massive-vi-VN", "massive_id": "4346", "id": "vi-VN-pool-204"}
+{"text": "bật đèn", "label": "home", "source": "massive-vi-VN", "massive_id": "5752", "id": "vi-VN-pool-205"}
+{"text": "gọi giùm tôi một taxi olly", "label": "transport", "source": "massive-vi-VN", "massive_id": "12299", "id": "vi-VN-pool-206"}
+{"text": "đánh dấu ngày thứ ba tiếp theo trong lịch của tôi là sinh nhật của mai", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7322", "id": "vi-VN-pool-207"}
+{"text": "đặt sự kiện lặp lại", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7514", "id": "vi-VN-pool-208"}
+{"text": "soạn một email đến vy", "label": "email", "source": "massive-vi-VN", "massive_id": "15959", "id": "vi-VN-pool-209"}
+{"text": "tìm một taxi để về nhà", "label": "transport", "source": "massive-vi-VN", "massive_id": "12232", "id": "vi-VN-pool-210"}
+{"text": "lên lịch cuộc họp với lan bốn giờ chiều thứ bảy", "label": "calendar", "source": "massive-vi-VN", "massive_id": "6789", "id": "vi-VN-pool-211"}
+{"text": "thời tiết ở miami", "label": "weather", "source": "massive-vi-VN", "massive_id": "2222", "id": "vi-VN-pool-212"}
+{"text": "vào ngày sinh nhật của các chị tôi hãy gửi hoa cho các chị ấy", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8048", "id": "vi-VN-pool-213"}
+{"text": "xóa tiệc cưới ngày ba tháng bảy", "label": "calendar", "source": "massive-vi-VN", "massive_id": "9039", "id": "vi-VN-pool-214"}
+{"text": "vui lòng kiểm tra email giúp tôi", "label": "email", "source": "massive-vi-VN", "massive_id": "16648", "id": "vi-VN-pool-215"}
+{"text": "cách gọi trang", "label": "email", "source": "massive-vi-VN", "massive_id": "16272", "id": "vi-VN-pool-216"}
+{"text": "những danh sách nào hiện có ngay bây giờ", "label": "lists", "source": "massive-vi-VN", "massive_id": "10967", "id": "vi-VN-pool-217"}
+{"text": "hạ các đèn xuống làm ơn", "label": "home", "source": "massive-vi-VN", "massive_id": "3280", "id": "vi-VN-pool-218"}
+{"text": "cái gì đang thịnh hành", "label": "news", "source": "massive-vi-VN", "massive_id": "745", "id": "vi-VN-pool-219"}
+{"text": "olly làm ơn kiểm tra xem tôi có nhận được bất kỳ thư điện tử nào từ mẹ không", "label": "email", "source": "massive-vi-VN", "massive_id": "16543", "id": "vi-VN-pool-220"}
+{"text": "dress code cho bữa tiệc là gì", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8351", "id": "vi-VN-pool-221"}
+{"text": "đặt tuần đầu tiên của tháng sáu là ngày lễ trong lịch của tôi", "label": "calendar", "source": "massive-vi-VN", "massive_id": "6746", "id": "vi-VN-pool-222"}
+{"text": "gửi email đến chú tôi về tình hình trời tiết hiện tại", "label": "email", "source": "massive-vi-VN", "massive_id": "16189", "id": "vi-VN-pool-223"}
+{"text": "xoá mục lịch", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8516", "id": "vi-VN-pool-224"}
+{"text": "tìm một tài xế grab rảnh sau mười giờ tối", "label": "transport", "source": "massive-vi-VN", "massive_id": "12478", "id": "vi-VN-pool-225"}
+{"text": "xóa sự kiện tiếp theo", "label": "calendar", "source": "massive-vi-VN", "massive_id": "6996", "id": "vi-VN-pool-226"}
+{"text": "tiêu đề của email cuối cùng của tôi đến hùng là gì", "label": "email", "source": "massive-vi-VN", "massive_id": "16355", "id": "vi-VN-pool-227"}
+{"text": "đặt một ly cà phê từ quán cà phê gần nhất", "label": "home", "source": "massive-vi-VN", "massive_id": "1817", "id": "vi-VN-pool-228"}
+{"text": "vui lòng đặt chuyến taxi tiếp theo lúc chín giờ sáng", "label": "transport", "source": "massive-vi-VN", "massive_id": "12905", "id": "vi-VN-pool-229"}
+{"text": "tôi sẽ lấy cà phê đen", "label": "home", "source": "massive-vi-VN", "massive_id": "4586", "id": "vi-VN-pool-230"}
+{"text": "các cuộc hẹn cuối tuần", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7493", "id": "vi-VN-pool-231"}
+{"text": "tôi muốn một ly cà phê với một phần kem và ba phần đường", "label": "home", "source": "massive-vi-VN", "massive_id": "3136", "id": "vi-VN-pool-232"}
+{"text": "cuộc họp doanh nhân được tổ chức vào ngày và giờ nào ở thành phố vinh nghệ an", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8486", "id": "vi-VN-pool-233"}
+{"text": "thay thế", "label": "lists", "source": "massive-vi-VN", "massive_id": "10696", "id": "vi-VN-pool-234"}
+{"text": "thêm sự kiện này vào lịch của tôi", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7683", "id": "vi-VN-pool-235"}
+{"text": "nhắc tôi tweet tại công ty này", "label": "calendar", "source": "massive-vi-VN", "massive_id": "15545", "id": "vi-VN-pool-236"}
+{"text": "gần đây ai đã email cho tôi", "label": "email", "source": "massive-vi-VN", "massive_id": "16366", "id": "vi-VN-pool-237"}
+{"text": "bạn sẽ gửi một thư điện tử vào địa chỉ thư điện tử mới này chứ", "label": "email", "source": "massive-vi-VN", "massive_id": "16632", "id": "vi-VN-pool-238"}
+{"text": "cho tôi biết tên danh sách của tôi", "label": "lists", "source": "massive-vi-VN", "massive_id": "11234", "id": "vi-VN-pool-239"}
+{"text": "thêm địa chỉ email làm việc", "label": "email", "source": "massive-vi-VN", "massive_id": "15977", "id": "vi-VN-pool-240"}
+{"text": "tôi muốn những thứ tương tự trong nhà bếp có một màu khác", "label": "home", "source": "massive-vi-VN", "massive_id": "3674", "id": "vi-VN-pool-241"}
+{"text": "xóa lịch hôm nay", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8896", "id": "vi-VN-pool-242"}
+{"text": "cài đặt màu xanh dương cho tất cả các đèn trong nhà của tôi", "label": "home", "source": "massive-vi-VN", "massive_id": "2282", "id": "vi-VN-pool-243"}
+{"text": "tin tức kênh mười bốn", "label": "news", "source": "massive-vi-VN", "massive_id": "4666", "id": "vi-VN-pool-244"}
+{"text": "tôi thích một chút cà phê bây giờ", "label": "home", "source": "massive-vi-VN", "massive_id": "165", "id": "vi-VN-pool-245"}
+{"text": "hạ mức độ đèn trong nhà của tôi", "label": "home", "source": "massive-vi-VN", "massive_id": "2176", "id": "vi-VN-pool-246"}
+{"text": "chiều dài của giao thông", "label": "transport", "source": "massive-vi-VN", "massive_id": "12327", "id": "vi-VN-pool-247"}
+{"text": "làm cho căn phòng này sáng hơn", "label": "home", "source": "massive-vi-VN", "massive_id": "2811", "id": "vi-VN-pool-248"}
+{"text": "hiển thị các danh sách của tôi", "label": "lists", "source": "massive-vi-VN", "massive_id": "11226", "id": "vi-VN-pool-249"}
+{"text": "dự báo mười ngày", "label": "weather", "source": "massive-vi-VN", "massive_id": "3406", "id": "vi-VN-pool-250"}
+{"text": "tắt đèn hiên", "label": "home", "source": "massive-vi-VN", "massive_id": "2578", "id": "vi-VN-pool-251"}
+{"text": "bỏ ớt đỏ ra khỏi danh sách tạp hóa", "label": "lists", "source": "massive-vi-VN", "massive_id": "10989", "id": "vi-VN-pool-252"}
+{"text": "đường đến bãi biển vũng tàu", "label": "transport", "source": "massive-vi-VN", "massive_id": "12569", "id": "vi-VN-pool-253"}
+{"text": "tắt ổ điện", "label": "home", "source": "massive-vi-VN", "massive_id": "3022", "id": "vi-VN-pool-254"}
+{"text": "olly thời tiết thứ bảy này thế nào", "label": "weather", "source": "massive-vi-VN", "massive_id": "1390", "id": "vi-VN-pool-255"}
+{"text": "tôi đã lưu lịch buổi tiệc ngày mai vào lịch chưa", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8016", "id": "vi-VN-pool-256"}
+{"text": "chỉnh các đèn trong phòng khách sang màu đỏ", "label": "home", "source": "massive-vi-VN", "massive_id": "455", "id": "vi-VN-pool-257"}
+{"text": "xoá cuộc hẹn của tôi vào ngày mai lúc ba giờ chiều", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8563", "id": "vi-VN-pool-258"}
+{"text": "có phải thời tiết sẽ thay đổi vào thứ tư", "label": "weather", "source": "massive-vi-VN", "massive_id": "2248", "id": "vi-VN-pool-259"}
+{"text": "hủy bỏ tất cả các cuộc hẹn của tôi sau ba giờ chiều hôm nay và thông báo cho tôi các chi tiết", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7660", "id": "vi-VN-pool-260"}
+{"text": "thêm lớp học thêm của tôi vào lịch cho thứ bảy lúc bảy giờ sáng", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7107", "id": "vi-VN-pool-261"}
+{"text": "đặt một vé tàu hỏa đến thái lan tối nay", "label": "transport", "source": "massive-vi-VN", "massive_id": "12200", "id": "vi-VN-pool-262"}
+{"text": "tạo một danh sách mới", "label": "lists", "source": "massive-vi-VN", "massive_id": "10712", "id": "vi-VN-pool-263"}
+{"text": "mở danh sách của tôi", "label": "lists", "source": "massive-vi-VN", "massive_id": "11045", "id": "vi-VN-pool-264"}
+{"text": "sinh nhật trúc đến sớm chứ", "label": "email", "source": "massive-vi-VN", "massive_id": "16242", "id": "vi-VN-pool-265"}
+{"text": "có bao nhiêu danh bạ có tên huy vậy", "label": "email", "source": "massive-vi-VN", "massive_id": "15866", "id": "vi-VN-pool-266"}
+{"text": "đêm nay có gió không", "label": "weather", "source": "massive-vi-VN", "massive_id": "3555", "id": "vi-VN-pool-267"}
+{"text": "hiện tại trời nóng như thế nào ở ninh bình", "label": "weather", "source": "massive-vi-VN", "massive_id": "1405", "id": "vi-VN-pool-268"}
+{"text": "xóa sự kiện khỏi thứ hai", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7913", "id": "vi-VN-pool-269"}
+{"text": "làm ơn làm cho các đèn thành xanh dương", "label": "home", "source": "massive-vi-VN", "massive_id": "4647", "id": "vi-VN-pool-270"}
+{"text": "bỏ sữa ra khỏi danh sách mua sắm", "label": "lists", "source": "massive-vi-VN", "massive_id": "11083", "id": "vi-VN-pool-271"}
+{"text": "bạn có thể xáo trộn các màu sáng trong nhà không", "label": "home", "source": "massive-vi-VN", "massive_id": "403", "id": "vi-VN-pool-272"}
+{"text": "tôi có bất cứ email nào không", "label": "email", "source": "massive-vi-VN", "massive_id": "16513", "id": "vi-VN-pool-273"}
+{"text": "tắt ổ cắm thông minh của tôi", "label": "home", "source": "massive-vi-VN", "massive_id": "1000", "id": "vi-VN-pool-274"}
+{"text": "cho tôi xem những danh sách đang có sẵn", "label": "lists", "source": "massive-vi-VN", "massive_id": "10635", "id": "vi-VN-pool-275"}
+{"text": "gửi lời chào trong watsapp tới vy", "label": "email", "source": "massive-vi-VN", "massive_id": "17175", "id": "vi-VN-pool-276"}
+{"text": "bạn có thể nói cho tôi về giao thông không", "label": "transport", "source": "massive-vi-VN", "massive_id": "12789", "id": "vi-VN-pool-277"}
+{"text": "đọc lại những gì trong danh sách mua sắm của tôi", "label": "lists", "source": "massive-vi-VN", "massive_id": "10944", "id": "vi-VN-pool-278"}
+{"text": "bởi mỹ tâm", "label": "weather", "source": "massive-vi-VN", "massive_id": "512", "id": "vi-VN-pool-279"}
+{"text": "làm ơn giảm các đèn xuống", "label": "home", "source": "massive-vi-VN", "massive_id": "4644", "id": "vi-VN-pool-280"}
+{"text": "các cuộc họp tuần đầu tiên của tháng ba", "label": "calendar", "source": "massive-vi-VN", "massive_id": "9020", "id": "vi-VN-pool-281"}
+{"text": "mấy giờ chuyến tàu cuối cùng từ nơi làm việc rời đi", "label": "transport", "source": "massive-vi-VN", "massive_id": "12387", "id": "vi-VN-pool-282"}
+{"text": "có cái gì mà tôi cần được nhắc nhở không", "label": "calendar", "source": "massive-vi-VN", "massive_id": "6721", "id": "vi-VN-pool-283"}
+{"text": "giờ giấc của tàu ra sao", "label": "transport", "source": "massive-vi-VN", "massive_id": "12836", "id": "vi-VN-pool-284"}
+{"text": "vui lòng nhắc tôi một ngày trước sinh nhật của bách", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8260", "id": "vi-VN-pool-285"}
+{"text": "nhiệt độ sẽ trên năm mươi vào ngày mai phải không", "label": "weather", "source": "massive-vi-VN", "massive_id": "4613", "id": "vi-VN-pool-286"}
+{"text": "có bất kì nhắc nhở nào cho tôi không", "label": "calendar", "source": "massive-vi-VN", "massive_id": "6786", "id": "vi-VN-pool-287"}
+{"text": "tôi muốn một vé tàu hỏa từ hà nội đến nghệ an", "label": "transport", "source": "massive-vi-VN", "massive_id": "12282", "id": "vi-VN-pool-288"}
+{"text": "ngày mai có mưa không", "label": "weather", "source": "massive-vi-VN", "massive_id": "6039", "id": "vi-VN-pool-289"}
+{"text": "tối nay sẽ là một buổi tối mát mẻ phải không", "label": "weather", "source": "massive-vi-VN", "massive_id": "6022", "id": "vi-VN-pool-290"}
+{"text": "sáng thứ sáu tôi có lịch trình gì sau khi đi làm", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7054", "id": "vi-VN-pool-291"}
+{"text": "thêm sinh nhật của mai là ngày mười hai tháng bảy vào lịch của tôi", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7345", "id": "vi-VN-pool-292"}
+{"text": "tôi có số của tuyết không", "label": "email", "source": "massive-vi-VN", "massive_id": "16645", "id": "vi-VN-pool-293"}
+{"text": "email huy hoàng lời chúc tốt đẹp nhất của tôi đính kèm tập tin liên quan công việc p. d. f.", "label": "email", "source": "massive-vi-VN", "massive_id": "15991", "id": "vi-VN-pool-294"}
+{"text": "tôi có nhận được email nào trong vòng một giờ trước không", "label": "email", "source": "massive-vi-VN", "massive_id": "16653", "id": "vi-VN-pool-295"}
+{"text": "bây giờ các con đường như thế nào", "label": "transport", "source": "massive-vi-VN", "massive_id": "12645", "id": "vi-VN-pool-296"}
+{"text": "ngoài trời có nắng phải không", "label": "weather", "source": "massive-vi-VN", "massive_id": "5451", "id": "vi-VN-pool-297"}
+{"text": "chúng ta nhận được gì trong cuộc họp được tổ chức ngày hôm qua", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7523", "id": "vi-VN-pool-298"}
+{"text": "tắt đèn nhà kho", "label": "home", "source": "massive-vi-VN", "massive_id": "2441", "id": "vi-VN-pool-299"}
+{"text": "ai đã gửi email cho tôi và về cái gì vào tuần trước", "label": "email", "source": "massive-vi-VN", "massive_id": "16395", "id": "vi-VN-pool-300"}
+{"text": "kiểm tra outlook", "label": "email", "source": "massive-vi-VN", "massive_id": "16052", "id": "vi-VN-pool-301"}
+{"text": "tắt nguồn", "label": "home", "source": "massive-vi-VN", "massive_id": "4026", "id": "vi-VN-pool-302"}
+{"text": "tôi có thời gian trống cho cuộc hẹn với bác sĩ buổi sáng thứ ba không", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8595", "id": "vi-VN-pool-303"}
+{"text": "cập nhật danh sách nhạc tập thể dục với các mục mới", "label": "lists", "source": "massive-vi-VN", "massive_id": "11145", "id": "vi-VN-pool-304"}
+{"text": "bạn có thể tổ chức một sự kiện cho đêm ngày thứ sáu với mai và cả nam không", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7105", "id": "vi-VN-pool-305"}
+{"text": "khởi động máy pha cà phê", "label": "home", "source": "massive-vi-VN", "massive_id": "2832", "id": "vi-VN-pool-306"}
+{"text": "đặt một chiếc taxi của vinasun", "label": "transport", "source": "massive-vi-VN", "massive_id": "12830", "id": "vi-VN-pool-307"}
+{"text": "tôi có cần mang dù ở manila buổi chiều nay hay không", "label": "weather", "source": "massive-vi-VN", "massive_id": "5167", "id": "vi-VN-pool-308"}
+{"text": "cho tôi xem các sự kiện của tôi", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8460", "id": "vi-VN-pool-309"}
+{"text": "gửi một thư điện tử tới bố thời tiết tuần này như thế nào", "label": "email", "source": "massive-vi-VN", "massive_id": "16213", "id": "vi-VN-pool-310"}
+{"text": "nhắc tôi một giờ sau để đi mua sắm", "label": "calendar", "source": "massive-vi-VN", "massive_id": "9000", "id": "vi-VN-pool-311"}
+{"text": "khả năng sấm chớp ở cần thơ hôm nay thế nào", "label": "weather", "source": "massive-vi-VN", "massive_id": "3286", "id": "vi-VN-pool-312"}
+{"text": "tôi có email mới nào không", "label": "email", "source": "massive-vi-VN", "massive_id": "16277", "id": "vi-VN-pool-313"}
+{"text": "alexa tắt quạt trong phòng ngủ lớn", "label": "home", "source": "massive-vi-VN", "massive_id": "2946", "id": "vi-VN-pool-314"}
+{"text": "địa chỉ email của trần hùng là gì", "label": "email", "source": "massive-vi-VN", "massive_id": "16350", "id": "vi-VN-pool-315"}
+{"text": "bắt đầu một thư điện tử tới tâm", "label": "email", "source": "massive-vi-VN", "massive_id": "16892", "id": "vi-VN-pool-316"}
+{"text": "tắt đèn phòng tắm dưới lầu", "label": "home", "source": "massive-vi-VN", "massive_id": "1717", "id": "vi-VN-pool-317"}
+{"text": "cho tôi danh sách của tôi", "label": "lists", "source": "massive-vi-VN", "massive_id": "10929", "id": "vi-VN-pool-318"}
+{"text": "tôi có hẹn ăn tối với chị của tôi thứ bảy này", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8690", "id": "vi-VN-pool-319"}
+{"text": "thêm vào lịch vào ngày và thời gian này với những người này", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8703", "id": "vi-VN-pool-320"}
+{"text": "siri tìm vé tàu hỏa đi hội an", "label": "transport", "source": "massive-vi-VN", "massive_id": "12794", "id": "vi-VN-pool-321"}
+{"text": "sẽ có tuyết rơi vào trưa ngày mai phải không", "label": "weather", "source": "massive-vi-VN", "massive_id": "1655", "id": "vi-VN-pool-322"}
+{"text": "nhắc tôi khi bắt đầu mỗi tháng", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8629", "id": "vi-VN-pool-323"}
+{"text": "bỏ tất cả các sự kiện và lịch trình", "label": "calendar", "source": "massive-vi-VN", "massive_id": "6929", "id": "vi-VN-pool-324"}
+{"text": "vui lòng thêm một sự kiện vào lịch trình của tôi", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7835", "id": "vi-VN-pool-325"}
+{"text": "chỉnh các bóng đèn ở đây sang màu xanh dương", "label": "home", "source": "massive-vi-VN", "massive_id": "1316", "id": "vi-VN-pool-326"}
+{"text": "gửi thư điện tử tới linh về tin tức mới nhất", "label": "email", "source": "massive-vi-VN", "massive_id": "15760", "id": "vi-VN-pool-327"}
+{"text": "cho tôi xem thời tiết của năm ngày trước", "label": "weather", "source": "massive-vi-VN", "massive_id": "7641", "id": "vi-VN-pool-328"}
+{"text": "lưu sự kiện này", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7157", "id": "vi-VN-pool-329"}
+{"text": "danh sách tất cả chuyến tàu hỏa đi hà nội", "label": "transport", "source": "massive-vi-VN", "massive_id": "12827", "id": "vi-VN-pool-330"}
+{"text": "minh đi với tôi ngày năm tháng tư phim bố già", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7564", "id": "vi-VN-pool-331"}
+{"text": "bạn có thể tìm kiếm trump", "label": "news", "source": "massive-vi-VN", "massive_id": "1997", "id": "vi-VN-pool-332"}
+{"text": "bản tin giao thông", "label": "transport", "source": "massive-vi-VN", "massive_id": "12869", "id": "vi-VN-pool-333"}
+{"text": "trần tiến dũng có gửi tôi email mới nào không", "label": "email", "source": "massive-vi-VN", "massive_id": "16391", "id": "vi-VN-pool-334"}
+{"text": "tuấn đã gửi thư điện tử cho tôi chưa", "label": "email", "source": "massive-vi-VN", "massive_id": "15809", "id": "vi-VN-pool-335"}
+{"text": "cho tôi biết có gì trong danh sách", "label": "lists", "source": "massive-vi-VN", "massive_id": "10632", "id": "vi-VN-pool-336"}
+{"text": "tắt đèn gần nhất", "label": "home", "source": "massive-vi-VN", "massive_id": "5390", "id": "vi-VN-pool-337"}
+{"text": "giảm ánh sáng", "label": "home", "source": "massive-vi-VN", "massive_id": "160", "id": "vi-VN-pool-338"}
+{"text": "thời tiết có mây không", "label": "weather", "source": "massive-vi-VN", "massive_id": "5534", "id": "vi-VN-pool-339"}
+{"text": "trời sẽ nóng ẩm ban đêm phải không", "label": "weather", "source": "massive-vi-VN", "massive_id": "6023", "id": "vi-VN-pool-340"}
+{"text": "vui lòng tìm số điện thoại liên lạc của trần huy", "label": "email", "source": "massive-vi-VN", "massive_id": "16977", "id": "vi-VN-pool-341"}
+{"text": "điều chỉnh các đèn phòng khách sang màu đỏ", "label": "home", "source": "massive-vi-VN", "massive_id": "2841", "id": "vi-VN-pool-342"}
+{"text": "alexa cho tôi danh sách việc cần làm hôm nay", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7656", "id": "vi-VN-pool-343"}
+{"text": "kể lại những lịch trình trong danh sách", "label": "lists", "source": "massive-vi-VN", "massive_id": "10667", "id": "vi-VN-pool-344"}
+{"text": "xóa nhắc nhở cuộc họp ngày thứ ba", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7609", "id": "vi-VN-pool-345"}
+{"text": "ai đã gửi thư điện tử đến tôi gần đây và họ đã nói về cái gì", "label": "email", "source": "massive-vi-VN", "massive_id": "16394", "id": "vi-VN-pool-346"}
+{"text": "bật ổ cắm sạc di động", "label": "home", "source": "massive-vi-VN", "massive_id": "5048", "id": "vi-VN-pool-347"}
+{"text": "tôi nên mặc áo khoác gì", "label": "weather", "source": "massive-vi-VN", "massive_id": "4436", "id": "vi-VN-pool-348"}
+{"text": "đang mưa", "label": "weather", "source": "massive-vi-VN", "massive_id": "2059", "id": "vi-VN-pool-349"}
+{"text": "ở hồ chí minh mật độ giao thông dày đặc hơn", "label": "transport", "source": "massive-vi-VN", "massive_id": "12337", "id": "vi-VN-pool-350"}
+{"text": "xóa tất cả chi tiết lịch của tôi", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8844", "id": "vi-VN-pool-351"}
+{"text": "tôi muốn biết thêm về sự kiện đã được lên lịch", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8790", "id": "vi-VN-pool-352"}
+{"text": "giúp tôi tạo một danh sách của", "label": "lists", "source": "massive-vi-VN", "massive_id": "10900", "id": "vi-VN-pool-353"}
+{"text": "vui lòng đổi màu đèn sang màu đỏ", "label": "home", "source": "massive-vi-VN", "massive_id": "2975", "id": "vi-VN-pool-354"}
+{"text": "trời hôm nay có nắng", "label": "weather", "source": "massive-vi-VN", "massive_id": "5789", "id": "vi-VN-pool-355"}
+{"text": "liệt kê những thứ có sẵn", "label": "lists", "source": "massive-vi-VN", "massive_id": "11169", "id": "vi-VN-pool-356"}
+{"text": "tôi có cần mũ không", "label": "weather", "source": "massive-vi-VN", "massive_id": "5588", "id": "vi-VN-pool-357"}
+{"text": "kiểm tra email từ hai giờ trước", "label": "email", "source": "massive-vi-VN", "massive_id": "15909", "id": "vi-VN-pool-358"}
+{"text": "mẹ có gửi tôi email nào không", "label": "email", "source": "massive-vi-VN", "massive_id": "16540", "id": "vi-VN-pool-359"}
+{"text": "olly vui lòng nói cho tôi biết những chi tiết liên hệ anh trai tôi", "label": "email", "source": "massive-vi-VN", "massive_id": "16185", "id": "vi-VN-pool-360"}
+{"text": "bạn có thể cho tôi biết khi nào chúng tôi phải trả phí bảo hiểm ô tô không", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8799", "id": "vi-VN-pool-361"}
+{"text": "thời tiết như thế nào trong bảy ngày tới", "label": "weather", "source": "massive-vi-VN", "massive_id": "1918", "id": "vi-VN-pool-362"}
+{"text": "thời gian di chuyển ước tính bằng tàu hỏa đi hội an là gì", "label": "transport", "source": "massive-vi-VN", "massive_id": "12927", "id": "vi-VN-pool-363"}
+{"text": "xoá những gì tôi phải làm vào ngày hai mươi ba tháng ba", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8288", "id": "vi-VN-pool-364"}
+{"text": "cho tôi xem hướng về nhà của tôi", "label": "transport", "source": "massive-vi-VN", "massive_id": "12851", "id": "vi-VN-pool-365"}
+{"text": "thay đổi các bóng đèn trong nhà của tôi thành màu cam", "label": "home", "source": "massive-vi-VN", "massive_id": "2550", "id": "vi-VN-pool-366"}
+{"text": "tôi đã gửi thư điện tử cho hùng hôm nay chưa", "label": "email", "source": "massive-vi-VN", "massive_id": "16679", "id": "vi-VN-pool-367"}
+{"text": "cho tôi biết thời tiết", "label": "weather", "source": "massive-vi-VN", "massive_id": "179", "id": "vi-VN-pool-368"}
+{"text": "danh sách của tôi có những mặt hàng nào", "label": "lists", "source": "massive-vi-VN", "massive_id": "11078", "id": "vi-VN-pool-369"}
+{"text": "xóa danh sách phát cũ và tạo cái mới", "label": "lists", "source": "massive-vi-VN", "massive_id": "11212", "id": "vi-VN-pool-370"}
+{"text": "ai đã gửi tôi email hôm nay và tiêu đề là gì", "label": "email", "source": "massive-vi-VN", "massive_id": "16959", "id": "vi-VN-pool-371"}
+{"text": "có chuyến tàu hỏa nào từ hà nội tới nghệ an không và vào lúc mấy giờ", "label": "transport", "source": "massive-vi-VN", "massive_id": "12366", "id": "vi-VN-pool-372"}
+{"text": "nhắc tôi gọi cho mẹ vào thứ ba hàng tuần lúc mười giờ sáng", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8868", "id": "vi-VN-pool-373"}
+{"text": "tạo một danh sách mới", "label": "lists", "source": "massive-vi-VN", "massive_id": "11034", "id": "vi-VN-pool-374"}
+{"text": "trong ba ngày chủ nhật tiếp theo hãy nhắc tôi rằng tôi có lớp yoga vào buổi trưa", "label": "calendar", "source": "massive-vi-VN", "massive_id": "7634", "id": "vi-VN-pool-375"}
+{"text": "tắt các bóng đèn trong phòng", "label": "home", "source": "massive-vi-VN", "massive_id": "2776", "id": "vi-VN-pool-376"}
+{"text": "thêm một mục vào danh sách này", "label": "lists", "source": "massive-vi-VN", "massive_id": "11101", "id": "vi-VN-pool-377"}
+{"text": "thêm cuộc họp ở văn phòng với hùng lúc ba giờ chiều thứ ba", "label": "calendar", "source": "massive-vi-VN", "massive_id": "8415", "id": "vi-VN-pool-378"}

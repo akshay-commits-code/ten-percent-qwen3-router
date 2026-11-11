@@ -1,0 +1,379 @@
+{"text": "ฉันได้รับอีเมลจาก เควิน บ้างไหม และเขาพูดว่าอะไร", "label": "email", "source": "massive-th-TH", "massive_id": "15801", "id": "th-TH-pool-0"}
+{"text": "ฉัน มี นัดหมาย อะไร บ้าง วันนี้", "label": "calendar", "source": "massive-th-TH", "massive_id": "7907", "id": "th-TH-pool-1"}
+{"text": "กรุณาลบ รายการ ของชำ ของฉัน อย่างถี่ถ้วน", "label": "lists", "source": "massive-th-TH", "massive_id": "10735", "id": "th-TH-pool-2"}
+{"text": "เพิ่มที่อยู่อีเมลสำหรับทำงาน", "label": "email", "source": "massive-th-TH", "massive_id": "15977", "id": "th-TH-pool-3"}
+{"text": "กรุณาเปิด ไฟทุกดวง", "label": "home", "source": "massive-th-TH", "massive_id": "5501", "id": "th-TH-pool-4"}
+{"text": "ตรวจ outlook", "label": "email", "source": "massive-th-TH", "massive_id": "16052", "id": "th-TH-pool-5"}
+{"text": "ลบการ นัดหมาย บ่ายโมงครึ่ง ของฉัน", "label": "calendar", "source": "massive-th-TH", "massive_id": "7283", "id": "th-TH-pool-6"}
+{"text": "หาตั๋ว รถไฟ เที่ยวแรกสุด ออกเดินทาง วันศุกร์ ตอนเช้า ไป กรุงเทพ ให้ฉัน", "label": "transport", "source": "massive-th-TH", "massive_id": "12605", "id": "th-TH-pool-7"}
+{"text": "วันพุธ อากาศจะเปลี่ยนบ้างมั๊ย", "label": "weather", "source": "massive-th-TH", "massive_id": "2248", "id": "th-TH-pool-8"}
+{"text": "อุณหภูมิ ปัจจุบัน ในจังหวัด เลย คือ", "label": "weather", "source": "massive-th-TH", "massive_id": "2346", "id": "th-TH-pool-9"}
+{"text": "ขอ รายการ ของฉัน ให้ฉันที", "label": "lists", "source": "massive-th-TH", "massive_id": "10929", "id": "th-TH-pool-10"}
+{"text": "บอกสภาพอากาศให้ฉันที", "label": "weather", "source": "massive-th-TH", "massive_id": "179", "id": "th-TH-pool-11"}
+{"text": "มีชื่อติดต่อชื่อ กรีน กี่อัน", "label": "email", "source": "massive-th-TH", "massive_id": "15866", "id": "th-TH-pool-12"}
+{"text": "แสดง อีเมล ล่าสุด จาก จอห์น olly", "label": "email", "source": "massive-th-TH", "massive_id": "16076", "id": "th-TH-pool-13"}
+{"text": "เปิดใช้งาน หุ่นยนต์ดูดฝุ่น", "label": "home", "source": "massive-th-TH", "massive_id": "2959", "id": "th-TH-pool-14"}
+{"text": "วันเกิด ของ โจส์ กำลังจะมาถึงใช่ไหม", "label": "email", "source": "massive-th-TH", "massive_id": "16242", "id": "th-TH-pool-15"}
+{"text": "เริ่มเตรียมกาแฟ", "label": "home", "source": "massive-th-TH", "massive_id": "3232", "id": "th-TH-pool-16"}
+{"text": "อุณหภูมิ พรุ่งนี้ จะ ร้อน ใช่หรือไม่", "label": "weather", "source": "massive-th-TH", "massive_id": "1683", "id": "th-TH-pool-17"}
+{"text": "รายงานการจราจร", "label": "transport", "source": "massive-th-TH", "massive_id": "12869", "id": "th-TH-pool-18"}
+{"text": "หา แท็กซี่ กลับ บ้าน", "label": "transport", "source": "massive-th-TH", "massive_id": "12232", "id": "th-TH-pool-19"}
+{"text": "ฉันเคยได้รับ จดหมายอิเล็กทรอนิกส์ จาก ณเดช วันนี้ หรือไม่", "label": "email", "source": "massive-th-TH", "massive_id": "16679", "id": "th-TH-pool-20"}
+{"text": "รายการ อะไรที่มีอยู่ตอนนี้", "label": "lists", "source": "massive-th-TH", "massive_id": "10967", "id": "th-TH-pool-21"}
+{"text": "หาข่าวเกี่ยวกับ ประยุทธ์ ให้หน่อยได้มั้ย", "label": "news", "source": "massive-th-TH", "massive_id": "1997", "id": "th-TH-pool-22"}
+{"text": "อ่านกลับมาให้ฟังหน่อยว่ามีอะไรอยู่ในรายการ ช็อปปิง ของฉันบ้าง", "label": "lists", "source": "massive-th-TH", "massive_id": "10944", "id": "th-TH-pool-23"}
+{"text": "ลบ นม จาก รายการ ซื้อของ", "label": "lists", "source": "massive-th-TH", "massive_id": "11083", "id": "th-TH-pool-24"}
+{"text": "แทนที่", "label": "lists", "source": "massive-th-TH", "massive_id": "10696", "id": "th-TH-pool-25"}
+{"text": "ฉันต้องสวม แจ็กเกต ตอนออกไปข้างนอก หรือไม่", "label": "weather", "source": "massive-th-TH", "massive_id": "5751", "id": "th-TH-pool-26"}
+{"text": "ปิด", "label": "home", "source": "massive-th-TH", "massive_id": "4026", "id": "th-TH-pool-27"}
+{"text": "ลิสต์ เวลา รถไฟ ไป กรุงเทพ", "label": "transport", "source": "massive-th-TH", "massive_id": "12827", "id": "th-TH-pool-28"}
+{"text": "รถไฟไปกรุงเทพ ขบวนถัดไป", "label": "transport", "source": "massive-th-TH", "massive_id": "12416", "id": "th-TH-pool-29"}
+{"text": "เพิ่ม ซาร่าห์ เป็น อีเมล ติดต่อ", "label": "email", "source": "massive-th-TH", "massive_id": "15978", "id": "th-TH-pool-30"}
+{"text": "เริ่ม รายการ อันใหม่สำหรับฉัน", "label": "lists", "source": "massive-th-TH", "massive_id": "10562", "id": "th-TH-pool-31"}
+{"text": "คอนเสิร์ต ถนนข้าวสาร", "label": "calendar", "source": "massive-th-TH", "massive_id": "8258", "id": "th-TH-pool-32"}
+{"text": "แสดงอีเมลของฉันจาก หนึ่งชั่วโมงที่ผ่านมา ให้ฉันดู", "label": "email", "source": "massive-th-TH", "massive_id": "16520", "id": "th-TH-pool-33"}
+{"text": "olly มีอะไรที่จะต้องเตือนฉันมั้ย", "label": "calendar", "source": "massive-th-TH", "massive_id": "6721", "id": "th-TH-pool-34"}
+{"text": "ชื่อติดต่ออันไหนที่ฉันไม่ได้โทรหามาแล้ว หนึ่งปี", "label": "email", "source": "massive-th-TH", "massive_id": "16229", "id": "th-TH-pool-35"}
+{"text": "การประชุม เมื่อวาน", "label": "calendar", "source": "massive-th-TH", "massive_id": "7523", "id": "th-TH-pool-36"}
+{"text": "ส่ง อีเมล ถึง พ่อ ฉันจะไป งานเลี้ยงวันเกิด", "label": "email", "source": "massive-th-TH", "massive_id": "16134", "id": "th-TH-pool-37"}
+{"text": "พรุ่งนี้ ฉัน มี ปาร์ตี้ ไหม บันทึกลงใน ปฏิทิน ของฉัน ด้วย", "label": "calendar", "source": "massive-th-TH", "massive_id": "8016", "id": "th-TH-pool-38"}
+{"text": "หลังจากสิบโมงเช้า ฉันต้องใส่ เสื้อเเจ๊คเก็ต ไหม", "label": "weather", "source": "massive-th-TH", "massive_id": "5453", "id": "th-TH-pool-39"}
+{"text": "บอก เสกสรรค์ ศุขพิมาย", "label": "email", "source": "massive-th-TH", "massive_id": "16322", "id": "th-TH-pool-40"}
+{"text": "ลบ รายการ อาหาร รายการที่ซื้อ อาทิตย์ก่อน", "label": "lists", "source": "massive-th-TH", "massive_id": "10470", "id": "th-TH-pool-41"}
+{"text": "แสดง อากาศที่ เลย อาทิตย์หน้า", "label": "weather", "source": "massive-th-TH", "massive_id": "3801", "id": "th-TH-pool-42"}
+{"text": "สั่งกาแฟจาก ร้านกาแฟ ที่ใกล้ที่สุด", "label": "home", "source": "massive-th-TH", "massive_id": "1817", "id": "th-TH-pool-43"}
+{"text": "เตือน การประชุม วันอังคาร", "label": "calendar", "source": "massive-th-TH", "massive_id": "7609", "id": "th-TH-pool-44"}
+{"text": "ลบ งานกิจกรรม และ ตารางงาน ทั้งหมด", "label": "calendar", "source": "massive-th-TH", "massive_id": "6929", "id": "th-TH-pool-45"}
+{"text": "มนต์สิทธิ์ คำสร้อย", "label": "weather", "source": "massive-th-TH", "massive_id": "512", "id": "th-TH-pool-46"}
+{"text": "ประชุม พนักงาน ของเรา", "label": "calendar", "source": "massive-th-TH", "massive_id": "8785", "id": "th-TH-pool-47"}
+{"text": "เธอช่วยหาราคาตั๋ว รถไฟ ให้ฉันหน่อย", "label": "transport", "source": "massive-th-TH", "massive_id": "12279", "id": "th-TH-pool-48"}
+{"text": "เปลี่ยน ไฟ เป็น สีโปรด ของฉัน", "label": "home", "source": "massive-th-TH", "massive_id": "4648", "id": "th-TH-pool-49"}
+{"text": "ฉันควรใส่ เสื้อแจ็คเก็ต แบบไหน", "label": "weather", "source": "massive-th-TH", "massive_id": "4436", "id": "th-TH-pool-50"}
+{"text": "ช่วยฉันจัด รายการ ของ", "label": "lists", "source": "massive-th-TH", "massive_id": "10900", "id": "th-TH-pool-51"}
+{"text": "บทความ ไทยรัฐ เรื่อง พ. ร. บ. การทำแท้ง พูดว่าอย่างไรบ้าง", "label": "news", "source": "massive-th-TH", "massive_id": "2666", "id": "th-TH-pool-52"}
+{"text": "ลบรายละเอียด ทั้งหมด ของ ปฏิทิน ของฉัน", "label": "calendar", "source": "massive-th-TH", "massive_id": "8844", "id": "th-TH-pool-53"}
+{"text": "เปิด หุ่นยนต์ดูดฝุ่น", "label": "home", "source": "massive-th-TH", "massive_id": "1059", "id": "th-TH-pool-54"}
+{"text": "มี รถไฟ ต่อ จาก กรุงเทพ ไป เชียงใหม่ หรือไม่ และมีตอนกี่โมง", "label": "transport", "source": "massive-th-TH", "massive_id": "12366", "id": "th-TH-pool-55"}
+{"text": "เปลี่ยนไฟ ใน บ้านของฉัน เป็น สีส้ม", "label": "home", "source": "massive-th-TH", "massive_id": "2550", "id": "th-TH-pool-56"}
+{"text": "หรี่ ไฟ", "label": "home", "source": "massive-th-TH", "massive_id": "160", "id": "th-TH-pool-57"}
+{"text": "แจ้งเตือน อะไรบ้าง", "label": "calendar", "source": "massive-th-TH", "massive_id": "6786", "id": "th-TH-pool-58"}
+{"text": "อยากดื่มกาแฟเดี๋ยวนี้", "label": "home", "source": "massive-th-TH", "massive_id": "165", "id": "th-TH-pool-59"}
+{"text": "เตรียมข้อมูลเกี่ยวกับ บิล จาก รายชื่อผู้ติดต่อ ของฉัน", "label": "email", "source": "massive-th-TH", "massive_id": "16250", "id": "th-TH-pool-60"}
+{"text": "เปิด เครื่องดูดฝุ่น ให้ฉันที", "label": "home", "source": "massive-th-TH", "massive_id": "4011", "id": "th-TH-pool-61"}
+{"text": "ดึงตัวควบคุมไฟขึ้นมา", "label": "home", "source": "massive-th-TH", "massive_id": "2646", "id": "th-TH-pool-62"}
+{"text": "ช่วยเพิ่ม งาน ของในตารางงาน ของฉัน ได้ไหม", "label": "calendar", "source": "massive-th-TH", "massive_id": "7835", "id": "th-TH-pool-63"}
+{"text": "เกิดอะไรขึ้นกับ ฟุตบอล ใน วันนี้", "label": "news", "source": "massive-th-TH", "massive_id": "65", "id": "th-TH-pool-64"}
+{"text": "ช่วย บอก ฉันถึงสภาพการจราจรได้มั้ย", "label": "transport", "source": "massive-th-TH", "massive_id": "12789", "id": "th-TH-pool-65"}
+{"text": "อะไรคือสิ่งที่อยู่ใน รายการ ของฉัน", "label": "lists", "source": "massive-th-TH", "massive_id": "11078", "id": "th-TH-pool-66"}
+{"text": "วันเกิด ปรีดา สิบสองกรกฎาคม", "label": "calendar", "source": "massive-th-TH", "massive_id": "7345", "id": "th-TH-pool-67"}
+{"text": "ลบ เพลย์ลิสต์เก่า และสร้างใหม่", "label": "lists", "source": "massive-th-TH", "massive_id": "11212", "id": "th-TH-pool-68"}
+{"text": "olly ราตรีสวัสดิ์ ปิด ไฟ ด้วย", "label": "home", "source": "massive-th-TH", "massive_id": "265", "id": "th-TH-pool-69"}
+{"text": "กรุณาหา หมายเลข ติดต่อ ของ โรฮัล จูดาวา", "label": "email", "source": "massive-th-TH", "massive_id": "16977", "id": "th-TH-pool-70"}
+{"text": "สร้างแจ้งเตือนสำหรับกิจกรรมวันที่ ยี่สิบเจ็ด มีนาคม ตอน เที่ยง", "label": "calendar", "source": "massive-th-TH", "massive_id": "8319", "id": "th-TH-pool-71"}
+{"text": "ฉันมี จดหมาย ใดใด หรือไม่", "label": "email", "source": "massive-th-TH", "massive_id": "16513", "id": "th-TH-pool-72"}
+{"text": "ทำ รายการ ใหม่", "label": "lists", "source": "massive-th-TH", "massive_id": "10858", "id": "th-TH-pool-73"}
+{"text": "ฉันจะตั้งเวลา เครื่องชงกาแฟ ได้อย่างไร", "label": "home", "source": "massive-th-TH", "massive_id": "2513", "id": "th-TH-pool-74"}
+{"text": "โปรด เตือนฉัน หนึ่งวันก่อนหน้า วันเกิด ของจ่อย", "label": "calendar", "source": "massive-th-TH", "massive_id": "8260", "id": "th-TH-pool-75"}
+{"text": "นัดหมอ วันอังคาร ตอนเช้า", "label": "calendar", "source": "massive-th-TH", "massive_id": "8595", "id": "th-TH-pool-76"}
+{"text": "ลบ งาน วันจันทร์", "label": "calendar", "source": "massive-th-TH", "massive_id": "7913", "id": "th-TH-pool-77"}
+{"text": "เพิ่มความสว่าง ให้ โคมไฟข้างโซฟา ที", "label": "home", "source": "massive-th-TH", "massive_id": "287", "id": "th-TH-pool-78"}
+{"text": "วันที่ยี่สิบสามมีนาคม", "label": "calendar", "source": "massive-th-TH", "massive_id": "8288", "id": "th-TH-pool-79"}
+{"text": "ข้างนอกอากาศ เย็น มั๊ย", "label": "weather", "source": "massive-th-TH", "massive_id": "491", "id": "th-TH-pool-80"}
+{"text": "รถไฟเชียงใหม่ ออกกี่โมง", "label": "transport", "source": "massive-th-TH", "massive_id": "12365", "id": "th-TH-pool-81"}
+{"text": "ลด ระดับ ไฟ ใน บ้าน ของฉัน", "label": "home", "source": "massive-th-TH", "massive_id": "2176", "id": "th-TH-pool-82"}
+{"text": "หาคนขับ แกร็บ ที่ว่าง คืนนี้ หลัง สี่ทุ่ม", "label": "transport", "source": "massive-th-TH", "massive_id": "12478", "id": "th-TH-pool-83"}
+{"text": "โปรดบอกสภาพอากาศใน กรุงเทพฯ สำหรับ อาทิตย์ที่จะถึง", "label": "weather", "source": "massive-th-TH", "massive_id": "5143", "id": "th-TH-pool-84"}
+{"text": "ส่ง อีเมล ถึง พ่อ อากาศเป็นอย่างไรบ้าง สัปดาห์นี้", "label": "email", "source": "massive-th-TH", "massive_id": "16213", "id": "th-TH-pool-85"}
+{"text": "ปิด ไฟ", "label": "home", "source": "massive-th-TH", "massive_id": "4644", "id": "th-TH-pool-86"}
+{"text": "ตั้งค่า ไฟ ห้องนั่งเล่น เป็น สีแดง", "label": "home", "source": "massive-th-TH", "massive_id": "2841", "id": "th-TH-pool-87"}
+{"text": "ที่อยู่ ของ จอห์น โด คืออะไร", "label": "email", "source": "massive-th-TH", "massive_id": "16350", "id": "th-TH-pool-88"}
+{"text": "การนัดหมาย สุดสัปดาห์", "label": "calendar", "source": "massive-th-TH", "massive_id": "7493", "id": "th-TH-pool-89"}
+{"text": "เส้นทางกลับ บ้าน ที่รวดเร็ว", "label": "transport", "source": "massive-th-TH", "massive_id": "12738", "id": "th-TH-pool-90"}
+{"text": "เตือนฉัน ให้ โทรหาแม่ ทุกวันอังคาร ตอน สิบโมงเช้า", "label": "calendar", "source": "massive-th-TH", "massive_id": "8868", "id": "th-TH-pool-91"}
+{"text": "ตั้ง นัด กับ จริยา วันเสาร์ สี่โมงเย็น", "label": "calendar", "source": "massive-th-TH", "massive_id": "6789", "id": "th-TH-pool-92"}
+{"text": "วันนี้ ข้างนอกเป็นอย่างไรบ้าง", "label": "weather", "source": "massive-th-TH", "massive_id": "4376", "id": "th-TH-pool-93"}
+{"text": "หารายการ", "label": "lists", "source": "massive-th-TH", "massive_id": "10608", "id": "th-TH-pool-94"}
+{"text": "เพิ่มอีเมล", "label": "email", "source": "massive-th-TH", "massive_id": "16224", "id": "th-TH-pool-95"}
+{"text": "สุดสัปดาห์นี้ สภาพอากาศจะ ดี หรือไม่", "label": "weather", "source": "massive-th-TH", "massive_id": "3408", "id": "th-TH-pool-96"}
+{"text": "ปิด ไฟ เฉลียง บ้าน", "label": "home", "source": "massive-th-TH", "massive_id": "2578", "id": "th-TH-pool-97"}
+{"text": "ทำให้ ไฟ ในนี้ เป็น สีฟ้า", "label": "home", "source": "massive-th-TH", "massive_id": "1316", "id": "th-TH-pool-98"}
+{"text": "ใส่ รองเท้า ใน รายการ ของฉัน", "label": "lists", "source": "massive-th-TH", "massive_id": "11221", "id": "th-TH-pool-99"}
+{"text": "หา ปาล์มมี่ ซ่อนกลิ่น", "label": "email", "source": "massive-th-TH", "massive_id": "16026", "id": "th-TH-pool-100"}
+{"text": "alexa ปิด พัดลม ใน ห้องนอนใหญ่", "label": "home", "source": "massive-th-TH", "massive_id": "2946", "id": "th-TH-pool-101"}
+{"text": "ทำให้ ไฟ ใน ห้อง ปิด", "label": "home", "source": "massive-th-TH", "massive_id": "2776", "id": "th-TH-pool-102"}
+{"text": "อะไรคือ โอกาสเกิดพายุสายฟ้า วันนี้ ใน พัทยา", "label": "weather", "source": "massive-th-TH", "massive_id": "3286", "id": "th-TH-pool-103"}
+{"text": "ต้องการ แท็กซี่ ตอนนี้", "label": "transport", "source": "massive-th-TH", "massive_id": "12228", "id": "th-TH-pool-104"}
+{"text": "ฉัน มี อีเมล หรือไม่", "label": "email", "source": "massive-th-TH", "massive_id": "17176", "id": "th-TH-pool-105"}
+{"text": "เตือนฉันในวันแรกของ แต่ละเดือน", "label": "calendar", "source": "massive-th-TH", "massive_id": "8629", "id": "th-TH-pool-106"}
+{"text": "ปิด โคมไฟอัจฉริยะ ห้องหนังสือ", "label": "home", "source": "massive-th-TH", "massive_id": "2896", "id": "th-TH-pool-107"}
+{"text": "มี อีเมล ใดใด ที่ ฉัน ยังไม่ได้อ่านหรือไม่", "label": "email", "source": "massive-th-TH", "massive_id": "16011", "id": "th-TH-pool-108"}
+{"text": "ฉันจะ โทร หา ซาร่าห์ ได้อย่างไร", "label": "email", "source": "massive-th-TH", "massive_id": "16272", "id": "th-TH-pool-109"}
+{"text": "ประชุม เช้า วันพุธ", "label": "calendar", "source": "massive-th-TH", "massive_id": "10924", "id": "th-TH-pool-110"}
+{"text": "อีเมล แอชวิน พาเทล ความปราถนาดีที่สุดของฉัน และเอกสารแนบของงาน พี. ดี. เอฟ.", "label": "email", "source": "massive-th-TH", "massive_id": "15991", "id": "th-TH-pool-111"}
+{"text": "ฉัน ตากเสื้อผ้าที่ราว ได้ไหม", "label": "weather", "source": "massive-th-TH", "massive_id": "5700", "id": "th-TH-pool-112"}
+{"text": "ทำให้ ไฟ แลดูเป็นมิตร", "label": "home", "source": "massive-th-TH", "massive_id": "210", "id": "th-TH-pool-113"}
+{"text": "งาน วันจันทร์", "label": "calendar", "source": "massive-th-TH", "massive_id": "8901", "id": "th-TH-pool-114"}
+{"text": "แสดงรายการที่มีอยู่", "label": "lists", "source": "massive-th-TH", "massive_id": "11169", "id": "th-TH-pool-115"}
+{"text": "อะไรอยู่ใน รายการ บ้าง", "label": "lists", "source": "massive-th-TH", "massive_id": "10998", "id": "th-TH-pool-116"}
+{"text": "จอง อูเบอร์ แท็กซี่ ไป พิธภัณฑ์แห่งชาติ ให้ฉัน", "label": "transport", "source": "massive-th-TH", "massive_id": "12849", "id": "th-TH-pool-117"}
+{"text": "อุณหภูมิ มัน เท่าไหร่", "label": "weather", "source": "massive-th-TH", "massive_id": "2327", "id": "th-TH-pool-118"}
+{"text": "สภาพอากาศ สัปดาห์นี้", "label": "weather", "source": "massive-th-TH", "massive_id": "4486", "id": "th-TH-pool-119"}
+{"text": "ทำให้ ไฟ เป็นสีฟ้า", "label": "home", "source": "massive-th-TH", "massive_id": "264", "id": "th-TH-pool-120"}
+{"text": "สภาพอากาศ วันนี้", "label": "weather", "source": "massive-th-TH", "massive_id": "3506", "id": "th-TH-pool-121"}
+{"text": "พยากรณ์ อากาศ พรุ่งนี้ เป็นอย่างไร", "label": "weather", "source": "massive-th-TH", "massive_id": "346", "id": "th-TH-pool-122"}
+{"text": "จอง แกร็บ แท็กซี่ ให้ที", "label": "transport", "source": "massive-th-TH", "massive_id": "12830", "id": "th-TH-pool-123"}
+{"text": "สับเปลี่ยน สีไฟใน บ้าน หน่อย", "label": "home", "source": "massive-th-TH", "massive_id": "403", "id": "th-TH-pool-124"}
+{"text": "เวลาเดิน รถไฟ ของ วันนี้ คืออะไร", "label": "transport", "source": "massive-th-TH", "massive_id": "12731", "id": "th-TH-pool-125"}
+{"text": "ตอนนี้ ร้อน ขนาดไหนที่ สมุทรสาคร", "label": "weather", "source": "massive-th-TH", "massive_id": "1405", "id": "th-TH-pool-126"}
+{"text": "มีข่าวล่าสุดอะไรบ้าง", "label": "news", "source": "massive-th-TH", "massive_id": "4859", "id": "th-TH-pool-127"}
+{"text": "ปฏิทิน เหตุการณ์ วันที่สิบเก้ามีนาคม บ่ายสอง", "label": "calendar", "source": "massive-th-TH", "massive_id": "8382", "id": "th-TH-pool-128"}
+{"text": "กรุณาทำลาย รายการ นี้", "label": "lists", "source": "massive-th-TH", "massive_id": "10963", "id": "th-TH-pool-129"}
+{"text": "อย่าลืมเตือนฉัน เรื่อง วันเกิด น้องชาย ของฉัน วันที่ ยี่สิบเมษายน", "label": "calendar", "source": "massive-th-TH", "massive_id": "7653", "id": "th-TH-pool-130"}
+{"text": "ช่วยส่งอีเมลไปที่อยู่อีเมลใหม่นี้ทีได้ไหม", "label": "email", "source": "massive-th-TH", "massive_id": "16632", "id": "th-TH-pool-131"}
+{"text": "หรี่ ไฟ ให้หน่อย", "label": "home", "source": "massive-th-TH", "massive_id": "3280", "id": "th-TH-pool-132"}
+{"text": "ขอรายงานสภาพอากาศของ สุพรรณบุรี", "label": "weather", "source": "massive-th-TH", "massive_id": "3784", "id": "th-TH-pool-133"}
+{"text": "มืดจัง เพิ่มแสงสว่าง ไฟ ให้ที", "label": "home", "source": "massive-th-TH", "massive_id": "3520", "id": "th-TH-pool-134"}
+{"text": "ส่งอีเมล ถึง แอนนา เกี่ยวกับ ข่าว ล่าสุด", "label": "email", "source": "massive-th-TH", "massive_id": "15760", "id": "th-TH-pool-135"}
+{"text": "อุณหภูมิ จะ สูงกว่าสามสิบสาม หรือไม่ พรุ่งนี้", "label": "weather", "source": "massive-th-TH", "massive_id": "4613", "id": "th-TH-pool-136"}
+{"text": "olly กรุณาตรวจว่าฉันมี อีเมล ใดใด จาก แม่ หรือไม่", "label": "email", "source": "massive-th-TH", "massive_id": "16543", "id": "th-TH-pool-137"}
+{"text": "เมื่อไม่นานมานี้ ใครอีเมลฉัน และพวกเขาอีเมลเกี่ยวกับอะไร", "label": "email", "source": "massive-th-TH", "massive_id": "16394", "id": "th-TH-pool-138"}
+{"text": "เปลี่ยน สี ไฟ", "label": "home", "source": "massive-th-TH", "massive_id": "5714", "id": "th-TH-pool-139"}
+{"text": "ใครเพิ่งอีเมลหาฉัน", "label": "email", "source": "massive-th-TH", "massive_id": "16366", "id": "th-TH-pool-140"}
+{"text": "สร้าง กิจกรรม ซ้ำ", "label": "calendar", "source": "massive-th-TH", "massive_id": "7514", "id": "th-TH-pool-141"}
+{"text": "จองตั๋ว รถไฟ จาก กรุงเทพ ไป อำเภอเมือง เชียงใหม่", "label": "transport", "source": "massive-th-TH", "massive_id": "12379", "id": "th-TH-pool-142"}
+{"text": "จอง ตั๋ว รถไฟ ไป เชียงใหม่", "label": "transport", "source": "massive-th-TH", "massive_id": "12396", "id": "th-TH-pool-143"}
+{"text": "เพิ่มอีเว้นท์ลงปฏิทินวันนี้ เวลานี้ กับคนกลุ่มนี้", "label": "calendar", "source": "massive-th-TH", "massive_id": "8703", "id": "th-TH-pool-144"}
+{"text": "ประชุม เดือนมีนาคม", "label": "calendar", "source": "massive-th-TH", "massive_id": "7375", "id": "th-TH-pool-145"}
+{"text": "ข้อความ อีเมลใหม่ ทั้งหมด", "label": "email", "source": "massive-th-TH", "massive_id": "16416", "id": "th-TH-pool-146"}
+{"text": "ปฏิทิน ของฉัน", "label": "calendar", "source": "massive-th-TH", "massive_id": "7757", "id": "th-TH-pool-147"}
+{"text": "หาทางกลับ บ้าน โดยที่รถไม่ ติด", "label": "transport", "source": "massive-th-TH", "massive_id": "12443", "id": "th-TH-pool-148"}
+{"text": "อีเมลข้อความ ถึงที่อยู่", "label": "email", "source": "massive-th-TH", "massive_id": "16573", "id": "th-TH-pool-149"}
+{"text": "หา ตั๋ว รถไฟ ไป เชียงใหม่", "label": "transport", "source": "massive-th-TH", "massive_id": "12199", "id": "th-TH-pool-150"}
+{"text": "การประชุม กับแจ็ควันที่สิบมีนาคม", "label": "calendar", "source": "massive-th-TH", "massive_id": "7470", "id": "th-TH-pool-151"}
+{"text": "olly ขอ ไฟ หน่อย", "label": "home", "source": "massive-th-TH", "massive_id": "3010", "id": "th-TH-pool-152"}
+{"text": "พรุ่งนี้ ฝนตก รึเปล่า", "label": "weather", "source": "massive-th-TH", "massive_id": "6039", "id": "th-TH-pool-153"}
+{"text": "ส่งสวัสดีใน watsapp หาวิกกี้", "label": "email", "source": "massive-th-TH", "massive_id": "17175", "id": "th-TH-pool-154"}
+{"text": "ปฏิทิน งาน ของฉัน", "label": "calendar", "source": "massive-th-TH", "massive_id": "7755", "id": "th-TH-pool-155"}
+{"text": "ส่ง อีเมล ถึง ลุง ของฉัน เกี่ยวกับสถานการณ์ของอากาศในปัจจุบัน", "label": "email", "source": "massive-th-TH", "massive_id": "16189", "id": "th-TH-pool-156"}
+{"text": "เปิดใช้งาน เครื่องดูดฝุ่น", "label": "home", "source": "massive-th-TH", "massive_id": "633", "id": "th-TH-pool-157"}
+{"text": "วันมะรืน นี้ ฉันจะต้องใช้ เสื้อกันฝน หรือเปล่า", "label": "weather", "source": "massive-th-TH", "massive_id": "5112", "id": "th-TH-pool-158"}
+{"text": "เปิด wemo", "label": "home", "source": "massive-th-TH", "massive_id": "5069", "id": "th-TH-pool-159"}
+{"text": "ตัดพริกแดงออกจาก ของชำ", "label": "lists", "source": "massive-th-TH", "massive_id": "10989", "id": "th-TH-pool-160"}
+{"text": "เปลี่ยน เป็น ไฟ โทน สีแดง", "label": "home", "source": "massive-th-TH", "massive_id": "2018", "id": "th-TH-pool-161"}
+{"text": "คืนนี้ จะ อากาศดี ไหม", "label": "weather", "source": "massive-th-TH", "massive_id": "6022", "id": "th-TH-pool-162"}
+{"text": "แทรกไอเทมนี้", "label": "lists", "source": "massive-th-TH", "massive_id": "11091", "id": "th-TH-pool-163"}
+{"text": "ตอนบ่ายนี้ ฉันต้องพก ร่ม ไป สมุทรสาคร ไหม", "label": "weather", "source": "massive-th-TH", "massive_id": "5167", "id": "th-TH-pool-164"}
+{"text": "ปิดไฟ ห้องน้ำ ชั้นบน", "label": "home", "source": "massive-th-TH", "massive_id": "1717", "id": "th-TH-pool-165"}
+{"text": "แสดง เหตุการณ์ ของฉัน", "label": "calendar", "source": "massive-th-TH", "massive_id": "8460", "id": "th-TH-pool-166"}
+{"text": "whatsapp", "label": "email", "source": "massive-th-TH", "massive_id": "16862", "id": "th-TH-pool-167"}
+{"text": "ช่วย ปิด ไฟ ห้องน้ำ ให้ที", "label": "home", "source": "massive-th-TH", "massive_id": "1376", "id": "th-TH-pool-168"}
+{"text": "เพิ่มความสว่างของไฟ อีกยี่สิบเปอร์เซ็นต์", "label": "home", "source": "massive-th-TH", "massive_id": "313", "id": "th-TH-pool-169"}
+{"text": "พูด รายการ", "label": "lists", "source": "massive-th-TH", "massive_id": "10999", "id": "th-TH-pool-170"}
+{"text": "ฉันได้รับ อีเมล บ้าง ไหมใน หนึ่งชั่วโมงที่ผ่านมา", "label": "email", "source": "massive-th-TH", "massive_id": "16653", "id": "th-TH-pool-171"}
+{"text": "รถติดมั้ย", "label": "transport", "source": "massive-th-TH", "massive_id": "12884", "id": "th-TH-pool-172"}
+{"text": "กรุณา ปิด เฉพาะ ไฟ ข้าง ขวา", "label": "home", "source": "massive-th-TH", "massive_id": "1706", "id": "th-TH-pool-173"}
+{"text": "ทอม อีเมลฉันหรือยัง", "label": "email", "source": "massive-th-TH", "massive_id": "16343", "id": "th-TH-pool-174"}
+{"text": "ปิด ปลั๊กอัจฉริยะ ของฉัน", "label": "home", "source": "massive-th-TH", "massive_id": "1000", "id": "th-TH-pool-175"}
+{"text": "ให้รายการกับ รายการ นี้", "label": "lists", "source": "massive-th-TH", "massive_id": "11101", "id": "th-TH-pool-176"}
+{"text": "คุณช่วยสร้าง กิจกรรม สำหรับ คืน วันศุกร์ กับ ปรีดา ใหม่ทอง และ ปรีชา ได้ไหม", "label": "calendar", "source": "massive-th-TH", "massive_id": "7105", "id": "th-TH-pool-177"}
+{"text": "บน ที่ชาร์จโทรศัพท์", "label": "home", "source": "massive-th-TH", "massive_id": "5048", "id": "th-TH-pool-178"}
+{"text": "ยิม ทุกวันจันทร์ และอังคาร", "label": "calendar", "source": "massive-th-TH", "massive_id": "6766", "id": "th-TH-pool-179"}
+{"text": "ส่ง อีเมล ถึง พี่ชาย ของฉัน และบอกว่า ครบรอบแต่งงาน", "label": "email", "source": "massive-th-TH", "massive_id": "16103", "id": "th-TH-pool-180"}
+{"text": "ขอพยากรณ์อากาศ ห้าวันย้อนหลัง", "label": "weather", "source": "massive-th-TH", "massive_id": "7641", "id": "th-TH-pool-181"}
+{"text": "hi google กรุณายกเลิก รายการ ทั้งหมดใน วันศุกร์", "label": "calendar", "source": "massive-th-TH", "massive_id": "8098", "id": "th-TH-pool-182"}
+{"text": "ฉันให้ความสนใจเป็นครั้งคราว", "label": "weather", "source": "massive-th-TH", "massive_id": "1401", "id": "th-TH-pool-183"}
+{"text": "จะมี ฝนตก พรุ่งนี้ ตอน เที่ยง ไหม", "label": "weather", "source": "massive-th-TH", "massive_id": "1655", "id": "th-TH-pool-184"}
+{"text": "งานเลี้ยงวันเกิด เจน วันพรุ่งนี้ บ่ายสอง", "label": "calendar", "source": "massive-th-TH", "massive_id": "8475", "id": "th-TH-pool-185"}
+{"text": "อีเมล ขณะนี้", "label": "email", "source": "massive-th-TH", "massive_id": "16922", "id": "th-TH-pool-186"}
+{"text": "มีอะไรที่ กำลังเป็นที่นิยม", "label": "news", "source": "massive-th-TH", "massive_id": "745", "id": "th-TH-pool-187"}
+{"text": "กรุณาส่ง อีเมล ถึง อีเมล ใหม่ ของลาร์รี่ ที่ larrylarry at gmail dot com", "label": "email", "source": "massive-th-TH", "massive_id": "16200", "id": "th-TH-pool-188"}
+{"text": "ลบ ตาราง ของฉัน วันนี้", "label": "calendar", "source": "massive-th-TH", "massive_id": "8896", "id": "th-TH-pool-189"}
+{"text": "วันนี้", "label": "calendar", "source": "massive-th-TH", "massive_id": "7656", "id": "th-TH-pool-190"}
+{"text": "ฉันต้องเอา แว่นกันแดด ไปข้างนอกด้วยไหม", "label": "weather", "source": "massive-th-TH", "massive_id": "5665", "id": "th-TH-pool-191"}
+{"text": "มี อีเมล ที่ยังไม่ได้อ่าน จากคน นี้ บ้าง มั้ย", "label": "email", "source": "massive-th-TH", "massive_id": "16913", "id": "th-TH-pool-192"}
+{"text": "บอก ฉันเกี่ยวกับการก่อสร้าง ถนน ล่าสุด บนเส้นทางเจ็ดสิบ", "label": "news", "source": "massive-th-TH", "massive_id": "5921", "id": "th-TH-pool-193"}
+{"text": "เปลี่ยน สี ไฟ เป็น สีชมพู", "label": "home", "source": "massive-th-TH", "massive_id": "1960", "id": "th-TH-pool-194"}
+{"text": "ฉันต้องการส่ง อีเมล ถึง สมชาย", "label": "email", "source": "massive-th-TH", "massive_id": "16996", "id": "th-TH-pool-195"}
+{"text": "เวลา เดินทางโดยประมาณ ของการ นั่ง รถไฟ ไป กรุงเทพ คืออะไร", "label": "transport", "source": "massive-th-TH", "massive_id": "12927", "id": "th-TH-pool-196"}
+{"text": "เตือน โทรหาธนาคาร วันพฤหัสบดี หน้า", "label": "calendar", "source": "massive-th-TH", "massive_id": "8826", "id": "th-TH-pool-197"}
+{"text": "ต้มน้ำใน กา ให้ที", "label": "home", "source": "massive-th-TH", "massive_id": "4085", "id": "th-TH-pool-198"}
+{"text": "ฉันอยากรู้เพิ่มเติมเกี่ยวกับงานอีเว้นท์ที่กำหนดไว้", "label": "calendar", "source": "massive-th-TH", "massive_id": "8790", "id": "th-TH-pool-199"}
+{"text": "ฉัน ได้อีเมลเกี่ยวกับ อะไร และ ใคร สัปดาห์ที่แล้ว", "label": "email", "source": "massive-th-TH", "massive_id": "16395", "id": "th-TH-pool-200"}
+{"text": "วันนี้ ฉัน จะ ใส่ กางเกงขาสั้น ได้ไหม", "label": "weather", "source": "massive-th-TH", "massive_id": "4481", "id": "th-TH-pool-201"}
+{"text": "ฉัน มีเบอร์ของ เจอร์รี่ หรือไม่", "label": "email", "source": "massive-th-TH", "massive_id": "16645", "id": "th-TH-pool-202"}
+{"text": "วันศุกร์ เช้า", "label": "calendar", "source": "massive-th-TH", "massive_id": "7054", "id": "th-TH-pool-203"}
+{"text": "บอก หน่อยที่นี่จนถึง บ้าน รถติดมั้ย", "label": "transport", "source": "massive-th-TH", "massive_id": "12318", "id": "th-TH-pool-204"}
+{"text": "อากาศตรง สามเหลี่ยมทองคำ", "label": "weather", "source": "massive-th-TH", "massive_id": "2222", "id": "th-TH-pool-205"}
+{"text": "ความยาวของการจราจร", "label": "transport", "source": "massive-th-TH", "massive_id": "12327", "id": "th-TH-pool-206"}
+{"text": "ทำเครื่องหมายให้ วันอังคาร หน้า ในปฏิทิน ของฉัน เป็น วันเกิด ของ จอห์น", "label": "calendar", "source": "massive-th-TH", "massive_id": "7322", "id": "th-TH-pool-207"}
+{"text": "สี่โมง", "label": "calendar", "source": "massive-th-TH", "massive_id": "8781", "id": "th-TH-pool-208"}
+{"text": "กรุณาปิดสวิตช์บน ปลั๊ก wemo", "label": "home", "source": "massive-th-TH", "massive_id": "4572", "id": "th-TH-pool-209"}
+{"text": "เรียก แท็กซี่ ให้ฉัน olly", "label": "transport", "source": "massive-th-TH", "massive_id": "12299", "id": "th-TH-pool-210"}
+{"text": "ตั้งค่าให้ไฟบ้านทุกดวงเป็น สีฟ้า", "label": "home", "source": "massive-th-TH", "massive_id": "2282", "id": "th-TH-pool-211"}
+{"text": "ฉันอยากจะทำความสะอาดห้องนอนของฉัน เปิด เครื่องดูดฝุ่น ให้เดินเครื่องใน ห้อง ของฉันที", "label": "home", "source": "massive-th-TH", "massive_id": "5329", "id": "th-TH-pool-212"}
+{"text": "เรียนเต้นรูดเสา วันเสาร์ เจ็ดโมงเช้า", "label": "calendar", "source": "massive-th-TH", "massive_id": "7107", "id": "th-TH-pool-213"}
+{"text": "เริ่มและ ส่งอีเมล ไปยัง ธนันท์ ชัยศรี", "label": "email", "source": "massive-th-TH", "massive_id": "16892", "id": "th-TH-pool-214"}
+{"text": "เริ่มเตรียมกาแฟ", "label": "home", "source": "massive-th-TH", "massive_id": "1609", "id": "th-TH-pool-215"}
+{"text": "olly สภาพอาการเป็นอย่างไรใน วันเสาร์", "label": "weather", "source": "massive-th-TH", "massive_id": "1390", "id": "th-TH-pool-216"}
+{"text": "จ่ายเงินค่าประกันรถยนต์", "label": "calendar", "source": "massive-th-TH", "massive_id": "8799", "id": "th-TH-pool-217"}
+{"text": "กรุณาบอกฉันถึงประเด็นหลักของ การประชุม ตอน สองนาฬิกา จาก บ่ายนี้", "label": "calendar", "source": "massive-th-TH", "massive_id": "8490", "id": "th-TH-pool-218"}
+{"text": "ฉันอยากให้มันทำนัดกับหมอ และสิ่งอื่นอื่นให้ฉัน", "label": "calendar", "source": "massive-th-TH", "massive_id": "13394", "id": "th-TH-pool-219"}
+{"text": "เธอช่วยซื้อตั๋ว รถไฟ ให้ฉันหน่อยได้ไหม", "label": "transport", "source": "massive-th-TH", "massive_id": "12749", "id": "th-TH-pool-220"}
+{"text": "olly กรุณาบอก รายละเอียดผู้ติดต่อ ของ พี่ชาย ของฉันกับฉัน", "label": "email", "source": "massive-th-TH", "massive_id": "16185", "id": "th-TH-pool-221"}
+{"text": "ฉันได้รับอีเมลจาก amazon บ้างหรือไม่ในช่วง สองวันที่ผ่านมา", "label": "email", "source": "massive-th-TH", "massive_id": "16734", "id": "th-TH-pool-222"}
+{"text": "วันนี้ แดดออก", "label": "weather", "source": "massive-th-TH", "massive_id": "5789", "id": "th-TH-pool-223"}
+{"text": "งานเลี้ยง", "label": "calendar", "source": "massive-th-TH", "massive_id": "8351", "id": "th-TH-pool-224"}
+{"text": "ไปซื้อของ", "label": "calendar", "source": "massive-th-TH", "massive_id": "9000", "id": "th-TH-pool-225"}
+{"text": "ฉันมี เบอร์โทรศัพท์ที่ทำงาน สำหรับ ซูซาน หรือไม่", "label": "email", "source": "massive-th-TH", "massive_id": "16876", "id": "th-TH-pool-226"}
+{"text": "ตั้ง วันซ้ำ บนปฏิทินของฉัน", "label": "calendar", "source": "massive-th-TH", "massive_id": "8620", "id": "th-TH-pool-227"}
+{"text": "ส่ง อีเมล ถึง หัวหน้างาน ของฉัน", "label": "email", "source": "massive-th-TH", "massive_id": "16536", "id": "th-TH-pool-228"}
+{"text": "ค้นหาพยากรณ์อากาศ วันนี้", "label": "weather", "source": "massive-th-TH", "massive_id": "6152", "id": "th-TH-pool-229"}
+{"text": "สั่งให้ roomba เริ่มทำความสะอาด", "label": "home", "source": "massive-th-TH", "massive_id": "3842", "id": "th-TH-pool-230"}
+{"text": "ลบรายการในปฏิทิน", "label": "calendar", "source": "massive-th-TH", "massive_id": "8516", "id": "th-TH-pool-231"}
+{"text": "แสดง ข้อมูลการ ติดต่อ ของปกรณ์ ให้ฉันดู", "label": "email", "source": "massive-th-TH", "massive_id": "16823", "id": "th-TH-pool-232"}
+{"text": "ขอเส้นทางไป พิซซ่าฮัท", "label": "transport", "source": "massive-th-TH", "massive_id": "12652", "id": "th-TH-pool-233"}
+{"text": "เราจะจัดการต่อต้าน ทรัมป์ ได้อย่างไร", "label": "email", "source": "massive-th-TH", "massive_id": "17039", "id": "th-TH-pool-234"}
+{"text": "จอง แท็กซี่ คันต่อไป เก้าโมงเช้า", "label": "transport", "source": "massive-th-TH", "massive_id": "12905", "id": "th-TH-pool-235"}
+{"text": "เปิด ไฟ", "label": "home", "source": "massive-th-TH", "massive_id": "5752", "id": "th-TH-pool-236"}
+{"text": "กรุณา เปลี่ยน สี ไฟ เป็น แดง", "label": "home", "source": "massive-th-TH", "massive_id": "2975", "id": "th-TH-pool-237"}
+{"text": "olly หรี่ ไฟ ห้องโถง", "label": "home", "source": "massive-th-TH", "massive_id": "16", "id": "th-TH-pool-238"}
+{"text": "อัปเดตรายการ ออกกำลังกาย ด้วยไอเทมใหม่", "label": "lists", "source": "massive-th-TH", "massive_id": "11145", "id": "th-TH-pool-239"}
+{"text": "ทำให้ ห้อง นี้ สว่างขึ้น", "label": "home", "source": "massive-th-TH", "massive_id": "2811", "id": "th-TH-pool-240"}
+{"text": "ช่วย หรี่ ไฟ ได้มั้ย", "label": "home", "source": "massive-th-TH", "massive_id": "5480", "id": "th-TH-pool-241"}
+{"text": "ไปที่ railway dot com เพื่อซื้อตั๋ว", "label": "transport", "source": "massive-th-TH", "massive_id": "12241", "id": "th-TH-pool-242"}
+{"text": "ฉันจะไม่ได้เปลี่ยนน้ำมันสำหรับรถของฉัน วันนี้", "label": "lists", "source": "massive-th-TH", "massive_id": "11021", "id": "th-TH-pool-243"}
+{"text": "รายงาน อีเมล ใหม่ ใดใด", "label": "email", "source": "massive-th-TH", "massive_id": "17121", "id": "th-TH-pool-244"}
+{"text": "ทางไป พัทยา ชลบุรี", "label": "transport", "source": "massive-th-TH", "massive_id": "12569", "id": "th-TH-pool-245"}
+{"text": "คืนนี้ จะมี ลมแรง ไหม", "label": "weather", "source": "massive-th-TH", "massive_id": "3555", "id": "th-TH-pool-246"}
+{"text": "บอกให้เขียนตามอีเมลใหม่", "label": "email", "source": "massive-th-TH", "massive_id": "16756", "id": "th-TH-pool-247"}
+{"text": "ทำไมในนี้ไฟเป็น สีเหลือง แบบนี้ ช่วยทำให้ ที่นี่ มีแสงสีขาวขึ้นหน่อยได้มั้ย", "label": "home", "source": "massive-th-TH", "massive_id": "4642", "id": "th-TH-pool-248"}
+{"text": "ตอนนี้ ถนน เป็นยังไงบ้าง", "label": "transport", "source": "massive-th-TH", "massive_id": "12645", "id": "th-TH-pool-249"}
+{"text": "ฉัน มี ข้อความ ใหม่ อะไร", "label": "email", "source": "massive-th-TH", "massive_id": "16462", "id": "th-TH-pool-250"}
+{"text": "ฉัน มี จดหมาย ใหม่ หรือไม่", "label": "email", "source": "massive-th-TH", "massive_id": "16277", "id": "th-TH-pool-251"}
+{"text": "นัด พรุ่งนี้ บ่ายสาม", "label": "calendar", "source": "massive-th-TH", "massive_id": "8563", "id": "th-TH-pool-252"}
+{"text": "เปิด เครื่องดูดฝุ่น เดี๋ยวนี้", "label": "home", "source": "massive-th-TH", "massive_id": "2621", "id": "th-TH-pool-253"}
+{"text": "แสดง เส้นทาง กลับ บ้านของฉัน หน่อย", "label": "transport", "source": "massive-th-TH", "massive_id": "12851", "id": "th-TH-pool-254"}
+{"text": "โปรด ทำให้ ไฟ เป็น สีฟ้า", "label": "home", "source": "massive-th-TH", "massive_id": "4647", "id": "th-TH-pool-255"}
+{"text": "ลบ ฝากเช็ค จาก รายการ สิ่งที่ต้องทำ", "label": "lists", "source": "massive-th-TH", "massive_id": "11073", "id": "th-TH-pool-256"}
+{"text": "พรุ่งนี้ อุณหภูมิสูงกว่าสี่สิบ รึเปล่า", "label": "weather", "source": "massive-th-TH", "massive_id": "4614", "id": "th-TH-pool-257"}
+{"text": "ฉัน มีเวลาว่าง นัด ประชุม ใน วันอังคาร หน้าไหม", "label": "calendar", "source": "massive-th-TH", "massive_id": "8081", "id": "th-TH-pool-258"}
+{"text": "เปิด ปลั๊ก wemo", "label": "home", "source": "massive-th-TH", "massive_id": "5686", "id": "th-TH-pool-259"}
+{"text": "ฉันต้องการ หมวก หรือไม่", "label": "weather", "source": "massive-th-TH", "massive_id": "5588", "id": "th-TH-pool-260"}
+{"text": "อากาศ สัปดาห์นี้ ดูเป็นอย่างไร", "label": "weather", "source": "massive-th-TH", "massive_id": "2516", "id": "th-TH-pool-261"}
+{"text": "กรุณาตรวจ อีเมล ของฉัน ให้ฉัน", "label": "email", "source": "massive-th-TH", "massive_id": "16648", "id": "th-TH-pool-262"}
+{"text": "แสดง ว่ามี รายการ อะไรอยู่บ้างกับฉัน", "label": "lists", "source": "massive-th-TH", "massive_id": "10635", "id": "th-TH-pool-263"}
+{"text": "วันอาทิตย์", "label": "weather", "source": "massive-th-TH", "massive_id": "327", "id": "th-TH-pool-264"}
+{"text": "เปิด ปลั๊ก", "label": "home", "source": "massive-th-TH", "massive_id": "1290", "id": "th-TH-pool-265"}
+{"text": "ฉันอยากให้ไฟใน ห้องครัว เป็นสีอื่น", "label": "home", "source": "massive-th-TH", "massive_id": "3674", "id": "th-TH-pool-266"}
+{"text": "อะไรอยู่ใน รายการ สิ่งที่จะทำ ของฉัน", "label": "lists", "source": "massive-th-TH", "massive_id": "10833", "id": "th-TH-pool-267"}
+{"text": "alexa ฉัน มี อีเมล ใหม่ บ้าง ไหม", "label": "email", "source": "massive-th-TH", "massive_id": "15790", "id": "th-TH-pool-268"}
+{"text": "รองเท้าแตะ", "label": "home", "source": "massive-th-TH", "massive_id": "4037", "id": "th-TH-pool-269"}
+{"text": "ปิด ไฟ ห้องนอน", "label": "home", "source": "massive-th-TH", "massive_id": "18", "id": "th-TH-pool-270"}
+{"text": "อีเมล แมทธิว ว่าโครงการเนื้อหาเสร็จแล้ว กรุณาส่งใบแจ้งหนี้ให้ฉัน", "label": "email", "source": "massive-th-TH", "massive_id": "15779", "id": "th-TH-pool-271"}
+{"text": "อาการข้างนอก ตอนนี้ เป็นอย่างไรบ้าง", "label": "weather", "source": "massive-th-TH", "massive_id": "432", "id": "th-TH-pool-272"}
+{"text": "ปิด แสงไฟ ที่ ใกล้ที่สุด", "label": "home", "source": "massive-th-TH", "massive_id": "5390", "id": "th-TH-pool-273"}
+{"text": "ประชุมทางธุรกิจ สิบเอ็ดโมงเช้า", "label": "calendar", "source": "massive-th-TH", "massive_id": "7790", "id": "th-TH-pool-274"}
+{"text": "ปิด ปลั๊ก", "label": "home", "source": "massive-th-TH", "massive_id": "3022", "id": "th-TH-pool-275"}
+{"text": "จอง ตั๋ว รถไฟ ไป แคนาดาเย็นนี้", "label": "transport", "source": "massive-th-TH", "massive_id": "12200", "id": "th-TH-pool-276"}
+{"text": "บ่ายโมง วันจันทร์", "label": "calendar", "source": "massive-th-TH", "massive_id": "9102", "id": "th-TH-pool-277"}
+{"text": "ส่ง อีเมล ถึง สแตน ฟรานซิส", "label": "email", "source": "massive-th-TH", "massive_id": "16474", "id": "th-TH-pool-278"}
+{"text": "ยกเลิก นัดหมาย ของฉันทั้งหมด หลัง บ่ายสามโมง วันนี้ และส่งรายละเอียดให้ฉัน", "label": "calendar", "source": "massive-th-TH", "massive_id": "7660", "id": "th-TH-pool-279"}
+{"text": "ใน กรุงเทพ ระดับการจราจรค่อนข้างที่จะ", "label": "transport", "source": "massive-th-TH", "massive_id": "12337", "id": "th-TH-pool-280"}
+{"text": "มีงานกิจกรรมอะไรที่กำลังจะมาถึงมั้ย", "label": "calendar", "source": "massive-th-TH", "massive_id": "6860", "id": "th-TH-pool-281"}
+{"text": "ส่ง จดหมาย ถึง จอห์น เพื่อ เงิน", "label": "email", "source": "massive-th-TH", "massive_id": "16054", "id": "th-TH-pool-282"}
+{"text": "ฉันมีรายงานใดใดของ pda's", "label": "lists", "source": "massive-th-TH", "massive_id": "11230", "id": "th-TH-pool-283"}
+{"text": "ลบ นัด ถัดไป", "label": "calendar", "source": "massive-th-TH", "massive_id": "6996", "id": "th-TH-pool-284"}
+{"text": "olly เปิด เครื่องชงกาแฟ", "label": "home", "source": "massive-th-TH", "massive_id": "2832", "id": "th-TH-pool-285"}
+{"text": "เพิ่มอีเมล นี้ ไปยัง ผู้ติดต่อ ของฉัน", "label": "email", "source": "massive-th-TH", "massive_id": "17062", "id": "th-TH-pool-286"}
+{"text": "ส่ง อีเมล ถึง หัวหน้า ของฉันเกี่ยวกับการลาของฉัน", "label": "email", "source": "massive-th-TH", "massive_id": "16102", "id": "th-TH-pool-287"}
+{"text": "อาทิตย์หน้า มี กิจกรรม อะไรบ้าง", "label": "calendar", "source": "massive-th-TH", "massive_id": "7232", "id": "th-TH-pool-288"}
+{"text": "โทรหา แม่", "label": "email", "source": "massive-th-TH", "massive_id": "10137", "id": "th-TH-pool-289"}
+{"text": "แทนที่เฟอร์นิเจอร์ด้วยอิเล็กทรอนิกส์ในรายการ", "label": "lists", "source": "massive-th-TH", "massive_id": "10642", "id": "th-TH-pool-290"}
+{"text": "ตอน บ่ายโมง วันนี้ ให้เริ่มเดินเครื่อง หุ่นยนต์ดูดฝุ่น", "label": "home", "source": "massive-th-TH", "massive_id": "1058", "id": "th-TH-pool-291"}
+{"text": "พรุ่งนี้ ตอนเช้า", "label": "calendar", "source": "massive-th-TH", "massive_id": "6800", "id": "th-TH-pool-292"}
+{"text": "อากาศตอน บ่ายสอง จะเป็นยังไง", "label": "weather", "source": "massive-th-TH", "massive_id": "1918", "id": "th-TH-pool-293"}
+{"text": "ฉันต้องการ กาแฟใส่ครีมหนึ่งและน้ำตาลสาม", "label": "home", "source": "massive-th-TH", "massive_id": "3136", "id": "th-TH-pool-294"}
+{"text": "ข่าว c. n. n.", "label": "news", "source": "massive-th-TH", "massive_id": "4666", "id": "th-TH-pool-295"}
+{"text": "หรี่แสง ไฟ เหนือศีรษะ", "label": "home", "source": "massive-th-TH", "massive_id": "4896", "id": "th-TH-pool-296"}
+{"text": "เขียน อีเมล ถึง สมหญิง", "label": "email", "source": "massive-th-TH", "massive_id": "15959", "id": "th-TH-pool-297"}
+{"text": "ปิด ปลั๊ก wemo ใน ห้องเล่นเกมส์", "label": "home", "source": "massive-th-TH", "massive_id": "1927", "id": "th-TH-pool-298"}
+{"text": "อากาศ วันนี้", "label": "weather", "source": "massive-th-TH", "massive_id": "3244", "id": "th-TH-pool-299"}
+{"text": "จอห์น สมิธ ได้ส่งอีเมลใหม่มาให้ฉันบ้างหรือยัง", "label": "email", "source": "massive-th-TH", "massive_id": "16391", "id": "th-TH-pool-300"}
+{"text": "ปิด ไฟ", "label": "home", "source": "massive-th-TH", "massive_id": "4346", "id": "th-TH-pool-301"}
+{"text": "การประชุม ที่ ออฟฟิศ กับ สมปอง วันอังคาร สามโมงเย็น", "label": "calendar", "source": "massive-th-TH", "massive_id": "8415", "id": "th-TH-pool-302"}
+{"text": "นัด นี้ ของฉัน", "label": "calendar", "source": "massive-th-TH", "massive_id": "7683", "id": "th-TH-pool-303"}
+{"text": "นัด ประชุม กับ พนักงานบริษัท ของฉัน", "label": "calendar", "source": "massive-th-TH", "massive_id": "7301", "id": "th-TH-pool-304"}
+{"text": "ประชุม อาทิตย์เเรกของเดือนมีนาคม", "label": "calendar", "source": "massive-th-TH", "massive_id": "9020", "id": "th-TH-pool-305"}
+{"text": "ฉันอยากให้ เปิด เครื่องดูดฝุ่น", "label": "home", "source": "massive-th-TH", "massive_id": "643", "id": "th-TH-pool-306"}
+{"text": "บอกชื่อรายการของฉันกับฉัน", "label": "lists", "source": "massive-th-TH", "massive_id": "11234", "id": "th-TH-pool-307"}
+{"text": "แสดง รายการ ของฉัน", "label": "lists", "source": "massive-th-TH", "massive_id": "11226", "id": "th-TH-pool-308"}
+{"text": "เวลา รถไฟ คืออะไร", "label": "transport", "source": "massive-th-TH", "massive_id": "12836", "id": "th-TH-pool-309"}
+{"text": "เปิด รายการ ของฉัน", "label": "lists", "source": "massive-th-TH", "massive_id": "11045", "id": "th-TH-pool-310"}
+{"text": "วันหยุด ของฉัน สัปดาห์เเรกของเดือนมิถุนายน", "label": "calendar", "source": "massive-th-TH", "massive_id": "6746", "id": "th-TH-pool-311"}
+{"text": "ช่วยส่งดอกไม้ไปใน วันเกิด ของ น้องสาว ของฉัน", "label": "calendar", "source": "massive-th-TH", "massive_id": "8048", "id": "th-TH-pool-312"}
+{"text": "รถไฟ ขบวนสุดท้ายจากที่ทำงานออกเดินทางเมื่อไหร่", "label": "transport", "source": "massive-th-TH", "massive_id": "12387", "id": "th-TH-pool-313"}
+{"text": "ปิด ไฟ ใน ห้องนอน ของฉัน", "label": "home", "source": "massive-th-TH", "massive_id": "4076", "id": "th-TH-pool-314"}
+{"text": "อีเมล การกระจายกลุ่ม พนักงาน เรื่อง ประชุม ของวันพรุ่งนี้", "label": "email", "source": "massive-th-TH", "massive_id": "15996", "id": "th-TH-pool-315"}
+{"text": "สร้าง รายการ อันใหม่", "label": "lists", "source": "massive-th-TH", "massive_id": "10712", "id": "th-TH-pool-316"}
+{"text": "อากาศใน อาเซียน หนาว ไหม", "label": "weather", "source": "massive-th-TH", "massive_id": "5892", "id": "th-TH-pool-317"}
+{"text": "เตือน ให้ ทวีต บริษัทนี้", "label": "calendar", "source": "massive-th-TH", "massive_id": "15545", "id": "th-TH-pool-318"}
+{"text": "เพิ่ม ไฟ", "label": "home", "source": "massive-th-TH", "massive_id": "3762", "id": "th-TH-pool-319"}
+{"text": "ตอบกลับอีเมลฉบับล่าสุดของฉัน", "label": "email", "source": "massive-th-TH", "massive_id": "16902", "id": "th-TH-pool-320"}
+{"text": "แสดง สภาพอาการ ของเมื่อวาน ให้ฉันดู", "label": "weather", "source": "massive-th-TH", "massive_id": "5320", "id": "th-TH-pool-321"}
+{"text": "ฝนตก", "label": "weather", "source": "massive-th-TH", "massive_id": "2059", "id": "th-TH-pool-322"}
+{"text": "สภาพอากาศเป็นอย่างไร", "label": "weather", "source": "massive-th-TH", "massive_id": "3339", "id": "th-TH-pool-323"}
+{"text": "ตอบกลับ อีเมล จาก จอห์น", "label": "email", "source": "massive-th-TH", "massive_id": "15949", "id": "th-TH-pool-324"}
+{"text": "กรุณาลบ รายการ ของชำ", "label": "lists", "source": "massive-th-TH", "massive_id": "10935", "id": "th-TH-pool-325"}
+{"text": "ส่งคำตอบกลับไปถึง ไมค์ ด้วยคำตอบ สี่ร้อยสามสิบ จากอีเมลของเขาที่ส่งมา ตอนเช้า นี้", "label": "email", "source": "massive-th-TH", "massive_id": "16559", "id": "th-TH-pool-326"}
+{"text": "ฉันต้องการ แท็กซี่ ตอนนี้", "label": "transport", "source": "massive-th-TH", "massive_id": "12428", "id": "th-TH-pool-327"}
+{"text": "เจ.", "label": "calendar", "source": "massive-th-TH", "massive_id": "9111", "id": "th-TH-pool-328"}
+{"text": "โปรด แจ้งเตือน ฉัน สามวัน ก่อน การสอบวิชาเคมี ของฉัน", "label": "calendar", "source": "massive-th-TH", "massive_id": "7330", "id": "th-TH-pool-329"}
+{"text": "ขอดูตาราง รถไฟ ของ รถไฟอุตราวิถี", "label": "transport", "source": "massive-th-TH", "massive_id": "12901", "id": "th-TH-pool-330"}
+{"text": "แม่ ได้ส่ง อีเมล ใดใด มาหาฉันหรือยัง", "label": "email", "source": "massive-th-TH", "massive_id": "16540", "id": "th-TH-pool-331"}
+{"text": "สร้าง รายการ ใหม่", "label": "lists", "source": "massive-th-TH", "massive_id": "11034", "id": "th-TH-pool-332"}
+{"text": "ปิด ไฟ ระเบียง", "label": "home", "source": "massive-th-TH", "massive_id": "2441", "id": "th-TH-pool-333"}
+{"text": "ใครส่งอีเมลให้ฉัน สัปดาห์นี้", "label": "email", "source": "massive-th-TH", "massive_id": "16367", "id": "th-TH-pool-334"}
+{"text": "ตรวจดู อีเมล จาก หัวหน้า ของฉัน", "label": "email", "source": "massive-th-TH", "massive_id": "16431", "id": "th-TH-pool-335"}
+{"text": "แสดง อีเมล ใหม่ จาก อินบ็อกซ์ ของฉัน ให้ฉันดูหน่อย", "label": "email", "source": "massive-th-TH", "massive_id": "16775", "id": "th-TH-pool-336"}
+{"text": "งาน นี้", "label": "calendar", "source": "massive-th-TH", "massive_id": "7157", "id": "th-TH-pool-337"}
+{"text": "ยืนยันว่าไฟเป็น สีฟ้า หรือเปล่า", "label": "home", "source": "massive-th-TH", "massive_id": "497", "id": "th-TH-pool-338"}
+{"text": "มีชื่อติดต่อ ชื่อ เอเลน ใน รายการ ของฉัน หรือไม่", "label": "email", "source": "massive-th-TH", "massive_id": "15868", "id": "th-TH-pool-339"}
+{"text": "ฉันต้องการ กาแฟ", "label": "home", "source": "massive-th-TH", "massive_id": "1169", "id": "th-TH-pool-340"}
+{"text": "ประชุมสุดยอดผู้นำ ที่ จตุจักร กรุงเทพ จัดขึ้นวันไหน เวลาไหน", "label": "calendar", "source": "massive-th-TH", "massive_id": "8486", "id": "th-TH-pool-341"}
+{"text": "สมชาย ไปดู ภาพยนตร์คอมมานโด กับฉัน วันที่ห้าเดือนเมษายน", "label": "calendar", "source": "massive-th-TH", "massive_id": "7564", "id": "th-TH-pool-342"}
+{"text": "เพิ่ม ไปที่ปฏิทิน การโทร ประจำวัน ตอน ห้าโมงเย็น", "label": "calendar", "source": "massive-th-TH", "massive_id": "6745", "id": "th-TH-pool-343"}
+{"text": "ลบวัน แต่งงาน สามกรกฎาคม", "label": "calendar", "source": "massive-th-TH", "massive_id": "9039", "id": "th-TH-pool-344"}
+{"text": "เตือนฉันเมื่อมีข่าว การเมือง ใหม่", "label": "news", "source": "massive-th-TH", "massive_id": "1617", "id": "th-TH-pool-345"}
+{"text": "ตลาดสำหรับธุรกิจการค้าระหว่างประเทศ", "label": "news", "source": "massive-th-TH", "massive_id": "5943", "id": "th-TH-pool-346"}
+{"text": "ตากผ้า วันนี้", "label": "calendar", "source": "massive-th-TH", "massive_id": "7468", "id": "th-TH-pool-347"}
+{"text": "หัวข้อเรื่องของ อีเมล ฉบับ ล่าสุด ถึง ทอม ของฉัน คืออะไร", "label": "email", "source": "massive-th-TH", "massive_id": "16355", "id": "th-TH-pool-348"}
+{"text": "กรุณา ปิด ห้องครัว", "label": "home", "source": "massive-th-TH", "massive_id": "1785", "id": "th-TH-pool-349"}
+{"text": "ตอบกลับจดหมายทั้งหมดที่ได้รับจาก สี่ทุ่ม ถึง เก้าโมงเช้า", "label": "email", "source": "massive-th-TH", "massive_id": "16114", "id": "th-TH-pool-350"}
+{"text": "สมชาย ได้ส่ง อีเมล มาหาฉันหรือยัง", "label": "email", "source": "massive-th-TH", "massive_id": "15809", "id": "th-TH-pool-351"}
+{"text": "เปลี่ยน ไฟ ห้องนั่งเล่น เป็น สีแดง", "label": "home", "source": "massive-th-TH", "massive_id": "455", "id": "th-TH-pool-352"}
+{"text": "ฉันได้รับอีเมลอะไรจาก สมชาย บ้างมั้ยในช่วง สองวันที่ผ่านมา", "label": "email", "source": "massive-th-TH", "massive_id": "16764", "id": "th-TH-pool-353"}
+{"text": "ข้างนอก แดดออก ป่าว", "label": "weather", "source": "massive-th-TH", "massive_id": "5451", "id": "th-TH-pool-354"}
+{"text": "สามอาทิตย์ข้างหน้า เตือน ฉัน มี คลาสโยคะ ตอนเที่ยง", "label": "calendar", "source": "massive-th-TH", "massive_id": "7634", "id": "th-TH-pool-355"}
+{"text": "วันนี้ ใครส่งอีเมลมาหาฉันบ้าง และหัวข้อเรื่องคืออะไร", "label": "email", "source": "massive-th-TH", "massive_id": "16959", "id": "th-TH-pool-356"}
+{"text": "เวลาเดินรถของ รถไฟ ขบวน เช้า มุ่งหน้าไป กรุงเทพ คือกี่โมง", "label": "transport", "source": "massive-th-TH", "massive_id": "12531", "id": "th-TH-pool-357"}
+{"text": "เปิด ปลั๊กไฟอัจฉริยะ", "label": "home", "source": "massive-th-TH", "massive_id": "1552", "id": "th-TH-pool-358"}
+{"text": "บอกฉันว่าอะไรอยู่ในรายการ", "label": "lists", "source": "massive-th-TH", "massive_id": "10632", "id": "th-TH-pool-359"}
+{"text": "สาธยาย นัดหมาย ของ รายการ", "label": "lists", "source": "massive-th-TH", "massive_id": "10667", "id": "th-TH-pool-360"}
+{"text": "อุณหภูมิสูงสุด ของ วันนี้ คือเท่าไหร่", "label": "weather", "source": "massive-th-TH", "massive_id": "2328", "id": "th-TH-pool-361"}
+{"text": "กินข้าวเย็นกับ น้องสาว วันเสาร์นี้", "label": "calendar", "source": "massive-th-TH", "massive_id": "8690", "id": "th-TH-pool-362"}
+{"text": "พยากรณ์ของ สิบวัน คืออะไร", "label": "weather", "source": "massive-th-TH", "massive_id": "3406", "id": "th-TH-pool-363"}
+{"text": "เดือนพฤษภาคม", "label": "calendar", "source": "massive-th-TH", "massive_id": "8461", "id": "th-TH-pool-364"}
+{"text": "เปลี่ยน ไฟ ให้เป็น สีแดง", "label": "home", "source": "massive-th-TH", "massive_id": "3776", "id": "th-TH-pool-365"}
+{"text": "ฉันอยากได้กาแฟ ดำ", "label": "home", "source": "massive-th-TH", "massive_id": "4586", "id": "th-TH-pool-366"}
+{"text": "สภาพอากาศมี เมฆมาก หรือไม่", "label": "weather", "source": "massive-th-TH", "massive_id": "5534", "id": "th-TH-pool-367"}
+{"text": "พาฉันไปที่อีเมลจาก หัวหน้า ของฉัน", "label": "email", "source": "massive-th-TH", "massive_id": "16550", "id": "th-TH-pool-368"}
+{"text": "อากาศที่ โรงเรียน จะเป็นยังไง", "label": "weather", "source": "massive-th-TH", "massive_id": "2557", "id": "th-TH-pool-369"}
+{"text": "พรุ่งนี้ ฉันจะต้องใส่ เสื้อกันหนาว ตอนจะไปทำงานหรือเปล่า", "label": "weather", "source": "massive-th-TH", "massive_id": "4210", "id": "th-TH-pool-370"}
+{"text": "siri หาตั๋ว รถไฟ ไป เชียงใหม่", "label": "transport", "source": "massive-th-TH", "massive_id": "12794", "id": "th-TH-pool-371"}
+{"text": "หรี่ ไฟ ห้องนั่งเล่น ลง", "label": "home", "source": "massive-th-TH", "massive_id": "1073", "id": "th-TH-pool-372"}
+{"text": "ตรวจอีเมลของ สองชั่วโมงที่ผ่านมา", "label": "email", "source": "massive-th-TH", "massive_id": "15909", "id": "th-TH-pool-373"}
+{"text": "ตั้งค่าความสว่าง ไปที่ห้าสิบเปอร์เซนต์", "label": "home", "source": "massive-th-TH", "massive_id": "155", "id": "th-TH-pool-374"}
+{"text": "คงจะเป็น คืน ที่ เหนียวเหนอะหนะ", "label": "weather", "source": "massive-th-TH", "massive_id": "6023", "id": "th-TH-pool-375"}
+{"text": "ฉันต้องการตั๋ว รถไฟ จาก กรุงเทพ ไป เชียงใหม่", "label": "transport", "source": "massive-th-TH", "massive_id": "12282", "id": "th-TH-pool-376"}
+{"text": "ลบ เหตุการณ์ ถัดไป ของ วันนี้", "label": "calendar", "source": "massive-th-TH", "massive_id": "7892", "id": "th-TH-pool-377"}
+{"text": "ส่ง อีเมล ให้ฉัน", "label": "email", "source": "massive-th-TH", "massive_id": "16305", "id": "th-TH-pool-378"}

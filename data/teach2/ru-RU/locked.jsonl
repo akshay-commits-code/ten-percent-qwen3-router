@@ -1,0 +1,379 @@
+{"text": "предупреди меня за два часа о моей встрече с клиентом котлов состоится во вторник в десять утра", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8887", "id": "ru-RU-locked-0"}
+{"text": "во сколько прибывает поезд из твери", "label": "transport", "source": "massive-ru-RU", "massive_id": "12542", "id": "ru-RU-locked-1"}
+{"text": "когда следующий поезд до улицы алтайская", "label": "transport", "source": "massive-ru-RU", "massive_id": "12284", "id": "ru-RU-locked-2"}
+{"text": "убери мой список с названием время вечеринки", "label": "lists", "source": "massive-ru-RU", "massive_id": "10655", "id": "ru-RU-locked-3"}
+{"text": "дорожное движение пожалуйста", "label": "transport", "source": "massive-ru-RU", "massive_id": "12870", "id": "ru-RU-locked-4"}
+{"text": "пожалуйста поднастрой цвета в моих светильниках", "label": "home", "source": "massive-ru-RU", "massive_id": "1237", "id": "ru-RU-locked-5"}
+{"text": "в дневное время весь свет должен быть выключен", "label": "home", "source": "massive-ru-RU", "massive_id": "1649", "id": "ru-RU-locked-6"}
+{"text": "включи робот пылесос", "label": "home", "source": "massive-ru-RU", "massive_id": "2435", "id": "ru-RU-locked-7"}
+{"text": "сообщи мне о любых ожидающих напоминаниях", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7647", "id": "ru-RU-locked-8"}
+{"text": "что с погодой на этой неделе", "label": "weather", "source": "massive-ru-RU", "massive_id": "1555", "id": "ru-RU-locked-9"}
+{"text": "найди прогноз погоды", "label": "weather", "source": "massive-ru-RU", "massive_id": "5589", "id": "ru-RU-locked-10"}
+{"text": "на все электронные письма получаемые ежедневно с десяти вечера до семи утра нужно отвечать", "label": "email", "source": "massive-ru-RU", "massive_id": "16110", "id": "ru-RU-locked-11"}
+{"text": "olly мне нужен солнцезащитный крем", "label": "weather", "source": "massive-ru-RU", "massive_id": "5215", "id": "ru-RU-locked-12"}
+{"text": "закажи такси на завтра в одиннадцать утра", "label": "transport", "source": "massive-ru-RU", "massive_id": "12176", "id": "ru-RU-locked-13"}
+{"text": "напомни мне через месяц", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7162", "id": "ru-RU-locked-14"}
+{"text": "очисти все события в моём календаре", "label": "calendar", "source": "massive-ru-RU", "massive_id": "9015", "id": "ru-RU-locked-15"}
+{"text": "уровень низкого охлаждения", "label": "weather", "source": "massive-ru-RU", "massive_id": "5339", "id": "ru-RU-locked-16"}
+{"text": "какой прогноз на эту неделю", "label": "weather", "source": "massive-ru-RU", "massive_id": "4434", "id": "ru-RU-locked-17"}
+{"text": "выключи свет в гостиной", "label": "home", "source": "massive-ru-RU", "massive_id": "4078", "id": "ru-RU-locked-18"}
+{"text": "можешь пожалуйста для меня список создать", "label": "lists", "source": "massive-ru-RU", "massive_id": "11239", "id": "ru-RU-locked-19"}
+{"text": "вова живёт в россии", "label": "email", "source": "massive-ru-RU", "massive_id": "16244", "id": "ru-RU-locked-20"}
+{"text": "увеличь яркость света", "label": "home", "source": "massive-ru-RU", "massive_id": "4284", "id": "ru-RU-locked-21"}
+{"text": "установи мне напоминания о встречах с коллегами", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8976", "id": "ru-RU-locked-22"}
+{"text": "проверь письма во входящих", "label": "email", "source": "massive-ru-RU", "massive_id": "13220", "id": "ru-RU-locked-23"}
+{"text": "в три часа дня в четверг будет учительское собрание напомни мне про него", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8954", "id": "ru-RU-locked-24"}
+{"text": "как моя поездка на работу", "label": "transport", "source": "massive-ru-RU", "massive_id": "12142", "id": "ru-RU-locked-25"}
+{"text": "забронируй билет на поезд отсюда в казань на восемь утра сегодня", "label": "transport", "source": "massive-ru-RU", "massive_id": "12689", "id": "ru-RU-locked-26"}
+{"text": "есть ли какое либо наиболее срочное напоминание", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7480", "id": "ru-RU-locked-27"}
+{"text": "поменяй освещение на белый цвет", "label": "home", "source": "massive-ru-RU", "massive_id": "2474", "id": "ru-RU-locked-28"}
+{"text": "прогноз погоды который ты выдал для другого города я хочу знать температуру там где я сейчас нахожусь", "label": "weather", "source": "massive-ru-RU", "massive_id": "4538", "id": "ru-RU-locked-29"}
+{"text": "скажи от кого пришло последнее электронное письмо", "label": "email", "source": "massive-ru-RU", "massive_id": "15872", "id": "ru-RU-locked-30"}
+{"text": "пожалуйста пусть кофемашина сделает мне какой нибудь кофе", "label": "home", "source": "massive-ru-RU", "massive_id": "2868", "id": "ru-RU-locked-31"}
+{"text": "покажи сегодняшние напоминания", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8796", "id": "ru-RU-locked-32"}
+{"text": "какой адрес у саши", "label": "email", "source": "massive-ru-RU", "massive_id": "17167", "id": "ru-RU-locked-33"}
+{"text": "сделай мне чашку кофе", "label": "home", "source": "massive-ru-RU", "massive_id": "4988", "id": "ru-RU-locked-34"}
+{"text": "у меня назначена встреча завтра в обед", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8212", "id": "ru-RU-locked-35"}
+{"text": "есть ли у меня какие то электронные письма о химии", "label": "email", "source": "massive-ru-RU", "massive_id": "15853", "id": "ru-RU-locked-36"}
+{"text": "поставь уведомление о встрече с начальником", "label": "calendar", "source": "massive-ru-RU", "massive_id": "6955", "id": "ru-RU-locked-37"}
+{"text": "напомни мне встретить игоря на обед завтра", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7312", "id": "ru-RU-locked-38"}
+{"text": "новое письмо от мамы", "label": "email", "source": "massive-ru-RU", "massive_id": "16491", "id": "ru-RU-locked-39"}
+{"text": "напомни мне вынести мусор во вторник", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7209", "id": "ru-RU-locked-40"}
+{"text": "olly усть какие нибудь новые письма", "label": "email", "source": "massive-ru-RU", "massive_id": "15789", "id": "ru-RU-locked-41"}
+{"text": "пожалуйста включи пылесос", "label": "home", "source": "massive-ru-RU", "massive_id": "1598", "id": "ru-RU-locked-42"}
+{"text": "назначь мне встречу в следующую субботу в пять в библиотеке и поставь напоминание", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8448", "id": "ru-RU-locked-43"}
+{"text": "создай письмо для сотрудника компании с моими недавно сохраненными документами", "label": "email", "source": "massive-ru-RU", "massive_id": "17081", "id": "ru-RU-locked-44"}
+{"text": "выключи розетку", "label": "home", "source": "massive-ru-RU", "massive_id": "3076", "id": "ru-RU-locked-45"}
+{"text": "какая сейчас температура", "label": "weather", "source": "massive-ru-RU", "massive_id": "4872", "id": "ru-RU-locked-46"}
+{"text": "выключи лампы", "label": "home", "source": "massive-ru-RU", "massive_id": "1554", "id": "ru-RU-locked-47"}
+{"text": "какие заголовки на c n n", "label": "news", "source": "massive-ru-RU", "massive_id": "4391", "id": "ru-RU-locked-48"}
+{"text": "в какое время ожидается начало званого ужина в мясном клубе", "label": "calendar", "source": "massive-ru-RU", "massive_id": "9149", "id": "ru-RU-locked-49"}
+{"text": "составь это письмо на этот новый электронный адрес", "label": "email", "source": "massive-ru-RU", "massive_id": "16837", "id": "ru-RU-locked-50"}
+{"text": "удалить каждое событие", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8726", "id": "ru-RU-locked-51"}
+{"text": "выключи свет", "label": "home", "source": "massive-ru-RU", "massive_id": "369", "id": "ru-RU-locked-52"}
+{"text": "мне нужно включить свет ты можешь это сделать", "label": "home", "source": "massive-ru-RU", "massive_id": "3009", "id": "ru-RU-locked-53"}
+{"text": "есть вероятность града на этой неделе", "label": "weather", "source": "massive-ru-RU", "massive_id": "793", "id": "ru-RU-locked-54"}
+{"text": "добавь дату и время в календарь с этими людьми", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8706", "id": "ru-RU-locked-55"}
+{"text": "включи пылесос в гостиной", "label": "home", "source": "massive-ru-RU", "massive_id": "2053", "id": "ru-RU-locked-56"}
+{"text": "ожидается дождь в твери во вторник", "label": "weather", "source": "massive-ru-RU", "massive_id": "4414", "id": "ru-RU-locked-57"}
+{"text": "во сколько мне нужно выезжать в офис", "label": "transport", "source": "massive-ru-RU", "massive_id": "12584", "id": "ru-RU-locked-58"}
+{"text": "какой может быть погода на этой неделе", "label": "weather", "source": "massive-ru-RU", "massive_id": "1249", "id": "ru-RU-locked-59"}
+{"text": "включи робота через bluetooth", "label": "home", "source": "massive-ru-RU", "massive_id": "959", "id": "ru-RU-locked-60"}
+{"text": "можешь найти текущие новостные сообщения", "label": "news", "source": "massive-ru-RU", "massive_id": "2493", "id": "ru-RU-locked-61"}
+{"text": "дай мне погоду уфа башкирия", "label": "weather", "source": "massive-ru-RU", "massive_id": "2124", "id": "ru-RU-locked-62"}
+{"text": "поставь в мой календарь что сергей и его жена встречаются с нами в четыре часа вечера завтра", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7352", "id": "ru-RU-locked-63"}
+{"text": "olly если появятся какие-либо новости о наводнении можешь немедленно сообщить мне об этом", "label": "news", "source": "massive-ru-RU", "massive_id": "3750", "id": "ru-RU-locked-64"}
+{"text": "выключи лампу в гостиной", "label": "home", "source": "massive-ru-RU", "massive_id": "2945", "id": "ru-RU-locked-65"}
+{"text": "сделай мне латте пожалуйста", "label": "home", "source": "massive-ru-RU", "massive_id": "1572", "id": "ru-RU-locked-66"}
+{"text": "проверь и удали и-мейлы со спамом за прошлую неделю", "label": "email", "source": "massive-ru-RU", "massive_id": "16607", "id": "ru-RU-locked-67"}
+{"text": "напиши письмо васе на toby собака tobytoday точка com", "label": "email", "source": "massive-ru-RU", "massive_id": "15768", "id": "ru-RU-locked-68"}
+{"text": "дай мне список списков", "label": "lists", "source": "massive-ru-RU", "massive_id": "10651", "id": "ru-RU-locked-69"}
+{"text": "купи билет на поезд до", "label": "transport", "source": "massive-ru-RU", "massive_id": "12764", "id": "ru-RU-locked-70"}
+{"text": "назови мне отправителей писем мне", "label": "email", "source": "massive-ru-RU", "massive_id": "16761", "id": "ru-RU-locked-71"}
+{"text": "убери хлеб из списка покупок", "label": "lists", "source": "massive-ru-RU", "massive_id": "10452", "id": "ru-RU-locked-72"}
+{"text": "установи напоминание позвонить завтра павлу", "label": "calendar", "source": "massive-ru-RU", "massive_id": "6757", "id": "ru-RU-locked-73"}
+{"text": "я хочу чтобы ты забронировал для меня билет на поезд", "label": "transport", "source": "massive-ru-RU", "massive_id": "12893", "id": "ru-RU-locked-74"}
+{"text": "я хочу знать всё про погоду там", "label": "weather", "source": "massive-ru-RU", "massive_id": "1781", "id": "ru-RU-locked-75"}
+{"text": "включи новую умную розетку", "label": "home", "source": "massive-ru-RU", "massive_id": "4620", "id": "ru-RU-locked-76"}
+{"text": "можешь показать направление как пройти к русскому музею в москве", "label": "transport", "source": "massive-ru-RU", "massive_id": "12782", "id": "ru-RU-locked-77"}
+{"text": "алиса отредактируй список", "label": "lists", "source": "massive-ru-RU", "massive_id": "11027", "id": "ru-RU-locked-78"}
+{"text": "сегодня мне нужен дождевик", "label": "weather", "source": "massive-ru-RU", "massive_id": "2256", "id": "ru-RU-locked-79"}
+{"text": "olly я хочу голубое освещение", "label": "home", "source": "massive-ru-RU", "massive_id": "1213", "id": "ru-RU-locked-80"}
+{"text": "поставь напоминание на семь утра будет встреча городской команды", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8159", "id": "ru-RU-locked-81"}
+{"text": "вызови такси uber", "label": "transport", "source": "massive-ru-RU", "massive_id": "12559", "id": "ru-RU-locked-82"}
+{"text": "ищи надежду", "label": "email", "source": "massive-ru-RU", "massive_id": "17052", "id": "ru-RU-locked-83"}
+{"text": "включи робот пылесос", "label": "home", "source": "massive-ru-RU", "massive_id": "4240", "id": "ru-RU-locked-84"}
+{"text": "покажи список моих контактов", "label": "email", "source": "massive-ru-RU", "massive_id": "16819", "id": "ru-RU-locked-85"}
+{"text": "смени свет в моей комнате на синий", "label": "home", "source": "massive-ru-RU", "massive_id": "413", "id": "ru-RU-locked-86"}
+{"text": "пожалуйста отправь в архив мои прочитанные сообщения", "label": "email", "source": "massive-ru-RU", "massive_id": "17138", "id": "ru-RU-locked-87"}
+{"text": "найди ужин с мамой в моём календаре и удали его", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7146", "id": "ru-RU-locked-88"}
+{"text": "пожалуйста выключи свет", "label": "home", "source": "massive-ru-RU", "massive_id": "5729", "id": "ru-RU-locked-89"}
+{"text": "у меня есть новый контакт новая почта собака gmail точка com написать письмо", "label": "email", "source": "massive-ru-RU", "massive_id": "16460", "id": "ru-RU-locked-90"}
+{"text": "что там с погодой сегодня", "label": "weather", "source": "massive-ru-RU", "massive_id": "1328", "id": "ru-RU-locked-91"}
+{"text": "обнови входящие и-мейлы", "label": "email", "source": "massive-ru-RU", "massive_id": "16274", "id": "ru-RU-locked-92"}
+{"text": "мне бы хотелось освещение красного цвета", "label": "home", "source": "massive-ru-RU", "massive_id": "1428", "id": "ru-RU-locked-93"}
+{"text": "проверь события в календаре и удали следующее событие", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7342", "id": "ru-RU-locked-94"}
+{"text": "все мероприятия в лужниках на март нужно добавить в мой календарь", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7369", "id": "ru-RU-locked-95"}
+{"text": "вызови городское такси в аэропорт", "label": "transport", "source": "massive-ru-RU", "massive_id": "12212", "id": "ru-RU-locked-96"}
+{"text": "какой у ивана иванова домашний адрес", "label": "email", "source": "massive-ru-RU", "massive_id": "16683", "id": "ru-RU-locked-97"}
+{"text": "я хочу чтобы ты включил телевизор", "label": "home", "source": "massive-ru-RU", "massive_id": "13548", "id": "ru-RU-locked-98"}
+{"text": "пожалуйста обнови список добавив новый пункт", "label": "lists", "source": "massive-ru-RU", "massive_id": "11254", "id": "ru-RU-locked-99"}
+{"text": "включи робот пылесос", "label": "home", "source": "massive-ru-RU", "massive_id": "5855", "id": "ru-RU-locked-100"}
+{"text": "включи все кнопки в приборной доске", "label": "home", "source": "massive-ru-RU", "massive_id": "5049", "id": "ru-RU-locked-101"}
+{"text": "какой будет погода на этой неделе", "label": "weather", "source": "massive-ru-RU", "massive_id": "1349", "id": "ru-RU-locked-102"}
+{"text": "запланировано ли у меня что-нибудь на сегодня", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8559", "id": "ru-RU-locked-103"}
+{"text": "прочти мои самые последние письма", "label": "email", "source": "massive-ru-RU", "massive_id": "16293", "id": "ru-RU-locked-104"}
+{"text": "установи тёмные цвета вместо светлых в доме", "label": "home", "source": "massive-ru-RU", "massive_id": "2350", "id": "ru-RU-locked-105"}
+{"text": "чсто там с погодой в махачкале дагестан", "label": "weather", "source": "massive-ru-RU", "massive_id": "2266", "id": "ru-RU-locked-106"}
+{"text": "olly отправь и-мейл мои встречи надо перенести", "label": "email", "source": "massive-ru-RU", "massive_id": "8101", "id": "ru-RU-locked-107"}
+{"text": "покажи дорогу до ближайшего starbucks", "label": "transport", "source": "massive-ru-RU", "massive_id": "12525", "id": "ru-RU-locked-108"}
+{"text": "составить список", "label": "lists", "source": "massive-ru-RU", "massive_id": "10922", "id": "ru-RU-locked-109"}
+{"text": "мне надо написать маме я планирую поездку к ней пусть напишеть про погоду чтобы я знал что с собой взять", "label": "email", "source": "massive-ru-RU", "massive_id": "17031", "id": "ru-RU-locked-110"}
+{"text": "покажи мне содержание списка", "label": "lists", "source": "massive-ru-RU", "massive_id": "10588", "id": "ru-RU-locked-111"}
+{"text": "какие мои следующие три события", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7879", "id": "ru-RU-locked-112"}
+{"text": "пропылесось весь дом", "label": "home", "source": "massive-ru-RU", "massive_id": "28", "id": "ru-RU-locked-113"}
+{"text": "отправь сообщение по электронной почте", "label": "email", "source": "massive-ru-RU", "massive_id": "16882", "id": "ru-RU-locked-114"}
+{"text": "олли купи мне билет на поезд до атланты пожалуйста", "label": "transport", "source": "massive-ru-RU", "massive_id": "12593", "id": "ru-RU-locked-115"}
+{"text": "удалить список музыки киркорова", "label": "lists", "source": "massive-ru-RU", "massive_id": "11096", "id": "ru-RU-locked-116"}
+{"text": "у меня недостаточно денег чтобы купить nintendo switch прямо сейчас не могли бы вы удалить его из моего списка желаний amazon", "label": "lists", "source": "massive-ru-RU", "massive_id": "10846", "id": "ru-RU-locked-117"}
+{"text": "найди поезд без остановок в смоленск", "label": "transport", "source": "massive-ru-RU", "massive_id": "12635", "id": "ru-RU-locked-118"}
+{"text": "пожалуйста покажи мне погоду на двадцать седьмое марта две тысячи семнадцатого", "label": "weather", "source": "massive-ru-RU", "massive_id": "5376", "id": "ru-RU-locked-119"}
+{"text": "проверь почту и скажи о чем новые имейлы", "label": "email", "source": "massive-ru-RU", "massive_id": "15904", "id": "ru-RU-locked-120"}
+{"text": "мне нужно добавить событие на пятое мая две тысячи семнадцатого года место проведения северянин выпускной даниила", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8656", "id": "ru-RU-locked-121"}
+{"text": "открой контакты и найди женя смирнов", "label": "email", "source": "massive-ru-RU", "massive_id": "15947", "id": "ru-RU-locked-122"}
+{"text": "начни пылесосить пожалуйста", "label": "home", "source": "massive-ru-RU", "massive_id": "4044", "id": "ru-RU-locked-123"}
+{"text": "напиши письмо соне", "label": "email", "source": "massive-ru-RU", "massive_id": "17165", "id": "ru-RU-locked-124"}
+{"text": "добавить пункт в список", "label": "lists", "source": "massive-ru-RU", "massive_id": "10610", "id": "ru-RU-locked-125"}
+{"text": "были у меня новые письма за последние десять минут", "label": "email", "source": "massive-ru-RU", "massive_id": "16061", "id": "ru-RU-locked-126"}
+{"text": "новое сообщение ивану петрову поздно приду с работы отправить", "label": "email", "source": "massive-ru-RU", "massive_id": "16424", "id": "ru-RU-locked-127"}
+{"text": "самые последние сообщения", "label": "email", "source": "massive-ru-RU", "massive_id": "16767", "id": "ru-RU-locked-128"}
+{"text": "что с погодой сейчас в москве", "label": "weather", "source": "massive-ru-RU", "massive_id": "656", "id": "ru-RU-locked-129"}
+{"text": "найди транспорт до москвы", "label": "transport", "source": "massive-ru-RU", "massive_id": "12545", "id": "ru-RU-locked-130"}
+{"text": "напомни мне платить за аренду каждый месяц", "label": "calendar", "source": "massive-ru-RU", "massive_id": "6768", "id": "ru-RU-locked-131"}
+{"text": "я хочу кофе каждый день", "label": "home", "source": "massive-ru-RU", "massive_id": "4798", "id": "ru-RU-locked-132"}
+{"text": "вывести все списки на этом устройстве", "label": "lists", "source": "massive-ru-RU", "massive_id": "11174", "id": "ru-RU-locked-133"}
+{"text": "какое моё последнее письмо", "label": "email", "source": "massive-ru-RU", "massive_id": "16816", "id": "ru-RU-locked-134"}
+{"text": "есть ли у меня урок в понедельник", "label": "calendar", "source": "massive-ru-RU", "massive_id": "13440", "id": "ru-RU-locked-135"}
+{"text": "скажи о моих последних письмах", "label": "email", "source": "massive-ru-RU", "massive_id": "16817", "id": "ru-RU-locked-136"}
+{"text": "напомни мне через десять минут", "label": "calendar", "source": "massive-ru-RU", "massive_id": "3600", "id": "ru-RU-locked-137"}
+{"text": "нужно такси на завтра в восемь утра", "label": "transport", "source": "massive-ru-RU", "massive_id": "12464", "id": "ru-RU-locked-138"}
+{"text": "есть ли какие нибудь новые электронные письма от игоря иванова", "label": "email", "source": "massive-ru-RU", "massive_id": "16379", "id": "ru-RU-locked-139"}
+{"text": "есть в моих контактах номер дома вовы", "label": "email", "source": "massive-ru-RU", "massive_id": "16720", "id": "ru-RU-locked-140"}
+{"text": "выключи один свет в спальне", "label": "home", "source": "massive-ru-RU", "massive_id": "3092", "id": "ru-RU-locked-141"}
+{"text": "мне нужно где-нибудь быть между восемью утра и пятью часами вечера сегодня", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7840", "id": "ru-RU-locked-142"}
+{"text": "покажи все письма от моего начальника", "label": "email", "source": "massive-ru-RU", "massive_id": "16413", "id": "ru-RU-locked-143"}
+{"text": "какая погода у нас", "label": "weather", "source": "massive-ru-RU", "massive_id": "4355", "id": "ru-RU-locked-144"}
+{"text": "отправить электронное письмо с новым годом татьяне", "label": "email", "source": "massive-ru-RU", "massive_id": "15898", "id": "ru-RU-locked-145"}
+{"text": "продолжается ли лето", "label": "weather", "source": "massive-ru-RU", "massive_id": "792", "id": "ru-RU-locked-146"}
+{"text": "нужно ли мне взять зонт с собой на работу сегодня", "label": "weather", "source": "massive-ru-RU", "massive_id": "4291", "id": "ru-RU-locked-147"}
+{"text": "добавить это в список", "label": "lists", "source": "massive-ru-RU", "massive_id": "10709", "id": "ru-RU-locked-148"}
+{"text": "поменяй освещение моего дома на голубой цвет", "label": "home", "source": "massive-ru-RU", "massive_id": "2281", "id": "ru-RU-locked-149"}
+{"text": "сегодня будет пасмурно", "label": "weather", "source": "massive-ru-RU", "massive_id": "5634", "id": "ru-RU-locked-150"}
+{"text": "робот пропылесось весь дом", "label": "home", "source": "massive-ru-RU", "massive_id": "865", "id": "ru-RU-locked-151"}
+{"text": "покажи мне все доступные списки", "label": "lists", "source": "massive-ru-RU", "massive_id": "11172", "id": "ru-RU-locked-152"}
+{"text": "кто был главный гость мероприятия", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8695", "id": "ru-RU-locked-153"}
+{"text": "дай местоположение контакта", "label": "email", "source": "massive-ru-RU", "massive_id": "17038", "id": "ru-RU-locked-154"}
+{"text": "удали", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7174", "id": "ru-RU-locked-155"}
+{"text": "когда сегодня последний поезд", "label": "transport", "source": "massive-ru-RU", "massive_id": "12417", "id": "ru-RU-locked-156"}
+{"text": "мне надо надеть теплые вещи сегодня", "label": "weather", "source": "massive-ru-RU", "massive_id": "6003", "id": "ru-RU-locked-157"}
+{"text": "пожалуйста закажи билет на поезд на эти выходные", "label": "transport", "source": "massive-ru-RU", "massive_id": "12235", "id": "ru-RU-locked-158"}
+{"text": "закажи билет на поезд до москвы завтра", "label": "transport", "source": "massive-ru-RU", "massive_id": "12498", "id": "ru-RU-locked-159"}
+{"text": "что там с погодой сегодня в заринске алтай", "label": "weather", "source": "massive-ru-RU", "massive_id": "5322", "id": "ru-RU-locked-160"}
+{"text": "пожалуйста ответь на электронное письмо которое я только что получил", "label": "email", "source": "massive-ru-RU", "massive_id": "17140", "id": "ru-RU-locked-161"}
+{"text": "скажи мне когда придет имейл от директора лаврова", "label": "email", "source": "massive-ru-RU", "massive_id": "16008", "id": "ru-RU-locked-162"}
+{"text": "сегодня пойдет снег", "label": "weather", "source": "massive-ru-RU", "massive_id": "1019", "id": "ru-RU-locked-163"}
+{"text": "избавиться от пункта в списке", "label": "lists", "source": "massive-ru-RU", "massive_id": "10465", "id": "ru-RU-locked-164"}
+{"text": "мне не нужны яйца", "label": "lists", "source": "massive-ru-RU", "massive_id": "11160", "id": "ru-RU-locked-165"}
+{"text": "погода обновляется каждую секунду на weatherit либо обновляет прогнозы гидрометцентр либо погода ком оба приложения довольно плохие для моего сайта", "label": "weather", "source": "massive-ru-RU", "massive_id": "5666", "id": "ru-RU-locked-166"}
+{"text": "посмотри погоду на следующей неделе пожалуйста", "label": "weather", "source": "massive-ru-RU", "massive_id": "906", "id": "ru-RU-locked-167"}
+{"text": "я не должен забыть посетить магазины до того как они закроются", "label": "calendar", "source": "massive-ru-RU", "massive_id": "6818", "id": "ru-RU-locked-168"}
+{"text": "пожалуйста удали мой обед из расписания на двадцать третье марта", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8000", "id": "ru-RU-locked-169"}
+{"text": "удалить из плейлиста список моих старых английских песен", "label": "lists", "source": "massive-ru-RU", "massive_id": "10522", "id": "ru-RU-locked-170"}
+{"text": "измени свет в медиа зале с фиолетового на зеленый", "label": "home", "source": "massive-ru-RU", "massive_id": "1032", "id": "ru-RU-locked-171"}
+{"text": "пожалуйста удали из календаря все помеченные записи", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7158", "id": "ru-RU-locked-172"}
+{"text": "пропылесось дом olly", "label": "home", "source": "massive-ru-RU", "massive_id": "29", "id": "ru-RU-locked-173"}
+{"text": "сильные пробки", "label": "transport", "source": "massive-ru-RU", "massive_id": "12674", "id": "ru-RU-locked-174"}
+{"text": "удалить день после события", "label": "calendar", "source": "massive-ru-RU", "massive_id": "9082", "id": "ru-RU-locked-175"}
+{"text": "я хочу отправить электронное письмо олег собака yandex точка ru", "label": "email", "source": "massive-ru-RU", "massive_id": "16601", "id": "ru-RU-locked-176"}
+{"text": "как будет сегодня", "label": "weather", "source": "massive-ru-RU", "massive_id": "5417", "id": "ru-RU-locked-177"}
+{"text": "у меня день рождения в понедельник настрой событие", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7727", "id": "ru-RU-locked-178"}
+{"text": "убери из списка все сухие продукты питания", "label": "lists", "source": "massive-ru-RU", "massive_id": "10612", "id": "ru-RU-locked-179"}
+{"text": "погода в московской области на этой неделе", "label": "weather", "source": "massive-ru-RU", "massive_id": "3807", "id": "ru-RU-locked-180"}
+{"text": "olly выключи свет", "label": "home", "source": "massive-ru-RU", "massive_id": "224", "id": "ru-RU-locked-181"}
+{"text": "вызови мне яндекс такси", "label": "transport", "source": "massive-ru-RU", "massive_id": "12372", "id": "ru-RU-locked-182"}
+{"text": "поставь предупреждение в мой календарь на каждую неделю", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7484", "id": "ru-RU-locked-183"}
+{"text": "какая погода в этот день", "label": "weather", "source": "massive-ru-RU", "massive_id": "2916", "id": "ru-RU-locked-184"}
+{"text": "удали все даты", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8732", "id": "ru-RU-locked-185"}
+{"text": "включи пылесос пожалуйста", "label": "home", "source": "massive-ru-RU", "massive_id": "2620", "id": "ru-RU-locked-186"}
+{"text": "напомни мне за два часа до встречи", "label": "calendar", "source": "massive-ru-RU", "massive_id": "9167", "id": "ru-RU-locked-187"}
+{"text": "удалить все запланированные события", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7921", "id": "ru-RU-locked-188"}
+{"text": "как добраться куда-то", "label": "transport", "source": "massive-ru-RU", "massive_id": "6403", "id": "ru-RU-locked-189"}
+{"text": "екатеринбург", "label": "transport", "source": "massive-ru-RU", "massive_id": "12264", "id": "ru-RU-locked-190"}
+{"text": "ты получил электронное письмо от этого человека", "label": "email", "source": "massive-ru-RU", "massive_id": "15988", "id": "ru-RU-locked-191"}
+{"text": "расскажи о новой внешней политике путина", "label": "news", "source": "massive-ru-RU", "massive_id": "1301", "id": "ru-RU-locked-192"}
+{"text": "сколько добираться до центра", "label": "transport", "source": "massive-ru-RU", "massive_id": "12435", "id": "ru-RU-locked-193"}
+{"text": "отправь тот и-мейл жене пожалуйста", "label": "email", "source": "massive-ru-RU", "massive_id": "16475", "id": "ru-RU-locked-194"}
+{"text": "свободно ли мое расписание сегодня в четыре дня", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7153", "id": "ru-RU-locked-195"}
+{"text": "какая погода в казани", "label": "weather", "source": "massive-ru-RU", "massive_id": "3310", "id": "ru-RU-locked-196"}
+{"text": "пойдет сегодня дождь", "label": "weather", "source": "massive-ru-RU", "massive_id": "438", "id": "ru-RU-locked-197"}
+{"text": "на какой улице живет саша проверь мою телефонную книгу", "label": "email", "source": "massive-ru-RU", "massive_id": "16555", "id": "ru-RU-locked-198"}
+{"text": "включи пылесос", "label": "home", "source": "massive-ru-RU", "massive_id": "1151", "id": "ru-RU-locked-199"}
+{"text": "надо ли мне закрыть окно перед тем как уйти сегодня днём", "label": "weather", "source": "massive-ru-RU", "massive_id": "6007", "id": "ru-RU-locked-200"}
+{"text": "открыть список продуктов и добавить молоко", "label": "lists", "source": "massive-ru-RU", "massive_id": "10949", "id": "ru-RU-locked-201"}
+{"text": "у меня есть какие нибудь письма от катерины", "label": "email", "source": "massive-ru-RU", "massive_id": "15913", "id": "ru-RU-locked-202"}
+{"text": "закажи яндекс такси на сегодня в семь вечера", "label": "transport", "source": "massive-ru-RU", "massive_id": "12462", "id": "ru-RU-locked-203"}
+{"text": "назови мне код города для марии п", "label": "email", "source": "massive-ru-RU", "massive_id": "16875", "id": "ru-RU-locked-204"}
+{"text": "назови отправителей полученных писем за последние три дня", "label": "email", "source": "massive-ru-RU", "massive_id": "16794", "id": "ru-RU-locked-205"}
+{"text": "проверь есть ли новое письмо во входящих", "label": "email", "source": "massive-ru-RU", "massive_id": "15874", "id": "ru-RU-locked-206"}
+{"text": "что мне нужно выполнить первым из списка", "label": "lists", "source": "massive-ru-RU", "massive_id": "10921", "id": "ru-RU-locked-207"}
+{"text": "олли покажи последнее электронное письмо от павла", "label": "email", "source": "massive-ru-RU", "massive_id": "16077", "id": "ru-RU-locked-208"}
+{"text": "приготовь мой утренний кофе", "label": "home", "source": "massive-ru-RU", "massive_id": "5990", "id": "ru-RU-locked-209"}
+{"text": "забронируйте билет на поезд до парижа", "label": "transport", "source": "massive-ru-RU", "massive_id": "12574", "id": "ru-RU-locked-210"}
+{"text": "запись в список", "label": "lists", "source": "massive-ru-RU", "massive_id": "11030", "id": "ru-RU-locked-211"}
+{"text": "выключи розетку", "label": "home", "source": "massive-ru-RU", "massive_id": "4746", "id": "ru-RU-locked-212"}
+{"text": "создай встречу с другом", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7421", "id": "ru-RU-locked-213"}
+{"text": "сделай мне кофе olly", "label": "home", "source": "massive-ru-RU", "massive_id": "450", "id": "ru-RU-locked-214"}
+{"text": "ответь", "label": "email", "source": "massive-ru-RU", "massive_id": "16586", "id": "ru-RU-locked-215"}
+{"text": "дай мне пожалуйста последнюю информацию о президенте путине", "label": "news", "source": "massive-ru-RU", "massive_id": "1582", "id": "ru-RU-locked-216"}
+{"text": "какая погода сейчас в сочи", "label": "weather", "source": "massive-ru-RU", "massive_id": "4354", "id": "ru-RU-locked-217"}
+{"text": "есть что нибудь о чём мне нужно знать", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8420", "id": "ru-RU-locked-218"}
+{"text": "напомни мне через пятьдесят минут", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8999", "id": "ru-RU-locked-219"}
+{"text": "мне нужно выключить свет в моей спальне", "label": "home", "source": "massive-ru-RU", "massive_id": "2186", "id": "ru-RU-locked-220"}
+{"text": "вымой пол", "label": "home", "source": "massive-ru-RU", "massive_id": "6159", "id": "ru-RU-locked-221"}
+{"text": "добавить иван собака gmail точка com в контакты", "label": "email", "source": "massive-ru-RU", "massive_id": "15894", "id": "ru-RU-locked-222"}
+{"text": "сделай ярче свет в моей спальне", "label": "home", "source": "massive-ru-RU", "massive_id": "467", "id": "ru-RU-locked-223"}
+{"text": "выключи весь свет в доме", "label": "home", "source": "massive-ru-RU", "massive_id": "3239", "id": "ru-RU-locked-224"}
+{"text": "я получал какое-либо письмо от рамиля", "label": "email", "source": "massive-ru-RU", "massive_id": "16041", "id": "ru-RU-locked-225"}
+{"text": "во сколько запись к доктору в пятницу", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7796", "id": "ru-RU-locked-226"}
+{"text": "настройка повторяющегося события в календаре", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8996", "id": "ru-RU-locked-227"}
+{"text": "как проехать", "label": "transport", "source": "massive-ru-RU", "massive_id": "12856", "id": "ru-RU-locked-228"}
+{"text": "покажи мне доступные цвета светильников", "label": "home", "source": "massive-ru-RU", "massive_id": "1511", "id": "ru-RU-locked-229"}
+{"text": "что сегодня в моём списке покупок", "label": "lists", "source": "massive-ru-RU", "massive_id": "10450", "id": "ru-RU-locked-230"}
+{"text": "какие погодные условия на сегодня", "label": "weather", "source": "massive-ru-RU", "massive_id": "1196", "id": "ru-RU-locked-231"}
+{"text": "покажи расписание поездов до эрмитажа", "label": "transport", "source": "massive-ru-RU", "massive_id": "12294", "id": "ru-RU-locked-232"}
+{"text": "включи свет в режиме вечеринки", "label": "home", "source": "massive-ru-RU", "massive_id": "2842", "id": "ru-RU-locked-233"}
+{"text": "какая средняя температура для ярославля эту неделю", "label": "weather", "source": "massive-ru-RU", "massive_id": "5863", "id": "ru-RU-locked-234"}
+{"text": "добавь в календарь приём у врача на каждый первый день в следующие пять месяцев", "label": "calendar", "source": "massive-ru-RU", "massive_id": "9027", "id": "ru-RU-locked-235"}
+{"text": "закажи один кофе из кофейни starbucks", "label": "home", "source": "massive-ru-RU", "massive_id": "1816", "id": "ru-RU-locked-236"}
+{"text": "поменяй свет на голубой olly", "label": "home", "source": "massive-ru-RU", "massive_id": "1427", "id": "ru-RU-locked-237"}
+{"text": "сделай ярче свет в гостиной", "label": "home", "source": "massive-ru-RU", "massive_id": "5472", "id": "ru-RU-locked-238"}
+{"text": "какие последние новости о поезде", "label": "news", "source": "massive-ru-RU", "massive_id": "3517", "id": "ru-RU-locked-239"}
+{"text": "назначь встречу с другом", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7420", "id": "ru-RU-locked-240"}
+{"text": "зайди в почту и отправь сообщение", "label": "email", "source": "massive-ru-RU", "massive_id": "15833", "id": "ru-RU-locked-241"}
+{"text": "мне надеть пальто", "label": "weather", "source": "massive-ru-RU", "massive_id": "6126", "id": "ru-RU-locked-242"}
+{"text": "добавь в список", "label": "lists", "source": "massive-ru-RU", "massive_id": "10530", "id": "ru-RU-locked-243"}
+{"text": "начни уборку дома", "label": "home", "source": "massive-ru-RU", "massive_id": "5696", "id": "ru-RU-locked-244"}
+{"text": "можешь ли ты пожалуйста включить пылесос", "label": "home", "source": "massive-ru-RU", "massive_id": "3430", "id": "ru-RU-locked-245"}
+{"text": "есть ли у меня какие то ответы от яна", "label": "email", "source": "massive-ru-RU", "massive_id": "15818", "id": "ru-RU-locked-246"}
+{"text": "избавься от списка налогов тысяча девятьсот девяностого года", "label": "lists", "source": "massive-ru-RU", "massive_id": "11098", "id": "ru-RU-locked-247"}
+{"text": "оля сделай синий свет", "label": "home", "source": "massive-ru-RU", "massive_id": "3733", "id": "ru-RU-locked-248"}
+{"text": "смени свет на жёлтый цвет", "label": "home", "source": "massive-ru-RU", "massive_id": "1967", "id": "ru-RU-locked-249"}
+{"text": "будет дождь", "label": "weather", "source": "massive-ru-RU", "massive_id": "1197", "id": "ru-RU-locked-250"}
+{"text": "я бы хотел новости о владимире путине", "label": "news", "source": "massive-ru-RU", "massive_id": "5865", "id": "ru-RU-locked-251"}
+{"text": "сохрани в контакты", "label": "email", "source": "massive-ru-RU", "massive_id": "17160", "id": "ru-RU-locked-252"}
+{"text": "проверь почту", "label": "email", "source": "massive-ru-RU", "massive_id": "17107", "id": "ru-RU-locked-253"}
+{"text": "проверь мои новые электронные письма", "label": "email", "source": "massive-ru-RU", "massive_id": "15800", "id": "ru-RU-locked-254"}
+{"text": "в торжке идет дождь", "label": "weather", "source": "massive-ru-RU", "massive_id": "3097", "id": "ru-RU-locked-255"}
+{"text": "смени цвет", "label": "home", "source": "massive-ru-RU", "massive_id": "4880", "id": "ru-RU-locked-256"}
+{"text": "что передают в новостях", "label": "news", "source": "massive-ru-RU", "massive_id": "6680", "id": "ru-RU-locked-257"}
+{"text": "не забыть встретиться с дашей сегодня в шесть вечера", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7109", "id": "ru-RU-locked-258"}
+{"text": "включи свет красного цвета", "label": "home", "source": "massive-ru-RU", "massive_id": "3734", "id": "ru-RU-locked-259"}
+{"text": "какой телефонный номер у раи", "label": "email", "source": "massive-ru-RU", "massive_id": "17097", "id": "ru-RU-locked-260"}
+{"text": "я хочу какой нибудь кофе", "label": "home", "source": "massive-ru-RU", "massive_id": "4368", "id": "ru-RU-locked-261"}
+{"text": "одиннадцатого марта напомни мне о дне приёма", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7326", "id": "ru-RU-locked-262"}
+{"text": "к завтрашнему дню создать новый список", "label": "lists", "source": "massive-ru-RU", "massive_id": "10616", "id": "ru-RU-locked-263"}
+{"text": "предоставь список", "label": "lists", "source": "massive-ru-RU", "massive_id": "11170", "id": "ru-RU-locked-264"}
+{"text": "что там с погодой в петрозаводске", "label": "weather", "source": "massive-ru-RU", "massive_id": "3503", "id": "ru-RU-locked-265"}
+{"text": "какая будет погода сегодня ночью", "label": "weather", "source": "massive-ru-RU", "massive_id": "5724", "id": "ru-RU-locked-266"}
+{"text": "выясни присылал ли эдик иванов письмо о запросе на бюджет", "label": "email", "source": "massive-ru-RU", "massive_id": "15972", "id": "ru-RU-locked-267"}
+{"text": "как далеко отсюда магнит", "label": "transport", "source": "massive-ru-RU", "massive_id": "12061", "id": "ru-RU-locked-268"}
+{"text": "прочитай письмо от ивана петрова", "label": "email", "source": "massive-ru-RU", "massive_id": "16656", "id": "ru-RU-locked-269"}
+{"text": "olly сделай ярче светильники", "label": "home", "source": "massive-ru-RU", "massive_id": "5471", "id": "ru-RU-locked-270"}
+{"text": "в пятницу ночью будет тепло", "label": "weather", "source": "massive-ru-RU", "massive_id": "3663", "id": "ru-RU-locked-271"}
+{"text": "пожалуйста удали все записи в календаре", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7620", "id": "ru-RU-locked-272"}
+{"text": "я получил электронное письмо от жанны прошлой ночью", "label": "email", "source": "massive-ru-RU", "massive_id": "16577", "id": "ru-RU-locked-273"}
+{"text": "от моей мамы ничего не приходило", "label": "email", "source": "massive-ru-RU", "massive_id": "16900", "id": "ru-RU-locked-274"}
+{"text": "олли мне нужно запланировать в календаре обед на следующей неделе", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8250", "id": "ru-RU-locked-275"}
+{"text": "купи билет на поезд из санкт-петербурга в москву", "label": "transport", "source": "massive-ru-RU", "massive_id": "12750", "id": "ru-RU-locked-276"}
+{"text": "в пятницу будет солнечно", "label": "weather", "source": "massive-ru-RU", "massive_id": "5343", "id": "ru-RU-locked-277"}
+{"text": "уменьши яркость", "label": "home", "source": "massive-ru-RU", "massive_id": "159", "id": "ru-RU-locked-278"}
+{"text": "google мне нужно пропылесосить гостиную включи робот пылесос", "label": "home", "source": "massive-ru-RU", "massive_id": "3658", "id": "ru-RU-locked-279"}
+{"text": "олли какой самый быстрый маршрут до города", "label": "transport", "source": "massive-ru-RU", "massive_id": "12515", "id": "ru-RU-locked-280"}
+{"text": "пожалуйста выключи свет на кухне", "label": "home", "source": "massive-ru-RU", "massive_id": "2883", "id": "ru-RU-locked-281"}
+{"text": "событие добавление приятелей в твой календарь", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7583", "id": "ru-RU-locked-282"}
+{"text": "запланируй пожалуйста все мои приёмы у врачей", "label": "calendar", "source": "massive-ru-RU", "massive_id": "15121", "id": "ru-RU-locked-283"}
+{"text": "включи эту розетку", "label": "home", "source": "massive-ru-RU", "massive_id": "3697", "id": "ru-RU-locked-284"}
+{"text": "удали вечеринку день рождения завтра на два часа дня", "label": "calendar", "source": "massive-ru-RU", "massive_id": "6883", "id": "ru-RU-locked-285"}
+{"text": "из вчерашнего имейла во сколько интервью", "label": "email", "source": "massive-ru-RU", "massive_id": "16765", "id": "ru-RU-locked-286"}
+{"text": "ответь на последнее письмо", "label": "email", "source": "massive-ru-RU", "massive_id": "15940", "id": "ru-RU-locked-287"}
+{"text": "новое сообщение для newmail собака gmail точка com", "label": "email", "source": "massive-ru-RU", "massive_id": "16459", "id": "ru-RU-locked-288"}
+{"text": "можешь добавить мою деловую встречу в рабочий календарь", "label": "calendar", "source": "massive-ru-RU", "massive_id": "9122", "id": "ru-RU-locked-289"}
+{"text": "добавить швабру в список магазина хозтоваров", "label": "lists", "source": "massive-ru-RU", "massive_id": "11153", "id": "ru-RU-locked-290"}
+{"text": "погода в елизово камчатка", "label": "weather", "source": "massive-ru-RU", "massive_id": "2998", "id": "ru-RU-locked-291"}
+{"text": "какие встречи у меня сегодня между восемью и десятью", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8578", "id": "ru-RU-locked-292"}
+{"text": "иди в контакты и введи новый адрес электронной почтв", "label": "email", "source": "massive-ru-RU", "massive_id": "15829", "id": "ru-RU-locked-293"}
+{"text": "напиши письмо жене с вопросом про время встречи", "label": "email", "source": "massive-ru-RU", "massive_id": "15994", "id": "ru-RU-locked-294"}
+{"text": "сколько стоит билет на поезд в санкт-петербург", "label": "transport", "source": "massive-ru-RU", "massive_id": "12768", "id": "ru-RU-locked-295"}
+{"text": "какие-нибудь особые события в моём списке", "label": "lists", "source": "massive-ru-RU", "massive_id": "10440", "id": "ru-RU-locked-296"}
+{"text": "эй olly как мне включить робот пылесос", "label": "home", "source": "massive-ru-RU", "massive_id": "2518", "id": "ru-RU-locked-297"}
+{"text": "есть вероятность того что в прогнозе погоды сегодня упомянут дождь", "label": "weather", "source": "massive-ru-RU", "massive_id": "2293", "id": "ru-RU-locked-298"}
+{"text": "выключи свет в гостиной", "label": "home", "source": "massive-ru-RU", "massive_id": "2052", "id": "ru-RU-locked-299"}
+{"text": "дорожное движение", "label": "transport", "source": "massive-ru-RU", "massive_id": "12736", "id": "ru-RU-locked-300"}
+{"text": "какой будет погода у меня дома", "label": "weather", "source": "massive-ru-RU", "massive_id": "2178", "id": "ru-RU-locked-301"}
+{"text": "дай знать пришли мне новые письма", "label": "email", "source": "massive-ru-RU", "massive_id": "15761", "id": "ru-RU-locked-302"}
+{"text": "список товаров в моём списке покупок алиса", "label": "lists", "source": "massive-ru-RU", "massive_id": "10424", "id": "ru-RU-locked-303"}
+{"text": "olly отмени все мероприятия в следующие два дня", "label": "calendar", "source": "massive-ru-RU", "massive_id": "6735", "id": "ru-RU-locked-304"}
+{"text": "скажи мне есть новые письма", "label": "email", "source": "massive-ru-RU", "massive_id": "15777", "id": "ru-RU-locked-305"}
+{"text": "привет пожалуйста отправь письмо андрею вечером", "label": "email", "source": "massive-ru-RU", "massive_id": "17032", "id": "ru-RU-locked-306"}
+{"text": "есть ли в моём списке новая книга дмитрия глуховского", "label": "lists", "source": "massive-ru-RU", "massive_id": "10768", "id": "ru-RU-locked-307"}
+{"text": "эй какую погоду обещают на завтра", "label": "weather", "source": "massive-ru-RU", "massive_id": "832", "id": "ru-RU-locked-308"}
+{"text": "какая программа мероприятия", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8084", "id": "ru-RU-locked-309"}
+{"text": "нужны солнечные очки", "label": "weather", "source": "massive-ru-RU", "massive_id": "5467", "id": "ru-RU-locked-310"}
+{"text": "пожалуйста мне нужен кофе предпочтительно горячий", "label": "home", "source": "massive-ru-RU", "massive_id": "1813", "id": "ru-RU-locked-311"}
+{"text": "повысь интенсивность освещения в комнате", "label": "home", "source": "massive-ru-RU", "massive_id": "2372", "id": "ru-RU-locked-312"}
+{"text": "я бы хотел капучино пожалуйста", "label": "home", "source": "massive-ru-RU", "massive_id": "5849", "id": "ru-RU-locked-313"}
+{"text": "проверь все электронные письма на эдика", "label": "email", "source": "massive-ru-RU", "massive_id": "16525", "id": "ru-RU-locked-314"}
+{"text": "воспроизведи содержимое имэйла", "label": "email", "source": "massive-ru-RU", "massive_id": "16331", "id": "ru-RU-locked-315"}
+{"text": "покажи мне мои события за месяц", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8011", "id": "ru-RU-locked-316"}
+{"text": "напомни мне завтра в четыре о событии", "label": "calendar", "source": "massive-ru-RU", "massive_id": "6833", "id": "ru-RU-locked-317"}
+{"text": "включи пылесос", "label": "home", "source": "massive-ru-RU", "massive_id": "5880", "id": "ru-RU-locked-318"}
+{"text": "подсвети светильник", "label": "home", "source": "massive-ru-RU", "massive_id": "288", "id": "ru-RU-locked-319"}
+{"text": "удалить мой список", "label": "lists", "source": "massive-ru-RU", "massive_id": "11168", "id": "ru-RU-locked-320"}
+{"text": "билет в москву", "label": "transport", "source": "massive-ru-RU", "massive_id": "12292", "id": "ru-RU-locked-321"}
+{"text": "пожалуйста добавь концерт на саммерфесте в календарь", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7532", "id": "ru-RU-locked-322"}
+{"text": "удалить заголовок списка", "label": "lists", "source": "massive-ru-RU", "massive_id": "10591", "id": "ru-RU-locked-323"}
+{"text": "избавиться от списка среды", "label": "lists", "source": "massive-ru-RU", "massive_id": "10654", "id": "ru-RU-locked-324"}
+{"text": "дай мне новости", "label": "news", "source": "massive-ru-RU", "massive_id": "5029", "id": "ru-RU-locked-325"}
+{"text": "я что-то запланировал", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7189", "id": "ru-RU-locked-326"}
+{"text": "открой календарь и создай напоминание о событии", "label": "calendar", "source": "massive-ru-RU", "massive_id": "9160", "id": "ru-RU-locked-327"}
+{"text": "какое сообщение було отправлено в три тридцать дня", "label": "email", "source": "massive-ru-RU", "massive_id": "16893", "id": "ru-RU-locked-328"}
+{"text": "мне нужно это событие чтобы повторялось в моём календаре", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7957", "id": "ru-RU-locked-329"}
+{"text": "закажи мне одиночный билет на поезд до екатеринбурга отправляющийся после девяти утра", "label": "transport", "source": "massive-ru-RU", "massive_id": "12400", "id": "ru-RU-locked-330"}
+{"text": "какие события произойдут сегодня", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8029", "id": "ru-RU-locked-331"}
+{"text": "olly мне нужен солнцезащитный лосьон сегодня", "label": "weather", "source": "massive-ru-RU", "massive_id": "5733", "id": "ru-RU-locked-332"}
+{"text": "напиши петру письмо и спроси как он могу ли я чем то помочь", "label": "email", "source": "massive-ru-RU", "massive_id": "16082", "id": "ru-RU-locked-333"}
+{"text": "есть ли какие-нибудь новые и-мейлы в моих входящих от сергея прямо сейчас", "label": "email", "source": "massive-ru-RU", "massive_id": "16304", "id": "ru-RU-locked-334"}
+{"text": "удали всё в моём календаре на следующие две недели", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8835", "id": "ru-RU-locked-335"}
+{"text": "покажи мне прогноз погоды на эту неделю", "label": "weather", "source": "massive-ru-RU", "massive_id": "4559", "id": "ru-RU-locked-336"}
+{"text": "мне нужно чтобы ты напомнил мне завтра сходить в магазин", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7728", "id": "ru-RU-locked-337"}
+{"text": "сколько непрочитанных сообщений у меня", "label": "email", "source": "massive-ru-RU", "massive_id": "17137", "id": "ru-RU-locked-338"}
+{"text": "напиши письмо юле что мы можем встретиться в субботу в час дня", "label": "email", "source": "massive-ru-RU", "massive_id": "15927", "id": "ru-RU-locked-339"}
+{"text": "у меня приём в москве завтра напомни об этом", "label": "calendar", "source": "massive-ru-RU", "massive_id": "6974", "id": "ru-RU-locked-340"}
+{"text": "удали образец встреча из приложения календарь", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8526", "id": "ru-RU-locked-341"}
+{"text": "создать список", "label": "lists", "source": "massive-ru-RU", "massive_id": "10436", "id": "ru-RU-locked-342"}
+{"text": "какая будет погодав пятницу", "label": "weather", "source": "massive-ru-RU", "massive_id": "4932", "id": "ru-RU-locked-343"}
+{"text": "создай событие", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8990", "id": "ru-RU-locked-344"}
+{"text": "выключи свет во второй спальне", "label": "home", "source": "massive-ru-RU", "massive_id": "4862", "id": "ru-RU-locked-345"}
+{"text": "помощь нужно послать только максиму", "label": "email", "source": "massive-ru-RU", "massive_id": "16120", "id": "ru-RU-locked-346"}
+{"text": "направь новый электронный адрес на мою новую почту", "label": "email", "source": "massive-ru-RU", "massive_id": "15855", "id": "ru-RU-locked-347"}
+{"text": "сколько стоит билет на поезд", "label": "transport", "source": "massive-ru-RU", "massive_id": "12602", "id": "ru-RU-locked-348"}
+{"text": "пришли мне напоминание за день до моей поездки в карелию", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7848", "id": "ru-RU-locked-349"}
+{"text": "в пять тридцать вечера завтра будет заход солнца", "label": "weather", "source": "massive-ru-RU", "massive_id": "583", "id": "ru-RU-locked-350"}
+{"text": "мне надевать зимнюю куртку сегодня утром", "label": "weather", "source": "massive-ru-RU", "massive_id": "6047", "id": "ru-RU-locked-351"}
+{"text": "поставь таймер на пять минут для печенек", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7595", "id": "ru-RU-locked-352"}
+{"text": "сделай мне одолжение мои глаза напрягаются из за этого света пожалуйста поменяй свет на более холодный тон", "label": "home", "source": "massive-ru-RU", "massive_id": "3085", "id": "ru-RU-locked-353"}
+{"text": "сделай его здесь красным", "label": "home", "source": "massive-ru-RU", "massive_id": "3387", "id": "ru-RU-locked-354"}
+{"text": "пошли письмо маме и папе и спроси как уних дела", "label": "email", "source": "massive-ru-RU", "massive_id": "16430", "id": "ru-RU-locked-355"}
+{"text": "как обстановка на дорогах из дома на работу", "label": "transport", "source": "massive-ru-RU", "massive_id": "12441", "id": "ru-RU-locked-356"}
+{"text": "удали список google", "label": "lists", "source": "massive-ru-RU", "massive_id": "11053", "id": "ru-RU-locked-357"}
+{"text": "добавить собрание двадцать первого в семь", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7046", "id": "ru-RU-locked-358"}
+{"text": "проверь почту yahoo", "label": "email", "source": "massive-ru-RU", "massive_id": "16051", "id": "ru-RU-locked-359"}
+{"text": "дом сделай весь свет в доме голубым", "label": "home", "source": "massive-ru-RU", "massive_id": "4249", "id": "ru-RU-locked-360"}
+{"text": "установи напоминание пойти в кино с сашей двадцать седьмого марта", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8512", "id": "ru-RU-locked-361"}
+{"text": "выключи свет в этой комнате пожалуйста", "label": "home", "source": "massive-ru-RU", "massive_id": "3341", "id": "ru-RU-locked-362"}
+{"text": "отключи ток", "label": "home", "source": "massive-ru-RU", "massive_id": "2710", "id": "ru-RU-locked-363"}
+{"text": "поставь встречу с алиной на завтра", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7005", "id": "ru-RU-locked-364"}
+{"text": "если мой пылесос не включен тогда пожалуйста включи его", "label": "home", "source": "massive-ru-RU", "massive_id": "2001", "id": "ru-RU-locked-365"}
+{"text": "всё освещение днём должно быть выключено", "label": "home", "source": "massive-ru-RU", "massive_id": "1647", "id": "ru-RU-locked-366"}
+{"text": "я хочу забронировать билет на поезд из москвы в петербург", "label": "transport", "source": "massive-ru-RU", "massive_id": "12616", "id": "ru-RU-locked-367"}
+{"text": "включи романтический свет пожалуйста", "label": "home", "source": "massive-ru-RU", "massive_id": "4441", "id": "ru-RU-locked-368"}
+{"text": "расскажи мне что будет завтра", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7942", "id": "ru-RU-locked-369"}
+{"text": "информация", "label": "calendar", "source": "massive-ru-RU", "massive_id": "8898", "id": "ru-RU-locked-370"}
+{"text": "запусти кофеварку", "label": "home", "source": "massive-ru-RU", "massive_id": "448", "id": "ru-RU-locked-371"}
+{"text": "запланируй событие день рождения сергея повторить двадцать первого января две тысячи семнадцатого года", "label": "calendar", "source": "massive-ru-RU", "massive_id": "7408", "id": "ru-RU-locked-372"}
+{"text": "удали следующее событие", "label": "calendar", "source": "massive-ru-RU", "massive_id": "6997", "id": "ru-RU-locked-373"}
+{"text": "есть ли какая-нибудь стройка на трассе м десять", "label": "transport", "source": "massive-ru-RU", "massive_id": "12184", "id": "ru-RU-locked-374"}
+{"text": "надо ли мне надевать зимние сапоги когда пойду в магазин", "label": "weather", "source": "massive-ru-RU", "massive_id": "5956", "id": "ru-RU-locked-375"}
+{"text": "покажи списки", "label": "lists", "source": "massive-ru-RU", "massive_id": "10505", "id": "ru-RU-locked-376"}
+{"text": "какой была тема моего последнего письма", "label": "email", "source": "massive-ru-RU", "massive_id": "16898", "id": "ru-RU-locked-377"}
+{"text": "пожалуйста приглуши свет в спальнях", "label": "home", "source": "massive-ru-RU", "massive_id": "3672", "id": "ru-RU-locked-378"}

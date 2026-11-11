@@ -1,0 +1,379 @@
+{"text": "yaklaşan etkinlikler nelerdi", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7643", "id": "tr-TR-dev-0"}
+{"text": "birine posta gönder", "label": "email", "source": "massive-tr-TR", "massive_id": "16980", "id": "tr-TR-dev-1"}
+{"text": "kardeşime akşam yemeğine ne zaman geleceğini soran bir eposta oluştur", "label": "email", "source": "massive-tr-TR", "massive_id": "16680", "id": "tr-TR-dev-2"}
+{"text": "hiç hatırlatmam var mı", "label": "calendar", "source": "massive-tr-TR", "massive_id": "6784", "id": "tr-TR-dev-3"}
+{"text": "bugün hava nasıl", "label": "weather", "source": "massive-tr-TR", "massive_id": "4789", "id": "tr-TR-dev-4"}
+{"text": "tugay bana mühimmat hakkında eposta gönderdi mi", "label": "email", "source": "massive-tr-TR", "massive_id": "16357", "id": "tr-TR-dev-5"}
+{"text": "kahve yapmaya başla", "label": "home", "source": "massive-tr-TR", "massive_id": "2024", "id": "tr-TR-dev-6"}
+{"text": "mutfak ışıklarını kapat", "label": "home", "source": "massive-tr-TR", "massive_id": "5397", "id": "tr-TR-dev-7"}
+{"text": "bu trenin kalkış varış saatleri nedir", "label": "transport", "source": "massive-tr-TR", "massive_id": "12570", "id": "tr-TR-dev-8"}
+{"text": "jay'in telefon numarası", "label": "email", "source": "massive-tr-TR", "massive_id": "16907", "id": "tr-TR-dev-9"}
+{"text": "yarın sabah ondaki toplantı için bana bir hatırlatma bildirimi ver", "label": "calendar", "source": "massive-tr-TR", "massive_id": "6856", "id": "tr-TR-dev-10"}
+{"text": "eskişehir'e tren ile akşamdan önce nasıl gidebilirim", "label": "transport", "source": "massive-tr-TR", "massive_id": "12128", "id": "tr-TR-dev-11"}
+{"text": "odayı daha parlak yap", "label": "home", "source": "massive-tr-TR", "massive_id": "211", "id": "tr-TR-dev-12"}
+{"text": "kahve makinesinin bana kahve yapmasını istiyorum", "label": "home", "source": "massive-tr-TR", "massive_id": "2867", "id": "tr-TR-dev-13"}
+{"text": "sarah'ın e-postasını yanıtlamak isterim", "label": "email", "source": "massive-tr-TR", "massive_id": "16701", "id": "tr-TR-dev-14"}
+{"text": "hava durumunu aç", "label": "weather", "source": "massive-tr-TR", "massive_id": "5591", "id": "tr-TR-dev-15"}
+{"text": "aydın dan izmir e giden bir tren bul", "label": "transport", "source": "massive-tr-TR", "massive_id": "12771", "id": "tr-TR-dev-16"}
+{"text": "elmayı listeden kaldır", "label": "lists", "source": "massive-tr-TR", "massive_id": "10519", "id": "tr-TR-dev-17"}
+{"text": "benim listemde ne olduğunu oku", "label": "lists", "source": "massive-tr-TR", "massive_id": "10731", "id": "tr-TR-dev-18"}
+{"text": "ışık parlaklığını arttır", "label": "home", "source": "massive-tr-TR", "massive_id": "5002", "id": "tr-TR-dev-19"}
+{"text": "yeni email hesabıma herhangi bir email gelirse beni bilgilendir", "label": "email", "source": "massive-tr-TR", "massive_id": "16249", "id": "tr-TR-dev-20"}
+{"text": "google annemi aramam lazım onun iş yeri numarasını benim için kontrol eder misin", "label": "email", "source": "massive-tr-TR", "massive_id": "16554", "id": "tr-TR-dev-21"}
+{"text": "bugün göçmen kanunu ile ilgili neler oluyor", "label": "news", "source": "massive-tr-TR", "massive_id": "5563", "id": "tr-TR-dev-22"}
+{"text": "salı günü hava nasıl olacak", "label": "weather", "source": "massive-tr-TR", "massive_id": "605", "id": "tr-TR-dev-23"}
+{"text": "hey robot süpürgeyi başlat", "label": "home", "source": "massive-tr-TR", "massive_id": "83", "id": "tr-TR-dev-24"}
+{"text": "robot süpürgeyi başlat", "label": "home", "source": "massive-tr-TR", "massive_id": "2434", "id": "tr-TR-dev-25"}
+{"text": "e-posta kontrol mesajlarını aç", "label": "email", "source": "massive-tr-TR", "massive_id": "16414", "id": "tr-TR-dev-26"}
+{"text": "john at gmail nokta com'a bir e-posta yaz", "label": "email", "source": "massive-tr-TR", "massive_id": "17042", "id": "tr-TR-dev-27"}
+{"text": "şimdi bir kahveye ihtiyacım var", "label": "home", "source": "massive-tr-TR", "massive_id": "339", "id": "tr-TR-dev-28"}
+{"text": "ışığı kapatır mısın", "label": "home", "source": "massive-tr-TR", "massive_id": "999", "id": "tr-TR-dev-29"}
+{"text": "benim odamın ışıklarını romantik renkte bir şeylere değiştir", "label": "home", "source": "massive-tr-TR", "massive_id": "414", "id": "tr-TR-dev-30"}
+{"text": "şimdi kahve istiyorum", "label": "home", "source": "massive-tr-TR", "massive_id": "3630", "id": "tr-TR-dev-31"}
+{"text": "lütfen benim için bir kahve yap", "label": "home", "source": "massive-tr-TR", "massive_id": "3609", "id": "tr-TR-dev-32"}
+{"text": "yirmi ekim sabah on buçuğa bir toplantı ayarla", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7383", "id": "tr-TR-dev-33"}
+{"text": "bir espresso alabilir miyim lütfen", "label": "home", "source": "massive-tr-TR", "massive_id": "1569", "id": "tr-TR-dev-34"}
+{"text": "hiç trafik varmı", "label": "transport", "source": "massive-tr-TR", "massive_id": "12862", "id": "tr-TR-dev-35"}
+{"text": "kaç tane okunmamış epostam var", "label": "email", "source": "massive-tr-TR", "massive_id": "16421", "id": "tr-TR-dev-36"}
+{"text": "pazar günü kiliseden sonra kadınlar kulübüyle bir araya gelmem için bana bir hatırlatma ayarla", "label": "calendar", "source": "massive-tr-TR", "massive_id": "9086", "id": "tr-TR-dev-37"}
+{"text": "ışıkları artır lütfen", "label": "home", "source": "massive-tr-TR", "massive_id": "3437", "id": "tr-TR-dev-38"}
+{"text": "bu hafta sonu yapılacakların listesini temizle", "label": "lists", "source": "massive-tr-TR", "massive_id": "10937", "id": "tr-TR-dev-39"}
+{"text": "tozu al ve ardından süpürgeyi aç", "label": "home", "source": "massive-tr-TR", "massive_id": "5528", "id": "tr-TR-dev-40"}
+{"text": "bana içel'den samsun'a tren bileti fiyatını söyle", "label": "transport", "source": "massive-tr-TR", "massive_id": "12384", "id": "tr-TR-dev-41"}
+{"text": "fişten elektriği kes lütfen", "label": "home", "source": "massive-tr-TR", "massive_id": "4203", "id": "tr-TR-dev-42"}
+{"text": "lütfen sportif etkinliği listeden kaldır", "label": "lists", "source": "massive-tr-TR", "massive_id": "10686", "id": "tr-TR-dev-43"}
+{"text": "bana bu bölge için yarının hava durumunu göster", "label": "weather", "source": "massive-tr-TR", "massive_id": "5720", "id": "tr-TR-dev-44"}
+{"text": "oturma odasını temizle şimdi", "label": "home", "source": "massive-tr-TR", "massive_id": "864", "id": "tr-TR-dev-45"}
+{"text": "wemo prizini kapat", "label": "home", "source": "massive-tr-TR", "massive_id": "5652", "id": "tr-TR-dev-46"}
+{"text": "kartal a ilk metro saat kaçta", "label": "transport", "source": "massive-tr-TR", "massive_id": "12376", "id": "tr-TR-dev-47"}
+{"text": "hey google haftaya pazartesi gecesini ali ile randevum olarak kaydeder misin", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8237", "id": "tr-TR-dev-48"}
+{"text": "trafik", "label": "transport", "source": "massive-tr-TR", "massive_id": "12821", "id": "tr-TR-dev-49"}
+{"text": "marmaray saat kaçta istanbul 'a varacak", "label": "transport", "source": "massive-tr-TR", "massive_id": "12881", "id": "tr-TR-dev-50"}
+{"text": "son e-posta etkinliğim nedir", "label": "email", "source": "massive-tr-TR", "massive_id": "17035", "id": "tr-TR-dev-51"}
+{"text": "güzel", "label": "calendar", "source": "massive-tr-TR", "massive_id": "6885", "id": "tr-TR-dev-52"}
+{"text": "lütfen perşembe günü kuaför randevum hakkında bir saat önceden bilgilendirme yap", "label": "calendar", "source": "massive-tr-TR", "massive_id": "9152", "id": "tr-TR-dev-53"}
+{"text": "mersin istikametine programlı bir sonraki dört treni bana bildirebilir misin lütfen", "label": "transport", "source": "massive-tr-TR", "massive_id": "12247", "id": "tr-TR-dev-54"}
+{"text": "banyodaki ışıkları kapat lütfen", "label": "home", "source": "massive-tr-TR", "massive_id": "5242", "id": "tr-TR-dev-55"}
+{"text": "bu etkinlik hakkında daha fazla bilgi ver", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7677", "id": "tr-TR-dev-56"}
+{"text": "lütfen gelecek hafta hava durumu hakkında eşime eposta gönder", "label": "email", "source": "massive-tr-TR", "massive_id": "16258", "id": "tr-TR-dev-57"}
+{"text": "bugünün hava tahmini nedir", "label": "weather", "source": "massive-tr-TR", "massive_id": "4265", "id": "tr-TR-dev-58"}
+{"text": "bugün yeni bir e-posta alırsam bana haber ver", "label": "email", "source": "massive-tr-TR", "massive_id": "15965", "id": "tr-TR-dev-59"}
+{"text": "izmir'de anlık hava durumu", "label": "weather", "source": "massive-tr-TR", "massive_id": "3878", "id": "tr-TR-dev-60"}
+{"text": "raci nikah hatırlatıcı", "label": "calendar", "source": "massive-tr-TR", "massive_id": "9035", "id": "tr-TR-dev-61"}
+{"text": "hava durumu", "label": "weather", "source": "massive-tr-TR", "massive_id": "6635", "id": "tr-TR-dev-62"}
+{"text": "bugün rüzgarlı mı", "label": "weather", "source": "massive-tr-TR", "massive_id": "3130", "id": "tr-TR-dev-63"}
+{"text": "anneme anne çok teşekkür ederim gönder", "label": "email", "source": "massive-tr-TR", "massive_id": "16126", "id": "tr-TR-dev-64"}
+{"text": "artvin deki havayı kontrol eder misin lütfen", "label": "weather", "source": "massive-tr-TR", "massive_id": "4169", "id": "tr-TR-dev-65"}
+{"text": "jason'a bu gece gelmeyeceğime dair bir e-postayı yanıtla", "label": "email", "source": "massive-tr-TR", "massive_id": "15802", "id": "tr-TR-dev-66"}
+{"text": "lütfen e-postalarımı kontrol et ve bana hiç yeni e-posta olup olmadığını bildir", "label": "email", "source": "massive-tr-TR", "massive_id": "16713", "id": "tr-TR-dev-67"}
+{"text": "eski ingilizce şarkılar listemi çalma listesinden sil", "label": "lists", "source": "massive-tr-TR", "massive_id": "10523", "id": "tr-TR-dev-68"}
+{"text": "lütfen annemden gelen e-postayı kontrol et", "label": "email", "source": "massive-tr-TR", "massive_id": "16381", "id": "tr-TR-dev-69"}
+{"text": "uyanmam gerek bana en güçlü kahveyi yap", "label": "home", "source": "massive-tr-TR", "massive_id": "3198", "id": "tr-TR-dev-70"}
+{"text": "ankara 'dan kastamonu 'ya giden trenin saatleri ne", "label": "transport", "source": "massive-tr-TR", "massive_id": "12267", "id": "tr-TR-dev-71"}
+{"text": "can son zamanlarda bana hiç e-posta gönderdi mi", "label": "email", "source": "massive-tr-TR", "massive_id": "16038", "id": "tr-TR-dev-72"}
+{"text": "macitden en son maili göster", "label": "email", "source": "massive-tr-TR", "massive_id": "16078", "id": "tr-TR-dev-73"}
+{"text": "bu ayki hatırlatıcılarım neler", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8458", "id": "tr-TR-dev-74"}
+{"text": "lütfen bana bu ayki yiyecekleri sipariş et", "label": "lists", "source": "massive-tr-TR", "massive_id": "15122", "id": "tr-TR-dev-75"}
+{"text": "trafik nasıl", "label": "transport", "source": "massive-tr-TR", "massive_id": "12555", "id": "tr-TR-dev-76"}
+{"text": "tarıka iş için bir posta gönder", "label": "email", "source": "massive-tr-TR", "massive_id": "16053", "id": "tr-TR-dev-77"}
+{"text": "misafirler geliyor hemen elektrikli süpürgeyi çalıştır", "label": "home", "source": "massive-tr-TR", "massive_id": "3659", "id": "tr-TR-dev-78"}
+{"text": "notlar uygulamasını kontrol et ve bana tüm listelerin ayrıntılarını ver", "label": "lists", "source": "massive-tr-TR", "massive_id": "10705", "id": "tr-TR-dev-79"}
+{"text": "hava nasıl", "label": "weather", "source": "massive-tr-TR", "massive_id": "6316", "id": "tr-TR-dev-80"}
+{"text": "george'a kişisel bir teşekkür e-postası gönder", "label": "email", "source": "massive-tr-TR", "massive_id": "17077", "id": "tr-TR-dev-81"}
+{"text": "temizlik iyidir toz çok kötü şimdi sihrini yap halımı temizle", "label": "home", "source": "massive-tr-TR", "massive_id": "30", "id": "tr-TR-dev-82"}
+{"text": "haberleri aç", "label": "news", "source": "massive-tr-TR", "massive_id": "3100", "id": "tr-TR-dev-83"}
+{"text": "bu öğleden sonra güneş kremine ihtiyacım olacak mı", "label": "weather", "source": "massive-tr-TR", "massive_id": "6025", "id": "tr-TR-dev-84"}
+{"text": "reyhan'ın doğum günü partisi ne zaman ve nerede", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8338", "id": "tr-TR-dev-85"}
+{"text": "bekleyen işlerim neler", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7266", "id": "tr-TR-dev-86"}
+{"text": "lütfen tüm dış ışıkları aç", "label": "home", "source": "massive-tr-TR", "massive_id": "3464", "id": "tr-TR-dev-87"}
+{"text": "favori listemde hangi şarkılar var", "label": "lists", "source": "massive-tr-TR", "massive_id": "10932", "id": "tr-TR-dev-88"}
+{"text": "bana bir tren bileti al", "label": "transport", "source": "massive-tr-TR", "massive_id": "12157", "id": "tr-TR-dev-89"}
+{"text": "liste ne içeriyor", "label": "lists", "source": "massive-tr-TR", "massive_id": "10697", "id": "tr-TR-dev-90"}
+{"text": "jane doe'den gelen e-postaları kontrol et", "label": "email", "source": "massive-tr-TR", "massive_id": "16991", "id": "tr-TR-dev-91"}
+{"text": "öğleden sonra beş treniyle adana 'ya gitmem lazım", "label": "transport", "source": "massive-tr-TR", "massive_id": "12642", "id": "tr-TR-dev-92"}
+{"text": "cheteshwar pujara dün kaç koşu attı", "label": "news", "source": "massive-tr-TR", "massive_id": "5232", "id": "tr-TR-dev-93"}
+{"text": "yarınki tüm toplantılardan beni haberdar et", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7413", "id": "tr-TR-dev-94"}
+{"text": "cevap yaz", "label": "email", "source": "massive-tr-TR", "massive_id": "16176", "id": "tr-TR-dev-95"}
+{"text": "google takvim yirmi bir mart için etkinlik ekle", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7050", "id": "tr-TR-dev-96"}
+{"text": "şu testim ne zaman", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8088", "id": "tr-TR-dev-97"}
+{"text": "wemo fiş soketini etkinleştir", "label": "home", "source": "massive-tr-TR", "massive_id": "4847", "id": "tr-TR-dev-98"}
+{"text": "lütfen benim doğum günü partimi takvime koy", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8584", "id": "tr-TR-dev-99"}
+{"text": "bunu listeye not et", "label": "lists", "source": "massive-tr-TR", "massive_id": "10711", "id": "tr-TR-dev-100"}
+{"text": "pelinin kişi detayı", "label": "email", "source": "massive-tr-TR", "massive_id": "17111", "id": "tr-TR-dev-101"}
+{"text": "mersin'de hava durumu", "label": "weather", "source": "massive-tr-TR", "massive_id": "2223", "id": "tr-TR-dev-102"}
+{"text": "olly starbucks kahve dükkanından bir kahve sipariş et", "label": "home", "source": "massive-tr-TR", "massive_id": "1815", "id": "tr-TR-dev-103"}
+{"text": "lütfen bu hafta sonu kar olacak mı söyle bana", "label": "weather", "source": "massive-tr-TR", "massive_id": "1543", "id": "tr-TR-dev-104"}
+{"text": "sistem lütfen benim işe gidiş geliş yolumdaki tüm trafik haberlerini topla", "label": "transport", "source": "massive-tr-TR", "massive_id": "12288", "id": "tr-TR-dev-105"}
+{"text": "joe'ya cevap gönder", "label": "email", "source": "massive-tr-TR", "massive_id": "16691", "id": "tr-TR-dev-106"}
+{"text": "kahve içmek istiyorum", "label": "home", "source": "massive-tr-TR", "massive_id": "5540", "id": "tr-TR-dev-107"}
+{"text": "yeni epostalarım olup olmadığını görmek için kontrol et lütfen", "label": "email", "source": "massive-tr-TR", "massive_id": "16551", "id": "tr-TR-dev-108"}
+{"text": "lütfen o listeyi bana geri oku", "label": "lists", "source": "massive-tr-TR", "massive_id": "11013", "id": "tr-TR-dev-109"}
+{"text": "bana en yakın tren nerede", "label": "transport", "source": "massive-tr-TR", "massive_id": "12733", "id": "tr-TR-dev-110"}
+{"text": "yağmur çizmesine ihtiyacım olacak mı", "label": "weather", "source": "massive-tr-TR", "massive_id": "5586", "id": "tr-TR-dev-111"}
+{"text": "yatak odası ışıklarını kapat lütfen", "label": "home", "source": "massive-tr-TR", "massive_id": "4632", "id": "tr-TR-dev-112"}
+{"text": "cemden gelen yeni epostaları benim için kontrol et", "label": "email", "source": "massive-tr-TR", "massive_id": "17088", "id": "tr-TR-dev-113"}
+{"text": "hangi listeleri kurdum", "label": "lists", "source": "massive-tr-TR", "massive_id": "10650", "id": "tr-TR-dev-114"}
+{"text": "bu odanın ışığını kapat", "label": "home", "source": "massive-tr-TR", "massive_id": "998", "id": "tr-TR-dev-115"}
+{"text": "sebzeleri listeden çıkar", "label": "lists", "source": "massive-tr-TR", "massive_id": "11202", "id": "tr-TR-dev-116"}
+{"text": "takvimde üç temmuzu boş bırak", "label": "calendar", "source": "massive-tr-TR", "massive_id": "9040", "id": "tr-TR-dev-117"}
+{"text": "daha fazla ışık lazım", "label": "home", "source": "massive-tr-TR", "massive_id": "2402", "id": "tr-TR-dev-118"}
+{"text": "bugün güneş kremi sürmeli miyim", "label": "weather", "source": "massive-tr-TR", "massive_id": "4473", "id": "tr-TR-dev-119"}
+{"text": "listemi oku", "label": "lists", "source": "massive-tr-TR", "massive_id": "10715", "id": "tr-TR-dev-120"}
+{"text": "evden çıkarken enerji tasarrufu için kablosuz interneti kapat", "label": "home", "source": "massive-tr-TR", "massive_id": "7331", "id": "tr-TR-dev-121"}
+{"text": "ışıkları parlaklaştır", "label": "home", "source": "massive-tr-TR", "massive_id": "851", "id": "tr-TR-dev-122"}
+{"text": "çevreyle ilgili yeni herhangi bir haber var mı", "label": "news", "source": "massive-tr-TR", "massive_id": "2595", "id": "tr-TR-dev-123"}
+{"text": "bana kahve hazırlar mısın", "label": "home", "source": "massive-tr-TR", "massive_id": "2305", "id": "tr-TR-dev-124"}
+{"text": "oturma odası halısını süpür", "label": "home", "source": "massive-tr-TR", "massive_id": "4356", "id": "tr-TR-dev-125"}
+{"text": "günümü toplantılardan temizle", "label": "calendar", "source": "massive-tr-TR", "massive_id": "6734", "id": "tr-TR-dev-126"}
+{"text": "öğeyi sil", "label": "lists", "source": "massive-tr-TR", "massive_id": "10444", "id": "tr-TR-dev-127"}
+{"text": "fişi çek", "label": "home", "source": "massive-tr-TR", "massive_id": "321", "id": "tr-TR-dev-128"}
+{"text": "liste ayarla", "label": "lists", "source": "massive-tr-TR", "massive_id": "11140", "id": "tr-TR-dev-129"}
+{"text": "acilen robot süpürgemi çalıştır", "label": "home", "source": "massive-tr-TR", "massive_id": "2002", "id": "tr-TR-dev-130"}
+{"text": "bu patronum için doğru alan kodu mu", "label": "email", "source": "massive-tr-TR", "massive_id": "16582", "id": "tr-TR-dev-131"}
+{"text": "golf kulübüne giderken güneş kremi sürmeli miyim", "label": "weather", "source": "massive-tr-TR", "massive_id": "5664", "id": "tr-TR-dev-132"}
+{"text": "alınacaklar listesini kaldır", "label": "lists", "source": "massive-tr-TR", "massive_id": "10458", "id": "tr-TR-dev-133"}
+{"text": "temizliği başlat", "label": "home", "source": "massive-tr-TR", "massive_id": "4459", "id": "tr-TR-dev-134"}
+{"text": "bu hafta kar yağacak mı", "label": "weather", "source": "massive-tr-TR", "massive_id": "1466", "id": "tr-TR-dev-135"}
+{"text": "takvimimi beş aralık öğleden sonra beş otuz için şenol ve temel ile bir toplantı ile doldur", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7717", "id": "tr-TR-dev-136"}
+{"text": "kahve makinesini üçte çalıştır", "label": "home", "source": "massive-tr-TR", "massive_id": "4443", "id": "tr-TR-dev-137"}
+{"text": "takvimimdeki öğlen birdeki etkinliğimi kaldır", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8434", "id": "tr-TR-dev-138"}
+{"text": "biraz daha fazla ışık lazım", "label": "home", "source": "massive-tr-TR", "massive_id": "1805", "id": "tr-TR-dev-139"}
+{"text": "mutlu", "label": "weather", "source": "massive-tr-TR", "massive_id": "325", "id": "tr-TR-dev-140"}
+{"text": "hangileri benim yeni e-postalarım", "label": "email", "source": "massive-tr-TR", "massive_id": "15935", "id": "tr-TR-dev-141"}
+{"text": "alışveriş merkezine nasıl gidebilirim", "label": "transport", "source": "massive-tr-TR", "massive_id": "12817", "id": "tr-TR-dev-142"}
+{"text": "listede sırada ne var", "label": "lists", "source": "massive-tr-TR", "massive_id": "11243", "id": "tr-TR-dev-143"}
+{"text": "lütfen çarşamba sabah dokuzda doktor mahmut ofisinde randevusunu ekle", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8487", "id": "tr-TR-dev-144"}
+{"text": "yeni epostalarımdan bahset", "label": "email", "source": "massive-tr-TR", "massive_id": "16337", "id": "tr-TR-dev-145"}
+{"text": "oda ışığını kapat", "label": "home", "source": "massive-tr-TR", "massive_id": "5518", "id": "tr-TR-dev-146"}
+{"text": "lütfen ilk listeyi kaldır", "label": "lists", "source": "massive-tr-TR", "massive_id": "10916", "id": "tr-TR-dev-147"}
+{"text": "muratın epostasını altı otuz yanıtıyla cevapla", "label": "email", "source": "massive-tr-TR", "massive_id": "16929", "id": "tr-TR-dev-148"}
+{"text": "bu öğleden sonra güneş kremine ihtiyacım olacak mı", "label": "weather", "source": "massive-tr-TR", "massive_id": "5710", "id": "tr-TR-dev-149"}
+{"text": "yarın sabah onda aselsan ofisindeki toplantımı ekle", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7519", "id": "tr-TR-dev-150"}
+{"text": "bu sabah new york'ta sıcaklık kaç derece", "label": "weather", "source": "massive-tr-TR", "massive_id": "1254", "id": "tr-TR-dev-151"}
+{"text": "olly yarım saat sonraya bir uber çağır", "label": "transport", "source": "massive-tr-TR", "massive_id": "12496", "id": "tr-TR-dev-152"}
+{"text": "gary'den son bir saatte gelen e-postaları kontrol et", "label": "email", "source": "massive-tr-TR", "massive_id": "15923", "id": "tr-TR-dev-153"}
+{"text": "babamdan yeni epostalar var mı", "label": "email", "source": "massive-tr-TR", "massive_id": "15891", "id": "tr-TR-dev-154"}
+{"text": "haftanın hava durumu tahmini nedir", "label": "weather", "source": "massive-tr-TR", "massive_id": "100", "id": "tr-TR-dev-155"}
+{"text": "sandy'den yeni bir e-posta var mı", "label": "email", "source": "massive-tr-TR", "massive_id": "17070", "id": "tr-TR-dev-156"}
+{"text": "charles'ın e-postası nedir", "label": "email", "source": "massive-tr-TR", "massive_id": "16952", "id": "tr-TR-dev-157"}
+{"text": "salondaki ışıkları kapat", "label": "home", "source": "massive-tr-TR", "massive_id": "5202", "id": "tr-TR-dev-158"}
+{"text": "daha aydınlık", "label": "home", "source": "massive-tr-TR", "massive_id": "3595", "id": "tr-TR-dev-159"}
+{"text": "tren bileti satın al", "label": "transport", "source": "massive-tr-TR", "massive_id": "12461", "id": "tr-TR-dev-160"}
+{"text": "bugün bana iskenderun'a bir tren bileti al", "label": "transport", "source": "massive-tr-TR", "massive_id": "12834", "id": "tr-TR-dev-161"}
+{"text": "önümüzdeki yedi gün hava durumu nasıl olacak", "label": "weather", "source": "massive-tr-TR", "massive_id": "1725", "id": "tr-TR-dev-162"}
+{"text": "aydın da trafik seviyesi ne", "label": "transport", "source": "massive-tr-TR", "massive_id": "12196", "id": "tr-TR-dev-163"}
+{"text": "herhangi bir sosyal medya bildirimim varmı", "label": "calendar", "source": "massive-tr-TR", "massive_id": "15305", "id": "tr-TR-dev-164"}
+{"text": "bugün ne kadar sıcak", "label": "weather", "source": "massive-tr-TR", "massive_id": "5036", "id": "tr-TR-dev-165"}
+{"text": "bu gece yanıma bir ceket almalı mıyım", "label": "weather", "source": "massive-tr-TR", "massive_id": "4290", "id": "tr-TR-dev-166"}
+{"text": "okunmamış epostalarımı oku", "label": "email", "source": "massive-tr-TR", "massive_id": "16294", "id": "tr-TR-dev-167"}
+{"text": "yapılacaklar listesi", "label": "lists", "source": "massive-tr-TR", "massive_id": "11105", "id": "tr-TR-dev-168"}
+{"text": "önümüzdeki iki hafta boyunca her gün akşam yedide ilaçlarımı alacağımı hatırlat", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8617", "id": "tr-TR-dev-169"}
+{"text": "donald trump hakkında son haberler neler", "label": "news", "source": "massive-tr-TR", "massive_id": "5224", "id": "tr-TR-dev-170"}
+{"text": "akıllı soketi aç", "label": "home", "source": "massive-tr-TR", "massive_id": "1506", "id": "tr-TR-dev-171"}
+{"text": "hava durumu bilgisi ne", "label": "weather", "source": "massive-tr-TR", "massive_id": "700", "id": "tr-TR-dev-172"}
+{"text": "lütfen benim robot süpürgemi aç", "label": "home", "source": "massive-tr-TR", "massive_id": "4074", "id": "tr-TR-dev-173"}
+{"text": "yulia ya e-posta gönder", "label": "email", "source": "massive-tr-TR", "massive_id": "17113", "id": "tr-TR-dev-174"}
+{"text": "önceki listeyi sil", "label": "lists", "source": "massive-tr-TR", "massive_id": "10801", "id": "tr-TR-dev-175"}
+{"text": "bugün ne kadar soğuk", "label": "weather", "source": "massive-tr-TR", "massive_id": "5037", "id": "tr-TR-dev-176"}
+{"text": "uygulamalarımı kullanma", "label": "transport", "source": "massive-tr-TR", "massive_id": "12804", "id": "tr-TR-dev-177"}
+{"text": "yarın sabah on dan önce aydın için bir tren bilet i ayarla", "label": "transport", "source": "massive-tr-TR", "massive_id": "12627", "id": "tr-TR-dev-178"}
+{"text": "lütfen bu gönderenden gelen son eposta çalışmasını kontrol edin", "label": "email", "source": "massive-tr-TR", "massive_id": "16445", "id": "tr-TR-dev-179"}
+{"text": "yeni emailler hakkında haberdar et", "label": "email", "source": "massive-tr-TR", "massive_id": "16647", "id": "tr-TR-dev-180"}
+{"text": "bloomberg web sitesindeki haberler neler", "label": "news", "source": "massive-tr-TR", "massive_id": "2921", "id": "tr-TR-dev-181"}
+{"text": "kahve makinemi ayarla", "label": "home", "source": "massive-tr-TR", "massive_id": "3568", "id": "tr-TR-dev-182"}
+{"text": "kaliforniya'da şu an hava nasıl", "label": "weather", "source": "massive-tr-TR", "massive_id": "655", "id": "tr-TR-dev-183"}
+{"text": "deryadan yeni epostalarım var mı", "label": "email", "source": "massive-tr-TR", "massive_id": "17178", "id": "tr-TR-dev-184"}
+{"text": "ışıkları açabilir misin", "label": "home", "source": "massive-tr-TR", "massive_id": "1993", "id": "tr-TR-dev-185"}
+{"text": "yapılacaklar listemi bitirdim", "label": "lists", "source": "massive-tr-TR", "massive_id": "6204", "id": "tr-TR-dev-186"}
+{"text": "zeynep kurada için yeni bir e-posta başlat", "label": "email", "source": "massive-tr-TR", "massive_id": "16087", "id": "tr-TR-dev-187"}
+{"text": "lütfen hasan için yeni mail yükle ve şimdi mesaj gönder", "label": "email", "source": "massive-tr-TR", "massive_id": "16201", "id": "tr-TR-dev-188"}
+{"text": "kahve makinesini başlat", "label": "home", "source": "massive-tr-TR", "massive_id": "2749", "id": "tr-TR-dev-189"}
+{"text": "oğulcan'dan herhangi bir yeni e-posta aldım mı", "label": "email", "source": "massive-tr-TR", "massive_id": "16662", "id": "tr-TR-dev-190"}
+{"text": "las vegas a tren ile bir yolculuk organize et", "label": "transport", "source": "massive-tr-TR", "massive_id": "12130", "id": "tr-TR-dev-191"}
+{"text": "ışıkları daha fazla parlaklaştır lütfen", "label": "home", "source": "massive-tr-TR", "massive_id": "1561", "id": "tr-TR-dev-192"}
+{"text": "tren biletinin ücretini öde", "label": "transport", "source": "massive-tr-TR", "massive_id": "12472", "id": "tr-TR-dev-193"}
+{"text": "bugün için hatırlatmalarım var mı", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8149", "id": "tr-TR-dev-194"}
+{"text": "lütfen o etkinliği iptal et", "label": "calendar", "source": "massive-tr-TR", "massive_id": "9074", "id": "tr-TR-dev-195"}
+{"text": "çok parlak", "label": "home", "source": "massive-tr-TR", "massive_id": "3701", "id": "tr-TR-dev-196"}
+{"text": "perşembe günü öğleden sonra ikide bir editörler toplantısı için hatırlatma istiyorum", "label": "calendar", "source": "massive-tr-TR", "massive_id": "9085", "id": "tr-TR-dev-197"}
+{"text": "bir sonraki aktivitemi temizle", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8853", "id": "tr-TR-dev-198"}
+{"text": "planımı değiştir sonraki etkinliğimi sil", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8009", "id": "tr-TR-dev-199"}
+{"text": "wemo prizi kapat lütfen", "label": "home", "source": "massive-tr-TR", "massive_id": "4964", "id": "tr-TR-dev-200"}
+{"text": "mehmet biçer ile pazartesi için öğleden sonra ikide bir toplantı ayarla", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8809", "id": "tr-TR-dev-201"}
+{"text": "on günlük hava tahmini", "label": "weather", "source": "massive-tr-TR", "massive_id": "4823", "id": "tr-TR-dev-202"}
+{"text": "ışıkları kapat", "label": "home", "source": "massive-tr-TR", "massive_id": "5761", "id": "tr-TR-dev-203"}
+{"text": "cuma günü bir randevum var mı", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8072", "id": "tr-TR-dev-204"}
+{"text": "bugün güneşli bir gün mü değil mi", "label": "weather", "source": "massive-tr-TR", "massive_id": "1969", "id": "tr-TR-dev-205"}
+{"text": "olly bana kahve yap", "label": "home", "source": "massive-tr-TR", "massive_id": "163", "id": "tr-TR-dev-206"}
+{"text": "şu an gaziantep güneşli mi", "label": "weather", "source": "massive-tr-TR", "massive_id": "375", "id": "tr-TR-dev-207"}
+{"text": "takvimimden ali kaya ile olan randevuyu kaldır", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7294", "id": "tr-TR-dev-208"}
+{"text": "hatırlatıcılarımı aç", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7802", "id": "tr-TR-dev-209"}
+{"text": "ışıkları aç lütfen", "label": "home", "source": "massive-tr-TR", "massive_id": "1089", "id": "tr-TR-dev-210"}
+{"text": "anneme bir e-posta gönder", "label": "email", "source": "massive-tr-TR", "massive_id": "16313", "id": "tr-TR-dev-211"}
+{"text": "lütfen bana on üç temmuzdaki doktor randevumu hatırlat", "label": "calendar", "source": "massive-tr-TR", "massive_id": "6989", "id": "tr-TR-dev-212"}
+{"text": "osi aliye bir eposta gönder", "label": "email", "source": "massive-tr-TR", "massive_id": "16012", "id": "tr-TR-dev-213"}
+{"text": "toplantı öncesi bir uyarı gönder", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7981", "id": "tr-TR-dev-214"}
+{"text": "haftalık hava raporu", "label": "weather", "source": "massive-tr-TR", "massive_id": "2917", "id": "tr-TR-dev-215"}
+{"text": "alışveriş listesini sil", "label": "lists", "source": "massive-tr-TR", "massive_id": "10432", "id": "tr-TR-dev-216"}
+{"text": "ali ile yarın yapacağım toplantı öğleden sonra üçte mi", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8401", "id": "tr-TR-dev-217"}
+{"text": "her zaman dikkat ederim", "label": "weather", "source": "massive-tr-TR", "massive_id": "1399", "id": "tr-TR-dev-218"}
+{"text": "ahmet çnin yaşı kaç", "label": "email", "source": "massive-tr-TR", "massive_id": "16217", "id": "tr-TR-dev-219"}
+{"text": "bir sonraki toplantımdan önce bana bir gün önceden haber ver", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8187", "id": "tr-TR-dev-220"}
+{"text": "bana bir sonraki cuma günü beşiktaşın hokey maçından bahset", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7615", "id": "tr-TR-dev-221"}
+{"text": "kişiler lütfen", "label": "email", "source": "massive-tr-TR", "massive_id": "17090", "id": "tr-TR-dev-222"}
+{"text": "bana en son e-postaları göster", "label": "email", "source": "massive-tr-TR", "massive_id": "16339", "id": "tr-TR-dev-223"}
+{"text": "nurcan'a e-posta ile mesaj gönderebilir misin", "label": "email", "source": "massive-tr-TR", "massive_id": "16972", "id": "tr-TR-dev-224"}
+{"text": "bana yakın tarihli tüm e-postaları ver", "label": "email", "source": "massive-tr-TR", "massive_id": "17034", "id": "tr-TR-dev-225"}
+{"text": "şehir merkezine en hızlı rota hangisi", "label": "transport", "source": "massive-tr-TR", "massive_id": "12516", "id": "tr-TR-dev-226"}
+{"text": "şimdi yağmurluğumu yanıma alayım mı", "label": "weather", "source": "massive-tr-TR", "massive_id": "5661", "id": "tr-TR-dev-227"}
+{"text": "adana için bugünkü hava nasıl", "label": "weather", "source": "massive-tr-TR", "massive_id": "279", "id": "tr-TR-dev-228"}
+{"text": "beklemedeki hatırlatmalarım neler", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8647", "id": "tr-TR-dev-229"}
+{"text": "bu haftanın hatırlatıcıları neler", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7846", "id": "tr-TR-dev-230"}
+{"text": "beni son arayan kişi kim", "label": "email", "source": "massive-tr-TR", "massive_id": "16589", "id": "tr-TR-dev-231"}
+{"text": "bana aslı börek çankaya dan eve yol tarifi verir misin", "label": "transport", "source": "massive-tr-TR", "massive_id": "12650", "id": "tr-TR-dev-232"}
+{"text": "ışıklara bağlan", "label": "home", "source": "massive-tr-TR", "massive_id": "4369", "id": "tr-TR-dev-233"}
+{"text": "son on dakikadaki epostalar", "label": "email", "source": "massive-tr-TR", "massive_id": "16763", "id": "tr-TR-dev-234"}
+{"text": "kişiyi seç", "label": "email", "source": "massive-tr-TR", "massive_id": "16106", "id": "tr-TR-dev-235"}
+{"text": "bu hafta hava nasıl olacak", "label": "weather", "source": "massive-tr-TR", "massive_id": "4485", "id": "tr-TR-dev-236"}
+{"text": "bana yaklaşan milli bayramları hatırlat", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8451", "id": "tr-TR-dev-237"}
+{"text": "sonraki takvim etkinliğini sil", "label": "calendar", "source": "massive-tr-TR", "massive_id": "9129", "id": "tr-TR-dev-238"}
+{"text": "takvimimi güncellemek istiyorum", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8086", "id": "tr-TR-dev-239"}
+{"text": "akıllı prizi aç", "label": "home", "source": "massive-tr-TR", "massive_id": "3804", "id": "tr-TR-dev-240"}
+{"text": "lütfen iş arkadaşıma yeni bir eposta oluştur", "label": "email", "source": "massive-tr-TR", "massive_id": "16029", "id": "tr-TR-dev-241"}
+{"text": "dünyada neler oluyor", "label": "news", "source": "massive-tr-TR", "massive_id": "293", "id": "tr-TR-dev-242"}
+{"text": "gelen kutusunu aç", "label": "email", "source": "massive-tr-TR", "massive_id": "16844", "id": "tr-TR-dev-243"}
+{"text": "bu sabaha bir toplantı ayarla", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7550", "id": "tr-TR-dev-244"}
+{"text": "bu hafta hava nasıl olacak", "label": "weather", "source": "massive-tr-TR", "massive_id": "2064", "id": "tr-TR-dev-245"}
+{"text": "kızıma email gönder", "label": "email", "source": "massive-tr-TR", "massive_id": "16604", "id": "tr-TR-dev-246"}
+{"text": "bugün new york treni gecikecek mi", "label": "transport", "source": "massive-tr-TR", "massive_id": "12909", "id": "tr-TR-dev-247"}
+{"text": "mutfak ışığını benim için kapatır mısın", "label": "home", "source": "massive-tr-TR", "massive_id": "2244", "id": "tr-TR-dev-248"}
+{"text": "lütfen bana sahip olduğum listeyi göster", "label": "lists", "source": "massive-tr-TR", "massive_id": "10805", "id": "tr-TR-dev-249"}
+{"text": "lütfen sonraki taksiyi ayarla", "label": "transport", "source": "massive-tr-TR", "massive_id": "12904", "id": "tr-TR-dev-250"}
+{"text": "şikago'da hava nasıl", "label": "weather", "source": "massive-tr-TR", "massive_id": "4687", "id": "tr-TR-dev-251"}
+{"text": "yarın şemsiye getireyim mi", "label": "weather", "source": "massive-tr-TR", "massive_id": "219", "id": "tr-TR-dev-252"}
+{"text": "büyükanneme cumartesi günü uğrayacağız diye bir eposta gönder o zaman görüşürüz", "label": "email", "source": "massive-tr-TR", "massive_id": "16944", "id": "tr-TR-dev-253"}
+{"text": "buradaki ışıkları daha yükselt lütfen", "label": "home", "source": "massive-tr-TR", "massive_id": "4573", "id": "tr-TR-dev-254"}
+{"text": "fatura ile ilgili bilgilerimde dosyada hangi bilgiler var", "label": "email", "source": "massive-tr-TR", "massive_id": "16254", "id": "tr-TR-dev-255"}
+{"text": "vakit geçmeden altı ay içinde görüşmediğim eski arkadaşlarımla iletişime geçmemi hatırlat", "label": "calendar", "source": "massive-tr-TR", "massive_id": "13178", "id": "tr-TR-dev-256"}
+{"text": "bu etkinliği takvimimin bildiriminden kaldır", "label": "calendar", "source": "massive-tr-TR", "massive_id": "9195", "id": "tr-TR-dev-257"}
+{"text": "olly acı ve tatlı soya zeminli", "label": "home", "source": "massive-tr-TR", "massive_id": "5814", "id": "tr-TR-dev-258"}
+{"text": "öğleden sonra üçte yeni hatırlatıcı", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8775", "id": "tr-TR-dev-259"}
+{"text": "favori kişiler listeme şirin özden'i ekle", "label": "email", "source": "massive-tr-TR", "massive_id": "15976", "id": "tr-TR-dev-260"}
+{"text": "bugün kaç derece", "label": "weather", "source": "massive-tr-TR", "massive_id": "13441", "id": "tr-TR-dev-261"}
+{"text": "günlükte başka ne eksik", "label": "lists", "source": "massive-tr-TR", "massive_id": "10426", "id": "tr-TR-dev-262"}
+{"text": "önümüzdeki perşembe günü için hangi toplantılarım var", "label": "calendar", "source": "massive-tr-TR", "massive_id": "9141", "id": "tr-TR-dev-263"}
+{"text": "listede benim herhangi bir şeyim var mı", "label": "lists", "source": "massive-tr-TR", "massive_id": "10474", "id": "tr-TR-dev-264"}
+{"text": "bugün saat iki dört arasında hangi olaylar oluyor", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7320", "id": "tr-TR-dev-265"}
+{"text": "peter'dan gelen e-postayı yanıtla", "label": "email", "source": "massive-tr-TR", "massive_id": "17067", "id": "tr-TR-dev-266"}
+{"text": "üsküdar ist için tren saatleri var mı", "label": "transport", "source": "massive-tr-TR", "massive_id": "12623", "id": "tr-TR-dev-267"}
+{"text": "kişilerdeki listelerin başlıkları nelerdir", "label": "lists", "source": "massive-tr-TR", "massive_id": "10955", "id": "tr-TR-dev-268"}
+{"text": "çalışma ekibine bu haftanın programını e-postayla at", "label": "email", "source": "massive-tr-TR", "massive_id": "16117", "id": "tr-TR-dev-269"}
+{"text": "daha loş ışıklar istiyorum", "label": "home", "source": "massive-tr-TR", "massive_id": "964", "id": "tr-TR-dev-270"}
+{"text": "olly bu gece dokuzda jazz barda çok güzel bir müzik grubu çalıyor gitmek istiyorum", "label": "calendar", "source": "massive-tr-TR", "massive_id": "6819", "id": "tr-TR-dev-271"}
+{"text": "cerene daha sonra çalışmak ile ilgili bir eposta taslağı hazırla", "label": "email", "source": "massive-tr-TR", "massive_id": "16618", "id": "tr-TR-dev-272"}
+{"text": "ev için bir araç lazım bana", "label": "transport", "source": "massive-tr-TR", "massive_id": "12548", "id": "tr-TR-dev-273"}
+{"text": "bugün hangi randevularım var", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8915", "id": "tr-TR-dev-274"}
+{"text": "hiç yeni e-posta var mı", "label": "email", "source": "massive-tr-TR", "massive_id": "17006", "id": "tr-TR-dev-275"}
+{"text": "baran dan otlakçı hakkında epostaları bul", "label": "email", "source": "massive-tr-TR", "massive_id": "16389", "id": "tr-TR-dev-276"}
+{"text": "bana kaç tane listem olduğunu hatırlat", "label": "lists", "source": "massive-tr-TR", "massive_id": "10957", "id": "tr-TR-dev-277"}
+{"text": "liste hazırla", "label": "lists", "source": "massive-tr-TR", "massive_id": "10489", "id": "tr-TR-dev-278"}
+{"text": "bu yıl cadılar bayramı cuma günümü", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8710", "id": "tr-TR-dev-279"}
+{"text": "liste me yeni email kişisi ekle", "label": "email", "source": "massive-tr-TR", "massive_id": "16909", "id": "tr-TR-dev-280"}
+{"text": "bugün bana sirkeci'ye bir tren bileti ayırt", "label": "transport", "source": "massive-tr-TR", "massive_id": "12172", "id": "tr-TR-dev-281"}
+{"text": "koridora nasıl ulaşılır", "label": "email", "source": "massive-tr-TR", "massive_id": "16870", "id": "tr-TR-dev-282"}
+{"text": "alışveriş listesini kaldır", "label": "lists", "source": "massive-tr-TR", "massive_id": "11023", "id": "tr-TR-dev-283"}
+{"text": "lütfen fatih'in doğum gününü takvimden temizle", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8275", "id": "tr-TR-dev-284"}
+{"text": "ışıkları kısar mısın", "label": "home", "source": "massive-tr-TR", "massive_id": "665", "id": "tr-TR-dev-285"}
+{"text": "anlık trafik", "label": "transport", "source": "massive-tr-TR", "massive_id": "12665", "id": "tr-TR-dev-286"}
+{"text": "robot süpürgeye evi temizlet", "label": "home", "source": "massive-tr-TR", "massive_id": "2054", "id": "tr-TR-dev-287"}
+{"text": "cuma günü için takvimime yoga ekler misin", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7775", "id": "tr-TR-dev-288"}
+{"text": "bir kahve istiyorum lütfen", "label": "home", "source": "massive-tr-TR", "massive_id": "3678", "id": "tr-TR-dev-289"}
+{"text": "cuma günü öğleden sonra altı için bir hatırlatma yap lütfen", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8318", "id": "tr-TR-dev-290"}
+{"text": "emilia'nın iş telefonu numarası kaç", "label": "email", "source": "massive-tr-TR", "massive_id": "15815", "id": "tr-TR-dev-291"}
+{"text": "orçunun telefon numarası ne", "label": "email", "source": "massive-tr-TR", "massive_id": "15901", "id": "tr-TR-dev-292"}
+{"text": "olly listeyi temizle", "label": "lists", "source": "massive-tr-TR", "massive_id": "10824", "id": "tr-TR-dev-293"}
+{"text": "bugün kat kat mı giyinmeliyim", "label": "weather", "source": "massive-tr-TR", "massive_id": "4483", "id": "tr-TR-dev-294"}
+{"text": "bu hafta hangi gün yağmurlu olacak", "label": "weather", "source": "massive-tr-TR", "massive_id": "3588", "id": "tr-TR-dev-295"}
+{"text": "koridor daki ışıkları daha da aydınlat", "label": "home", "source": "massive-tr-TR", "massive_id": "1071", "id": "tr-TR-dev-296"}
+{"text": "taksi ayırt", "label": "transport", "source": "massive-tr-TR", "massive_id": "12322", "id": "tr-TR-dev-297"}
+{"text": "bu etkinlik tarihi doğrumu", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8784", "id": "tr-TR-dev-298"}
+{"text": "bana film programını verebilir misin", "label": "calendar", "source": "massive-tr-TR", "massive_id": "6892", "id": "tr-TR-dev-299"}
+{"text": "çarşamba için bir doğum günü etkinliği ayarla", "label": "calendar", "source": "massive-tr-TR", "massive_id": "9006", "id": "tr-TR-dev-300"}
+{"text": "burada görmek zor ışığın parlaklığını arttır", "label": "home", "source": "massive-tr-TR", "massive_id": "6053", "id": "tr-TR-dev-301"}
+{"text": "silmek istediğiniz listeyi bulun", "label": "lists", "source": "massive-tr-TR", "massive_id": "11095", "id": "tr-TR-dev-302"}
+{"text": "soğuk mu olacak", "label": "weather", "source": "massive-tr-TR", "massive_id": "4905", "id": "tr-TR-dev-303"}
+{"text": "takvimimde yaklaşan etkinlikler var mı", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7016", "id": "tr-TR-dev-304"}
+{"text": "tren biletleri ayırt", "label": "transport", "source": "massive-tr-TR", "massive_id": "12140", "id": "tr-TR-dev-305"}
+{"text": "banyomdaki ışıklardan birini kapatabilir misin", "label": "home", "source": "massive-tr-TR", "massive_id": "3093", "id": "tr-TR-dev-306"}
+{"text": "lütfen istanbul için bugünkü hava tahminini ver", "label": "weather", "source": "massive-tr-TR", "massive_id": "2423", "id": "tr-TR-dev-307"}
+{"text": "soketi kapat", "label": "home", "source": "massive-tr-TR", "massive_id": "5394", "id": "tr-TR-dev-308"}
+{"text": "jeff sessions hakkında bana bir haber makalesi oku", "label": "news", "source": "massive-tr-TR", "massive_id": "3129", "id": "tr-TR-dev-309"}
+{"text": "biraz daha parlak teşekkürler", "label": "home", "source": "massive-tr-TR", "massive_id": "2130", "id": "tr-TR-dev-310"}
+{"text": "bu cumartesi cenkin evindeki havuz partisi için takvimimde bir etkinlik ayarla", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8594", "id": "tr-TR-dev-311"}
+{"text": "bu yıl doğum günüm haftanın hangi günü", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7187", "id": "tr-TR-dev-312"}
+{"text": "mart takvimimdeki etkinlikler listelenmeli", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7359", "id": "tr-TR-dev-313"}
+{"text": "bana kahve yap", "label": "home", "source": "massive-tr-TR", "massive_id": "1619", "id": "tr-TR-dev-314"}
+{"text": "bu konudaki gerçekleri kontrol edebilir misin", "label": "calendar", "source": "massive-tr-TR", "massive_id": "6967", "id": "tr-TR-dev-315"}
+{"text": "eve gitmek için bana bir uber yolculuğu ayarla", "label": "transport", "source": "massive-tr-TR", "massive_id": "12755", "id": "tr-TR-dev-316"}
+{"text": "migros listesine ne koydum", "label": "lists", "source": "massive-tr-TR", "massive_id": "10753", "id": "tr-TR-dev-317"}
+{"text": "ışıkları öğleden sonra üçte maviye çevir", "label": "home", "source": "massive-tr-TR", "massive_id": "898", "id": "tr-TR-dev-318"}
+{"text": "burası çok pis biraz gürültü yap", "label": "home", "source": "massive-tr-TR", "massive_id": "27", "id": "tr-TR-dev-319"}
+{"text": "benim için aydın a tren bul", "label": "transport", "source": "massive-tr-TR", "massive_id": "12434", "id": "tr-TR-dev-320"}
+{"text": "android", "label": "lists", "source": "massive-tr-TR", "massive_id": "10571", "id": "tr-TR-dev-321"}
+{"text": "ışıkları kapat", "label": "home", "source": "massive-tr-TR", "massive_id": "5431", "id": "tr-TR-dev-322"}
+{"text": "ışıkları biraz daha aç", "label": "home", "source": "massive-tr-TR", "massive_id": "3808", "id": "tr-TR-dev-323"}
+{"text": "bu hafta yağmur yağacak mı", "label": "weather", "source": "massive-tr-TR", "massive_id": "3857", "id": "tr-TR-dev-324"}
+{"text": "bu perşembe takvime toplantı ekle", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7045", "id": "tr-TR-dev-325"}
+{"text": "bütün evdeki ışıkları turuncu yap", "label": "home", "source": "massive-tr-TR", "massive_id": "1643", "id": "tr-TR-dev-326"}
+{"text": "freds e-postalarını oku", "label": "email", "source": "massive-tr-TR", "massive_id": "16696", "id": "tr-TR-dev-327"}
+{"text": "yarın saat altıda wrigley'de antrenmanım var", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7860", "id": "tr-TR-dev-328"}
+{"text": "elektrik süpürgesini aç", "label": "home", "source": "massive-tr-TR", "massive_id": "5571", "id": "tr-TR-dev-329"}
+{"text": "lütfen alınan son yirmi epostanın konu satırlarını listele", "label": "email", "source": "massive-tr-TR", "massive_id": "16793", "id": "tr-TR-dev-330"}
+{"text": "bolu'da kar yağıyor mu", "label": "weather", "source": "massive-tr-TR", "massive_id": "336", "id": "tr-TR-dev-331"}
+{"text": "olly salı günü çöpleri atmayı hatırlatabilir misin", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7210", "id": "tr-TR-dev-332"}
+{"text": "garaj ışığını kapat", "label": "home", "source": "massive-tr-TR", "massive_id": "1974", "id": "tr-TR-dev-333"}
+{"text": "erdoğan ile ilgili haberlere bak", "label": "news", "source": "massive-tr-TR", "massive_id": "4607", "id": "tr-TR-dev-334"}
+{"text": "bu göndericiden e-postalarım var mı", "label": "email", "source": "massive-tr-TR", "massive_id": "16914", "id": "tr-TR-dev-335"}
+{"text": "şu anda izmir de hava nasıl söyle lütfen", "label": "weather", "source": "massive-tr-TR", "massive_id": "2265", "id": "tr-TR-dev-336"}
+{"text": "eşime gelecek hafta hava durumu hakkında bir eposta yaz", "label": "email", "source": "massive-tr-TR", "massive_id": "16259", "id": "tr-TR-dev-337"}
+{"text": "hey siri takvimimde sırada ne varsa iptal et", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8380", "id": "tr-TR-dev-338"}
+{"text": "takvimimden bütün etkinlikleri kaldır", "label": "calendar", "source": "massive-tr-TR", "massive_id": "6899", "id": "tr-TR-dev-339"}
+{"text": "patronuma eposta yaz ve gönder", "label": "email", "source": "massive-tr-TR", "massive_id": "16605", "id": "tr-TR-dev-340"}
+{"text": "toplantı lütfen hatırlatmayı ayarla", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8392", "id": "tr-TR-dev-341"}
+{"text": "bana gelecek pazartesi akşam yedide toplantı zamanını hatırlat", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8301", "id": "tr-TR-dev-342"}
+{"text": "kontrast yap", "label": "home", "source": "massive-tr-TR", "massive_id": "2262", "id": "tr-TR-dev-343"}
+{"text": "yarın için tüm randevuları iptal etmek için asistanım seline bir eposta gönder", "label": "email", "source": "massive-tr-TR", "massive_id": "16282", "id": "tr-TR-dev-344"}
+{"text": "bugün öğleden sonra paltoya ihtiyacım olacak mı", "label": "weather", "source": "massive-tr-TR", "massive_id": "5429", "id": "tr-TR-dev-345"}
+{"text": "dışarısı soğuk", "label": "weather", "source": "massive-tr-TR", "massive_id": "5787", "id": "tr-TR-dev-346"}
+{"text": "bugün öğleden sonra üç ile dört arasında herhangi bir programım var mı", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7900", "id": "tr-TR-dev-347"}
+{"text": "bu hafta hiçbir şey yapmıyorum", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8232", "id": "tr-TR-dev-348"}
+{"text": "bugün takvimimde ne var", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8469", "id": "tr-TR-dev-349"}
+{"text": "gelen kutumun durumu", "label": "email", "source": "massive-tr-TR", "massive_id": "17049", "id": "tr-TR-dev-350"}
+{"text": "benim yarınki toplantımı takvimimden sil", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7087", "id": "tr-TR-dev-351"}
+{"text": "aydın istikameti için tren kaçta alkıyor", "label": "transport", "source": "massive-tr-TR", "massive_id": "12484", "id": "tr-TR-dev-352"}
+{"text": "bu gece pencereyi açık bırakmam gerekir mi", "label": "weather", "source": "massive-tr-TR", "massive_id": "6094", "id": "tr-TR-dev-353"}
+{"text": "yeni epostaları kontrol et google", "label": "email", "source": "massive-tr-TR", "massive_id": "16587", "id": "tr-TR-dev-354"}
+{"text": "ryan'dan gelen hiç yeni e-posta var mı", "label": "email", "source": "massive-tr-TR", "massive_id": "16731", "id": "tr-TR-dev-355"}
+{"text": "yumurtaları listeden çıkar", "label": "lists", "source": "massive-tr-TR", "massive_id": "10431", "id": "tr-TR-dev-356"}
+{"text": "takvimimde hangi etkinlikler var", "label": "calendar", "source": "massive-tr-TR", "massive_id": "6790", "id": "tr-TR-dev-357"}
+{"text": "şehirde trafik nasıl", "label": "transport", "source": "massive-tr-TR", "massive_id": "12672", "id": "tr-TR-dev-358"}
+{"text": "bu hafta pazartesi hava nasıl olacak", "label": "weather", "source": "massive-tr-TR", "massive_id": "1259", "id": "tr-TR-dev-359"}
+{"text": "masayı eşyalardan çıkar", "label": "lists", "source": "massive-tr-TR", "massive_id": "10495", "id": "tr-TR-dev-360"}
+{"text": "istanbul'a bir tren bileti ayırt", "label": "transport", "source": "massive-tr-TR", "massive_id": "12819", "id": "tr-TR-dev-361"}
+{"text": "ışığı kapat", "label": "home", "source": "massive-tr-TR", "massive_id": "1945", "id": "tr-TR-dev-362"}
+{"text": "doktor ahmet ile bir sonraki randevum ne zaman", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7185", "id": "tr-TR-dev-363"}
+{"text": "ışıklar ı yüksek ayarlar da aç abilir misin", "label": "home", "source": "massive-tr-TR", "massive_id": "3428", "id": "tr-TR-dev-364"}
+{"text": "hey olly bana en yakın trene ne zaman yetişebilirim", "label": "transport", "source": "massive-tr-TR", "massive_id": "12922", "id": "tr-TR-dev-365"}
+{"text": "google takvim aç ve beş mayıs için etkinlik ekle lütfen", "label": "calendar", "source": "massive-tr-TR", "massive_id": "7048", "id": "tr-TR-dev-366"}
+{"text": "yatak odası ışıklarını kapat", "label": "home", "source": "massive-tr-TR", "massive_id": "2121", "id": "tr-TR-dev-367"}
+{"text": "john'dan hiç bir mesaj alabildim mi", "label": "email", "source": "massive-tr-TR", "massive_id": "16985", "id": "tr-TR-dev-368"}
+{"text": "hava güneşli mi", "label": "weather", "source": "massive-tr-TR", "massive_id": "4505", "id": "tr-TR-dev-369"}
+{"text": "gülhana cevap ver ve yarın boş olacağımı söyle", "label": "email", "source": "massive-tr-TR", "massive_id": "16059", "id": "tr-TR-dev-370"}
+{"text": "cumartesi sabah yediye sinema saati adlı tekrarlayan bir etkinlik ekle", "label": "calendar", "source": "massive-tr-TR", "massive_id": "6826", "id": "tr-TR-dev-371"}
+{"text": "benim için damlaya bir eposta yazar mısın", "label": "email", "source": "massive-tr-TR", "massive_id": "16534", "id": "tr-TR-dev-372"}
+{"text": "tüm bekleyen hatırlatmaları gözden geçirelim", "label": "calendar", "source": "massive-tr-TR", "massive_id": "8498", "id": "tr-TR-dev-373"}
+{"text": "lütfen salı günü için hava durumuna bak", "label": "weather", "source": "massive-tr-TR", "massive_id": "5377", "id": "tr-TR-dev-374"}
+{"text": "lütfen ışık modunu değiştirir misin", "label": "home", "source": "massive-tr-TR", "massive_id": "1236", "id": "tr-TR-dev-375"}
+{"text": "ışıkları yüzde yirmi azaltabilir misin", "label": "home", "source": "massive-tr-TR", "massive_id": "1075", "id": "tr-TR-dev-376"}
+{"text": "lütfen bana havayı söyle", "label": "weather", "source": "massive-tr-TR", "massive_id": "3012", "id": "tr-TR-dev-377"}
+{"text": "bugün sıcaklık ne olacak", "label": "weather", "source": "massive-tr-TR", "massive_id": "4602", "id": "tr-TR-dev-378"}
