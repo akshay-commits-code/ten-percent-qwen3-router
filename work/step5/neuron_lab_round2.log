@@ -1,0 +1,11 @@
+{"dev_acc0": 30.62, "en_acc0": 94.75, "n_guard": 256, "by_label0": {"recipe": 0.0, "music": 61.25}}
+lam5.0_c0.0_q0.5/real/K128 {"guard_changed": 7, "dev_acc": 35.62, "recipe": 0.0, "music": 71.2, "en_acc": 94.75, "en_same": 399, "en_n": 400}
+lam5.0_c0.0_q0.5/real/K256 {"guard_changed": 7, "dev_acc": 38.12, "recipe": 0.0, "music": 76.2, "en_acc": 94.75, "en_same": 398, "en_n": 400}
+lam5.0_c0.0_q0.5/real/K512 {"guard_changed": 12, "dev_acc": 41.88, "recipe": 0.0, "music": 83.8, "en_acc": 95.0, "en_same": 395, "en_n": 400}
+lam5.0_c0.0_q0.5/real/K1024 {"guard_changed": 14, "dev_acc": 43.75, "recipe": 0.0, "music": 87.5, "en_acc": 94.25, "en_same": 395, "en_n": 400}
+lam5.0_c0.0_q0.5/real/K2048 {"guard_changed": 20, "dev_acc": 47.5, "recipe": 3.8, "music": 91.2, "en_acc": 93.5, "en_same": 390, "en_n": 400}
+lam5.0_c0.0_q0.5/shuf0/K128 {"guard_changed": 5, "dev_acc": 34.38, "recipe": 0.0, "music": 68.8, "en_acc": 95.0, "en_same": 398, "en_n": 400}
+lam5.0_c0.0_q0.5/shuf0/K256 {"guard_changed": 9, "dev_acc": 36.88, "recipe": 0.0, "music": 73.8, "en_acc": 94.75, "en_same": 399, "en_n": 400}
+lam5.0_c0.0_q0.5/shuf0/K512 {"guard_changed": 10, "dev_acc": 38.75, "recipe": 0.0, "music": 77.5, "en_acc": 94.5, "en_same": 398, "en_n": 400}
+lam5.0_c0.0_q0.5/shuf0/K1024 {"guard_changed": 14, "dev_acc": 41.88, "recipe": 0.0, "music": 83.8, "en_acc": 94.75, "en_same": 396, "en_n": 400}
+lam5.0_c0.0_q0.5/shuf0/K2048 {"guard_changed": 20, "dev_acc": 45.0, "recipe": 0.0, "music": 90.0, "en_acc": 94.25, "en_same": 391, "en_n": 400}

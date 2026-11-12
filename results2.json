@@ -1,0 +1,3006 @@
+{
+ "run": {
+  "started": "2026-11-12T16:38:12Z",
+  "finished": "2026-11-12T17:21:48Z",
+  "locale": "hi-IN",
+  "rehearsal_on_dev_files": false,
+  "gpu": "NVIDIA H100 80GB HBM3"
+ },
+ "size": {
+  "base_fp16_bytes": 61064245248,
+  "limit_bytes": 6106424524,
+  "artifact_bytes": 6039657231,
+  "pct": 9.8907,
+  "after_real_feedback_bytes": 6105631828,
+  "after_real_feedback_pct": 9.9987,
+  "after_controls_bytes": {
+   "empty": 6039657231,
+   "shuffled1": 6039657231,
+   "shuffled2": 6039657231,
+   "shuffled3": 6039657231,
+   "shuffled4": 6039657231,
+   "shuffled5": 6039657231,
+   "shuffled6": 6039657231
+  }
+ },
+ "teach_items": 379,
+ "teach_per_label": {
+  "calendar": 80,
+  "home": 80,
+  "news": 9,
+  "weather": 54,
+  "lists": 36,
+  "transport": 40,
+  "email": 80
+ },
+ "teach": {
+  "base": {
+   "overall": [
+    94.99,
+    379
+   ],
+   "label=calendar": [
+    91.25,
+    80
+   ],
+   "label=email": [
+    95.0,
+    80
+   ],
+   "label=home": [
+    97.5,
+    80
+   ],
+   "label=lists": [
+    97.22,
+    36
+   ],
+   "label=news": [
+    88.89,
+    9
+   ],
+   "label=transport": [
+    92.5,
+    40
+   ],
+   "label=weather": [
+    98.15,
+    54
+   ],
+   "source=massive-hi-IN": [
+    94.99,
+    379
+   ]
+  },
+  "small_before_feedback": {
+   "overall": [
+    54.35,
+    379
+   ],
+   "label=calendar": [
+    50.0,
+    80
+   ],
+   "label=email": [
+    78.75,
+    80
+   ],
+   "label=home": [
+    26.25,
+    80
+   ],
+   "label=lists": [
+    44.44,
+    36
+   ],
+   "label=news": [
+    0.0,
+    9
+   ],
+   "label=transport": [
+    42.5,
+    40
+   ],
+   "label=weather": [
+    90.74,
+    54
+   ],
+   "source=massive-hi-IN": [
+    54.35,
+    379
+   ]
+  },
+  "real_feedback": {
+   "overall": [
+    90.77,
+    379
+   ],
+   "label=calendar": [
+    86.25,
+    80
+   ],
+   "label=email": [
+    90.0,
+    80
+   ],
+   "label=home": [
+    91.25,
+    80
+   ],
+   "label=lists": [
+    97.22,
+    36
+   ],
+   "label=news": [
+    66.67,
+    9
+   ],
+   "label=transport": [
+    92.5,
+    40
+   ],
+   "label=weather": [
+    96.3,
+    54
+   ],
+   "source=massive-hi-IN": [
+    90.77,
+    379
+   ]
+  },
+  "empty_feedback": {
+   "overall": [
+    54.35,
+    379
+   ],
+   "label=calendar": [
+    50.0,
+    80
+   ],
+   "label=email": [
+    78.75,
+    80
+   ],
+   "label=home": [
+    26.25,
+    80
+   ],
+   "label=lists": [
+    44.44,
+    36
+   ],
+   "label=news": [
+    0.0,
+    9
+   ],
+   "label=transport": [
+    42.5,
+    40
+   ],
+   "label=weather": [
+    90.74,
+    54
+   ],
+   "source=massive-hi-IN": [
+    54.35,
+    379
+   ]
+  },
+  "shuffled_labels_seed1": {
+   "overall": [
+    54.35,
+    379
+   ],
+   "label=calendar": [
+    50.0,
+    80
+   ],
+   "label=email": [
+    78.75,
+    80
+   ],
+   "label=home": [
+    26.25,
+    80
+   ],
+   "label=lists": [
+    44.44,
+    36
+   ],
+   "label=news": [
+    0.0,
+    9
+   ],
+   "label=transport": [
+    42.5,
+    40
+   ],
+   "label=weather": [
+    90.74,
+    54
+   ],
+   "source=massive-hi-IN": [
+    54.35,
+    379
+   ]
+  },
+  "shuffled_labels_seed2": {
+   "overall": [
+    54.35,
+    379
+   ],
+   "label=calendar": [
+    50.0,
+    80
+   ],
+   "label=email": [
+    78.75,
+    80
+   ],
+   "label=home": [
+    26.25,
+    80
+   ],
+   "label=lists": [
+    44.44,
+    36
+   ],
+   "label=news": [
+    0.0,
+    9
+   ],
+   "label=transport": [
+    42.5,
+    40
+   ],
+   "label=weather": [
+    90.74,
+    54
+   ],
+   "source=massive-hi-IN": [
+    54.35,
+    379
+   ]
+  },
+  "shuffled_labels_seed3": {
+   "overall": [
+    54.35,
+    379
+   ],
+   "label=calendar": [
+    50.0,
+    80
+   ],
+   "label=email": [
+    78.75,
+    80
+   ],
+   "label=home": [
+    26.25,
+    80
+   ],
+   "label=lists": [
+    44.44,
+    36
+   ],
+   "label=news": [
+    0.0,
+    9
+   ],
+   "label=transport": [
+    42.5,
+    40
+   ],
+   "label=weather": [
+    90.74,
+    54
+   ],
+   "source=massive-hi-IN": [
+    54.35,
+    379
+   ]
+  },
+  "shuffled_labels_seed4": {
+   "overall": [
+    54.35,
+    379
+   ],
+   "label=calendar": [
+    50.0,
+    80
+   ],
+   "label=email": [
+    78.75,
+    80
+   ],
+   "label=home": [
+    26.25,
+    80
+   ],
+   "label=lists": [
+    44.44,
+    36
+   ],
+   "label=news": [
+    0.0,
+    9
+   ],
+   "label=transport": [
+    42.5,
+    40
+   ],
+   "label=weather": [
+    90.74,
+    54
+   ],
+   "source=massive-hi-IN": [
+    54.35,
+    379
+   ]
+  },
+  "shuffled_labels_seed5": {
+   "overall": [
+    54.35,
+    379
+   ],
+   "label=calendar": [
+    50.0,
+    80
+   ],
+   "label=email": [
+    78.75,
+    80
+   ],
+   "label=home": [
+    26.25,
+    80
+   ],
+   "label=lists": [
+    44.44,
+    36
+   ],
+   "label=news": [
+    0.0,
+    9
+   ],
+   "label=transport": [
+    42.5,
+    40
+   ],
+   "label=weather": [
+    90.74,
+    54
+   ],
+   "source=massive-hi-IN": [
+    54.35,
+    379
+   ]
+  },
+  "shuffled_labels_seed6": {
+   "overall": [
+    54.35,
+    379
+   ],
+   "label=calendar": [
+    50.0,
+    80
+   ],
+   "label=email": [
+    78.75,
+    80
+   ],
+   "label=home": [
+    26.25,
+    80
+   ],
+   "label=lists": [
+    44.44,
+    36
+   ],
+   "label=news": [
+    0.0,
+    9
+   ],
+   "label=transport": [
+    42.5,
+    40
+   ],
+   "label=weather": [
+    90.74,
+    54
+   ],
+   "source=massive-hi-IN": [
+    54.35,
+    379
+   ]
+  }
+ },
+ "teach_real_vs_before": {
+  "fixed": 142,
+  "broken": 4,
+  "sign_test_p": 4.19e-37
+ },
+ "teach_real_vs_controls": {
+  "empty": {
+   "fixed": 142,
+   "broken": 4,
+   "sign_test_p": 4.19e-37
+  },
+  "shuffled1": {
+   "fixed": 142,
+   "broken": 4,
+   "sign_test_p": 4.19e-37
+  },
+  "shuffled2": {
+   "fixed": 142,
+   "broken": 4,
+   "sign_test_p": 4.19e-37
+  },
+  "shuffled3": {
+   "fixed": 142,
+   "broken": 4,
+   "sign_test_p": 4.19e-37
+  },
+  "shuffled4": {
+   "fixed": 142,
+   "broken": 4,
+   "sign_test_p": 4.19e-37
+  },
+  "shuffled5": {
+   "fixed": 142,
+   "broken": 4,
+   "sign_test_p": 4.19e-37
+  },
+  "shuffled6": {
+   "fixed": 142,
+   "broken": 4,
+   "sign_test_p": 4.19e-37
+  }
+ },
+ "experts_restored": {
+  "real": 35,
+  "empty": 0,
+  "shuffled1": 0,
+  "shuffled2": 0,
+  "shuffled3": 0,
+  "shuffled4": 0,
+  "shuffled5": 0,
+  "shuffled6": 0
+ },
+ "feedback_items": [
+  {
+   "id": "hi-IN-pool-0",
+   "label": "news",
+   "model_said": "weather"
+  },
+  {
+   "id": "hi-IN-pool-2",
+   "label": "calendar",
+   "model_said": "weather"
+  },
+  {
+   "id": "hi-IN-pool-3",
+   "label": "home",
+   "model_said": "weather"
+  },
+  {
+   "id": "hi-IN-pool-5",
+   "label": "home",
+   "model_said": "calendar"
+  },
+  {
+   "id": "hi-IN-pool-7",
+   "label": "email",
+   "model_said": "weather"
+  },
+  {
+   "id": "hi-IN-pool-9",
+   "label": "calendar",
+   "model_said": "weather"
+  },
+  {
+   "id": "hi-IN-pool-10",
+   "label": "calendar",
+   "model_said": "weather"
+  },
+  {
+   "id": "hi-IN-pool-13",
+   "label": "lists",
+   "model_said": "weather"
+  },
+  {
+   "id": "hi-IN-pool-14",
+   "label": "email",
+   "model_said": "weather"
+  },
+  {
+   "id": "hi-IN-pool-16",
+   "label": "weather",
+   "model_said": "home"
+  },
+  {
+   "id": "hi-IN-pool-18",
+   "label": "lists",
+   "model_said": "weather"
+  },
+  {
+   "id": "hi-IN-pool-20",
+   "label": "news",
+   "model_said": "weather"
+  },
+  {
+   "id": "hi-IN-pool-21",
+   "label": "calendar",
+   "model_said": "weather"
+  },
+  {
+   "id": "hi-IN-pool-22",
+   "label": "weather",
+   "model_said": "lists"
+  },
+  {
+   "id": "hi-IN-pool-23",
+   "label": "lists",
+   "model_said": "weather"
+  },
+  {
+   "id": "hi-IN-pool-24",
+   "label": "calendar",
+   "model_said": "weather"
+  },
+  {
+   "id": "hi-IN-pool-28",
+   "label": "calendar",
+   "model_said": "weather"
+  },
+  {
+   "id": "hi-IN-pool-30",
+   "label": "home",
+   "model_said": "weather"
+  },
+  {
+   "id": "hi-IN-pool-31",
+   "label": "transport",
+   "model_said": "lists"
+  },
+  {
+   "id": "hi-IN-pool-33",
+   "label": "email",
+   "model_said": "home"
+  },
+  {
+   "id": "hi-IN-pool-36",
+   "label": "news",
+   "model_said": "weather"
+  },
+  {
+   "id": "hi-IN-pool-43",
+   "label": "calendar",
+   "model_said": "email"
+  },
+  {
+   "id": "hi-IN-pool-44",
+   "label": "calendar",
+   "model_said": "weather"
+  },
+  {
+   "id": "hi-IN-pool-47",
+   "label": "transport",
+   "model_said": "weather"
+  }
+ ],
+ "feedback_logs": {
+  "real": {
+   "annotated": 24,
+   "mistakes_used": 24,
+   "groups": [
+    {
+     "experts": [
+      [
+       24,
+       22
+      ],
+      [
+       11,
+       20
+      ],
+      [
+       13,
+       29
+      ],
+      [
+       20,
+       13
+      ],
+      [
+       5,
+       21
+      ],
+      [
+       12,
+       22
+      ],
+      [
+       4,
+       7
+      ],
+      [
+       30,
+       107
+      ],
+      [
+       17,
+       93
+      ],
+      [
+       36,
+       22
+      ],
+      [
+       14,
+       86
+      ],
+      [
+       23,
+       20
+      ],
+      [
+       15,
+       75
+      ],
+      [
+       37,
+       29
+      ],
+      [
+       32,
+       13
+      ],
+      [
+       35,
+       20
+      ],
+      [
+       3,
+       99
+      ],
+      [
+       45,
+       69
+      ],
+      [
+       44,
+       101
+      ],
+      [
+       46,
+       110
+      ],
+      [
+       42,
+       78
+      ],
+      [
+       40,
+       48
+      ],
+      [
+       16,
+       113
+      ],
+      [
+       10,
+       7
+      ],
+      [
+       25,
+       59
+      ],
+      [
+       25,
+       29
+      ],
+      [
+       28,
+       32
+      ],
+      [
+       0,
+       9
+      ],
+      [
+       18,
+       77
+      ],
+      [
+       29,
+       93
+      ],
+      [
+       8,
+       13
+      ],
+      [
+       7,
+       61
+      ],
+      [
+       45,
+       88
+      ],
+      [
+       39,
+       0
+      ],
+      [
+       27,
+       75
+      ]
+     ],
+     "gain_per_item": 4.938,
+     "moved_share": 0.875,
+     "guard_changed": 1,
+     "kept": true
+    }
+   ],
+   "bytes_before": 6039657231,
+   "bytes_after": 6105631828,
+   "fetched_bytes": 357797672,
+   "fixed_of_mistakes": 18,
+   "restored": [
+    [
+     24,
+     22
+    ],
+    [
+     11,
+     20
+    ],
+    [
+     13,
+     29
+    ],
+    [
+     20,
+     13
+    ],
+    [
+     5,
+     21
+    ],
+    [
+     12,
+     22
+    ],
+    [
+     4,
+     7
+    ],
+    [
+     30,
+     107
+    ],
+    [
+     17,
+     93
+    ],
+    [
+     36,
+     22
+    ],
+    [
+     14,
+     86
+    ],
+    [
+     23,
+     20
+    ],
+    [
+     15,
+     75
+    ],
+    [
+     37,
+     29
+    ],
+    [
+     32,
+     13
+    ],
+    [
+     35,
+     20
+    ],
+    [
+     3,
+     99
+    ],
+    [
+     45,
+     69
+    ],
+    [
+     44,
+     101
+    ],
+    [
+     46,
+     110
+    ],
+    [
+     42,
+     78
+    ],
+    [
+     40,
+     48
+    ],
+    [
+     16,
+     113
+    ],
+    [
+     10,
+     7
+    ],
+    [
+     25,
+     59
+    ],
+    [
+     25,
+     29
+    ],
+    [
+     28,
+     32
+    ],
+    [
+     0,
+     9
+    ],
+    [
+     18,
+     77
+    ],
+    [
+     29,
+     93
+    ],
+    [
+     8,
+     13
+    ],
+    [
+     7,
+     61
+    ],
+    [
+     45,
+     88
+    ],
+    [
+     39,
+     0
+    ],
+    [
+     27,
+     75
+    ]
+   ]
+  },
+  "empty": {
+   "annotated": 0,
+   "mistakes_used": 0,
+   "groups": [],
+   "bytes_before": 6039657231,
+   "bytes_after": 6039657231,
+   "restored": []
+  },
+  "shuffled1": {
+   "annotated": 24,
+   "mistakes_used": 21,
+   "groups": [
+    {
+     "experts": [
+      [
+       24,
+       22
+      ],
+      [
+       11,
+       20
+      ],
+      [
+       13,
+       29
+      ],
+      [
+       20,
+       13
+      ],
+      [
+       5,
+       21
+      ],
+      [
+       12,
+       22
+      ],
+      [
+       4,
+       7
+      ],
+      [
+       30,
+       107
+      ],
+      [
+       17,
+       93
+      ],
+      [
+       36,
+       22
+      ],
+      [
+       14,
+       86
+      ],
+      [
+       23,
+       20
+      ],
+      [
+       15,
+       75
+      ],
+      [
+       37,
+       29
+      ],
+      [
+       32,
+       13
+      ],
+      [
+       35,
+       20
+      ],
+      [
+       3,
+       99
+      ],
+      [
+       45,
+       69
+      ],
+      [
+       46,
+       110
+      ],
+      [
+       44,
+       101
+      ],
+      [
+       42,
+       78
+      ],
+      [
+       40,
+       48
+      ],
+      [
+       16,
+       113
+      ],
+      [
+       25,
+       59
+      ],
+      [
+       10,
+       7
+      ],
+      [
+       25,
+       29
+      ],
+      [
+       28,
+       32
+      ],
+      [
+       0,
+       9
+      ],
+      [
+       18,
+       77
+      ],
+      [
+       29,
+       93
+      ],
+      [
+       8,
+       13
+      ],
+      [
+       7,
+       61
+      ],
+      [
+       45,
+       88
+      ],
+      [
+       39,
+       0
+      ],
+      [
+       27,
+       75
+      ]
+     ],
+     "gain_per_item": -0.47,
+     "moved_share": 0.238,
+     "guard_changed": 1,
+     "kept": false
+    },
+    {
+     "experts": [
+      [
+       6,
+       77
+      ],
+      [
+       37,
+       59
+      ],
+      [
+       16,
+       35
+      ],
+      [
+       33,
+       91
+      ],
+      [
+       21,
+       91
+      ],
+      [
+       3,
+       42
+      ],
+      [
+       44,
+       62
+      ],
+      [
+       16,
+       32
+      ],
+      [
+       10,
+       32
+      ],
+      [
+       42,
+       10
+      ],
+      [
+       46,
+       54
+      ],
+      [
+       20,
+       5
+      ],
+      [
+       45,
+       31
+      ],
+      [
+       32,
+       5
+      ],
+      [
+       12,
+       92
+      ],
+      [
+       35,
+       52
+      ],
+      [
+       3,
+       15
+      ],
+      [
+       34,
+       55
+      ],
+      [
+       14,
+       42
+      ],
+      [
+       13,
+       59
+      ],
+      [
+       39,
+       102
+      ],
+      [
+       37,
+       52
+      ],
+      [
+       38,
+       74
+      ],
+      [
+       41,
+       80
+      ],
+      [
+       10,
+       55
+      ],
+      [
+       16,
+       107
+      ],
+      [
+       28,
+       113
+      ],
+      [
+       21,
+       70
+      ],
+      [
+       25,
+       52
+      ],
+      [
+       18,
+       9
+      ],
+      [
+       12,
+       45
+      ],
+      [
+       6,
+       104
+      ],
+      [
+       9,
+       91
+      ],
+      [
+       38,
+       33
+      ],
+      [
+       40,
+       107
+      ]
+     ],
+     "gain_per_item": -1.048,
+     "moved_share": 0.238,
+     "guard_changed": 0,
+     "kept": false
+    }
+   ],
+   "bytes_before": 6039657231,
+   "bytes_after": 6039657231,
+   "fetched_bytes": 688099112,
+   "fixed_of_mistakes": 0,
+   "restored": []
+  },
+  "shuffled2": {
+   "annotated": 24,
+   "mistakes_used": 21,
+   "groups": [
+    {
+     "experts": [
+      [
+       24,
+       22
+      ],
+      [
+       11,
+       20
+      ],
+      [
+       13,
+       29
+      ],
+      [
+       20,
+       13
+      ],
+      [
+       5,
+       21
+      ],
+      [
+       4,
+       7
+      ],
+      [
+       12,
+       22
+      ],
+      [
+       30,
+       107
+      ],
+      [
+       17,
+       93
+      ],
+      [
+       36,
+       22
+      ],
+      [
+       14,
+       86
+      ],
+      [
+       23,
+       20
+      ],
+      [
+       15,
+       75
+      ],
+      [
+       37,
+       29
+      ],
+      [
+       32,
+       13
+      ],
+      [
+       3,
+       99
+      ],
+      [
+       35,
+       20
+      ],
+      [
+       45,
+       69
+      ],
+      [
+       46,
+       110
+      ],
+      [
+       44,
+       101
+      ],
+      [
+       42,
+       78
+      ],
+      [
+       40,
+       48
+      ],
+      [
+       16,
+       113
+      ],
+      [
+       10,
+       7
+      ],
+      [
+       25,
+       59
+      ],
+      [
+       28,
+       32
+      ],
+      [
+       0,
+       9
+      ],
+      [
+       25,
+       29
+      ],
+      [
+       18,
+       77
+      ],
+      [
+       7,
+       61
+      ],
+      [
+       8,
+       13
+      ],
+      [
+       45,
+       88
+      ],
+      [
+       16,
+       35
+      ],
+      [
+       39,
+       0
+      ],
+      [
+       29,
+       93
+      ]
+     ],
+     "gain_per_item": -0.943,
+     "moved_share": 0.238,
+     "guard_changed": 2,
+     "kept": false
+    },
+    {
+     "experts": [
+      [
+       6,
+       77
+      ],
+      [
+       37,
+       59
+      ],
+      [
+       33,
+       91
+      ],
+      [
+       27,
+       75
+      ],
+      [
+       21,
+       91
+      ],
+      [
+       44,
+       62
+      ],
+      [
+       3,
+       42
+      ],
+      [
+       16,
+       32
+      ],
+      [
+       10,
+       32
+      ],
+      [
+       46,
+       54
+      ],
+      [
+       42,
+       10
+      ],
+      [
+       35,
+       52
+      ],
+      [
+       12,
+       92
+      ],
+      [
+       45,
+       31
+      ],
+      [
+       20,
+       5
+      ],
+      [
+       32,
+       5
+      ],
+      [
+       34,
+       55
+      ],
+      [
+       14,
+       42
+      ],
+      [
+       3,
+       15
+      ],
+      [
+       37,
+       52
+      ],
+      [
+       38,
+       74
+      ],
+      [
+       28,
+       113
+      ],
+      [
+       10,
+       55
+      ],
+      [
+       39,
+       102
+      ],
+      [
+       25,
+       52
+      ],
+      [
+       13,
+       59
+      ],
+      [
+       6,
+       104
+      ],
+      [
+       41,
+       80
+      ],
+      [
+       21,
+       70
+      ],
+      [
+       16,
+       107
+      ],
+      [
+       12,
+       45
+      ],
+      [
+       9,
+       91
+      ],
+      [
+       38,
+       33
+      ],
+      [
+       19,
+       61
+      ],
+      [
+       18,
+       9
+      ]
+     ],
+     "gain_per_item": -0.598,
+     "moved_share": 0.095,
+     "guard_changed": 1,
+     "kept": false
+    }
+   ],
+   "bytes_before": 6039657231,
+   "bytes_after": 6039657231,
+   "fetched_bytes": 688099112,
+   "fixed_of_mistakes": 0,
+   "restored": []
+  },
+  "shuffled3": {
+   "annotated": 24,
+   "mistakes_used": 23,
+   "groups": [
+    {
+     "experts": [
+      [
+       24,
+       22
+      ],
+      [
+       11,
+       20
+      ],
+      [
+       13,
+       29
+      ],
+      [
+       20,
+       13
+      ],
+      [
+       5,
+       21
+      ],
+      [
+       12,
+       22
+      ],
+      [
+       4,
+       7
+      ],
+      [
+       30,
+       107
+      ],
+      [
+       17,
+       93
+      ],
+      [
+       36,
+       22
+      ],
+      [
+       14,
+       86
+      ],
+      [
+       23,
+       20
+      ],
+      [
+       15,
+       75
+      ],
+      [
+       37,
+       29
+      ],
+      [
+       32,
+       13
+      ],
+      [
+       35,
+       20
+      ],
+      [
+       3,
+       99
+      ],
+      [
+       45,
+       69
+      ],
+      [
+       44,
+       101
+      ],
+      [
+       46,
+       110
+      ],
+      [
+       42,
+       78
+      ],
+      [
+       40,
+       48
+      ],
+      [
+       16,
+       113
+      ],
+      [
+       10,
+       7
+      ],
+      [
+       25,
+       59
+      ],
+      [
+       25,
+       29
+      ],
+      [
+       28,
+       32
+      ],
+      [
+       0,
+       9
+      ],
+      [
+       18,
+       77
+      ],
+      [
+       8,
+       13
+      ],
+      [
+       29,
+       93
+      ],
+      [
+       7,
+       61
+      ],
+      [
+       45,
+       88
+      ],
+      [
+       39,
+       0
+      ],
+      [
+       27,
+       75
+      ]
+     ],
+     "gain_per_item": -0.429,
+     "moved_share": 0.304,
+     "guard_changed": 1,
+     "kept": false
+    },
+    {
+     "experts": [
+      [
+       16,
+       35
+      ],
+      [
+       6,
+       77
+      ],
+      [
+       37,
+       59
+      ],
+      [
+       33,
+       91
+      ],
+      [
+       21,
+       91
+      ],
+      [
+       3,
+       42
+      ],
+      [
+       44,
+       62
+      ],
+      [
+       16,
+       32
+      ],
+      [
+       10,
+       32
+      ],
+      [
+       42,
+       10
+      ],
+      [
+       46,
+       54
+      ],
+      [
+       20,
+       5
+      ],
+      [
+       35,
+       52
+      ],
+      [
+       45,
+       31
+      ],
+      [
+       12,
+       92
+      ],
+      [
+       32,
+       5
+      ],
+      [
+       3,
+       15
+      ],
+      [
+       34,
+       55
+      ],
+      [
+       14,
+       42
+      ],
+      [
+       39,
+       102
+      ],
+      [
+       37,
+       52
+      ],
+      [
+       13,
+       59
+      ],
+      [
+       38,
+       74
+      ],
+      [
+       10,
+       55
+      ],
+      [
+       41,
+       80
+      ],
+      [
+       21,
+       70
+      ],
+      [
+       25,
+       52
+      ],
+      [
+       16,
+       107
+      ],
+      [
+       28,
+       113
+      ],
+      [
+       12,
+       45
+      ],
+      [
+       6,
+       104
+      ],
+      [
+       18,
+       9
+      ],
+      [
+       38,
+       33
+      ],
+      [
+       9,
+       91
+      ],
+      [
+       19,
+       61
+      ]
+     ],
+     "gain_per_item": -1.06,
+     "moved_share": 0.261,
+     "guard_changed": 0,
+     "kept": false
+    }
+   ],
+   "bytes_before": 6039657231,
+   "bytes_after": 6039657231,
+   "fetched_bytes": 688099112,
+   "fixed_of_mistakes": 0,
+   "restored": []
+  },
+  "shuffled4": {
+   "annotated": 24,
+   "mistakes_used": 23,
+   "groups": [
+    {
+     "experts": [
+      [
+       24,
+       22
+      ],
+      [
+       11,
+       20
+      ],
+      [
+       13,
+       29
+      ],
+      [
+       20,
+       13
+      ],
+      [
+       12,
+       22
+      ],
+      [
+       4,
+       7
+      ],
+      [
+       5,
+       21
+      ],
+      [
+       30,
+       107
+      ],
+      [
+       17,
+       93
+      ],
+      [
+       36,
+       22
+      ],
+      [
+       14,
+       86
+      ],
+      [
+       23,
+       20
+      ],
+      [
+       15,
+       75
+      ],
+      [
+       37,
+       29
+      ],
+      [
+       32,
+       13
+      ],
+      [
+       35,
+       20
+      ],
+      [
+       3,
+       99
+      ],
+      [
+       45,
+       69
+      ],
+      [
+       44,
+       101
+      ],
+      [
+       46,
+       110
+      ],
+      [
+       40,
+       48
+      ],
+      [
+       42,
+       78
+      ],
+      [
+       16,
+       113
+      ],
+      [
+       10,
+       7
+      ],
+      [
+       25,
+       59
+      ],
+      [
+       25,
+       29
+      ],
+      [
+       28,
+       32
+      ],
+      [
+       0,
+       9
+      ],
+      [
+       18,
+       77
+      ],
+      [
+       8,
+       13
+      ],
+      [
+       7,
+       61
+      ],
+      [
+       29,
+       93
+      ],
+      [
+       39,
+       0
+      ],
+      [
+       27,
+       75
+      ],
+      [
+       45,
+       88
+      ]
+     ],
+     "gain_per_item": -2.125,
+     "moved_share": 0.174,
+     "guard_changed": 1,
+     "kept": false
+    },
+    {
+     "experts": [
+      [
+       6,
+       77
+      ],
+      [
+       16,
+       35
+      ],
+      [
+       37,
+       59
+      ],
+      [
+       33,
+       91
+      ],
+      [
+       21,
+       91
+      ],
+      [
+       3,
+       42
+      ],
+      [
+       44,
+       62
+      ],
+      [
+       16,
+       32
+      ],
+      [
+       10,
+       32
+      ],
+      [
+       42,
+       10
+      ],
+      [
+       46,
+       54
+      ],
+      [
+       45,
+       31
+      ],
+      [
+       20,
+       5
+      ],
+      [
+       35,
+       52
+      ],
+      [
+       12,
+       92
+      ],
+      [
+       32,
+       5
+      ],
+      [
+       3,
+       15
+      ],
+      [
+       39,
+       102
+      ],
+      [
+       34,
+       55
+      ],
+      [
+       14,
+       42
+      ],
+      [
+       13,
+       59
+      ],
+      [
+       21,
+       70
+      ],
+      [
+       37,
+       52
+      ],
+      [
+       10,
+       55
+      ],
+      [
+       38,
+       74
+      ],
+      [
+       28,
+       113
+      ],
+      [
+       41,
+       80
+      ],
+      [
+       16,
+       107
+      ],
+      [
+       25,
+       52
+      ],
+      [
+       6,
+       104
+      ],
+      [
+       12,
+       45
+      ],
+      [
+       18,
+       9
+      ],
+      [
+       9,
+       91
+      ],
+      [
+       38,
+       33
+      ],
+      [
+       19,
+       61
+      ]
+     ],
+     "gain_per_item": -1.386,
+     "moved_share": 0.174,
+     "guard_changed": 0,
+     "kept": false
+    }
+   ],
+   "bytes_before": 6039657231,
+   "bytes_after": 6039657231,
+   "fetched_bytes": 688099112,
+   "fixed_of_mistakes": 0,
+   "restored": []
+  },
+  "shuffled5": {
+   "annotated": 24,
+   "mistakes_used": 21,
+   "groups": [
+    {
+     "experts": [
+      [
+       24,
+       22
+      ],
+      [
+       11,
+       20
+      ],
+      [
+       13,
+       29
+      ],
+      [
+       20,
+       13
+      ],
+      [
+       12,
+       22
+      ],
+      [
+       5,
+       21
+      ],
+      [
+       4,
+       7
+      ],
+      [
+       30,
+       107
+      ],
+      [
+       17,
+       93
+      ],
+      [
+       36,
+       22
+      ],
+      [
+       14,
+       86
+      ],
+      [
+       23,
+       20
+      ],
+      [
+       15,
+       75
+      ],
+      [
+       37,
+       29
+      ],
+      [
+       32,
+       13
+      ],
+      [
+       35,
+       20
+      ],
+      [
+       3,
+       99
+      ],
+      [
+       45,
+       69
+      ],
+      [
+       46,
+       110
+      ],
+      [
+       42,
+       78
+      ],
+      [
+       44,
+       101
+      ],
+      [
+       16,
+       113
+      ],
+      [
+       40,
+       48
+      ],
+      [
+       10,
+       7
+      ],
+      [
+       25,
+       59
+      ],
+      [
+       18,
+       77
+      ],
+      [
+       28,
+       32
+      ],
+      [
+       0,
+       9
+      ],
+      [
+       25,
+       29
+      ],
+      [
+       7,
+       61
+      ],
+      [
+       8,
+       13
+      ],
+      [
+       29,
+       93
+      ],
+      [
+       45,
+       88
+      ],
+      [
+       39,
+       0
+      ],
+      [
+       27,
+       75
+      ]
+     ],
+     "gain_per_item": -1.795,
+     "moved_share": 0.19,
+     "guard_changed": 1,
+     "kept": false
+    },
+    {
+     "experts": [
+      [
+       6,
+       77
+      ],
+      [
+       16,
+       35
+      ],
+      [
+       37,
+       59
+      ],
+      [
+       33,
+       91
+      ],
+      [
+       21,
+       91
+      ],
+      [
+       3,
+       42
+      ],
+      [
+       44,
+       62
+      ],
+      [
+       10,
+       32
+      ],
+      [
+       16,
+       32
+      ],
+      [
+       46,
+       54
+      ],
+      [
+       42,
+       10
+      ],
+      [
+       20,
+       5
+      ],
+      [
+       12,
+       92
+      ],
+      [
+       45,
+       31
+      ],
+      [
+       32,
+       5
+      ],
+      [
+       35,
+       52
+      ],
+      [
+       3,
+       15
+      ],
+      [
+       34,
+       55
+      ],
+      [
+       14,
+       42
+      ],
+      [
+       28,
+       113
+      ],
+      [
+       38,
+       74
+      ],
+      [
+       37,
+       52
+      ],
+      [
+       13,
+       59
+      ],
+      [
+       39,
+       102
+      ],
+      [
+       21,
+       70
+      ],
+      [
+       6,
+       104
+      ],
+      [
+       10,
+       55
+      ],
+      [
+       25,
+       52
+      ],
+      [
+       16,
+       107
+      ],
+      [
+       9,
+       91
+      ],
+      [
+       12,
+       45
+      ],
+      [
+       41,
+       80
+      ],
+      [
+       19,
+       61
+      ],
+      [
+       18,
+       9
+      ],
+      [
+       38,
+       33
+      ]
+     ],
+     "gain_per_item": -1.89,
+     "moved_share": 0.143,
+     "guard_changed": 0,
+     "kept": false
+    }
+   ],
+   "bytes_before": 6039657231,
+   "bytes_after": 6039657231,
+   "fetched_bytes": 688099112,
+   "fixed_of_mistakes": 0,
+   "restored": []
+  },
+  "shuffled6": {
+   "annotated": 24,
+   "mistakes_used": 21,
+   "groups": [
+    {
+     "experts": [
+      [
+       24,
+       22
+      ],
+      [
+       11,
+       20
+      ],
+      [
+       13,
+       29
+      ],
+      [
+       20,
+       13
+      ],
+      [
+       12,
+       22
+      ],
+      [
+       5,
+       21
+      ],
+      [
+       4,
+       7
+      ],
+      [
+       30,
+       107
+      ],
+      [
+       17,
+       93
+      ],
+      [
+       36,
+       22
+      ],
+      [
+       14,
+       86
+      ],
+      [
+       23,
+       20
+      ],
+      [
+       15,
+       75
+      ],
+      [
+       37,
+       29
+      ],
+      [
+       32,
+       13
+      ],
+      [
+       35,
+       20
+      ],
+      [
+       3,
+       99
+      ],
+      [
+       45,
+       69
+      ],
+      [
+       46,
+       110
+      ],
+      [
+       42,
+       78
+      ],
+      [
+       44,
+       101
+      ],
+      [
+       16,
+       113
+      ],
+      [
+       40,
+       48
+      ],
+      [
+       10,
+       7
+      ],
+      [
+       25,
+       59
+      ],
+      [
+       18,
+       77
+      ],
+      [
+       28,
+       32
+      ],
+      [
+       0,
+       9
+      ],
+      [
+       25,
+       29
+      ],
+      [
+       7,
+       61
+      ],
+      [
+       8,
+       13
+      ],
+      [
+       29,
+       93
+      ],
+      [
+       45,
+       88
+      ],
+      [
+       39,
+       0
+      ],
+      [
+       27,
+       75
+      ]
+     ],
+     "gain_per_item": -0.167,
+     "moved_share": 0.333,
+     "guard_changed": 1,
+     "kept": false
+    },
+    {
+     "experts": [
+      [
+       6,
+       77
+      ],
+      [
+       16,
+       35
+      ],
+      [
+       37,
+       59
+      ],
+      [
+       33,
+       91
+      ],
+      [
+       21,
+       91
+      ],
+      [
+       3,
+       42
+      ],
+      [
+       44,
+       62
+      ],
+      [
+       10,
+       32
+      ],
+      [
+       16,
+       32
+      ],
+      [
+       46,
+       54
+      ],
+      [
+       42,
+       10
+      ],
+      [
+       20,
+       5
+      ],
+      [
+       12,
+       92
+      ],
+      [
+       45,
+       31
+      ],
+      [
+       32,
+       5
+      ],
+      [
+       35,
+       52
+      ],
+      [
+       3,
+       15
+      ],
+      [
+       34,
+       55
+      ],
+      [
+       14,
+       42
+      ],
+      [
+       28,
+       113
+      ],
+      [
+       38,
+       74
+      ],
+      [
+       37,
+       52
+      ],
+      [
+       13,
+       59
+      ],
+      [
+       39,
+       102
+      ],
+      [
+       21,
+       70
+      ],
+      [
+       6,
+       104
+      ],
+      [
+       10,
+       55
+      ],
+      [
+       25,
+       52
+      ],
+      [
+       16,
+       107
+      ],
+      [
+       9,
+       91
+      ],
+      [
+       12,
+       45
+      ],
+      [
+       41,
+       80
+      ],
+      [
+       19,
+       61
+      ],
+      [
+       18,
+       9
+      ],
+      [
+       38,
+       33
+      ]
+     ],
+     "gain_per_item": -0.446,
+     "moved_share": 0.19,
+     "guard_changed": 0,
+     "kept": false
+    }
+   ],
+   "bytes_before": 6039657231,
+   "bytes_after": 6039657231,
+   "fetched_bytes": 688099112,
+   "fixed_of_mistakes": 0,
+   "restored": []
+  }
+ },
+ "exam_items": 2910,
+ "exam_answers_changed_by_real_feedback": 10,
+ "exam_accuracy": {
+  "small_before_feedback": {
+   "overall": [
+    96.15,
+    2910
+   ],
+   "label=calendar": [
+    90.23,
+    522
+   ],
+   "label=email": [
+    96.67,
+    330
+   ],
+   "label=home": [
+    98.9,
+    362
+   ],
+   "label=lists": [
+    95.41,
+    458
+   ],
+   "label=news": [
+    95.45,
+    330
+   ],
+   "label=transport": [
+    100.0,
+    554
+   ],
+   "label=weather": [
+    97.18,
+    354
+   ],
+   "source=clinc150": [
+    94.5,
+    600
+   ],
+   "source=massive": [
+    96.58,
+    2310
+   ]
+  },
+  "small_after_real_feedback": {
+   "overall": [
+    96.19,
+    2910
+   ],
+   "label=calendar": [
+    90.23,
+    522
+   ],
+   "label=email": [
+    96.97,
+    330
+   ],
+   "label=home": [
+    99.17,
+    362
+   ],
+   "label=lists": [
+    95.41,
+    458
+   ],
+   "label=news": [
+    95.15,
+    330
+   ],
+   "label=transport": [
+    100.0,
+    554
+   ],
+   "label=weather": [
+    97.18,
+    354
+   ],
+   "source=clinc150": [
+    94.67,
+    600
+   ],
+   "source=massive": [
+    96.58,
+    2310
+   ]
+  },
+  "base": {
+   "overall": [
+    96.05,
+    2910
+   ],
+   "label=calendar": [
+    90.8,
+    522
+   ],
+   "label=email": [
+    96.97,
+    330
+   ],
+   "label=home": [
+    98.9,
+    362
+   ],
+   "label=lists": [
+    94.1,
+    458
+   ],
+   "label=news": [
+    94.55,
+    330
+   ],
+   "label=transport": [
+    99.82,
+    554
+   ],
+   "label=weather": [
+    98.02,
+    354
+   ],
+   "source=clinc150": [
+    95.0,
+    600
+   ],
+   "source=massive": [
+    96.32,
+    2310
+   ]
+  }
+ },
+ "answer_command_check": {
+  "returncode": 0,
+  "out": [
+   "calendar",
+   "home",
+   "calendar",
+   "home",
+   "news",
+   "home",
+   "home",
+   "weather",
+   "home",
+   "lists",
+   "transport",
+   "email",
+   "weather",
+   "lists",
+   "weather",
+   "lists",
+   "weather",
+   "home",
+   "weather",
+   "weather"
+  ],
+  "same_as_in_process": false
+ },
+ "feedback_command_secs": 169,
+ "growth_sha256": "3a579065064928d33001dcd2ae9187180125da7f6607dc607201764bfd3323e5",
+ "exam_faithfulness_before_feedback": {
+  "overall": {
+   "kept": 2775,
+   "base_correct": 2795,
+   "pct": 99.28
+  },
+  "label=calendar": {
+   "kept": 468,
+   "base_correct": 474,
+   "pct": 98.73
+  },
+  "label=email": {
+   "kept": 317,
+   "base_correct": 320,
+   "pct": 99.06
+  },
+  "label=home": {
+   "kept": 357,
+   "base_correct": 358,
+   "pct": 99.72
+  },
+  "label=lists": {
+   "kept": 428,
+   "base_correct": 431,
+   "pct": 99.3
+  },
+  "label=news": {
+   "kept": 310,
+   "base_correct": 312,
+   "pct": 99.36
+  },
+  "label=transport": {
+   "kept": 553,
+   "base_correct": 553,
+   "pct": 100.0
+  },
+  "label=weather": {
+   "kept": 342,
+   "base_correct": 347,
+   "pct": 98.56
+  },
+  "source=clinc150": {
+   "kept": 565,
+   "base_correct": 570,
+   "pct": 99.12
+  },
+  "source=massive": {
+   "kept": 2210,
+   "base_correct": 2225,
+   "pct": 99.33
+  }
+ },
+ "exam_faithfulness_after_real_feedback": {
+  "overall": {
+   "kept": 2776,
+   "base_correct": 2795,
+   "pct": 99.32
+  },
+  "label=calendar": {
+   "kept": 468,
+   "base_correct": 474,
+   "pct": 98.73
+  },
+  "label=email": {
+   "kept": 318,
+   "base_correct": 320,
+   "pct": 99.38
+  },
+  "label=home": {
+   "kept": 358,
+   "base_correct": 358,
+   "pct": 100.0
+  },
+  "label=lists": {
+   "kept": 428,
+   "base_correct": 431,
+   "pct": 99.3
+  },
+  "label=news": {
+   "kept": 309,
+   "base_correct": 312,
+   "pct": 99.04
+  },
+  "label=transport": {
+   "kept": 553,
+   "base_correct": 553,
+   "pct": 100.0
+  },
+  "label=weather": {
+   "kept": 342,
+   "base_correct": 347,
+   "pct": 98.56
+  },
+  "source=clinc150": {
+   "kept": 566,
+   "base_correct": 570,
+   "pct": 99.3
+  },
+  "source=massive": {
+   "kept": 2210,
+   "base_correct": 2225,
+   "pct": 99.33
+  }
+ }
+}

@@ -170,3 +170,27 @@ After real feedback the hi-IN artifact is 6,105,631,828 bytes (9.9987%). A fresh
 - The first submission's shuffled control used one fixed shuffle (seed 0), the same one used while tuning. This run uses six shuffles. Seeds 1–3 were pre-registered in amendment 4 and no choice was ever made on them, but the rehearsal below already applied them to the same 24 `pool` items (all three were rejected). Seeds 4–6 were added after that and have never been run.
 - When the exam was built, its sentences were read once to exclude them from the calibration text.
 - The "locked first" order rests on this repo's git history and the Hugging Face upload times.
+
+## Result of the final run (12 Nov, `final2/raw.json`, `results2.json`)
+
+The run started at 16:38 UTC and finished at 17:21 UTC on an H100 (the script allows an A100-80GB or an H100). It ran once, with the code and artifact frozen in commit `75b380c`.
+
+| Measure on the locked hi-IN file (379 items) | Result |
+|---|---|
+| Base | 94.99% |
+| Small, no feedback | 54.35% |
+| Small after real feedback (24 mistakes, shipped `feedback.py`, fresh load) | **90.77%** (142 fixed, 4 broken; 35 experts restored) |
+| Empty feedback | 54.35% |
+| Shuffled labels, seeds 1–6 | 54.35% each; no group passed the label test, nothing restored |
+
+| Other pass conditions | Result |
+|---|---|
+| Exam faithfulness in this run, before → after real feedback | 99.28% → 99.32%; 10 of 2,910 answers changed; lowest kind after feedback 98.56% (weather) |
+| Size before → after feedback | 9.8907% → 9.9987% (6,105,631,828 bytes) |
+
+**Notes.**
+
+- The run finished 16 minutes after the challenge deadline (17:05 UTC). Amendment 5 and the dev results were public before it.
+- The 7 Nov run measured 99.36% exam faithfulness on an A100; this run measures 99.28% before feedback on an H100. Base and small answers both shift slightly with hardware batch numerics.
+- `answer.py`, run as a separate process on the first 20 locked items, matched the full-set run on 19 of 20. The item that differs has a low margin and sat in a different batch.
+- After amendment 5 was committed, one more self-contained idea was tried on pool / dev only (feedback prunes single neurons, `lab/neuron_lab.py`). It did not teach: on Hindi it only memorised the annotated items (unseen dev 55.2% → 51.7%), and on new skill names it either changed English answers or learned nothing label-specific. Nothing in the frozen code or constants was changed.
